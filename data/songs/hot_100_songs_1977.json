@@ -1,0 +1,2517 @@
+[
+  {
+    "rank": 1,
+    "id": "tonights-the-night-gonna-be-alright",
+    "title": "Tonight's the Night (Gonna Be Alright)",
+    "artist": "Rod Stewart",
+    "artistId": "rod-stewart",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 1,
+    "trivia": [
+      "Tonight's the Night (Gonna Be Alright)",
+      "by Rod Stewart was the number one song of 1977."
+    ],
+    "youtube_search": "Rod Stewart Tonight's the Night Gonna Be Alright",
+    "tags": [
+      "number-one",
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "i-just-want-to-be-your-everything",
+    "title": "I Just Want to Be Your Everything",
+    "artist": "Andy Gibb",
+    "artistId": "andy-gibb",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "disco-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 2,
+    "trivia": [
+      "Andy Gibb's \"I Just Want to Be Your Everything\" was the second highest-ranked song of 1977."
+    ],
+    "youtube_search": "Andy Gibb I Just Want to Be Your Everything",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "best-of-my-love",
+    "title": "Best of My Love",
+    "artist": "The Emotions",
+    "artistId": "the-emotions",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "soul-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 3,
+    "trivia": [
+      "The Emotions reached the number three spot on the Billboard Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "The Emotions Best of My Love",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "evergreen-love-theme-from-a-star-is-born",
+    "title": "Evergreen (Love Theme from A Star Is Born)",
+    "artist": "Barbra Streisand",
+    "artistId": "barbra-streisand",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "movie-theme",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 4,
+    "trivia": [
+      "Barbra Streisand's \"Evergreen (Love Theme from A Star Is Born)\" was one of two songs she had on the 1977 year-end chart."
+    ],
+    "youtube_search": "Barbra Streisand Evergreen Love Theme from A Star Is Born",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "angel-in-your-arms",
+    "title": "Angel in Your Arms",
+    "artist": "Hot",
+    "artistId": "hot",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 5,
+    "trivia": [
+      "The song \"Angel in Your Arms\" by the group Hot was ranked number five in 1977."
+    ],
+    "youtube_search": "Hot Angel in Your Arms",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "i-like-dreamin",
+    "title": "I Like Dreamin'",
+    "artist": "Kenny Nolan",
+    "artistId": "kenny-nolan",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 6,
+    "trivia": [
+      "Kenny Nolan appears twice on the Year-End Hot 100 of 1977, including at the number six spot."
+    ],
+    "youtube_search": "Kenny Nolan I Like Dreamin",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "dont-leave-me-this-way",
+    "title": "Don't Leave Me This Way",
+    "artist": "Thelma Houston",
+    "artistId": "thelma-houston",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "classic-disco",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 7,
+    "trivia": [
+      "Thelma Houston's \"Don't Leave Me This Way\" was the seventh most popular song of 1977."
+    ],
+    "youtube_search": "Thelma Houston Don't Leave Me This Way",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "your-love-has-lifted-me-higher-and-higher",
+    "title": "(Your Love Has Lifted Me) Higher and Higher",
+    "artist": "Rita Coolidge",
+    "artistId": "rita-coolidge",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "blue-eyed-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 8,
+    "trivia": [
+      "Rita Coolidge reached the top ten in 1977 with \"(Your Love Has Lifted Me) Higher and Higher\"."
+    ],
+    "youtube_search": "Rita Coolidge Your Love Has Lifted Me Higher and Higher",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "undercover-angel",
+    "title": "Undercover Angel",
+    "artist": "Alan O'Day",
+    "artistId": "alan-oday",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 9,
+    "trivia": [
+      "Alan O'Day's \"Undercover Angel\" was the number nine song on the Billboard Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Alan O'Day Undercover Angel",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 10,
+    "id": "torn-between-two-lovers",
+    "title": "Torn Between Two Lovers",
+    "artist": "Mary MacGregor",
+    "artistId": "mary-macgregor",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 10,
+    "trivia": [
+      "Mary MacGregor's \"Torn Between Two Lovers\" rounded out the top ten songs of 1977."
+    ],
+    "youtube_search": "Mary MacGregor Torn Between Two Lovers",
+    "tags": [
+      "top-ten",
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "im-your-boogie-man",
+    "title": "I'm Your Boogie Man",
+    "artist": "KC and the Sunshine Band",
+    "artistId": "kc-and-the-sunshine-band",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 11,
+    "trivia": [
+      "KC and the Sunshine Band had two songs in the top 100 for 1977, including \"I'm Your Boogie Man\"."
+    ],
+    "youtube_search": "KC and the Sunshine Band I'm Your Boogie Man",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "dancing-queen",
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "artistId": "abba",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 12,
+    "trivia": [
+      "The Swedish group ABBA had two entries in the year-end list, with \"Dancing Queen\" at number 12."
+    ],
+    "youtube_search": "ABBA Dancing Queen",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "you-make-me-feel-like-dancing",
+    "title": "You Make Me Feel Like Dancing",
+    "artist": "Leo Sayer",
+    "artistId": "leo-sayer",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 13,
+    "trivia": [
+      "Three songs by Leo Sayer appear on the Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Leo Sayer You Make Me Feel Like Dancing",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "margaritaville",
+    "title": "Margaritaville",
+    "artist": "Jimmy Buffett",
+    "artistId": "jimmy-buffett",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "island-pop",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 14,
+    "trivia": [
+      "Jimmy Buffett's signature hit \"Margaritaville\" was ranked number 14 for the year."
+    ],
+    "youtube_search": "Jimmy Buffett Margaritaville",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 15,
+    "id": "telephone-line",
+    "title": "Telephone Line",
+    "artist": "Electric Light Orchestra",
+    "artistId": "electric-light-orchestra",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "symphonic-rock",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 15,
+    "trivia": [
+      "Electric Light Orchestra's \"Telephone Line\" was one of two songs they placed on the 1977 list."
+    ],
+    "youtube_search": "Electric Light Orchestra Telephone Line",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "whatcha-gonna-do",
+    "title": "Whatcha Gonna Do?",
+    "artist": "Pablo Cruise",
+    "artistId": "pablo-cruise",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 16,
+    "trivia": [
+      "Pablo Cruise reached number 16 on the 1977 year-end chart with \"Whatcha Gonna Do?\"."
+    ],
+    "youtube_search": "Pablo Cruise Whatcha Gonna Do",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 17,
+    "id": "do-you-wanna-make-love",
+    "title": "Do You Wanna Make Love",
+    "artist": "Peter McCann",
+    "artistId": "peter-mccann",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 17,
+    "trivia": [
+      "Peter McCann's \"Do You Wanna Make Love\" was the 17th highest-ranked song of the year."
+    ],
+    "youtube_search": "Peter McCann Do You Wanna Make Love",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "sir-duke",
+    "title": "Sir Duke",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 18,
+    "trivia": [
+      "Stevie Wonder had two songs in the 1977 year-end top 100, including the tribute song \"Sir Duke\"."
+    ],
+    "youtube_search": "Stevie Wonder Sir Duke",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 19,
+    "id": "hotel-california",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "artistId": "eagles",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 19,
+    "trivia": [
+      "The Eagles' iconic track \"Hotel California\" was the 19th ranked song of 1977."
+    ],
+    "youtube_search": "Eagles Hotel California",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 20,
+    "id": "got-to-give-it-up",
+    "title": "Got to Give It Up",
+    "artist": "Marvin Gaye",
+    "artistId": "marvin-gaye",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "disco-funk",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 20,
+    "trivia": [
+      "Marvin Gaye's disco-infused \"Got to Give It Up\" was the number 20 song of the year."
+    ],
+    "youtube_search": "Marvin Gaye Got to Give It Up",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 21,
+    "id": "gonna-fly-now",
+    "title": "Gonna Fly Now",
+    "artist": "Bill Conti",
+    "artistId": "bill-conti",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "movie-theme",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 21,
+    "trivia": [
+      "Bill Conti's \"Rocky\" theme, \"Gonna Fly Now\", was ranked at number 21 in 1977."
+    ],
+    "youtube_search": "Bill Conti Gonna Fly Now",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 22,
+    "id": "southern-nights",
+    "title": "Southern Nights",
+    "artist": "Glen Campbell",
+    "artistId": "glen-campbell",
+    "year": 1977,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 22,
+    "trivia": [
+      "Glen Campbell's \"Southern Nights\" held the 22nd position in the 1977 year-end rankings."
+    ],
+    "youtube_search": "Glen Campbell Southern Nights",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 23,
+    "id": "rich-girl",
+    "title": "Rich Girl",
+    "artist": "Hall & Oates",
+    "artistId": "hall-oates",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "blue-eyed-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 23,
+    "trivia": [
+      "Hall & Oates reached number 23 for the year 1977 with their hit \"Rich Girl\"."
+    ],
+    "youtube_search": "Hall & Oates Rich Girl",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 24,
+    "id": "when-i-need-you",
+    "title": "When I Need You",
+    "artist": "Leo Sayer",
+    "artistId": "leo-sayer",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 24,
+    "trivia": [
+      "Three songs by Leo Sayer, including \"When I Need You\", appear on the 1977 Year-End Hot 100."
+    ],
+    "youtube_search": "Leo Sayer When I Need You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 25,
+    "id": "hot-line",
+    "title": "Hot Line",
+    "artist": "The Sylvers",
+    "artistId": "the-sylvers",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "disco-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 25,
+    "trivia": [
+      "The Sylvers had two songs on the list, with \"Hot Line\" appearing at number 25."
+    ],
+    "youtube_search": "The Sylvers Hot Line",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 26,
+    "id": "car-wash",
+    "title": "Car Wash",
+    "artist": "Rose Royce",
+    "artistId": "rose-royce",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 26,
+    "trivia": [
+      "Rose Royce's \"Car Wash\" was one of two songs the group placed in the 1977 year-end chart."
+    ],
+    "youtube_search": "Rose Royce Car Wash",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 27,
+    "id": "you-dont-have-to-be-a-star-to-be-in-my-show",
+    "title": "You Don't Have to Be a Star (To Be in My Show)",
+    "artist": "Marilyn McCoo & Billy Davis Jr.",
+    "artistId": "marilyn-mccoo-billy-davis-jr",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 27,
+    "trivia": [
+      "The duo Marilyn McCoo & Billy Davis Jr. were ranked 27th for the year 1977."
+    ],
+    "youtube_search": "Marilyn McCoo Billy Davis Jr. You Don't Have to Be a Star To Be in My Show",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 28,
+    "id": "fly-like-an-eagle",
+    "title": "Fly Like an Eagle",
+    "artist": "Steve Miller Band",
+    "artistId": "steve-miller-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 28,
+    "trivia": [
+      "Steve Miller Band had two entries in the 1977 year-end top 100, including \"Fly Like an Eagle\"."
+    ],
+    "youtube_search": "Steve Miller Band Fly Like an Eagle",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 29,
+    "id": "dont-give-up-on-us",
+    "title": "Don't Give Up on Us",
+    "artist": "David Soul",
+    "artistId": "david-soul",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 29,
+    "trivia": [
+      "David Soul's \"Don't Give Up on Us\" was the number 29 song of 1977."
+    ],
+    "youtube_search": "David Soul Don't Give Up on Us",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 30,
+    "id": "on-and-on",
+    "title": "On and On",
+    "artist": "Stephen Bishop",
+    "artistId": "stephen-bishop",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 30,
+    "trivia": [
+      "Stephen Bishop's \"On and On\" reached the number 30 spot in the year-end Billboard chart."
+    ],
+    "youtube_search": "Stephen Bishop On and On",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 31,
+    "id": "feels-like-the-first-time",
+    "title": "Feels Like the First Time",
+    "artist": "Foreigner",
+    "artistId": "foreigner",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock-pop",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 31,
+    "trivia": [
+      "The rock band Foreigner placed two songs on the list, with \"Feels Like the First Time\" at 31."
+    ],
+    "youtube_search": "Foreigner Feels Like the First Time",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 32,
+    "id": "couldnt-get-it-right",
+    "title": "Couldn't Get It Right",
+    "artist": "Climax Blues Band",
+    "artistId": "climax-blues-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 32,
+    "trivia": [
+      "Climax Blues Band's \"Couldn't Get It Right\" was ranked 32nd on the year-end chart."
+    ],
+    "youtube_search": "Climax Blues Band Couldn't Get It Right",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 33,
+    "id": "easy",
+    "title": "Easy",
+    "artist": "Commodores",
+    "artistId": "commodores",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "soft-soul",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 33,
+    "trivia": [
+      "The Commodores' \"Easy\" was the 33rd most successful song of 1977."
+    ],
+    "youtube_search": "Commodores Easy",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 34,
+    "id": "right-time-of-the-night",
+    "title": "Right Time of the Night",
+    "artist": "Jennifer Warnes",
+    "artistId": "jennifer-warnes",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 34,
+    "trivia": [
+      "Jennifer Warnes reached the top 40 in 1977 with \"Right Time of the Night\"."
+    ],
+    "youtube_search": "Jennifer Warnes Right Time of the Night",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 35,
+    "id": "ive-got-love-on-my-mind",
+    "title": "I've Got Love on My Mind",
+    "artist": "Natalie Cole",
+    "artistId": "natalie-cole",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 35,
+    "trivia": [
+      "Natalie Cole's \"I've Got Love on My Mind\" was the 35th ranked song for the year."
+    ],
+    "youtube_search": "Natalie Cole I've Got Love on My Mind",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 36,
+    "id": "blinded-by-the-light",
+    "title": "Blinded by the Light",
+    "artist": "Manfred Mann's Earth Band",
+    "artistId": "manfred-manns-earth-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "progressive-pop",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 36,
+    "trivia": [
+      "Manfred Mann's Earth Band's cover of \"Blinded by the Light\" was ranked at number 36."
+    ],
+    "youtube_search": "Manfred Mann's Earth Band Blinded by the Light",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 37,
+    "id": "looks-like-we-made-it",
+    "title": "Looks Like we Made It",
+    "artist": "Barry Manilow",
+    "artistId": "barry-manilow",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 37,
+    "trivia": [
+      "Barry Manilow had two songs on the Year-End Hot 100, including \"Looks Like we Made It\" at number 37."
+    ],
+    "youtube_search": "Barry Manilow Looks Like we Made It",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 38,
+    "id": "so-in-to-you",
+    "title": "So in to You",
+    "artist": "Atlanta Rhythm Section",
+    "artistId": "atlanta-rhythm-section",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "southern-rock",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 38,
+    "trivia": [
+      "Atlanta Rhythm Section's \"So in to You\" reached number 38 on the 1977 year-end list."
+    ],
+    "youtube_search": "Atlanta Rhythm Section So in to You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 39,
+    "id": "dreams",
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "artistId": "fleetwood-mac",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 39,
+    "trivia": [
+      "Three songs by Fleetwood Mac appear on the Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Fleetwood Mac Dreams",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 40,
+    "id": "enjoy-yourself",
+    "title": "Enjoy Yourself",
+    "artist": "The Jacksons",
+    "artistId": "the-jacksons",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "disco-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 40,
+    "trivia": [
+      "The Jacksons' \"Enjoy Yourself\" was the number 40 song of 1977."
+    ],
+    "youtube_search": "The Jacksons Enjoy Yourself",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 41,
+    "id": "dazz",
+    "title": "Dazz",
+    "artist": "Brick",
+    "artistId": "brick",
+    "year": 1977,
+    "genre": "funk",
+    "subgenre": "disco-funk",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 41,
+    "trivia": [
+      "Brick's fusion of disco and jazz, \"Dazz\", was ranked 41st for the year."
+    ],
+    "youtube_search": "Brick Dazz",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 42,
+    "id": "im-in-you",
+    "title": "I'm in You",
+    "artist": "Peter Frampton",
+    "artistId": "peter-frampton",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 42,
+    "trivia": [
+      "Peter Frampton's \"I'm in You\" was the 42nd ranked song on the Billboard list."
+    ],
+    "youtube_search": "Peter Frampton I'm in You",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 43,
+    "id": "lucille",
+    "title": "Lucille",
+    "artist": "Kenny Rogers",
+    "artistId": "kenny-rogers",
+    "year": 1977,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 43,
+    "trivia": [
+      "Kenny Rogers' crossover hit \"Lucille\" was the number 43 song of 1977."
+    ],
+    "youtube_search": "Kenny Rogers Lucille",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 44,
+    "id": "the-things-we-do-for-love",
+    "title": "The Things We Do for Love",
+    "artist": "10cc",
+    "artistId": "10cc",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "art-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 44,
+    "trivia": [
+      "The band 10cc reached number 44 in the 1977 year-end rankings with \"The Things We Do for Love\"."
+    ],
+    "youtube_search": "10cc The Things We Do for Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 45,
+    "id": "da-doo-ron-ron",
+    "title": "Da Doo Ron Ron",
+    "artist": "Shaun Cassidy",
+    "artistId": "shaun-cassidy",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 45,
+    "trivia": [
+      "Shaun Cassidy had two songs in the top 100 for 1977, with \"Da Doo Ron Ron\" at number 45."
+    ],
+    "youtube_search": "Shaun Cassidy Da Doo Ron Ron",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 46,
+    "id": "handy-man",
+    "title": "Handy Man",
+    "artist": "James Taylor",
+    "artistId": "james-taylor",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 46,
+    "trivia": [
+      "James Taylor's version of \"Handy Man\" was ranked 46th in 1977."
+    ],
+    "youtube_search": "James Taylor Handy Man",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 47,
+    "id": "just-a-song-before-i-go",
+    "title": "Just a Song Before I Go",
+    "artist": "Crosby, Stills & Nash",
+    "artistId": "crosby-stills-nash",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 47,
+    "trivia": [
+      "Crosby, Stills & Nash reached number 47 for the year with \"Just a Song Before I Go\"."
+    ],
+    "youtube_search": "Crosby Stills Nash Just a Song Before I Go",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 48,
+    "id": "you-and-me",
+    "title": "You and Me",
+    "artist": "Alice Cooper",
+    "artistId": "alice-cooper",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 48,
+    "trivia": [
+      "Alice Cooper appears twice on the 1977 year-end list, including with the ballad \"You and Me\"."
+    ],
+    "youtube_search": "Alice Cooper You and Me",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 49,
+    "id": "swayin-to-the-music-slow-dancing",
+    "title": "Swayin' to the Music (Slow Dancing)",
+    "artist": "Johnny Rivers",
+    "artistId": "johnny-rivers",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 49,
+    "trivia": [
+      "Johnny Rivers reached the middle of the top 100 with \"Swayin' to the Music (Slow Dancing)\"."
+    ],
+    "youtube_search": "Johnny Rivers Swayin' to the Music Slow Dancing",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 50,
+    "id": "lonely-boy",
+    "title": "Lonely Boy",
+    "artist": "Andrew Gold",
+    "artistId": "andrew-gold",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 50,
+    "trivia": [
+      "Andrew Gold's \"Lonely Boy\" was the number 50 song on the Billboard Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Andrew Gold Lonely Boy",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 51,
+    "id": "i-wish",
+    "title": "I Wish",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1977,
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 51,
+    "trivia": [
+      "Stevie Wonder's \"I Wish\" was one of two hits he placed on the 1977 year-end chart."
+    ],
+    "youtube_search": "Stevie Wonder I Wish",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 52,
+    "id": "dont-stop",
+    "title": "Don't Stop",
+    "artist": "Fleetwood Mac",
+    "artistId": "fleetwood-mac",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 52,
+    "trivia": [
+      "Three songs by Fleetwood Mac appear on the Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Fleetwood Mac Don't Stop",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 53,
+    "id": "barracuda",
+    "title": "Barracuda",
+    "artist": "Heart",
+    "artistId": "heart",
+    "year": 1977,
+    "genre": "hard-rock",
+    "subgenre": "classic-rock",
+    "mood": [
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 53,
+    "trivia": [
+      "Heart's hard rock anthem \"Barracuda\" was the number 53 song of 1977."
+    ],
+    "youtube_search": "Heart Barracuda",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 54,
+    "id": "strawberry-letter-23",
+    "title": "Strawberry Letter 23",
+    "artist": "The Brothers Johnson",
+    "artistId": "the-brothers-johnson",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 54,
+    "trivia": [
+      "The Brothers Johnson reached number 54 with their version of \"Strawberry Letter 23\"."
+    ],
+    "youtube_search": "The Brothers Johnson Strawberry Letter 23",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 55,
+    "id": "night-moves",
+    "title": "Night Moves",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "artistId": "bob-seger-the-silver-bullet-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "heartland-rock",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 55,
+    "trivia": [
+      "Bob Seger & The Silver Bullet Band's \"Night Moves\" was ranked 55th in the year-end list."
+    ],
+    "youtube_search": "Bob Seger The Silver Bullet Band Night Moves",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 56,
+    "id": "youre-my-world",
+    "title": "You're My World",
+    "artist": "Helen Reddy",
+    "artistId": "helen-reddy",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 56,
+    "trivia": [
+      "Helen Reddy's \"You're My World\" was the 56th most popular song of 1977."
+    ],
+    "youtube_search": "Helen Reddy You're My World",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 57,
+    "id": "heard-it-in-a-love-song",
+    "title": "Heard It in a Love Song",
+    "artist": "The Marshall Tucker Band",
+    "artistId": "the-marshall-tucker-band",
+    "year": 1977,
+    "genre": "country",
+    "subgenre": "southern-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 57,
+    "trivia": [
+      "The Marshall Tucker Band reached number 57 with \"Heard It in a Love Song\"."
+    ],
+    "youtube_search": "The Marshall Tucker Band Heard It in a Love Song",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 58,
+    "id": "carry-on-wayward-son",
+    "title": "Carry On Wayward Son",
+    "artist": "Kansas",
+    "artistId": "kansas",
+    "year": 1977,
+    "genre": "prog-rock",
+    "subgenre": "classic-rock",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 58,
+    "trivia": [
+      "Kansas ranked 58th for the year with the progressive rock track \"Carry On Wayward Son\"."
+    ],
+    "youtube_search": "Kansas Carry On Wayward Son",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 59,
+    "id": "new-kid-in-town",
+    "title": "New Kid in Town",
+    "artist": "Eagles",
+    "artistId": "eagles",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "country-rock",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 59,
+    "trivia": [
+      "The Eagles had two songs in the top 100 for 1977, with \"New Kid in Town\" at 59."
+    ],
+    "youtube_search": "Eagles New Kid in Town",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 60,
+    "id": "my-heart-belongs-to-me",
+    "title": "My Heart Belongs to Me",
+    "artist": "Barbra Streisand",
+    "artistId": "barbra-streisand",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "vocal-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 60,
+    "trivia": [
+      "Barbra Streisand's \"My Heart Belongs to Me\" was one of two tracks she placed on the 1977 chart."
+    ],
+    "youtube_search": "Barbra Streisand My Heart Belongs to Me",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 61,
+    "id": "after-the-lovin",
+    "title": "After the Lovin'",
+    "artist": "Engelbert Humperdinck",
+    "artistId": "engelbert-humperdinck",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "vocal-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 61,
+    "trivia": [
+      "Engelbert Humperdinck's \"After the Lovin'\" was ranked 61st in 1977."
+    ],
+    "youtube_search": "Engelbert Humperdinck After the Lovin'",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 62,
+    "id": "jet-airliner",
+    "title": "Jet Airliner",
+    "artist": "Steve Miller Band",
+    "artistId": "steve-miller-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 62,
+    "trivia": [
+      "Steve Miller Band had two songs on the list, with \"Jet Airliner\" at number 62."
+    ],
+    "youtube_search": "Steve Miller Band Jet Airliner",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 63,
+    "id": "stand-tall",
+    "title": "Stand Tall",
+    "artist": "Burton Cummings",
+    "artistId": "burton-cummings",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 63,
+    "trivia": [
+      "Burton Cummings reached the 63rd spot with his solo hit \"Stand Tall\"."
+    ],
+    "youtube_search": "Burton Cummings Stand Tall",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 64,
+    "id": "way-down",
+    "title": "Way Down",
+    "artist": "Elvis Presley",
+    "artistId": "elvis-presley",
+    "year": 1977,
+    "genre": "country",
+    "subgenre": "rock-and-roll",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 64,
+    "trivia": [
+      "Elvis Presley's \"Way Down\" was ranked 64th in the 1977 year-end Billboard chart."
+    ],
+    "youtube_search": "Elvis Presley Way Down",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 65,
+    "id": "weekend-in-new-england",
+    "title": "Weekend in New England",
+    "artist": "Barry Manilow",
+    "artistId": "barry-manilow",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 65,
+    "trivia": [
+      "Barry Manilow's \"Weekend in New England\" was one of two songs he had on the 1977 Year-End chart."
+    ],
+    "youtube_search": "Barry Manilow Weekend in New England",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 66,
+    "id": "it-was-almost-like-a-song",
+    "title": "It Was Almost Like a Song",
+    "artist": "Ronnie Milsap",
+    "artistId": "ronnie-milsap",
+    "year": 1977,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 66,
+    "trivia": [
+      "Ronnie Milsap's crossover hit \"It Was Almost Like a Song\" was ranked 66th for the year."
+    ],
+    "youtube_search": "Ronnie Milsap It Was Almost Like a Song",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 67,
+    "id": "smoke-from-a-distant-fire",
+    "title": "Smoke from a Distant Fire",
+    "artist": "Sanford-Townsend Band",
+    "artistId": "sanford-townsend-band",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "blue-eyed-soul",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 67,
+    "trivia": [
+      "Sanford-Townsend Band's \"Smoke from a Distant Fire\" held the 67th position in 1977."
+    ],
+    "youtube_search": "Sanford-Townsend Band Smoke from a Distant Fire",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 68,
+    "id": "cold-as-ice",
+    "title": "Cold as Ice",
+    "artist": "Foreigner",
+    "artistId": "foreigner",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock",
+    "mood": [
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 68,
+    "trivia": [
+      "The rock band Foreigner placed two songs in the top 100 for 1977, including \"Cold as Ice\"."
+    ],
+    "youtube_search": "Foreigner Cold as Ice",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 69,
+    "id": "ariel",
+    "title": "Ariel",
+    "artist": "Dean Friedman",
+    "artistId": "dean-friedman",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "singer-songwriter",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 69,
+    "trivia": [
+      "Dean Friedman's whimsical song \"Ariel\" was ranked 69th in 1977."
+    ],
+    "youtube_search": "Dean Friedman Ariel",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 70,
+    "id": "lost-without-your-love",
+    "title": "Lost Without Your Love",
+    "artist": "Bread",
+    "artistId": "bread",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 70,
+    "trivia": [
+      "The soft rock group Bread reached number 70 with \"Lost Without Your Love\"."
+    ],
+    "youtube_search": "Bread Lost Without Your Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 71,
+    "id": "star-wars-theme-cantina-band",
+    "title": "Star Wars Theme/Cantina Band",
+    "artist": "Meco",
+    "artistId": "meco",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "space-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 71,
+    "trivia": [
+      "Meco's disco version of the \"Star Wars Theme/Cantina Band\" was the 71st ranked song of 1977."
+    ],
+    "youtube_search": "Meco Star Wars Theme Cantina Band",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 72,
+    "id": "float-on",
+    "title": "Float On",
+    "artist": "The Floaters",
+    "artistId": "the-floaters",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "smooth-soul",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 72,
+    "trivia": [
+      "The Floaters reached number 72 for the year with their soul hit \"Float On\"."
+    ],
+    "youtube_search": "The Floaters Float On",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 73,
+    "id": "jeans-on",
+    "title": "Jeans On",
+    "artist": "Lord David Dundas",
+    "artistId": "lord-david-dundas",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 73,
+    "trivia": [
+      "Lord David Dundas' \"Jeans On\" was the number 73 song on the year-end Billboard list."
+    ],
+    "youtube_search": "Lord David Dundas Jeans On",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 74,
+    "id": "lido-shuffle",
+    "title": "Lido Shuffle",
+    "artist": "Boz Scaggs",
+    "artistId": "boz-scaggs",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 74,
+    "trivia": [
+      "Boz Scaggs' \"Lido Shuffle\" held the 74th spot in the 1977 year-end rankings."
+    ],
+    "youtube_search": "Boz Scaggs Lido Shuffle",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 75,
+    "id": "keep-it-comin-love",
+    "title": "Keep It Comin' Love",
+    "artist": "KC and the Sunshine Band",
+    "artistId": "kc-and-the-sunshine-band",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 75,
+    "trivia": [
+      "KC and the Sunshine Band had two songs in the top 100 for 1977, including \"Keep It Comin' Love\" at 75."
+    ],
+    "youtube_search": "KC and the Sunshine Band Keep It Comin' Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 76,
+    "id": "you-made-me-believe-in-magic",
+    "title": "You Made Me Believe in Magic",
+    "artist": "Bay City Rollers",
+    "artistId": "bay-city-rollers",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 76,
+    "trivia": [
+      "The Bay City Rollers reached number 76 with \"You Made Me Believe in Magic\"."
+    ],
+    "youtube_search": "Bay City Rollers You Made Me Believe in Magic",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 77,
+    "id": "livin-thing",
+    "title": "Livin' Thing",
+    "artist": "Electric Light Orchestra",
+    "artistId": "electric-light-orchestra",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "symphonic-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 77,
+    "trivia": [
+      "Electric Light Orchestra placed two songs on the list, with \"Livin' Thing\" at 77."
+    ],
+    "youtube_search": "Electric Light Orchestra Livin' Thing",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 78,
+    "id": "give-a-little-bit",
+    "title": "Give a Little Bit",
+    "artist": "Supertramp",
+    "artistId": "supertramp",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "progressive-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 78,
+    "trivia": [
+      "Supertramp's acoustic-led \"Give a Little Bit\" was ranked 78th for the year."
+    ],
+    "youtube_search": "Supertramp Give a Little Bit",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 79,
+    "id": "thats-rock-n-roll",
+    "title": "That's Rock 'n' Roll",
+    "artist": "Shaun Cassidy",
+    "artistId": "shaun-cassidy",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 79,
+    "trivia": [
+      "Shaun Cassidy placed two hits in the top 100 for 1977, with \"That's Rock 'n' Roll\" at number 79."
+    ],
+    "youtube_search": "Shaun Cassidy That's Rock n Roll",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 80,
+    "id": "love-so-right",
+    "title": "Love So Right",
+    "artist": "Bee Gees",
+    "artistId": "bee-gees",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 80,
+    "trivia": [
+      "The Bee Gees' ballad \"Love So Right\" was ranked 80th in the year-end list."
+    ],
+    "youtube_search": "Bee Gees Love So Right",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 81,
+    "id": "the-rubberband-man",
+    "title": "The Rubberband Man",
+    "artist": "The Spinners",
+    "artistId": "the-spinners",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "philly-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 81,
+    "trivia": [
+      "The Spinners reached number 81 with their soul-funk track \"The Rubberband Man\"."
+    ],
+    "youtube_search": "The Spinners The Rubberband Man",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 82,
+    "id": "i-never-cry",
+    "title": "I Never Cry",
+    "artist": "Alice Cooper",
+    "artistId": "alice-cooper",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 82,
+    "trivia": [
+      "Alice Cooper appears twice on the Year-End Hot 100 of 1977, including with \"I Never Cry\"."
+    ],
+    "youtube_search": "Alice Cooper I Never Cry",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 83,
+    "id": "nobody-does-it-better",
+    "title": "Nobody Does It Better",
+    "artist": "Carly Simon",
+    "artistId": "carly-simon",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "movie-theme",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 83,
+    "trivia": [
+      "Carly Simon's James Bond theme \"Nobody Does It Better\" was ranked 83rd for the year."
+    ],
+    "youtube_search": "Carly Simon Nobody Does It Better",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 84,
+    "id": "high-school-dance",
+    "title": "High School Dance",
+    "artist": "The Sylvers",
+    "artistId": "the-sylvers",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "disco-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 84,
+    "trivia": [
+      "The Sylvers had two songs in the top 100, with \"High School Dance\" at number 84."
+    ],
+    "youtube_search": "The Sylvers High School Dance",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 85,
+    "id": "loves-grown-deep",
+    "title": "Love's Grown Deep",
+    "artist": "Kenny Nolan",
+    "artistId": "kenny-nolan",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 85,
+    "trivia": [
+      "Kenny Nolan had two entries in the Year-End Hot 100 for 1977, with \"Love's Grown Deep\" at 85."
+    ],
+    "youtube_search": "Kenny Nolan Love's Grown Deep",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 86,
+    "id": "aint-gonna-bump-no-more-with-no-big-fat-woman",
+    "title": "Ain't Gonna Bump No More (With No Big Fat Woman)",
+    "artist": "Joe Tex",
+    "artistId": "joe-tex",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 86,
+    "trivia": [
+      "Joe Tex reached number 86 on the 1977 year-end Billboard chart."
+    ],
+    "youtube_search": "Joe Tex Ain't Gonna Bump No More With No Big Fat Woman",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 87,
+    "id": "i-wanna-get-next-to-you",
+    "title": "I Wanna Get Next to You",
+    "artist": "Rose Royce",
+    "artistId": "rose-royce",
+    "year": 1977,
+    "genre": "soul",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 87,
+    "trivia": [
+      "Rose Royce had two songs in the top 100 for 1977, including \"I Wanna Get Next to You\"."
+    ],
+    "youtube_search": "Rose Royce I Wanna Get Next to You",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 88,
+    "id": "somebody-to-love",
+    "title": "Somebody to Love",
+    "artist": "Queen",
+    "artistId": "queen",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "progressive-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 88,
+    "trivia": [
+      "Queen's gospel-inspired \"Somebody to Love\" was the number 88 song of the year."
+    ],
+    "youtube_search": "Queen Somebody to Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 89,
+    "id": "muskrat-love",
+    "title": "Muskrat Love",
+    "artist": "Captain & Tennille",
+    "artistId": "captain-tennille",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 89,
+    "trivia": [
+      "Captain & Tennille reached the number 89 spot with \"Muskrat Love\"."
+    ],
+    "youtube_search": "Captain & Tennille Muskrat Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 90,
+    "id": "walk-this-way",
+    "title": "Walk This Way",
+    "artist": "Aerosmith",
+    "artistId": "aerosmith",
+    "year": 1977,
+    "genre": "hard-rock",
+    "subgenre": "classic-rock",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 90,
+    "trivia": [
+      "Aerosmith's hard rock hit \"Walk This Way\" was ranked 90th for the year 1977."
+    ],
+    "youtube_search": "Aerosmith Walk This Way",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 91,
+    "id": "cherchez-la-femme",
+    "title": "Cherchez La Femme",
+    "artist": "Dr. Buzzard's Original Savannah Band",
+    "artistId": "dr-buzzards-original-savannah-band",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "big-band-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 91,
+    "trivia": [
+      "Dr. Buzzard's Original Savannah Band held the 91st position with \"Cherchez La Femme\"."
+    ],
+    "youtube_search": "Dr. Buzzard's Original Savannah Band Cherchez La Femme",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 92,
+    "id": "year-of-the-cat",
+    "title": "Year of the Cat",
+    "artist": "Al Stewart",
+    "artistId": "al-stewart",
+    "year": 1977,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 92,
+    "trivia": [
+      "Al Stewart's folk-pop track \"Year of the Cat\" was ranked 92nd in the 1977 year-end chart."
+    ],
+    "youtube_search": "Al Stewart Year of the Cat",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 93,
+    "id": "boogie-nights",
+    "title": "Boogie Nights",
+    "artist": "Heatwave",
+    "artistId": "heatwave",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 93,
+    "trivia": [
+      "Heatwave's disco anthem \"Boogie Nights\" was the 93rd most successful song of the year."
+    ],
+    "youtube_search": "Heatwave Boogie Nights",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 94,
+    "id": "go-your-own-way",
+    "title": "Go Your Own Way",
+    "artist": "Fleetwood Mac",
+    "artistId": "fleetwood-mac",
+    "year": 1977,
+    "genre": "classic-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 94,
+    "trivia": [
+      "Three songs by Fleetwood Mac appear on the Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Fleetwood Mac Go Your Own Way",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 95,
+    "id": "sorry-seems-to-be-the-hardest-word",
+    "title": "Sorry Seems to Be the Hardest Word",
+    "artist": "Elton John",
+    "artistId": "elton-john",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 95,
+    "trivia": [
+      "Elton John's ballad \"Sorry Seems to Be the Hardest Word\" was ranked 95th in 1977."
+    ],
+    "youtube_search": "Elton John Sorry Seems to Be the Hardest Word",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 96,
+    "id": "dont-worry-baby",
+    "title": "Don't Worry Baby",
+    "artist": "B.J. Thomas",
+    "artistId": "bj-thomas",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 96,
+    "trivia": [
+      "B.J. Thomas reached the number 96 spot for the year with \"Don't Worry Baby\"."
+    ],
+    "youtube_search": "B.J. Thomas Don't Worry Baby",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 97,
+    "id": "knowing-me-knowing-you",
+    "title": "Knowing Me, Knowing You",
+    "artist": "ABBA",
+    "artistId": "abba",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "euro-pop",
+    "mood": [
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 97,
+    "trivia": [
+      "ABBA had two songs in the top 100 for 1977, with ",
+      "Knowing Me",
+      "Knowing You",
+      "at number 97."
+    ],
+    "youtube_search": "ABBA Knowing Me, Knowing You",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 98,
+    "id": "how-much-love",
+    "title": "How Much Love",
+    "artist": "Leo Sayer",
+    "artistId": "leo-sayer",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 98,
+    "trivia": [
+      "Three songs by Leo Sayer appear on the Year-End Hot 100 for 1977."
+    ],
+    "youtube_search": "Leo Sayer How Much Love",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 99,
+    "id": "star-wars-main-title",
+    "title": "Star Wars (Main Title)",
+    "artist": "London Symphony Orchestra",
+    "artistId": "london-symphony-orchestra",
+    "year": 1977,
+    "genre": "pop",
+    "subgenre": "orchestral",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 99,
+    "trivia": [
+      "The London Symphony Orchestra's \"Star Wars (Main Title)\" was the 99th ranked track of 1977."
+    ],
+    "youtube_search": "London Symphony Orchestra Star Wars Main Title",
+    "tags": [
+      "pop-hit"
+    ]
+  },
+  {
+    "rank": 100,
+    "id": "devils-gun",
+    "title": "Devil's Gun",
+    "artist": "C.J. & Company",
+    "artistId": "cj-company",
+    "year": 1977,
+    "genre": "disco",
+    "subgenre": "soul-disco",
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 100,
+    "trivia": [
+      "C.J. & Company's \"Devil's Gun\" rounded out the Billboard Year-End Hot 100 at number 100."
+    ],
+    "youtube_search": "C.J. & Company Devil's Gun",
+    "tags": [
+      "pop-hit"
+    ]
+  }
+]

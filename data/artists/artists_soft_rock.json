@@ -1,0 +1,4604 @@
+[
+  {
+    "id": "andrew-gold",
+    "name": "Andrew Gold",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Burbank, California, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Andrew Gold was a versatile multi-instrumentalist and songwriter who played a pivotal role in the Southern California soft rock scene. Before his solo breakthrough, he was a key member of Linda Ronstadt's band, contributing essential arrangements to her major 1970s hits. As a solo artist, he became known for his melodic pop sensibilities and polished production style.",
+    "key_albums_70s": [
+      {
+        "title": "Andrew Gold",
+        "year": 1975
+      },
+      {
+        "title": "What's Wrong with This Picture?",
+        "year": 1976
+      },
+      {
+        "title": "All This and Heaven Too",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "That's Why I Love You",
+      "Lonely Boy",
+      "Go Back Home Again",
+      "Thank You for Being a Friend",
+      "Never Let Her Slip Away"
+    ],
+    "mood": [
+      "happy",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Gold played most of the instruments on Linda Ronstadt's number one hit 'You're No Good.' He also served as a second engineer on part of Joni Mitchell's landmark album 'Blue.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Gold",
+    "youtube_search": "Andrew Gold Lonely Boy",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "multi-instrumentalist"
+    ]
+  },
+  {
+    "id": "anne-murray",
+    "name": "Anne Murray",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Anne Murray was the first Canadian female solo singer to reach No. 1 on the U.S. charts, paving the way for future international success for Canadian artists. Her sound combined country roots with adult contemporary polish, characterized by her smooth alto voice. She remained a fixture on both pop and country charts throughout the 1970s with a string of wholesome, melodic hits.",
+    "key_albums_70s": [
+      {
+        "title": "Honey, Wheat and Laughter",
+        "year": 1970
+      },
+      {
+        "title": "Annie",
+        "year": 1972
+      },
+      {
+        "title": "Danny's Song",
+        "year": 1973
+      },
+      {
+        "title": "Love Song",
+        "year": 1974
+      },
+      {
+        "title": "Let's Keep It That Way",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Snowbird",
+      "Danny's Song",
+      "A Love Song",
+      "You Won't See Me",
+      "You Needed Me",
+      "I Just Fall in Love Again",
+      "Shadows in the Moonlight"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Murray was a regular on the U.S. television series 'The Glen Campbell Goodtime Hour' during the early 70s. She became the first Canadian to earn a Gold record for her signature 1970 song 'Snowbird.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anne_Murray",
+    "youtube_search": "Anne Murray Snowbird",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "canadian"
+    ]
+  },
+  {
+    "id": "barry-manilow",
+    "name": "Barry Manilow",
+    "genre": "soft-rock",
+    "subgenre": "adult-contemporary",
+    "origin": "Brooklyn, New York, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Barry Manilow rose to prominence in the mid-1970s as a leading figure in adult contemporary and soft rock. Initially working as Bette Midler's pianist and producer, he transitioned to a solo career that yielded a massive string of dramatic, orchestral pop hits. His sound is defined by big piano ballads and catchy, upbeat anthems that dominated the Billboard charts throughout the late 1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Barry Manilow",
+        "year": 1973
+      },
+      {
+        "title": "Barry Manilow II",
+        "year": 1974
+      },
+      {
+        "title": "Tryin' to Get the Feeling",
+        "year": 1975
+      },
+      {
+        "title": "This One's for You",
+        "year": 1976
+      },
+      {
+        "title": "Even Now",
+        "year": 1978
+      },
+      {
+        "title": "One Voice",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Mandy",
+      "Could It Be Magic",
+      "I Write the Songs",
+      "Weekend in New England",
+      "Looks Like We Made It",
+      "Can't Smile Without You",
+      "Copacabana (At the Copa)",
+      "Ships"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "melancholy"
+    ],
+    "vibe": [
+      "dance",
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Manilow served as the musical director and producer for Bette Midler's first two albums in the early 1970s. His breakthrough hit 'Mandy' was the final number one hit for Bell Records before it was reorganized as Arista."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_Manilow",
+    "youtube_search": "Barry Manilow Mandy",
+    "tags": [
+      "soft-rock",
+      "adult-contemporary",
+      "piano-pop"
+    ]
+  },
+  {
+    "id": "billy-joel",
+    "name": "Billy Joel",
+    "genre": "soft-rock",
+    "subgenre": "piano-pop",
+    "origin": "New York City, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Billy Joel emerged in the 1970s as one of the era's most successful singer-songwriters, blending pop, rock, and Broadway sensibilities. After early struggles, his breakthrough 'The Stranger' became a cultural phenomenon and established him as a master of narrative storytelling. His sound evolved from introspective piano ballads to sophisticated pop-rock, making him a fixture of FM radio and sold-out arenas.",
+    "key_albums_70s": [
+      {
+        "title": "Cold Spring Harbor",
+        "year": 1971
+      },
+      {
+        "title": "Piano Man",
+        "year": 1973
+      },
+      {
+        "title": "Streetlife Serenade",
+        "year": 1974
+      },
+      {
+        "title": "Turnstiles",
+        "year": 1976
+      },
+      {
+        "title": "The Stranger",
+        "year": 1977
+      },
+      {
+        "title": "52nd Street",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Piano Man",
+      "The Entertainer",
+      "Say Goodbye to Hollywood",
+      "Just the Way You Are",
+      "Movin' Out (Anthony's Song)",
+      "Only the Good Die Young",
+      "She's Always a Woman",
+      "My Life"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "For six months in the early 70s, Joel worked at a Los Angeles piano bar under the pseudonym 'Bill Martin,' an experience that inspired his signature song 'Piano Man.' His 1977 album 'The Stranger' surpassed Simon & Garfunkel's 'Bridge over Troubled Water' as Columbia's bestselling album at the time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Joel",
+    "youtube_search": "Billy Joel Piano Man",
+    "tags": [
+      "soft-rock",
+      "piano-pop",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "billy-swan",
+    "name": "Billy Swan",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Cape Girardeau, Missouri, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Swan's solo career in the 1970s was defined by his massive crossover hit 'I Can Help,' which topped both pop and country charts. His sound integrated rockabilly energy with a laid-back Nashville production style that appealed to a broad audience. Despite the success of his debut, he remained a versatile industry figure, continuing to work as a session musician and producer throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "I Can Help",
+        "year": 1974
+      },
+      {
+        "title": "Rock 'n' Roll Moon",
+        "year": 1975
+      },
+      {
+        "title": "Billy Swan",
+        "year": 1976
+      },
+      {
+        "title": "Four",
+        "year": 1977
+      },
+      {
+        "title": "You're OK, I'm OK",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I Can Help",
+      "Lover Please",
+      "I'm Her Fool",
+      "Don't Be Cruel",
+      "Everything's the Same (Ain't Nothing Changed)",
+      "Just Want to Taste Your Wine",
+      "Hello! Remember Me"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The hit 'I Can Help' was written in under twenty minutes using an organ that was a wedding gift from Kris Kristofferson and Rita Coolidge.",
+      "Swan produced Tony Joe White's Top Ten hit 'Polk Salad Annie' before achieving his own solo stardom.",
+      "He participated in the historic 1979 Havana Jam festival alongside artists like Stephen Stills and Billy Joel."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Swan",
+    "youtube_search": "Billy Swan I Can Help",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "one-hit wonder"
+    ]
+  },
+  {
+    "id": "bonnie-raitt",
+    "name": "Bonnie Raitt",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Burbank, California, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Throughout the 1970s, Raitt established herself as a critically acclaimed interpreter of blues and folk-rock, notable for her bottleneck guitar skills. Her sound integrated elements of country and R&B, though commercial success remained modest for much of the decade. She achieved a major commercial breakthrough toward the end of the 1970s with a hit remake of 'Runaway.'",
+    "key_albums_70s": [
+      {
+        "title": "Bonnie Raitt",
+        "year": 1971
+      },
+      {
+        "title": "Give It Up",
+        "year": 1972
+      },
+      {
+        "title": "Takin' My Time",
+        "year": 1973
+      },
+      {
+        "title": "Streetlights",
+        "year": 1974
+      },
+      {
+        "title": "Home Plate",
+        "year": 1975
+      },
+      {
+        "title": "Sweet Forgiveness",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Runaway",
+      "Give It Up or Let Me Go",
+      "Love Me Like a Man",
+      "Angel from Montgomery",
+      "Love Has No Pride",
+      "What is Success",
+      "Your Good Thing (Is About to End)"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Raitt was a founding member of Musicians United for Safe Energy (MUSE) in 1979, helping to organize the 'No Nukes' concerts.",
+      "B.B. King once called her the best slide player working in popular music during her career.",
+      "Her version of 'Runaway' was recast as a heavy R&B track inspired by the rhythmic groove of Al Green."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bonnie_Raitt",
+    "youtube_search": "Bonnie Raitt Runaway",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "guitarist"
+    ]
+  },
+  {
+    "id": "boz-scaggs",
+    "name": "Boz Scaggs",
+    "genre": "soft-rock",
+    "subgenre": "adult contemporary",
+    "origin": "Plano, Texas, U.S.",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Scaggs transitioned from a blues-rock background into a polished blue-eyed soul and soft-rock sound that dominated the mid-to-late 1970s. His landmark 1976 album 'Silk Degrees' became a cultural phenomenon, showcasing a sophisticated urban production style. This sound made him a staple of FM radio and helped define the smooth 'West Coast' aesthetic of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Moments",
+        "year": 1971
+      },
+      {
+        "title": "My Time",
+        "year": 1972
+      },
+      {
+        "title": "Slow Dancer",
+        "year": 1974
+      },
+      {
+        "title": "Silk Degrees",
+        "year": 1976
+      },
+      {
+        "title": "Down Two Then Left",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Lowdown",
+      "Lido Shuffle",
+      "We're All Alone",
+      "What Can I Say",
+      "It's Over",
+      "Dinah Flo",
+      "Hard Times",
+      "Hollywood"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Scaggs is credited with helping the formation of Toto, as he hand-picked future members for his studio and touring band.",
+      "During a 1977 concert in New York, the power went out during the infamous July 13th blackout, forcing him to reschedule.",
+      "John Travolta choreographed his own dance to the song 'Lowdown' before the Bee Gees became involved with Saturday Night Fever."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boz_Scaggs",
+    "youtube_search": "Boz Scaggs Lowdown",
+    "tags": [
+      "soft-rock",
+      "adult-contemporary",
+      "blue-eyed-soul"
+    ]
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Bread was a quintessential soft rock band that defined the 'mellow' sound of the early 1970s. Fronted by David Gates, the group achieved consistent success with highly melodic, acoustic-driven ballads that focused on themes of love and heartbreak. Their polished production and gentle vocal harmonies made them staples of the Adult Contemporary and Top 40 radio formats.",
+    "key_albums_70s": [
+      {
+        "title": "On the Waters",
+        "year": 1970
+      },
+      {
+        "title": "Manna",
+        "year": 1971
+      },
+      {
+        "title": "Baby I'm-a Want You",
+        "year": 1972
+      },
+      {
+        "title": "Guitar Man",
+        "year": 1972
+      },
+      {
+        "title": "Lost Without Your Love",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Make It with You",
+      "It Don't Matter to Me",
+      "If",
+      "Baby I'm-a Want You",
+      "Everything I Own",
+      "The Guitar Man",
+      "Sweet Surrender",
+      "Lost Without Your Love"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group's name was inspired by a bread truck they saw while looking for band name ideas. Members Larry Knechtel and David Gates were highly sought-after session musicians before and after the band's success."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bread_(band)",
+    "youtube_search": "Bread Make It with You",
+    "tags": [
+      "soft-rock",
+      "melodic",
+      "acoustic"
+    ],
+    "members_70s": [
+      "David Gates",
+      "Jimmy Griffin",
+      "Robb Royer",
+      "Mike Botts",
+      "Larry Knechtel"
+    ]
+  },
+  {
+    "id": "captain-and-tennille",
+    "name": "Captain & Tennille",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Captain & Tennille were a husband-and-wife duo who became one of the most popular acts of the mid-to-late 1970s. Their sound blended pop, light rock, and middle-of-the-road influences, often featuring Daryl Dragon's intricate keyboard work and Toni Tennille's soulful vocals. They scored several massive hits and even hosted their own successful television variety series during the peak of their fame.",
+    "key_albums_70s": [
+      {
+        "title": "Love Will Keep Us Together",
+        "year": 1975
+      },
+      {
+        "title": "Song of Joy",
+        "year": 1976
+      },
+      {
+        "title": "Come In from the Rain",
+        "year": 1977
+      },
+      {
+        "title": "Dream",
+        "year": 1978
+      },
+      {
+        "title": "Make Your Move",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Love Will Keep Us Together",
+      "The Way I Want to Touch You",
+      "Lonely Night (Angel Face)",
+      "Shop Around",
+      "Muskrat Love",
+      "Can't Stop Dancin'",
+      "You Never Done It Like That",
+      "Do That to Me One More Time"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The duo's first hit, 'Love Will Keep Us Together,' won the Grammy Award for Record of the Year in 1976. Toni Tennille famously sang backup vocals on the track 'Sedaka is back' as a tribute to the song's co-writer, Neil Sedaka."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Captain_%26_Tennille",
+    "youtube_search": "Captain & Tennille Love Will Keep Us Together",
+    "tags": [
+      "soft-rock",
+      "pop",
+      "duo"
+    ],
+    "members_70s": [
+      "Daryl Dragon",
+      "Toni Tennille"
+    ]
+  },
+  {
+    "id": "carly-simon",
+    "name": "Carly Simon",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "New York City, USA",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Carly Simon was one of the most popular confessional singer-songwriters of the early 1970s. Her music was known for its intelligent lyrics, distinctive contralto voice, and a sophisticated blend of folk, pop, and rock. Throughout the decade, she released a string of iconic hits that captured the romantic and social anxieties of her generation.",
+    "key_albums_70s": [
+      {
+        "title": "Carly Simon",
+        "year": 1971
+      },
+      {
+        "title": "Anticipation",
+        "year": 1971
+      },
+      {
+        "title": "No Secrets",
+        "year": 1972
+      },
+      {
+        "title": "Hotcakes",
+        "year": 1974
+      },
+      {
+        "title": "Playing Possum",
+        "year": 1975
+      },
+      {
+        "title": "Boys in the Trees",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "That's the Way I've Always Heard It Should Be",
+      "Anticipation",
+      "You're So Vain",
+      "The Right Thing to Do",
+      "Mockingbird",
+      "Haven't Got Time for the Pain",
+      "Nobody Does It Better",
+      "You Belong to Me"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The song 'Anticipation' was written in just 15 minutes while Simon was waiting for a date with Cat Stevens. Her massive 1972 hit 'You're So Vain' was famously the subject of decades of speculation regarding its identity."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carly_Simon",
+    "youtube_search": "Carly Simon You're So Vain",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "confessional"
+    ]
+  },
+  {
+    "id": "carole-king",
+    "name": "Carole King",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "New York City, USA",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "After a legendary career as a Brill Building songwriter in the 1960s, Carole King transitioned to a solo performing career that defined the 1970s singer-songwriter era. Her 1971 album 'Tapestry' became a cultural landmark, staying on the charts for over six years and winning four Grammys. Her sound, rooted in piano-driven arrangements and warm, earnest vocals, provided a comforting soundtrack for a generation.",
+    "key_albums_70s": [
+      {
+        "title": "Writer",
+        "year": 1970
+      },
+      {
+        "title": "Tapestry",
+        "year": 1971
+      },
+      {
+        "title": "Music",
+        "year": 1971
+      },
+      {
+        "title": "Rhymes & Reasons",
+        "year": 1972
+      },
+      {
+        "title": "Fantasy",
+        "year": 1973
+      },
+      {
+        "title": "Wrap Around Joy",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "It's Too Late",
+      "I Feel the Earth Move",
+      "So Far Away",
+      "You've Got a Friend",
+      "Sweet Seasons",
+      "Jazzman",
+      "Nightingale",
+      "Believe in Humanity"
+    ],
+    "mood": [
+      "nostalgic",
+      "happy",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "King wrote or co-wrote 118 songs that charted on the Billboard Hot 100 during the 20th century. Her album 'Tapestry' held the record for most weeks at number one by a female artist for over 20 years."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carole_King",
+    "youtube_search": "Carole King It's Too Late",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "iconic"
+    ]
+  },
+  {
+    "id": "cat-stevens",
+    "name": "Cat Stevens",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "London, England",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Cat Stevens was a leading voice of the early 1970s folk-rock movement, known for his spiritual lyrics and accessible, melodic songwriting. Following a recovery from tuberculosis, he moved toward a stripped-down, acoustic sound that resulted in several multi-platinum albums. His music often explored philosophical questions and social themes, delivered with a distinctive, emotive vocal style.",
+    "key_albums_70s": [
+      {
+        "title": "Mona Bone Jakon",
+        "year": 1970
+      },
+      {
+        "title": "Tea for the Tillerman",
+        "year": 1970
+      },
+      {
+        "title": "Teaser and the Firecat",
+        "year": 1971
+      },
+      {
+        "title": "Catch Bull at Four",
+        "year": 1972
+      },
+      {
+        "title": "Foreigner",
+        "year": 1973
+      },
+      {
+        "title": "Buddha and the Chocolate Box",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Lady D'Arbanville",
+      "Wild World",
+      "Father and Son",
+      "Moonshadow",
+      "Peace Train",
+      "Morning Has Broken",
+      "Another Saturday Night",
+      "Oh Very Young"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1971 and 1972, Stevens was romantically linked to Carly Simon, and both wrote songs about each other during their relationship. He sold the song 'The First Cut Is the Deepest' for just £30 in the 1960s before it became a hit for multiple artists."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cat_Stevens",
+    "youtube_search": "Cat Stevens Wild World",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "christopher-cross",
+    "name": "Christopher Cross",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "San Antonio, Texas, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Christopher Cross achieved sudden and massive success at the very end of the 1970s with his eponymous debut album. His sound epitomized the high-production values of late-decade soft rock, characterized by his clean guitar work and ethereal vocals. He famously swept the 'Big Four' Grammy categories in a single year, becoming a symbol of the peak of the soft rock era.",
+    "key_albums_70s": [
+      {
+        "title": "Christopher Cross",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Ride Like the Wind",
+      "Sailing",
+      "Never Be the Same",
+      "Say You'll Be Mine",
+      "I Really Don't Know Anymore"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Cross is the only artist to win all four major Grammy Awards (Best New Artist, Record, Song, and Album of the Year) in a single ceremony for his 1979 debut. He is the son of a U.S. Army pediatrician who once treated President Eisenhower's grandchildren."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Cross",
+    "youtube_search": "Christopher Cross Sailing",
+    "tags": [
+      "soft-rock",
+      "yacht-rock",
+      "grammy-winner"
+    ]
+  },
+  {
+    "id": "dan-fogelberg",
+    "name": "Dan Fogelberg",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Peoria, Illinois, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Dan Fogelberg was a multi-instrumentalist whose work combined folk, country, and pop into a smooth, melodic soft rock style. After moving to Nashville to hone his skills, he released a series of Gold and Platinum albums that showcased his gift for sensitive songwriting and lush arrangements. He became one of the defining voices of the late 1970s acoustic-rock movement.",
+    "key_albums_70s": [
+      {
+        "title": "Home Free",
+        "year": 1972
+      },
+      {
+        "title": "Souvenirs",
+        "year": 1974
+      },
+      {
+        "title": "Captured Angel",
+        "year": 1975
+      },
+      {
+        "title": "Nether Lands",
+        "year": 1977
+      },
+      {
+        "title": "Twin Sons of Different Mothers",
+        "year": 1978
+      },
+      {
+        "title": "Phoenix",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "To the Morning",
+      "Part of the Plan",
+      "The Power of Gold",
+      "Longer",
+      "Heart Hotels",
+      "Leader of the Band"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Fogelberg was discovered by Irving Azoff and sent to Nashville to become a session musician before his solo career took off. He taught himself to play guitar using a Mel Bay course book and a Hawaiian slide guitar given to him by his grandfather."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Fogelberg",
+    "youtube_search": "Dan Fogelberg Longer",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "multi-instrumentalist"
+    ]
+  },
+  {
+    "id": "david-gates",
+    "name": "David Gates",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Tulsa, Oklahoma, U.S.",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "As the primary songwriter and frontman for Bread, Gates became one of the defining architects of the soft-rock sound in the early 1970s. His music was characterized by lush melodies and sentimental lyrics that consistently reached the top of the adult contemporary charts. Following Bread's dissolution, he maintained a successful solo career, including writing the hit theme for the film 'The Goodbye Girl.'",
+    "key_albums_70s": [
+      {
+        "title": "First",
+        "year": 1973
+      },
+      {
+        "title": "Never Let Her Go",
+        "year": 1975
+      },
+      {
+        "title": "Goodbye Girl",
+        "year": 1978
+      },
+      {
+        "title": "Falling in Love Again",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Clouds",
+      "Sail Around the World",
+      "Never Let Her Go",
+      "Goodbye Girl",
+      "Took the Last Train",
+      "Where Does the Lovin' Go",
+      "Suite: Clouds, Rain"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Gates formed his first high school band with a piano player who later became famous as Leon Russell.",
+      "He used his music royalties to purchase and operate a 1,400-acre cattle ranch in Northern California during the 1970s.",
+      "The song 'We've Only Just Begun,' which he co-produced, was originally written for a bank television commercial."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Gates",
+    "youtube_search": "David Gates Goodbye Girl",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "bread"
+    ]
+  },
+  {
+    "id": "don-mclean",
+    "name": "Don McLean",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "New Rochelle, New York, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "McLean became an international superstar in the early 1970s with the release of the epic 'American Pie,' which explored the shifting landscape of American culture. His sound blended traditional folk influences with pop sensibilities, resulting in a series of highly introspective and successful ballads. Throughout the decade, he remained a major concert attraction, balancing original compositions with classical pop standards.",
+    "key_albums_70s": [
+      {
+        "title": "Tapestry",
+        "year": 1970
+      },
+      {
+        "title": "American Pie",
+        "year": 1971
+      },
+      {
+        "title": "Don McLean",
+        "year": 1972
+      },
+      {
+        "title": "Playin' Favorites",
+        "year": 1973
+      },
+      {
+        "title": "Homeless Brother",
+        "year": 1974
+      },
+      {
+        "title": "Prime Time",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "American Pie",
+      "Vincent",
+      "Dreidel",
+      "Castles in the Air",
+      "Wonderful Baby",
+      "And I Love You So",
+      "If We Try",
+      "It Doesn't Matter Anymore"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The original working manuscript for 'American Pie' sold at auction in 2015 for over 1.2 million dollars.",
+      "McLean learned the art of performing while accompanying Pete Seeger on a boat trip up the Hudson River to raise environmental awareness.",
+      "Lori Lieberman's 'Killing Me Softly with His Song' was inspired by her reaction to seeing McLean perform in 1971."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Don_McLean",
+    "youtube_search": "Don McLean American Pie",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "elton-john",
+    "name": "Elton John",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Pinner, Middlesex, England",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Elton John was arguably the most successful solo artist of the 1970s, achieving an unprecedented string of number-one albums and singles. His collaboration with lyricist Bernie Taupin yielded a vast catalogue of songs that ranged from piano-based soft rock to glam-infused stadium anthems. His melodic genius and flamboyant stage persona made him a dominant force in global popular music throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Elton John",
+        "year": 1970
+      },
+      {
+        "title": "Tumbleweed Connection",
+        "year": 1970
+      },
+      {
+        "title": "Madman Across the Water",
+        "year": 1971
+      },
+      {
+        "title": "Honky Château",
+        "year": 1972
+      },
+      {
+        "title": "Don't Shoot Me I'm Only the Piano Player",
+        "year": 1973
+      },
+      {
+        "title": "Goodbye Yellow Brick Road",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Your Song",
+      "Tiny Dancer",
+      "Rocket Man",
+      "Crocodile Rock",
+      "Daniel",
+      "Goodbye Yellow Brick Road",
+      "Candle in the Wind",
+      "Someone Saved My Life Tonight"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "John achieved a record-breaking streak of seven consecutive number-one albums in the United States between 1972 and 1975. As a teenager, he began wearing horn-rimmed glasses to imitate his idol, Buddy Holly."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elton_John",
+    "youtube_search": "Elton John Your Song",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "glam-rock"
+    ]
+  },
+  {
+    "id": "emmylou-harris",
+    "name": "Emmylou Harris",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Washington, D.C.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Harris was a pivotal figure in the 1970s country-rock movement, uniting rock and country audiences with her distinctive crystalline voice. Following her landmark collaboration with Gram Parsons, she launched a prolific solo career characterized by sophisticated arrangements and traditionalist roots. Her 1970s albums were both critical and commercial successes, featuring her legendary Hot Band and producing multiple number-one country hits.",
+    "key_albums_70s": [
+      {
+        "title": "Pieces of the Sky",
+        "year": 1975
+      },
+      {
+        "title": "Elite Hotel",
+        "year": 1975
+      },
+      {
+        "title": "Luxury Liner",
+        "year": 1976
+      },
+      {
+        "title": "Quarter Moon in a Ten Cent Town",
+        "year": 1978
+      },
+      {
+        "title": "Blue Kentucky Girl",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Boulder to Birmingham",
+      "If I Could Only Win Your Love",
+      "Together Again",
+      "Sweet Dreams",
+      "Two More Bottles of Wine",
+      "Making Believe",
+      "To Daddy",
+      "Beneath Still Waters"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "After Gram Parsons' death, Harris wrote 'Boulder to Birmingham' as a tribute to her mentor and musical partner.",
+      "During her high school years in Virginia, she was the class valedictorian and won the 'Miss Woodbridge' beauty pageant.",
+      "She provided prominent backing vocals for several tracks on Bob Dylan's 1975 album 'Desire.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emmylou_Harris",
+    "youtube_search": "Emmylou Harris Boulder to Birmingham",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "legend"
+    ]
+  },
+  {
+    "id": "england-dan-and-john-ford-coley",
+    "name": "England Dan & John Ford Coley",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Dallas, Texas, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "England Dan & John Ford Coley were a Texas-based duo who became major stars of the soft rock movement in the late 1970s. Their sound was characterized by smooth vocal harmonies and melodic, acoustic-led pop arrangements. After struggle with early record deals, they found massive success with a string of Top 10 hits that epitomized the era's light and accessible radio style.",
+    "key_albums_70s": [
+      {
+        "title": "Fables",
+        "year": 1972
+      },
+      {
+        "title": "I'd Really Love to See You Tonight",
+        "year": 1976
+      },
+      {
+        "title": "Dowdy Ferry Road",
+        "year": 1977
+      },
+      {
+        "title": "Some Things Don't Come Easy",
+        "year": 1978
+      },
+      {
+        "title": "Dr. Heckle and Mr. Jive",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I'd Really Love to See You Tonight",
+      "Nights Are Forever Without You",
+      "It's Sad to Belong",
+      "Gone Too Far",
+      "We'll Never Have to Say Goodbye Again",
+      "Love Is the Answer"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Dan Seals was the younger brother of Jim Seals from Seals & Crofts. The duo's signature hit 'I'd Really Love to See You Tonight' was heard through a wall by a record executive who immediately offered them a deal."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/England_Dan_%26_John_Ford_Coley",
+    "youtube_search": "England Dan & John Ford Coley I'd Really Love to See You Tonight",
+    "tags": [
+      "soft-rock",
+      "harmonies",
+      "duo"
+    ],
+    "members_70s": [
+      "Dan Seals",
+      "John Ford Coley"
+    ]
+  },
+  {
+    "id": "firefall",
+    "name": "Firefall",
+    "genre": "soft-rock",
+    "subgenre": "country-rock",
+    "origin": "Boulder, Colorado, USA",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Firefall was a Colorado-based band that successfully blended country-rock with melodic soft rock. Formed by former members of several notable acts, they developed a polished sound that featured tight harmonies and clean, catchy arrangements. They achieved significant chart success in the late 1970s, becoming one of the most prominent groups in the West Coast pop-rock scene.",
+    "key_albums_70s": [
+      {
+        "title": "Firefall",
+        "year": 1976
+      },
+      {
+        "title": "Luna Sea",
+        "year": 1977
+      },
+      {
+        "title": "Élan",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Livin' Ain't Livin'",
+      "You Are the Woman",
+      "Cinderella",
+      "Just Remember I Love You",
+      "Strange Way"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's biggest hit, 'You Are the Woman,' reached the Top 10 in 1976. Founder Rick Roberts had previously toured with Gram Parsons and the Fallen Angels before forming the group."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Firefall",
+    "youtube_search": "Firefall You Are the Woman",
+    "tags": [
+      "soft-rock",
+      "country-rock",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Rick Roberts",
+      "Jock Bartley",
+      "Mark Andes",
+      "Larry Burnett",
+      "Michael Clarke"
+    ]
+  },
+  {
+    "id": "gerry-rafferty",
+    "name": "Gerry Rafferty",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Paisley, Scotland",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Gerry Rafferty was a Scottish singer-songwriter who achieved solo stardom in the late 1970s after leaving the band Stealers Wheel. His sound combined folk roots with highly sophisticated, jazz-inflected production and introspective lyrics often exploring themes of alienation. His landmark 1978 album 'City to City' features one of the era's most iconic saxophone-led arrangements.",
+    "key_albums_70s": [
+      {
+        "title": "Can I Have My Money Back?",
+        "year": 1971
+      },
+      {
+        "title": "City to City",
+        "year": 1978
+      },
+      {
+        "title": "Night Owl",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Stuck in the Middle with You",
+      "Baker Street",
+      "Right Down the Line",
+      "Home and Dry",
+      "Night Owl",
+      "Days Gone Down",
+      "Get It Right Next Time"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The iconic saxophone riff in 'Baker Street' was originally composed by Rafferty as an electric guitar solo on his demo. Rafferty consistently refused to tour the United States despite his massive success there."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gerry_Rafferty",
+    "youtube_search": "Gerry Rafferty Baker Street",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "iconic-sax"
+    ]
+  },
+  {
+    "id": "gilbert-osullivan",
+    "name": "Gilbert O'Sullivan",
+    "genre": "soft-rock",
+    "subgenre": "piano-pop",
+    "origin": "Waterford, Ireland",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Gilbert O'Sullivan was an Irish singer-songwriter who achieved major international success in the early 1970s. Known for his percussive piano style and witty, observational lyrics, he initially stood out with a unique visual image inspired by silent film stars. His sound blended traditional pop with contemporary soft rock, yielding several multi-million selling singles.",
+    "key_albums_70s": [
+      {
+        "title": "Himself",
+        "year": 1971
+      },
+      {
+        "title": "Back to Front",
+        "year": 1972
+      },
+      {
+        "title": "I'm a Writer, Not a Fighter",
+        "year": 1973
+      },
+      {
+        "title": "A Stranger in My Own Back Yard",
+        "year": 1974
+      },
+      {
+        "title": "Southpaw",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Nothing Rhymed",
+      "Alone Again (Naturally)",
+      "Ooh-Wakka-Doo-Wakka-Day",
+      "Clair",
+      "Out of the Question",
+      "Get Down"
+    ],
+    "mood": [
+      "melancholy",
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "O'Sullivan initially performed with a 'depression-era street urchin' look, complete with bowl cut and short trousers. His disc sales in 1972 exceeded 10 million, making him the top star of that year."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_O%27Sullivan",
+    "youtube_search": "Gilbert O'Sullivan Alone Again (Naturally)",
+    "tags": [
+      "soft-rock",
+      "piano-pop",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "glen-campbell",
+    "name": "Glen Campbell",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Billstown, Arkansas, USA",
+    "formed": 1950,
+    "active_70s": true,
+    "description": "Glen Campbell was a revered session guitarist and 'Wrecking Crew' veteran who became a major crossover star in the late 1960s and 1970s. His sound successfully bridged country, pop, and soft rock, often featuring his incredible guitar work and smooth vocal delivery. Throughout the 1970s, he remained a fixture on television and the charts, releasing some of the era's most enduring melodic hits.",
+    "key_albums_70s": [
+      {
+        "title": "Try a Little Kindness",
+        "year": 1970
+      },
+      {
+        "title": "The Last Time I Saw Her",
+        "year": 1971
+      },
+      {
+        "title": "I Knew Jesus (Before He Was a Star)",
+        "year": 1973
+      },
+      {
+        "title": "Rhinestone Cowboy",
+        "year": 1975
+      },
+      {
+        "title": "Southern Nights",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "It's Only Make Believe",
+      "The Last Time I Saw Her",
+      "I Say a Little Prayer",
+      "Rhinestone Cowboy",
+      "Country Boy (You Got Your Feet in L.A.)",
+      "Southern Nights",
+      "Sunflower"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Campbell was a prominent member of 'The Wrecking Crew' and played on hundreds of hits for artists like the Beach Boys and Frank Sinatra. He famously befriended Elvis Presley while recording a soundtrack in 1964, noting they were both raised 'picking cotton.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glen_Campbell",
+    "youtube_search": "Glen Campbell Rhinestone Cowboy",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "guitar-virtuoso"
+    ]
+  },
+  {
+    "id": "gordon-lightfoot",
+    "name": "Gordon Lightfoot",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Orillia, Ontario, Canada",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Gordon Lightfoot was a Canadian singer-songwriter who helped define the introspective folk-rock sound of the 1970s. His songs, often centered on themes of nature, travel, and loneliness, are characterized by his rich baritone and masterful acoustic guitar work. He achieved worldwide success with a series of polished, narrative-driven hits that became timeless soft rock staples.",
+    "key_albums_70s": [
+      {
+        "title": "Sit Down Young Stranger",
+        "year": 1970
+      },
+      {
+        "title": "Summer Side of Life",
+        "year": 1971
+      },
+      {
+        "title": "Don Quixote",
+        "year": 1972
+      },
+      {
+        "title": "Sundown",
+        "year": 1974
+      },
+      {
+        "title": "Cold on the Shoulder",
+        "year": 1975
+      },
+      {
+        "title": "Summertime Dream",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "If You Could Read My Mind",
+      "Beautiful",
+      "Sundown",
+      "Carefree Highway",
+      "Rainy Day People",
+      "The Wreck of the Edmund Fitzgerald",
+      "The Circle Is Small"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lightfoot was recognized on a limited edition Canada Post stamp in 2007 alongside Joni Mitchell. His signature 1970 hit 'If You Could Read My Mind' sold over a million copies and marked the major turning point in his international career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gordon_Lightfoot",
+    "youtube_search": "Gordon Lightfoot Sundown",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "harry-chapin",
+    "name": "Harry Chapin",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "New York City, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Harry Chapin was a singer-songwriter best known for his vivid, novelistic 'story songs' that often dealt with social issues and personal relationships. His sound blended folk-rock and pop with orchestral elements, supporting his theatrical delivery. He achieved immense popularity in the 1970s, using his platform to become a leading activist against world hunger.",
+    "key_albums_70s": [
+      {
+        "title": "Heads & Tales",
+        "year": 1972
+      },
+      {
+        "title": "Sniper and Other Love Songs",
+        "year": 1972
+      },
+      {
+        "title": "Short Stories",
+        "year": 1973
+      },
+      {
+        "title": "Verities and Balderdash",
+        "year": 1974
+      },
+      {
+        "title": "On the Road to Kingdom Come",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Taxi",
+      "W.O.L.D.",
+      "Cat's in the Cradle",
+      "I Wanna Learn a Love Song",
+      "30,000 Pounds of Bananas",
+      "Better Place to Be",
+      "A Better Place to Be"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Chapin was the first performer in the history of 'The Tonight Show' to be called back to perform the next night after his appearance singing 'Taxi.' His song 'W.O.L.D.' was inspired by listening to a radio DJ calling his ex-wife from a studio."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Chapin",
+    "youtube_search": "Harry Chapin Cat's in the Cradle",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "helen-reddy",
+    "name": "Helen Reddy",
+    "genre": "soft-rock",
+    "subgenre": "adult-contemporary",
+    "origin": "Melbourne, Australia",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Helen Reddy was an Australian-American singer who became the 'Queen of '70s Pop' with a string of massive hits on the Billboard charts. Her sound was defined by sophisticated adult contemporary arrangements and empowering lyrics, most notably her signature anthem 'I Am Woman.' She was a dominant force on both pop and easy listening radio throughout the mid-1970s.",
+    "key_albums_70s": [
+      {
+        "title": "I Don't Know How to Love Him",
+        "year": 1971
+      },
+      {
+        "title": "Helen Reddy",
+        "year": 1971
+      },
+      {
+        "title": "I Am Woman",
+        "year": 1972
+      },
+      {
+        "title": "Long Hard Climb",
+        "year": 1973
+      },
+      {
+        "title": "Love Song for Jeffrey",
+        "year": 1974
+      },
+      {
+        "title": "No Way to Treat a Lady",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "I Don't Know How to Love Him",
+      "I Am Woman",
+      "Delta Dawn",
+      "Leave Me Alone (Ruby Red Dress)",
+      "Keep on Singing",
+      "You and Me Against the World",
+      "Angie Baby",
+      "Ain't No Way to Treat a Lady"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Reddy was the first Australian to host a weekly one-hour primetime variety show on an American network. She famously encouraged her friend Olivia Newton-John to move to the United States to pursue her career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Helen_Reddy",
+    "youtube_search": "Helen Reddy I Am Woman",
+    "tags": [
+      "soft-rock",
+      "adult-contemporary",
+      "feminist-icon"
+    ]
+  },
+  {
+    "id": "jackson-browne",
+    "name": "Jackson Browne",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Heidelberg, Germany",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Jackson Browne was a central figure in the Southern California singer-songwriter community, initially gaining fame for writing songs for other artists. His own solo work in the 1970s was characterized by highly literate, introspective lyrics and melodic rock arrangements. His signature 1977 album 'Running on Empty' broke conventions by being a live concept album about life on the road.",
+    "key_albums_70s": [
+      {
+        "title": "Jackson Browne",
+        "year": 1972
+      },
+      {
+        "title": "For Everyman",
+        "year": 1973
+      },
+      {
+        "title": "Late for the Sky",
+        "year": 1974
+      },
+      {
+        "title": "The Pretender",
+        "year": 1976
+      },
+      {
+        "title": "Running on Empty",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Doctor My Eyes",
+      "Rock Me on the Water",
+      "Take It Easy",
+      "The Pretender",
+      "Here Come Those Tears Again",
+      "Running on Empty",
+      "The Load-Out",
+      "Stay"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1979, Browne co-founded the organization Musicians United for Safe Energy (MUSE) following the Three Mile Island nuclear accident. Bruce Springsteen once told him, 'You wrote the songs they [the Eagles] wished they had written.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Browne",
+    "youtube_search": "Jackson Browne Doctor My Eyes",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "west-coast"
+    ]
+  },
+  {
+    "id": "james-taylor",
+    "name": "James Taylor",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Boston, Massachusetts, USA",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "James Taylor achieved a massive breakthrough in 1970, becoming a leading figure in the gentle, introspective singer-songwriter movement. His sound was defined by his intricate finger-picking guitar style and smooth, comforting vocals that often dealt with personal struggles and emotional recovery. He became a fixture of the 1970s music scene, consistently delivering Platinum-selling albums and enduring folk-rock classics.",
+    "key_albums_70s": [
+      {
+        "title": "Sweet Baby James",
+        "year": 1970
+      },
+      {
+        "title": "Mud Slide Slim and the Blue Horizon",
+        "year": 1971
+      },
+      {
+        "title": "One Man Dog",
+        "year": 1972
+      },
+      {
+        "title": "Gorilla",
+        "year": 1975
+      },
+      {
+        "title": "In the Pocket",
+        "year": 1976
+      },
+      {
+        "title": "JT",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Fire and Rain",
+      "Country Road",
+      "You've Got a Friend",
+      "Don't Let Me Be Lonely Tonight",
+      "How Sweet It Is (To Be Loved by You)",
+      "Shower the People",
+      "Handy Man",
+      "Your Smiling Face"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Taylor's 1976 'Greatest Hits' album was certified Diamond and remains one of the best-selling albums in US history. He famously played the leading role in the 1971 cult film 'Two-Lane Blacktop.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Taylor",
+    "youtube_search": "James Taylor Fire and Rain",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "iconic"
+    ]
+  },
+  {
+    "id": "janis-ian",
+    "name": "Janis Ian",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "Farmingdale, New Jersey, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Janis Ian was a folk-pop prodigy who first achieved notoriety as a teenager in the 1960s before reaching her commercial peak in the mid-1970s. Her music was marked by its intense lyrical honesty and sophisticated, jazz-inflected folk arrangements. Her 1975 masterpiece 'At Seventeen' remains a definitive anthem of adolescent angst and social alienation.",
+    "key_albums_70s": [
+      {
+        "title": "Present Company",
+        "year": 1971
+      },
+      {
+        "title": "Stars",
+        "year": 1974
+      },
+      {
+        "title": "Between the Lines",
+        "year": 1975
+      },
+      {
+        "title": "Aftertones",
+        "year": 1976
+      },
+      {
+        "title": "Miracle Row",
+        "year": 1977
+      },
+      {
+        "title": "Night Rains",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Jesse",
+      "Stars",
+      "At Seventeen",
+      "In the Winter",
+      "When the Party's Over",
+      "Love Is Blind",
+      "Fly Too High"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Ian was the second musical guest on the series premiere of 'Saturday Night Live' in 1975. On Valentine's Day 1977, she received 461 cards from fans after stating in her song 'At Seventeen' that she never received one as a teen."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Janis_Ian",
+    "youtube_search": "Janis Ian At Seventeen",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "confessional"
+    ]
+  },
+  {
+    "id": "jim-croce",
+    "name": "Jim Croce",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "South Philadelphia, Pennsylvania, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Jim Croce was a master storyteller of the early 1970s folk-rock scene, known for his warm baritone and songs about everyday working-class characters. After years of odd jobs, he achieved massive success through his partnership with guitarist Maury Muehleisen. His career was tragically cut short at its peak, but his melodic ballads and narrative hits remained dominant on the charts throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "You Don't Mess Around with Jim",
+        "year": 1972
+      },
+      {
+        "title": "Life and Times",
+        "year": 1973
+      },
+      {
+        "title": "I Got a Name",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "You Don't Mess Around with Jim",
+      "Operator (That's Not the Way It Feels)",
+      "Time in a Bottle",
+      "Bad, Bad Leroy Brown",
+      "One Less Set of Footsteps",
+      "I Got a Name",
+      "I'll Have to Say I Love You in a Song",
+      "Workin' at the Car Wash Blues"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "Croce finished recording his final album 'I Got a Name' just one week before his tragic death in a plane crash. His song 'Time in a Bottle' became a massive posthumous number one hit due to its resonant lyrics about mortality."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Croce",
+    "youtube_search": "Jim Croce Time in a Bottle",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "jim-stafford",
+    "name": "Jim Stafford",
+    "genre": "soft-rock",
+    "subgenre": "acoustic pop",
+    "origin": "Winter Haven, Florida, U.S.",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Stafford achieved prominence in the mid-1970s with a series of novelty-tinged hits that blended clever lyrics with folk-pop melodies. His sound was distinct for its humor and storytelling, often focusing on offbeat characters and southern imagery. In addition to his recording success, he became a major television personality during the decade, hosting his own variety series on ABC.",
+    "key_albums_70s": [
+      {
+        "title": "Jim Stafford",
+        "year": 1974
+      },
+      {
+        "title": "Not Just Another Pretty Foot",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Swamp Witch",
+      "Spiders & Snakes",
+      "My Girl Bill",
+      "Wildwood Weed",
+      "Your Bulldog Drinks Champagne",
+      "I Got Stoned and I Missed It",
+      "Jasper",
+      "Turn Loose of My Leg"
+    ],
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Stafford's biggest hit, 'Spiders & Snakes,' was a million-seller that reached number three on the Billboard Hot 100 in 1974.",
+      "In high school, he played in a band called the Legends along with future stars Lobo and Gram Parsons.",
+      "He was married to singer-songwriter Bobbie Gentry for two years in the late 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Stafford",
+    "youtube_search": "Jim Stafford Spiders and Snakes",
+    "tags": [
+      "soft-rock",
+      "comedy",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "john-denver",
+    "name": "John Denver",
+    "genre": "soft-rock",
+    "subgenre": "country-folk",
+    "origin": "Roswell, New Mexico, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "John Denver was one of the most beloved and best-selling entertainers of the 1970s, characterized by his wholesome image and songs celebrating nature and simple living. His sound blended folk, country, and acoustic pop into a series of massive crossover hits that dominated global charts. He became a leading advocate for environmental and humanitarian causes while maintaining a heavy presence on television and film.",
+    "key_albums_70s": [
+      {
+        "title": "Poems, Prayers & Promises",
+        "year": 1971
+      },
+      {
+        "title": "Aerie",
+        "year": 1971
+      },
+      {
+        "title": "Rocky Mountain High",
+        "year": 1972
+      },
+      {
+        "title": "Back Home Again",
+        "year": 1974
+      },
+      {
+        "title": "Windsong",
+        "year": 1975
+      },
+      {
+        "title": "I Want to Live",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Take Me Home, Country Roads",
+      "Poems, Prayers & Promises",
+      "Rocky Mountain High",
+      "Sunshine on My Shoulders",
+      "Annie's Song",
+      "Back Home Again",
+      "Thank God I'm a Country Boy",
+      "Calypso"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Denver wrote his signature hit 'Annie's Song' in just ten minutes while sitting on a ski lift in Aspen, Colorado. His manager Jerry Weintraub once remarked that he had to 'get him to the people' because the critics were often resistant to his wholesome style."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Denver",
+    "youtube_search": "John Denver Annie's Song",
+    "tags": [
+      "soft-rock",
+      "country-folk",
+      "nature"
+    ]
+  },
+  {
+    "id": "john-prine",
+    "name": "John Prine",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Maywood, Illinois, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "John Prine was a seminal figure in the Chicago folk scene, achieving national attention in the early 1970s for his humorous, insightful, and often satirical songwriting. His debut album is widely regarded as a masterpiece, featuring songs that explored the human condition with a unique blend of empathy and wit. Throughout the decade, he maintained a loyal following with his stripped-down, country-inflected folk-rock sound.",
+    "key_albums_70s": [
+      {
+        "title": "John Prine",
+        "year": 1971
+      },
+      {
+        "title": "Diamonds in the Rough",
+        "year": 1972
+      },
+      {
+        "title": "Sweet Revenge",
+        "year": 1973
+      },
+      {
+        "title": "Common Sense",
+        "year": 1975
+      },
+      {
+        "title": "Bruised Orange",
+        "year": 1978
+      },
+      {
+        "title": "Pink Cadillac",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Paradise",
+      "Sam Stone",
+      "Angel from Montgomery",
+      "Illegal Smile",
+      "Souvenirs",
+      "Dear Abby",
+      "Grandpa Was a Carpenter",
+      "Fish and Whistle"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Prine worked as a mailman in Chicago while writing many of the songs for his acclaimed debut album. Kris Kristofferson famously remarked that Prine wrote songs so good 'we'll have to break his thumbs.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Prine",
+    "youtube_search": "John Prine Angel from Montgomery",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "john-sebastian",
+    "name": "John Sebastian",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "New York City, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "After departing the Lovin' Spoonful, Sebastian launched a solo career in the 1970s that maintained his reputation as a gentle and positive songwriter. His sound during this era was grounded in folk and blues, often featuring his signature harmonica work and tie-dyed aesthetic. He achieved a major commercial resurgence in the mid-1970s with the chart-topping theme for the sitcom 'Welcome Back, Kotter.'",
+    "key_albums_70s": [
+      {
+        "title": "John B. Sebastian",
+        "year": 1970
+      },
+      {
+        "title": "John Sebastian Live",
+        "year": 1970
+      },
+      {
+        "title": "Cheapo Cheapo Productions Presents Real Live John Sebastian",
+        "year": 1971
+      },
+      {
+        "title": "The Four of Us",
+        "year": 1971
+      },
+      {
+        "title": "Tarzana Kid",
+        "year": 1974
+      },
+      {
+        "title": "Welcome Back",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Magical Connection",
+      "Rainbows All Over Your Blues",
+      "Well, Well, Well",
+      "Welcome Back",
+      "I Don't Want Nobody Else",
+      "Hideaway",
+      "Give Us a Break"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Sebastian's unplanned, solo acoustic performance at Woodstock became a highlight of the festival documentary.",
+      "He is credited with helping to popularize the art of tie-dyeing clothing among music fans in the late 1960s and 1970s.",
+      "The song 'Welcome Back' reached number one on the Billboard charts in 1976."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Sebastian",
+    "youtube_search": "John Sebastian Welcome Back",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "harmonica"
+    ]
+  },
+  {
+    "id": "joni-mitchell",
+    "name": "Joni Mitchell",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Fort Macleod, Alberta, Canada",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Joni Mitchell was a transformative figure of the 1970s, evolving from a leading folk artist to a highly experimental jazz-rock pioneer. Her 1971 album 'Blue' remains one of the most celebrated confessional records ever made, defining the singer-songwriter movement's emotional depth. Her work was characterized by unconventional guitar tunings, complex piano arrangements, and fiercely poetic lyrics that captured the nuances of personal relationships and fame.",
+    "key_albums_70s": [
+      {
+        "title": "Ladies of the Canyon",
+        "year": 1970
+      },
+      {
+        "title": "Blue",
+        "year": 1971
+      },
+      {
+        "title": "For the Roses",
+        "year": 1972
+      },
+      {
+        "title": "Court and Spark",
+        "year": 1974
+      },
+      {
+        "title": "The Hissing of Summer Lawns",
+        "year": 1975
+      },
+      {
+        "title": "Hejira",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Big Yellow Taxi",
+      "Woodstock",
+      "Carey",
+      "River",
+      "A Case of You",
+      "Free Man in Paris",
+      "Help Me",
+      "Coyote"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Mitchell produced or co-produced almost all of her own albums and personally designed many of her own album covers. She famously noted that during the recording of 'Blue,' she felt like a 'cellophane wrapper on a pack of cigarettes' due to her total lack of emotional defenses."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joni_Mitchell",
+    "youtube_search": "Joni Mitchell Big Yellow Taxi",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "karla-bonoff",
+    "name": "Karla Bonoff",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Santa Monica, California, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Bonoff was a central figure in the Southern California singer-songwriter scene, first gaining fame through other artists' recordings of her songs. Her 1970s sound epitomized the melodic and emotionally direct 'West Coast' soft-rock aesthetic. Signing as a solo artist in 1977, she released two influential albums that featured contributions from many of the era's top session musicians.",
+    "key_albums_70s": [
+      {
+        "title": "Karla Bonoff",
+        "year": 1977
+      },
+      {
+        "title": "Restless Nights",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I Can't Hold On",
+      "Isn't It Always Love",
+      "Rose In The Garden",
+      "Someone To Lay Down Beside Me",
+      "Lose Again",
+      "If He's Ever Near",
+      "When You Walk in the Room"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Linda Ronstadt helped spark Bonoff's career by recording three of her songs for the 1976 album 'Hasten Down the Wind.'",
+      "By the age of 16, Bonoff and her sister had already recorded an 11-song demo for Elektra Records supervised by Bruce Botnick.",
+      "She was a founding member of the early songwriter collective Bryndle along with Andrew Gold and Wendy Waldman."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karla_Bonoff",
+    "youtube_search": "Karla Bonoff Someone To Lay Down Beside Me",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "california-sound"
+    ]
+  },
+  {
+    "id": "kenny-rogers",
+    "name": "Kenny Rogers",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Houston, Texas, USA",
+    "formed": 1956,
+    "active_70s": true,
+    "description": "Kenny Rogers successfully transitioned from psychedelic rock in the late 1960s to become a dominant country-pop crossover star of the 1970s. His sound was defined by his smooth 'teddy-bear baritone' and narrative storytelling style. After his solo breakthrough with 'Lucille,' he released a string of massive hits that made him one of the most recognizable voices on both pop and country radio.",
+    "key_albums_70s": [
+      {
+        "title": "Love Lifted Me",
+        "year": 1976
+      },
+      {
+        "title": "Kenny Rogers",
+        "year": 1977
+      },
+      {
+        "title": "Daytime Friends",
+        "year": 1977
+      },
+      {
+        "title": "Every Time Two Fools Collide",
+        "year": 1978
+      },
+      {
+        "title": "The Gambler",
+        "year": 1978
+      },
+      {
+        "title": "Kenny",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Ruby, Don't Take Your Love to Town",
+      "Lucille",
+      "Daytime Friends",
+      "Sweet Music Man",
+      "Every Time Two Fools Collide",
+      "The Gambler",
+      "She Believes in Me",
+      "Coward of the County"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Rogers credited his duets with close friend Dottie West in the late 1970s for further cementing his career with country music audiences. His signature hit 'The Gambler' was later preserved in the National Recording Registry by the Library of Congress."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kenny_Rogers",
+    "youtube_search": "Kenny Rogers The Gambler",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "kris-kristofferson",
+    "name": "Kris Kristofferson",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Brownsville, Texas, U.S.",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "Kristofferson was a revolutionary force in 1970s country music, introducing a raw and literary songwriting style that defined the 'outlaw' movement. His sound moved away from polished Nashville production toward a more introspective and gritty folk-influenced approach. Throughout the decade, he successfully balanced a prolific music career with a high-profile presence as a leading man in Hollywood films.",
+    "key_albums_70s": [
+      {
+        "title": "Kristofferson",
+        "year": 1970
+      },
+      {
+        "title": "The Silver Tongued Devil and I",
+        "year": 1971
+      },
+      {
+        "title": "Border Lord",
+        "year": 1972
+      },
+      {
+        "title": "Jesus Was a Capricorn",
+        "year": 1972
+      },
+      {
+        "title": "Full Moon",
+        "year": 1973
+      },
+      {
+        "title": "Shake Hands with the Devil",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Me and Bobby McGee",
+      "Sunday Mornin' Comin' Down",
+      "Help Me Make It Through the Night",
+      "For the Good Times",
+      "Why Me",
+      "Lovin' Her Was Easier",
+      "Nobody Wins",
+      "Loving Arms"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Before his music career, Kristofferson was a Rhodes Scholar and served as a captain and helicopter pilot in the U.S. Army.",
+      "He famously landed a helicopter on Johnny Cash's property to deliver demo tapes and get the star's attention.",
+      "His song 'Me and Bobby McGee' became a posthumous number-one hit for Janis Joplin."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kris_Kristofferson",
+    "youtube_search": "Kris Kristofferson Help Me Make It Through the Night",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "outlaw-country"
+    ]
+  },
+  {
+    "id": "leo-sayer",
+    "name": "Leo Sayer",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Shoreham-by-Sea, Sussex, England",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Leo Sayer achieved major chart success in the mid-to-late 1970s with a versatile sound that moved between music hall influences and polished disco-pop. His career was launched under the management of Adam Faith and he quickly became a fixture of both UK and US charts. His sound was characterized by his energetic vocal delivery and melodic sensibilities that appealed to a broad international audience.",
+    "key_albums_70s": [
+      {
+        "title": "Silverbird",
+        "year": 1973
+      },
+      {
+        "title": "Just a Boy",
+        "year": 1974
+      },
+      {
+        "title": "Another Year",
+        "year": 1975
+      },
+      {
+        "title": "Endless Flight",
+        "year": 1976
+      },
+      {
+        "title": "Leo Sayer",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "The Show Must Go On",
+      "One Man Band",
+      "Long Tall Glasses (I Can Dance)",
+      "Moonlighting",
+      "You Make Me Feel Like Dancing",
+      "When I Need You",
+      "How Much Love",
+      "Thunder in My Heart"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Sayer famously performed his early hit 'The Show Must Go On' while wearing a pierrot clown costume and makeup. His disco-styled hit 'You Make Me Feel Like Dancing' won a Grammy Award for Best Rhythm and Blues Song."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Sayer",
+    "youtube_search": "Leo Sayer You Make Me Feel Like Dancing",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "blue-eyed-soul"
+    ]
+  },
+  {
+    "id": "linda-ronstadt",
+    "name": "Linda Ronstadt",
+    "genre": "soft-rock",
+    "subgenre": "country-rock",
+    "origin": "Tucson, Arizona, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Linda Ronstadt was the defining female rock star of the 1970s, celebrated for her incredible vocal range and her ability to master multiple genres. After early success with the Stone Poneys, she became the first female 'arena class' star, setting touring records and releasing a string of multi-platinum albums. Her sound blended country, rock, and soul, often popularizing songs by contemporary writers like Jackson Browne and Warren Zevon.",
+    "key_albums_70s": [
+      {
+        "title": "Silk Purse",
+        "year": 1970
+      },
+      {
+        "title": "Linda Ronstadt",
+        "year": 1971
+      },
+      {
+        "title": "Don't Cry Now",
+        "year": 1973
+      },
+      {
+        "title": "Heart Like a Wheel",
+        "year": 1974
+      },
+      {
+        "title": "Hasten Down the Wind",
+        "year": 1976
+      },
+      {
+        "title": "Simple Dreams",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Long Long Time",
+      "Silver Threads and Golden Needles",
+      "Desperado",
+      "You're No Good",
+      "When Will I Be Loved",
+      "Blue Bayou",
+      "It's So Easy",
+      "Poor Poor Pitiful Me"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Ronstadt's first backing band in 1971 included Don Henley and Glenn Frey, who went on to form the Eagles. In 1977, she became the first female artist to have two songs in the Billboard Hot 100 Top Ten at the same time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linda_Ronstadt",
+    "youtube_search": "Linda Ronstadt Blue Bayou",
+    "tags": [
+      "soft-rock",
+      "country-rock",
+      "queen-of-rock"
+    ]
+  },
+  {
+    "id": "lobo",
+    "name": "Lobo",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "Tallahassee, Florida, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Recording under the stage name Lobo, Roland Kent LaVoie achieved massive success in the 1970s with a melodic and gentle folk-pop sound. His music was characterized by its simplicity and recurring natural themes, making him a dominant force on the Adult Contemporary charts. Throughout the early and mid-1970s, he produced a consistent string of top-ten hits that became soft-rock staples.",
+    "key_albums_70s": [
+      {
+        "title": "Introducing Lobo",
+        "year": 1971
+      },
+      {
+        "title": "Of a Simple Man",
+        "year": 1972
+      },
+      {
+        "title": "Calumet",
+        "year": 1973
+      },
+      {
+        "title": "Just a Singer",
+        "year": 1974
+      },
+      {
+        "title": "A Cowboy Afraid of Horses",
+        "year": 1975
+      },
+      {
+        "title": "Lobo",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Me and You and a Dog Named Boo",
+      "I'd Love You to Want Me",
+      "Don't Expect Me to Be Your Friend",
+      "It Sure Took a Long, Long Time",
+      "How Can I Tell Her",
+      "Where Were You When I Was Falling in Love",
+      "Standing at the End of the Line"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The name 'Lobo' is Spanish for wolf, an alias he adopted in 1971 to let the music stand on its own.",
+      "His biggest hit, 'I'd Love You to Want Me,' was a million-seller that reached number one in Germany.",
+      "He began his musical career in a band called The Rumours alongside future stars Jim Stafford and Gram Parsons."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lobo_(musician)",
+    "youtube_search": "Lobo I'd Love You to Want Me",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "adult-contemporary"
+    ]
+  },
+  {
+    "id": "loggins-and-messina",
+    "name": "Loggins and Messina",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "United States",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Loggins and Messina formed accidentally when veteran producer Jim Messina intended to help introduce then-unknown songwriter Kenny Loggins to his audience. Their harmonies and instrumental chemistry were so successful that they became one of the leading musical duos of the early-to-mid 1970s. Their sound blended folk, rock, and light pop elements, resulting in several platinum albums and a heavy presence on FM radio.",
+    "key_albums_70s": [
+      {
+        "title": "Sittin' In",
+        "year": 1971
+      },
+      {
+        "title": "Loggins and Messina",
+        "year": 1972
+      },
+      {
+        "title": "Full Sail",
+        "year": 1973
+      },
+      {
+        "title": "Mother Lode",
+        "year": 1974
+      },
+      {
+        "title": "So Fine",
+        "year": 1975
+      },
+      {
+        "title": "Native Sons",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Vahevala",
+      "Your Mama Don't Dance",
+      "Danny's Song",
+      "Thinking of You",
+      "My Music",
+      "Watching the River Run",
+      "House at Pooh Corner",
+      "A Love Song"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Clive Davis personally intervened to convince the pair to record as a duo after seeing the excitement over their early recording sessions. The duo amicably parted in 1976 after selling more than 16 million records."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loggins_and_Messina",
+    "youtube_search": "Loggins and Messina Your Mama Don't Dance",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Kenny Loggins",
+      "Jim Messina"
+    ]
+  },
+  {
+    "id": "loudon-wainwright-iii",
+    "name": "Loudon Wainwright III",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Chapel Hill, North Carolina, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Wainwright emerged in the 1970s as a witty and self-mocking singer-songwriter, often categorized alongside the 'new Dylans' of the era. His sound was largely acoustic and folk-based, known for its sharp humor and brutally honest autobiographical lyrics. He achieved a major crossover success with the novelty hit 'Dead Skunk' and appeared as the 'singing surgeon' on the series MASH.",
+    "key_albums_70s": [
+      {
+        "title": "Loudon Wainwright III",
+        "year": 1970
+      },
+      {
+        "title": "Album II",
+        "year": 1971
+      },
+      {
+        "title": "Album III",
+        "year": 1972
+      },
+      {
+        "title": "Attempted Mustache",
+        "year": 1973
+      },
+      {
+        "title": "Unrequited",
+        "year": 1975
+      },
+      {
+        "title": "Final Exam",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Dead Skunk",
+      "The Swimming Song",
+      "Motel Blues",
+      "Lullaby",
+      "Bicentennial",
+      "Unrequited to the Nth Degree",
+      "The Man Who Couldn't Cry"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In the early 1970s, he was one of many young folk singers tagged by the press as the 'new Dylan.'",
+      "His 1972 novelty song 'Dead Skunk (in the Middle of the Road)' remains his best-known commercial hit.",
+      "He appeared as Captain Calvin Spalding in three episodes of the television series MASH."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loudon_Wainwright_III",
+    "youtube_search": "Loudon Wainwright III Dead Skunk",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "humorous"
+    ]
+  },
+  {
+    "id": "mac-davis",
+    "name": "Mac Davis",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Lubbock, Texas, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Mac Davis first achieved fame as a songwriter, providing several major hits for Elvis Presley before launching a highly successful solo career. His sound epitomized the country-pop crossover style of the 1970s, characterized by his smooth delivery and relatable, often sentimental lyrics. He became a major multi-media star, hosting his own variety show and appearing in several feature films during the peak of his popularity.",
+    "key_albums_70s": [
+      {
+        "title": "Song Painter",
+        "year": 1970
+      },
+      {
+        "title": "I Believe in Music",
+        "year": 1971
+      },
+      {
+        "title": "Baby Don't Get Hooked on Me",
+        "year": 1972
+      },
+      {
+        "title": "Stop and Smell the Roses",
+        "year": 1974
+      },
+      {
+        "title": "Burnin' Thing",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "I Believe in Music",
+      "Baby Don't Get Hooked on Me",
+      "One Hell of a Woman",
+      "Stop and Smell the Roses",
+      "Rock 'N' Roll (I Gave You the Best Years of My Life)",
+      "Burnin' Thing"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Davis wrote several massive hits for Elvis Presley, including 'In the Ghetto' and 'Memories.' His song 'Rock 'N' Roll (I Gave You the Best Years of My Life)' was famously the last song played by Los Angeles station KHJ before it switched formats in 1980."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mac_Davis",
+    "youtube_search": "Mac Davis Baby Don't Get Hooked on Me",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "maria-muldaur",
+    "name": "Maria Muldaur",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "New York City, U.S.",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Muldaur transitioned from the Greenwich Village folk revival into solo stardom in the early 1970s with a sound that blended folk, jazz, and blues. Her hit single 'Midnight at the Oasis' became an iconic staple of the era, showcasing her distinctive vocal style and sultry arrangements. Throughout the decade, she remained a respected figure in roots music, collaborating with many prominent rock and bluegrass musicians.",
+    "key_albums_70s": [
+      {
+        "title": "Maria Muldaur",
+        "year": 1973
+      },
+      {
+        "title": "Waitress in a Donut Shop",
+        "year": 1974
+      },
+      {
+        "title": "Sweet Harmony",
+        "year": 1976
+      },
+      {
+        "title": "Southern Winds",
+        "year": 1978
+      },
+      {
+        "title": "Open Your Eyes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Midnight at the Oasis",
+      "I'm a Woman",
+      "Mad Mad Me",
+      "Gringo En Mexico",
+      "Sweetheart",
+      "Open Your Eyes",
+      "Georgia Blues"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her version of the Peggy Lee standard 'I'm a Woman' reached number 12 on the Billboard Hot 100 in 1974.",
+      "Muldaur served as a backing vocalist for the Jerry Garcia Band in the late 1970s.",
+      "She began her career as Maria D'Amato, performing in the Even Dozen Jug Band and Jim Kweskin & the Jug Band."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Muldaur",
+    "youtube_search": "Maria Muldaur Midnight at the Oasis",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "roots-music"
+    ]
+  },
+  {
+    "id": "melanie",
+    "name": "Melanie",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "Queens, New York City, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Melanie Anne Safka achieved international fame following her emotional performance at the 1969 Woodstock festival. Her sound combined raw, powerful vocals with simple folk-pop melodies, often centering on themes of peace and personal experience. She remained a unique and successful figure throughout the early 1970s, eventually forming her own independent record label to maintain artistic control.",
+    "key_albums_70s": [
+      {
+        "title": "Candles in the Rain",
+        "year": 1970
+      },
+      {
+        "title": "Leftover Wine",
+        "year": 1970
+      },
+      {
+        "title": "The Good Book",
+        "year": 1971
+      },
+      {
+        "title": "Gather Me",
+        "year": 1971
+      },
+      {
+        "title": "Garden in the City",
+        "year": 1972
+      },
+      {
+        "title": "Photograph",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Lay Down (Candles in the Rain)",
+      "Ruby Tuesday",
+      "What Have They Done to My Song Ma",
+      "Brand New Key",
+      "Ring the Living Bell",
+      "The Nickel Song",
+      "Will You Love Me Tomorrow"
+    ],
+    "mood": [
+      "happy",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Melanie was the first female performer to have three top 40 hits at the same time in the early 1970s. Her signature hit 'Brand New Key' was inspired by a desire to get a record deal and stand out with a catchy, novelty-inflected sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melanie_(singer)",
+    "youtube_search": "Melanie Brand New Key",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "woodstock"
+    ]
+  },
+  {
+    "id": "neil-diamond",
+    "name": "Neil Diamond",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "New York City, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Neil Diamond emerged as one of the most successful pop-rock artists of the 1970s after a prolific career as a Brill Building songwriter. His sound mellowed in the early 70s as he moved to Los Angeles, resulting in a string of massive melodic hits that defined the adult contemporary radio sound. Known for his powerful vocals and charismatic stage presence, he became a dominant force in arena rock and cinematic pop.",
+    "key_albums_70s": [
+      {
+        "title": "Tap Root Manuscript",
+        "year": 1970
+      },
+      {
+        "title": "Stones",
+        "year": 1971
+      },
+      {
+        "title": "Moods",
+        "year": 1972
+      },
+      {
+        "title": "Jonathan Livingston Seagull",
+        "year": 1973
+      },
+      {
+        "title": "Serenade",
+        "year": 1974
+      },
+      {
+        "title": "Beautiful Noise",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Cracklin' Rosie",
+      "I Am... I Said",
+      "Song Sung Blue",
+      "Longfellow Serenade",
+      "If You Know What I Mean",
+      "Desiree",
+      "You Don't Bring Me Flowers",
+      "Forever in Blue Jeans"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Diamond wrote his signature hit 'Sweet Caroline' in just one hour while staying in a Memphis hotel. He famously began wearing colorful beaded shirts in concert so that audience members in the back could see him without binoculars."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neil_Diamond",
+    "youtube_search": "Neil Diamond Sweet Caroline",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "nicolette-larson",
+    "name": "Nicolette Larson",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Helena, Montana, U.S.",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Larson rose to fame in the late 1970s as a frequent vocal accompanist for Neil Young before launching a successful solo career. Her 1978 debut album showcased a smooth blend of rock, country, and R&B that earned her immediate critical acclaim. Her hit cover of Neil Young's 'Lotta Love' became a defining soft-rock anthem of the late decade, reaching the top of the adult contemporary charts.",
+    "key_albums_70s": [
+      {
+        "title": "Nicolette",
+        "year": 1978
+      },
+      {
+        "title": "In the Nick of Time",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Lotta Love",
+      "Rhumba Girl",
+      "Give a Little",
+      "Let Me Go, Love",
+      "I Only Want to Be with You",
+      "Back in My Arms",
+      "Dancin' Jones"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Larson was named Female Vocalist of 1978 by Rolling Stone magazine shortly after her debut album was released.",
+      "She and Linda Ronstadt were billed as 'the Bullets' when they provided backing vocals for Neil Young's 'American Stars 'n Bars' album.",
+      "She appeared at the 1979 'No Nukes' concerts at Madison Square Garden, backed by the Doobie Brothers."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolette_Larson",
+    "youtube_search": "Nicolette Larson Lotta Love",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "adult-contemporary"
+    ]
+  },
+  {
+    "id": "olivia-newton-john",
+    "name": "Olivia Newton-John",
+    "genre": "soft-rock",
+    "subgenre": "country-pop",
+    "origin": "Melbourne, Victoria, Australia",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Olivia Newton-John was a British-Australian singer who became an international superstar in the 1970s. Initially known for her country-flavored pop ballads, her sound evolved through the decade toward more sophisticated soft rock and pop. Her starring role in the 1978 film 'Grease' catapulted her to a new level of fame, making her one of the highest-selling female artists of the era.",
+    "key_albums_70s": [
+      {
+        "title": "If Not for You",
+        "year": 1971
+      },
+      {
+        "title": "Let Me Be There",
+        "year": 1973
+      },
+      {
+        "title": "If You Love Me, Let Me Know",
+        "year": 1974
+      },
+      {
+        "title": "Have You Never Been Mellow",
+        "year": 1975
+      },
+      {
+        "title": "Clearly Love",
+        "year": 1975
+      },
+      {
+        "title": "Totally Hot",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "If Not for You",
+      "Let Me Be There",
+      "I Honestly Love You",
+      "Have You Never Been Mellow",
+      "Sam",
+      "You're the One That I Want",
+      "Hopelessly Devoted to You",
+      "A Little More Love"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Newton-John was the first British singer to win the CMA Female Vocalist of the Year award, a victory that initially sparked controversy among Nashville purists. She insisted on a screen test with John Travolta for 'Grease' to ensure they had sufficient chemistry."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olivia_Newton-John",
+    "youtube_search": "Olivia Newton-John Hopelessly Devoted to You",
+    "tags": [
+      "soft-rock",
+      "country-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "orleans",
+    "name": "Orleans",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Woodstock, New York, USA",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Orleans was a Woodstock-based band known for their intricate vocal harmonies and a sound that blended elements of rhythm and blues with melodic soft rock. While initially a high-energy live act, they achieved massive mainstream popularity with several polished pop-rock hits in the mid-to-late 1970s. Their music was noted for its clean guitar work and breezy, radio-friendly arrangements.",
+    "key_albums_70s": [
+      {
+        "title": "Orleans",
+        "year": 1973
+      },
+      {
+        "title": "Orleans II",
+        "year": 1974
+      },
+      {
+        "title": "Let There Be Music",
+        "year": 1975
+      },
+      {
+        "title": "Waking and Dreaming",
+        "year": 1976
+      },
+      {
+        "title": "Forever",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Let There Be Music",
+      "Dance with Me",
+      "Still the One",
+      "Reach",
+      "Love Takes Time"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Rolling Stone once called Orleans 'the best unrecorded band in America' before they signed their first deal. Their hit 'Still the One' was famously chosen as the theme song for the ABC television network in 1977."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orleans_(band)",
+    "youtube_search": "Orleans Still the One",
+    "tags": [
+      "soft-rock",
+      "harmonies",
+      "pop-rock"
+    ],
+    "members_70s": [
+      "John Hall",
+      "Larry Hoppen",
+      "Wells Kelly",
+      "Lance Hoppen",
+      "Jerry Marotta"
+    ]
+  },
+  {
+    "id": "paul-simon",
+    "name": "Paul Simon",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Newark, New Jersey, USA",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "Following the dissolution of Simon & Garfunkel, Paul Simon launched a highly successful solo career in the 1970s, exploring diverse genres including gospel, reggae, and soul. His sound remained rooted in melodic acoustic guitar but grew more rhythmically adventurous and lyrically complex. He released three landmark studio albums during the decade that cemented his status as a master of sophisticated pop-rock.",
+    "key_albums_70s": [
+      {
+        "title": "Paul Simon",
+        "year": 1972
+      },
+      {
+        "title": "There Goes Rhymin' Simon",
+        "year": 1973
+      },
+      {
+        "title": "Still Crazy After All These Years",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Mother and Child Reunion",
+      "Me and Julio Down by the Schoolyard",
+      "Kodachrome",
+      "Loves Me Like a Rock",
+      "50 Ways to Leave Your Lover",
+      "Still Crazy After All These Years",
+      "Slip Slidin' Away"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Simon made his acting debut in Woody Allen's 1977 romantic comedy 'Annie Hall,' playing music producer Tony Lacey. His 1975 album 'Still Crazy After All These Years' won the Grammy for Album of the Year."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Simon",
+    "youtube_search": "Paul Simon 50 Ways to Leave Your Lover",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "sophisticated-pop"
+    ]
+  },
+  {
+    "id": "paul-williams",
+    "name": "Paul Williams",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Omaha, Nebraska, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Williams was one of the most successful and prolific songwriters of the 1970s, penning iconic soft-rock hits for acts like the Carpenters and Three Dog Night. His solo sound featured melodic pop and folk sensibilities, delivered with a distinctive and emotional vocal style. He also achieved significant fame as a film composer and actor, winning multiple awards for his contributions to cinema and television soundtracks.",
+    "key_albums_70s": [
+      {
+        "title": "Someday Man",
+        "year": 1970
+      },
+      {
+        "title": "Just an Old Fashioned Love Song",
+        "year": 1971
+      },
+      {
+        "title": "Life Goes On",
+        "year": 1972
+      },
+      {
+        "title": "Here Comes Inspiration",
+        "year": 1974
+      },
+      {
+        "title": "A Little Bit of Love",
+        "year": 1974
+      },
+      {
+        "title": "Ordinary Fool",
+        "year": 1975
+      },
+      {
+        "title": "A Little on the Windy Side",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "An Old Fashioned Love Song",
+      "Out in the Country",
+      "Rainy Days and Mondays",
+      "We've Only Just Begun",
+      "Evergreen",
+      "Rainbow Connection",
+      "I Won't Last a Day Without You",
+      "You and Me Against the World"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Williams won an Academy Award and a Grammy for writing the lyrics to 'Evergreen,' the love theme from 'A Star Is Born.'",
+      "He auditioned unsuccessfully for the Monkees but later wrote the song 'Someday Man' for the group.",
+      "He starred as the villainous record producer Swan in the 1974 cult film Phantom of the Paradise."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Williams_(songwriter)",
+    "youtube_search": "Paul Williams An Old Fashioned Love Song",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "composer"
+    ]
+  },
+  {
+    "id": "player",
+    "name": "Player",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Player was a British-American band that epitomized the late-1970s Los Angeles soft rock sound. Initially characterized by a 'blue-eyed soul' influence, they achieved massive success with the number one hit 'Baby Come Back.' Their sound later shifted toward harder rock after touring with Eric Clapton, but they are most remembered for their smooth, melodic pop sensibilities and polished production.",
+    "key_albums_70s": [
+      {
+        "title": "Player",
+        "year": 1977
+      },
+      {
+        "title": "Danger Zone",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Baby Come Back",
+      "This Time I'm in It for Love",
+      "Prisoner of Your Love",
+      "Silver Lining",
+      "Love Is Where You Find It"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Player was named Billboard's Best New Singles Artist of 1978. Lead singer Peter Beckett later joined the Little River Band and worked extensively as a film and television composer."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Player_(band)",
+    "youtube_search": "Player Baby Come Back",
+    "tags": [
+      "soft-rock",
+      "blue-eyed-soul",
+      "yacht-rock"
+    ],
+    "members_70s": [
+      "Peter Beckett",
+      "J.C. Crowley",
+      "Ronn Moss",
+      "John Friesen"
+    ]
+  },
+  {
+    "id": "poco",
+    "name": "Poco",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Los Angeles, California, United States",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Formed from the ashes of Buffalo Springfield, Poco was a pioneering force in the 1970s country-rock scene, known for their vocal harmonies and melodic instrumentation. Throughout the decade, the band's lineup shifted frequently, featuring future members of the Eagles and Loggins & Messina. They eventually achieved their greatest commercial success in 1978 with a shift toward a polished soft-rock sound on the album 'Legend.'",
+    "key_albums_70s": [
+      {
+        "title": "Poco",
+        "year": 1970
+      },
+      {
+        "title": "Deliverin'",
+        "year": 1971
+      },
+      {
+        "title": "From the Inside",
+        "year": 1971
+      },
+      {
+        "title": "A Good Feelin' to Know",
+        "year": 1972
+      },
+      {
+        "title": "Crazy Eyes",
+        "year": 1973
+      },
+      {
+        "title": "Legend",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "C'mon",
+      "A Good Feelin' to Know",
+      "Keep On Tryin",
+      "Rose of Cimarron",
+      "Crazy Love",
+      "Heart of the Night",
+      "Indian Summer",
+      "Shoot for the Moon"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Poco was originally named 'Pogo' after a comic strip character, but changed the name after the creator threatened to sue.",
+      "Their 1978 album 'Legend' featured cover art by graphic artist and future comedy actor Phil Hartman.",
+      "Future Eagles members Randy Meisner and Timothy B. Schmit both played bass in Poco during the 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poco_(band)",
+    "youtube_search": "Poco Crazy Love",
+    "tags": [
+      "soft-rock",
+      "country-rock",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Rusty Young",
+      "George Grantham",
+      "Richie Furay",
+      "Jim Messina",
+      "Randy Meisner",
+      "Timothy B. Schmit",
+      "Paul Cotton",
+      "Steve Chapman",
+      "Charlie Harrison"
+    ]
+  },
+  {
+    "id": "pure-prairie-league",
+    "name": "Pure Prairie League",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Waverly, Ohio, United States",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Pure Prairie League became a staple of 1970s country-rock, balancing acoustic sensibilities with electric energy and sophisticated vocal arrangements. Their sound gained massive traction through heavy touring on college campuses, eventually leading to the delayed massive success of the single 'Amie.' Throughout the decade, the band maintained a string of successful albums, featuring a fluid lineup of notable musicians.",
+    "key_albums_70s": [
+      {
+        "title": "Pure Prairie League",
+        "year": 1972
+      },
+      {
+        "title": "Bustin' Out",
+        "year": 1972
+      },
+      {
+        "title": "Two Lane Highway",
+        "year": 1975
+      },
+      {
+        "title": "If the Shoe Fits",
+        "year": 1976
+      },
+      {
+        "title": "Dance",
+        "year": 1976
+      },
+      {
+        "title": "Just Fly",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Amie",
+      "Two Lane Highway",
+      "That'll Be the Day",
+      "Just Can't Believe It",
+      "I'll Fix Your Flat Tire, Merle",
+      "Falling In and Out of Love",
+      "Early Morning Riser"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was taken from a fictional temperance union in the 1939 Errol Flynn film 'Dodge City.'",
+      "Every Pure Prairie League album cover features a trail-worn cowboy named Sad Luke, based on a Norman Rockwell painting.",
+      "Future country superstar Vince Gill joined the band as a vocalist and multi-instrumentalist in 1978."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pure_Prairie_League",
+    "youtube_search": "Pure Prairie League Amie",
+    "tags": [
+      "soft-rock",
+      "country-rock",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Craig Fuller",
+      "Tom McGrail",
+      "John David Call",
+      "George Ed Powell",
+      "Phill Stokes",
+      "Jim Caughlan",
+      "Jim Lanham",
+      "Billy Hinds",
+      "Michael Reilly",
+      "Michael Connor",
+      "Larry Goshorn",
+      "Tim Goshorn",
+      "Vince Gill"
+    ]
+  },
+  {
+    "id": "randy-newman",
+    "name": "Randy Newman",
+    "genre": "soft-rock",
+    "subgenre": "piano-pop",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "In the 1970s, Newman stood apart from his contemporaries with a sound defined by orchestral arrangements and satirical lyrics delivered from the perspective of unreliable narrators. His music blended Americana, ragtime, and piano-pop, often tackling complex social and political themes with mordant wit. While achieving critical acclaim as a 'writer's writer,' he also scored significant commercial success with controversial hits toward the end of the decade.",
+    "key_albums_70s": [
+      {
+        "title": "12 Songs",
+        "year": 1970
+      },
+      {
+        "title": "Randy Newman Live",
+        "year": 1971
+      },
+      {
+        "title": "Sail Away",
+        "year": 1972
+      },
+      {
+        "title": "Good Old Boys",
+        "year": 1974
+      },
+      {
+        "title": "Little Criminals",
+        "year": 1977
+      },
+      {
+        "title": "Born Again",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Mama Told Me Not to Come",
+      "Sail Away",
+      "You Can Leave Your Hat On",
+      "Louisiana 1927",
+      "Short People",
+      "Rider in the Rain",
+      "Rednecks",
+      "Marie"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Newman comes from an extended family of prominent Hollywood composers, including three uncles who were Oscar winners.",
+      "His 1977 hit 'Short People' became a subject of significant national controversy despite Newman intending it as a joke about prejudice.",
+      "His song 'Louisiana 1927' became a prominent cultural anthem in the aftermath of Hurricane Katrina."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Newman",
+    "youtube_search": "Randy Newman Short People",
+    "tags": [
+      "soft-rock",
+      "piano-pop",
+      "satirical"
+    ]
+  },
+  {
+    "id": "richie-havens",
+    "name": "Richie Havens",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "New York City, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Havens was a powerful and soulful figure in the 1970s folk-rock scene, known for his rhythmic, open-tuned guitar style and raspy vocals. Following his iconic appearance at Woodstock, his sound integrated elements of rhythm and blues into his interpretations of pop and folk standards. Throughout the decade, he maintained a prolific recording schedule and became a frequent guest on educational television programs.",
+    "key_albums_70s": [
+      {
+        "title": "Stonehenge",
+        "year": 1970
+      },
+      {
+        "title": "Alarm Clock",
+        "year": 1971
+      },
+      {
+        "title": "The Great Blind Degree",
+        "year": 1971
+      },
+      {
+        "title": "Richie Havens on Stage",
+        "year": 1972
+      },
+      {
+        "title": "Portfolio",
+        "year": 1973
+      },
+      {
+        "title": "The End Of The Beginning",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Freedom",
+      "Alarm Clock",
+      "Here Comes the Sun",
+      "Rocky Raccoon",
+      "Lady Madonna",
+      "Handsome Johnny",
+      "I'm Not in Love",
+      "What About Me"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Havens concluded his iconic Woodstock set by improvising the song 'Freedom' based on the old spiritual 'Motherless Child.'",
+      "He was of Native American Blackfoot descent on his father's side and his grandfather had performed in Buffalo Bill's Wild West Show.",
+      "Havens was the voice of the popular GeoSafari educational toys in the late 20th century."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richie_Havens",
+    "youtube_search": "Richie Havens Freedom",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "soul"
+    ]
+  },
+  {
+    "id": "roberta-flack",
+    "name": "Roberta Flack",
+    "genre": "soft-rock",
+    "subgenre": "soul",
+    "origin": "Black Mountain, North Carolina, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Roberta Flack was a defining voice of 1970s popular music, known for her emotive, genre-blending ballads that spanned R&B, jazz, folk, and pop. Her sophisticated arrangements and emotive delivery helped birth the 'quiet storm' radio format. She achieved historic success by winning the Grammy for Record of the Year in consecutive years for two of her most iconic hits.",
+    "key_albums_70s": [
+      {
+        "title": "Chapter Two",
+        "year": 1970
+      },
+      {
+        "title": "Quiet Fire",
+        "year": 1971
+      },
+      {
+        "title": "Roberta Flack & Donny Hathaway",
+        "year": 1972
+      },
+      {
+        "title": "Killing Me Softly",
+        "year": 1973
+      },
+      {
+        "title": "Feel Like Makin' Love",
+        "year": 1975
+      },
+      {
+        "title": "Blue Lights in the Basement",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The First Time Ever I Saw Your Face",
+      "Where Is the Love",
+      "Killing Me Softly with His Song",
+      "Feel Like Makin' Love",
+      "The Closer I Get to You",
+      "If Ever I See You Again"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Flack was the first artist to win the Grammy Award for Record of the Year in consecutive years. For 40 years, she had an apartment in The Dakota building in New York City right next door to John Lennon and Yoko Ono."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roberta_Flack",
+    "youtube_search": "Roberta Flack Killing Me Softly with His Song",
+    "tags": [
+      "soft-rock",
+      "soul",
+      "quiet-storm"
+    ]
+  },
+  {
+    "id": "rupert-holmes",
+    "name": "Rupert Holmes",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "Northwich, Cheshire, England",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Rupert Holmes was a versatile musician, producer, and songwriter known for his witty 'story songs' and sophisticated pop production. After years as a successful session player and producer for artists like Barbra Streisand, he achieved massive solo success at the end of the 1970s. His work was characterized by clever lyrics, lush orchestration, and catchy, melodic pop sensibilities.",
+    "key_albums_70s": [
+      {
+        "title": "Widescreen",
+        "year": 1974
+      },
+      {
+        "title": "Rupert Holmes",
+        "year": 1975
+      },
+      {
+        "title": "Singin'",
+        "year": 1977
+      },
+      {
+        "title": "Pursuit of Happiness",
+        "year": 1978
+      },
+      {
+        "title": "Partners in Crime",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Jennifer Tomkins",
+      "Timothy",
+      "I Don't Want to Hold Your Hand",
+      "Escape (The Piña Colada Song)",
+      "Him",
+      "Answering Machine"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Holmes' landmark hit 'Escape (The Piña Colada Song)' was the final Hot 100 number one of 1979. He intentionally drew controversy with his early song 'Timothy,' which was about human cannibalism."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rupert_Holmes",
+    "youtube_search": "Rupert Holmes Escape (The Piña Colada Song)",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "seals-and-crofts",
+    "name": "Seals & Crofts",
+    "genre": "soft-rock",
+    "subgenre": "soft-rock",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Seals & Crofts were one of the most successful soft rock duos of the 1970s, known for their warm harmonies and acoustic guitar-and-mandolin sound. Their music was characterized by positive, often spiritual lyrics influenced by their Baháʼí faith. They achieved consistent success with highly melodic hits that epitomized the breezy, sophisticated radio style of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Seals & Crofts",
+        "year": 1970
+      },
+      {
+        "title": "Year of Sunday",
+        "year": 1971
+      },
+      {
+        "title": "Summer Breeze",
+        "year": 1972
+      },
+      {
+        "title": "Diamond Girl",
+        "year": 1973
+      },
+      {
+        "title": "Unborn Child",
+        "year": 1974
+      },
+      {
+        "title": "Get Closer",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Summer Breeze",
+      "Hummingbird",
+      "Diamond Girl",
+      "We May Never Pass This Way (Again)",
+      "I'll Play for You",
+      "Get Closer",
+      "You're the Love"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Both Jim Seals and Dash Crofts were members of the Champs after the group's hit 'Tequila' reached number one in 1958. They performed at the massive California Jam festival in 1974 for over 200,000 fans."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seals_%26_Crofts",
+    "youtube_search": "Seals & Crofts Summer Breeze",
+    "tags": [
+      "soft-rock",
+      "harmonies",
+      "acoustic"
+    ],
+    "members_70s": [
+      "Jim Seals",
+      "Dash Crofts"
+    ]
+  },
+  {
+    "id": "stephen-bishop",
+    "name": "Stephen Bishop",
+    "genre": "soft-rock",
+    "subgenre": "acoustic-pop",
+    "origin": "San Diego, California, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Stephen Bishop achieved success in the late 1970s as a purveyor of sensitive, acoustic-based soft rock. After years of rejection, his break came through the patronage of Art Garfunkel, who recorded several of his songs. Bishop's sound was defined by his smooth, high tenor and melodic songwriting, making him a fixture of the sophisticated adult contemporary scene.",
+    "key_albums_70s": [
+      {
+        "title": "Careless",
+        "year": 1976
+      },
+      {
+        "title": "Bish",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Looking for the Right One",
+      "The Same Old Tears on a New Background",
+      "Save It for a Rainy Day",
+      "On and On",
+      "Animal House"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Art Garfunkel, Eric Clapton, and Chaka Khan all contributed their talents to Bishop's 1976 debut album 'Careless.' Before his solo success, he spent a lean eight-year period being rejected by nearly every label in Los Angeles."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Bishop_(singer)",
+    "youtube_search": "Stephen Bishop On and On",
+    "tags": [
+      "soft-rock",
+      "acoustic-pop",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "terry-jacks",
+    "name": "Terry Jacks",
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "origin": "Winnipeg, Manitoba, Canada",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Jacks achieved worldwide stardom in 1974 with the release of 'Seasons in the Sun,' an adaptation of a Jacques Brel song that became one of the decade's biggest-selling singles. His sound was characterized by gentle, acoustic-based production and sentimental lyrical themes. Despite his massive success as a performer, he largely withdrew from the limelight mid-decade to focus on record production and environmental activism.",
+    "key_albums_70s": [
+      {
+        "title": "Seasons in the Sun",
+        "year": 1974
+      },
+      {
+        "title": "Y' Don't Fight the Sea",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Seasons in the Sun",
+      "Concrete Sea",
+      "I'm Gonna Love You Too",
+      "If You Go Away",
+      "Rock 'N' Roll (I Gave You the Best Years of My Life)",
+      "Christina",
+      "Holly",
+      "Y' Don't Fight the Sea"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "'Seasons in the Sun' was originally intended for the Beach Boys, but Jacks recorded it himself after they decided not to release it.",
+      "The song became the largest-selling international single by a Canadian artist at that time, selling 14 million copies.",
+      "In the late 1970s, Jacks was impersonated by a man who gave concerts and appeared on radio before turning himself in."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terry_Jacks",
+    "youtube_search": "Terry Jacks Seasons in the Sun",
+    "tags": [
+      "soft-rock",
+      "folk-pop",
+      "environmentalist"
+    ]
+  },
+  {
+    "id": "the-carpenters",
+    "name": "The Carpenters",
+    "genre": "soft-rock",
+    "subgenre": "adult-contemporary",
+    "origin": "New Haven, Connecticut, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "The Carpenters were a sibling duo whose polished, sophisticated sound epitomized soft rock and adult contemporary during the 1970s. Characterized by Richard's melodic arrangements and Karen's warm, distinctive contralto, they achieved immense global popularity. Their music, focused on themes of love and melancholy, resulted in a long string of number one hits and top-selling albums throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Close to You",
+        "year": 1970
+      },
+      {
+        "title": "Carpenters",
+        "year": 1971
+      },
+      {
+        "title": "A Song for You",
+        "year": 1972
+      },
+      {
+        "title": "Now & Then",
+        "year": 1973
+      },
+      {
+        "title": "Horizon",
+        "year": 1975
+      },
+      {
+        "title": "A Kind of Hush",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "(They Long to Be) Close to You",
+      "We've Only Just Begun",
+      "Rainy Days and Mondays",
+      "Superstar",
+      "Hurting Each Other",
+      "Goodbye to Love",
+      "Yesterday Once More",
+      "Top of the World",
+      "Please Mr. Postman"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Karen Carpenter was a proficient drummer and initially viewed herself as a 'drummer who sang.' The duo won the Grammy Award for Best New Artist in 1971, beating out artists like Elton John."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Carpenters",
+    "youtube_search": "The Carpenters Close to You",
+    "tags": [
+      "soft-rock",
+      "adult-contemporary",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Karen Carpenter",
+      "Richard Carpenter"
+    ]
+  },
+  {
+    "id": "tim-hardin",
+    "name": "Tim Hardin",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Eugene, Oregon, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Hardin was a highly influential but commercially enigmatic figure in the early 1970s, recognized for his poetic and jazz-inflected folk-pop sound. His music often explored themes of addiction and heartbreak, delivered in a voice praised for its emotional slip-and-slide quality. While his own 1970s recordings found limited commercial reach due to personal struggles, his songs became major hits for many other artists of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Bird on a Wire",
+        "year": 1971
+      },
+      {
+        "title": "Painted Head",
+        "year": 1972
+      },
+      {
+        "title": "Nine",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Simple Song of Freedom",
+      "Bird on a Wire",
+      "If I Were a Carpenter",
+      "Reason to Believe",
+      "Misty Roses",
+      "How Can We Hang On to a Dream",
+      "Black Sheep Boy",
+      "The Lady Came from Baltimore"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Bob Dylan reportedly called Hardin the 'greatest living songwriter' after hearing his first album in the late 1960s.",
+      "Hardin claimed to be a distant relative of the 19th-century outlaw John Wesley Hardin.",
+      "He performed at the 1969 Woodstock Festival, though his set was excluded from the original documentary and soundtrack album."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Hardin",
+    "youtube_search": "Tim Hardin Reason to Believe",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "folk"
+    ]
+  },
+  {
+    "id": "tom-waits",
+    "name": "Tom Waits",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Pomona, California, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "In the 1970s, Waits developed a distinctive persona as a gritty bard of the streets, known for his gravelly voice and lyrics focusing on society's underbelly. His sound during this era blended folk, jazz, and blues, often centering on piano ballads and beat-influenced storytelling. He toured extensively during the decade, building an international cult following for his theatrical performances and character sketches.",
+    "key_albums_70s": [
+      {
+        "title": "Closing Time",
+        "year": 1973
+      },
+      {
+        "title": "The Heart of Saturday Night",
+        "year": 1974
+      },
+      {
+        "title": "Nighthawks at the Diner",
+        "year": 1975
+      },
+      {
+        "title": "Small Change",
+        "year": 1976
+      },
+      {
+        "title": "Foreign Affairs",
+        "year": 1977
+      },
+      {
+        "title": "Blue Valentine",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Ol' 55",
+      "Martha",
+      "Tom Traubert's Blues",
+      "Step Right Up",
+      "Christmas Card from a Hooker in Minneapolis",
+      "Kentucky Avenue",
+      "I Hope That I Don't Fall in Love With You",
+      "The Piano Has Been Drinking"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Waits's unique voice has been described as sounding like it was 'soaked in a vat of bourbon' and then 'run over with a car.'",
+      "Before his music career, he worked at a pizza restaurant where he developed an interest in the lives and dialogue of the patrons.",
+      "He lived at the establishment West Hollywood Tropicana Motel during his rise to fame in the late 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Waits",
+    "youtube_search": "Tom Waits Tom Traubert's Blues",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "jazz-folk"
+    ]
+  },
+  {
+    "id": "tony-orlando-and-dawn",
+    "name": "Tony Orlando and Dawn",
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "origin": "New York City, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Tony Orlando and Dawn were one of the most successful pop-rock groups of the early-to-mid 1970s. Their sound combined catchy pop melodies with light rock and rhythm and blues influences, delivered with high-energy performances. They achieved several massive hits and transitioned into multi-media stars with their own popular television variety show.",
+    "key_albums_70s": [
+      {
+        "title": "Candida",
+        "year": 1970
+      },
+      {
+        "title": "Dawn Featuring Tony Orlando",
+        "year": 1971
+      },
+      {
+        "title": "Tuneweaving",
+        "year": 1973
+      },
+      {
+        "title": "New Ragtime Follies",
+        "year": 1973
+      },
+      {
+        "title": "Prime Time",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Candida",
+      "Knock Three Times",
+      "Tie a Yellow Ribbon Round the Ole Oak Tree",
+      "Say, Has Anybody Seen My Sweet Gypsy Rose",
+      "He Don't Love You (Like I Love You)"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Tony Orlando was a successful music executive before forming Dawn, hiring his future backing vocalists Telma Hopkins and Joyce Vincent Wilson while he was producing Barry Manilow. Their 1973 hit 'Tie a Yellow Ribbon Round the Ole Oak Tree' became a massive cultural phenomenon and one of the best-selling singles of the decade."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tony_Orlando_and_Dawn",
+    "youtube_search": "Tony Orlando and Dawn Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "tags": [
+      "soft-rock",
+      "pop-rock",
+      "harmonies"
+    ],
+    "members_70s": [
+      "Tony Orlando",
+      "Telma Hopkins",
+      "Joyce Vincent Wilson"
+    ]
+  },
+  {
+    "id": "van-morrison",
+    "name": "Van Morrison",
+    "genre": "soft-rock",
+    "subgenre": "blue-eyed-soul",
+    "origin": "Belfast, Northern Ireland",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Van Morrison achieved critical and commercial dominance in the 1970s with a unique sound termed 'Celtic soul.' His work combined rhythm and blues with jazz, folk, and spiritual themes, often delivered with a stream-of-consciousness lyrical style. He released a series of highly acclaimed studio and live albums during the decade that established him as one of the most influential recording artists of his era.",
+    "key_albums_70s": [
+      {
+        "title": "Moondance",
+        "year": 1970
+      },
+      {
+        "title": "His Band and the Street Choir",
+        "year": 1970
+      },
+      {
+        "title": "Tupelo Honey",
+        "year": 1971
+      },
+      {
+        "title": "Saint Dominic's Preview",
+        "year": 1972
+      },
+      {
+        "title": "Veedon Fleece",
+        "year": 1974
+      },
+      {
+        "title": "Wavelength",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Moondance",
+      "Into the Mystic",
+      "Domino",
+      "Wild Night",
+      "Tupelo Honey",
+      "Jackie Wilson Said",
+      "Warm Love",
+      "Wavelength"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Morrison's father had one of the largest record collections in Northern Ireland, providing the young Van with a deep education in blues and jazz. His 1971 album 'Tupelo Honey' famously features his then-wife Janet Planet on the cover."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Van_Morrison",
+    "youtube_search": "Van Morrison Moondance",
+    "tags": [
+      "soft-rock",
+      "blue-eyed-soul",
+      "celtic-soul"
+    ]
+  },
+  {
+    "id": "warren-zevon",
+    "name": "Warren Zevon",
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Warren Zevon was a central figure in the Southern California rock scene, known for his acerbic wit and hard-boiled, often macabre narratives. After early work as a session player and songwriter for others, he achieved breakthrough solo success with the promotion of Jackson Browne. His sound blended literate folk-rock with a tough, cynical edge, delivering several of the era's most memorable and darkly humorous hits.",
+    "key_albums_70s": [
+      {
+        "title": "Wanted Dead or Alive",
+        "year": 1970
+      },
+      {
+        "title": "Warren Zevon",
+        "year": 1976
+      },
+      {
+        "title": "Excitable Boy",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Hasten Down the Wind",
+      "Carmelita",
+      "Poor Poor Pitiful Me",
+      "Mohammed's Radio",
+      "Werewolves of London",
+      "Lawyers, Guns and Money",
+      "Roland the Headless Thompson Gunner"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Zevon spent the early 1970s touring as the band leader and musical coordinator for the Everly Brothers. He famously composed 'Roland the Headless Thompson Gunner' while playing in a small tavern in Spain owned by a mercenary."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Zevon",
+    "youtube_search": "Warren Zevon Werewolves of London",
+    "tags": [
+      "soft-rock",
+      "folk-rock",
+      "acerbic-wit"
+    ]
+  },
+  {
+    "id": "wendy-waldman",
+    "name": "Wendy Waldman",
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "origin": "Los Angeles, California",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Waldman was a highly respected member of the Los Angeles singer-songwriter community, known for her sophisticated compositions and production skills. Her 1970s sound integrated rock, pop, and country influences, often featuring contributions from many of her fellow California-based contemporaries. While her solo albums earned significant critical acclaim, she also became widely recognized for writing songs that became hits for other artists.",
+    "key_albums_70s": [
+      {
+        "title": "Love Has Got Me",
+        "year": 1973
+      },
+      {
+        "title": "Gypsy Symphony",
+        "year": 1974
+      },
+      {
+        "title": "Wendy Waldman",
+        "year": 1975
+      },
+      {
+        "title": "The Main Refrain",
+        "year": 1976
+      },
+      {
+        "title": "Strange Company",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Vaudeville Man",
+      "Mad Mad Me",
+      "Gringo En Mexico",
+      "Pirate Ships",
+      "Back by Fall",
+      "Western Lullaby",
+      "Living Is Good",
+      "Long Hot Summer Nights"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Rolling Stone named Waldman the 'singer-songwriter debut of the year' for her 1973 first album.",
+      "She was a founding member of the early songwriter collective Bryndle along with Karla Bonoff, Andrew Gold, and Kenny Edwards.",
+      "Her father Fred Steiner was a composer who wrote the theme music for Perry Mason and Rocky and Bullwinkle."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wendy_Waldman",
+    "youtube_search": "Wendy Waldman Love Has Got Me",
+    "tags": [
+      "soft-rock",
+      "singer-songwriter",
+      "composer"
+    ]
+  }
+]

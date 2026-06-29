@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random 70s Artist Picker | Discover a 70s Band or Artist</title>
+  <meta name="description" content="Spin and discover a random 70s artist or band from 605 verified acts — rock, disco, soul, funk, country, punk and more.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/random-artist-picker.html">
+
+  <meta property="og:title" content="Random 70s Artist Picker | Discover a 70s Band or Artist">
+  <meta property="og:description" content="Spin and discover a random 70s artist or band from 605 verified acts — rock, disco, soul, funk, country, punk and more.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/random-artist-picker.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Random 70s Artist Picker",
+    "url": "https://musicofthe70s.net/pages/random-artist-picker.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "Spin and discover a random 70s artist or band from 605 verified acts across every genre.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Random Artist Picker", "item": "https://musicofthe70s.net/pages/random-artist-picker.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › Random Artist Picker</nav>
+      <div class="page-intro">
+        <h1>Random 70s Artist Picker</h1>
+        <p>Discover a random act from 600+ verified 70s artists and bands — every genre, every corner of the decade.</p>
+      </div>
+
+      <div class="tool-stage">
+        <div id="loading">
+          <div class="spinner" role="status" aria-live="polite"></div>
+          <p class="loading-text">Loading 600+ artists…</p>
+        </div>
+
+        <div id="error" class="error-text hidden"></div>
+
+        <div id="tool" class="hidden">
+          <div class="form-row">
+            <div>
+              <label for="genreSel">Filter by genre (optional)</label>
+              <select id="genreSel"><option value="">All genres</option></select>
+            </div>
+          </div>
+          <button id="pickBtn" class="btn-primary">Pick Me an Artist</button>
+
+          <div id="result" class="result hidden" aria-live="polite" style="margin-top:2rem;">
+            <div id="albumArtWrap"></div>
+            <h2 class="song-title" id="rName"></h2>
+            <div class="tag-row" id="rGenre"></div>
+            <p class="meta" id="rOrigin"></p>
+            <p id="rDesc" style="max-width:600px;margin:0.75rem auto;color:var(--text-primary);"></p>
+            <div id="rSongs"></div>
+            <div class="tag-row" id="rEra"></div>
+            <div class="actions">
+              <a id="rYouTube" class="btn-yt" target="_blank" rel="noopener noreferrer">▶ Search on YouTube</a>
+              <a id="rWiki" class="btn-link" target="_blank" rel="noopener noreferrer">📖 Learn more</a>
+              <button id="shareBtn" class="btn-link">↗ Share</button>
+            </div>
+            <p class="counter" id="rCounter"></p>
+            <div style="margin-top:1.25rem;">
+              <button id="againBtn" class="btn-secondary">Pick Another</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>600+ Artists, One Spin Away</h2>
+      <p>The roster of <strong>70s rock artists</strong> and bands is staggering once you start digging. For every household name there are a dozen brilliant acts who deserve a fresh listen — regional heroes, genre pioneers and cult favourites who shaped the decade from the margins. This picker pulls from 600+ verified acts so you're as likely to land on a forgotten gem as a superstar.</p>
+      <p>And it isn't only <strong>classic rock artists</strong>. The pool spans disco divas, funk collectives, soul legends, country storytellers, prog pioneers and punk upstarts — the full spectrum of <strong>70s bands</strong> and solo performers that made the era so rich. Each result comes with a short bio, signature songs, and links out to YouTube and Wikipedia so you can go as deep as you like.</p>
+      <p>It's the perfect cure for playlist fatigue. Instead of hearing the same ten <strong>70s music artists</strong> on repeat, let chance be your DJ and rediscover just how deep the decade really runs.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+  (function () {
+    const loadingEl = document.getElementById('loading');
+    const errorEl = document.getElementById('error');
+    const toolEl = document.getElementById('tool');
+    const pickBtn = document.getElementById('pickBtn');
+    const againBtn = document.getElementById('againBtn');
+    const shareBtn = document.getElementById('shareBtn');
+    const resultEl = document.getElementById('result');
+    const genreSel = document.getElementById('genreSel');
+
+    let allArtists = [];
+    let pool = [];
+    let idx = 0;
+    let current = null;
+    let explored = parseInt(lsGet('artistsExplored', '0'), 10) || 0;
+
+    function buildPool() {
+      const g = genreSel.value;
+      pool = g ? allArtists.filter((a) => (a.genre || '') === g) : allArtists.slice();
+      shuffle(pool);
+      idx = 0;
+    }
+
+    function nextArtist() {
+      if (idx >= pool.length) { shuffle(pool); idx = 0; }
+      return pool[idx++];
+    }
+
+    /* ---- Album art via MusicBrainz + Cover Art Archive (cached in localStorage) ---- */
+    async function fetchAlbumArt(artist) {
+      const album = (Array.isArray(artist.key_albums_70s) && artist.key_albums_70s.length)
+        ? artist.key_albums_70s[0].title : null;
+      if (!album) return null;
+      const cacheKey = 'art:' + artist.id;
+      const cached = lsGet(cacheKey, null);
+      if (cached !== null) return cached === '' ? null : cached;
+
+      try {
+        const q = `release:"${album}" AND artist:"${artist.name}"`;
+        const mbUrl = `https://musicbrainz.org/ws/2/release-group/?query=${encodeURIComponent(q)}&fmt=json&limit=3`;
+        const res = await fetch(mbUrl, { headers: { 'Accept': 'application/json' } });
+        if (!res.ok) throw new Error('MB HTTP ' + res.status);
+        const data = await res.json();
+        const groups = data['release-groups'] || [];
+        for (const grp of groups) {
+          const artUrl = `https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bRU5pi4H1iox-IzfQiI8A5NO1XGxAfFM0F68VviHwCDBLBDjJXQ7MWy_OvU8642bhnS8r4WRhJlOgDM2GJ6i2nSQkAfevtt27J8zJPJmJTGYtZsdbAm3PJkVqyWnIIAuZ-u-7EvT_KzVjwBfRiXK7oWf9inx2wt5hk9JpjrMAwGUW5G6Nsn3nco/w1200-h630-p-k-no-nu/composite%20image%20of%2025%20music%20album%20covers%20with%20five%20group%20members.png`;
+          const ok = await imageExists(artUrl);
+          if (ok) { lsSet(cacheKey, artUrl); return artUrl; }
+        }
+        lsSet(cacheKey, '');
+        return null;
+      } catch (e) {
+        console.warn('Album art lookup failed for', artist.name, e);
+        return null; // do not cache transient errors
+      }
+    }
+
+    function imageExists(url) {
+      return new Promise((resolve) => {
+        const img = new Image();
+        img.onload = () => resolve(true);
+        img.onerror = () => resolve(false);
+        img.src = url;
+      });
+    }
+
+    function renderArt(artist) {
+      const wrap = document.getElementById('albumArtWrap');
+      wrap.innerHTML = '<div class="album-art-placeholder">🎸</div>';
+      fetchAlbumArt(artist).then((url) => {
+        if (url && current === artist) {
+          const img = new Image();
+          img.className = 'album-art';
+          img.alt = `Album cover for ${artist.name}`;
+          img.src = url;
+          img.onload = () => { if (current === artist) { wrap.innerHTML = ''; wrap.appendChild(img); } };
+        }
+      });
+    }
+
+    function render(a) {
+      current = a;
+      renderArt(a);
+      document.getElementById('rName').textContent = a.name;
+      document.getElementById('rGenre').innerHTML =
+        (a.genre ? `<span class="badge badge-gold">${escapeHTML(a.genre)}</span>` : '') +
+        (a.subgenre ? `<span class="badge">${escapeHTML(a.subgenre)}</span>` : '');
+      document.getElementById('rOrigin').textContent = a.origin || '';
+      document.getElementById('rDesc').textContent = a.description || '';
+
+      const songs = (Array.isArray(a.key_songs_70s) ? a.key_songs_70s : []).slice(0, 3);
+      document.getElementById('rSongs').innerHTML = songs.length
+        ? '<ul class="song-list">' + songs.map((s) => `<li>🎵 ${escapeHTML(s)}</li>`).join('') + '</ul>'
+        : '';
+
+      const eras = Array.isArray(a.era) ? a.era : [];
+      document.getElementById('rEra').innerHTML =
+        eras.map((e) => `<span class="badge">${escapeHTML(ERA_MAP[e] || e)}</span>`).join('');
+
+      document.getElementById('rYouTube').href = youtubeSearchURL(a.youtube_search || a.name);
+      const wiki = document.getElementById('rWiki');
+      if (a.wikipedia_url) { wiki.href = a.wikipedia_url; wiki.classList.remove('hidden'); }
+      else { wiki.classList.add('hidden'); }
+
+      explored += 1;
+      lsSet('artistsExplored', String(explored));
+      document.getElementById('rCounter').textContent =
+        `You've explored ${explored} artist${explored === 1 ? '' : 's'} this session`;
+
+      resultEl.classList.remove('result'); void resultEl.offsetWidth; resultEl.classList.add('result');
+      resultEl.classList.remove('hidden');
+    }
+
+    function pick() {
+      if (!pool.length) buildPool();
+      if (!pool.length) return;
+      render(nextArtist());
+    }
+
+    pickBtn.addEventListener('click', pick);
+    againBtn.addEventListener('click', pick);
+    genreSel.addEventListener('change', () => { buildPool(); });
+
+    shareBtn.addEventListener('click', async () => {
+      if (!current) return;
+      const text = `🎸 Discovered ${current.name} on Music of the 70s — explore 600+ classic 70s artists at musicofthe70s.net`;
+      const status = await shareOrCopy(
+        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/random-artist-picker.html' },
+        text
+      );
+      if (status === 'copied') shareBtn.textContent = '✓ Copied!';
+      else if (status === 'shared') shareBtn.textContent = '✓ Shared';
+      else if (status === 'failed') shareBtn.textContent = 'Copy failed';
+      setTimeout(() => shareBtn.textContent = '↗ Share', 1800);
+    });
+
+    (async function init() {
+      try {
+        const data = await loadJSONMultiple(ARTIST_FILES);
+        data.forEach((arr) => { if (Array.isArray(arr)) allArtists = allArtists.concat(arr); });
+        if (!allArtists.length) throw new Error('No artist data loaded.');
+        // genre dropdown
+        const genres = Array.from(new Set(allArtists.map((a) => a.genre).filter(Boolean))).sort();
+        genres.forEach((g) => { const o = document.createElement('option'); o.value = g; o.textContent = g; genreSel.appendChild(o); });
+        buildPool();
+        loadingEl.classList.add('hidden');
+        toolEl.classList.remove('hidden');
+      } catch (err) {
+        console.error('Artist picker failed to load data:', err);
+        loadingEl.classList.add('hidden');
+        errorEl.textContent = 'Sorry — we couldn\'t load the artist data right now. Please refresh the page to try again.';
+        errorEl.classList.remove('hidden');
+      }
+    })();
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,2583 @@
+[
+  {
+    "rank": 1,
+    "id": "tie-a-yellow-ribbon-round-the-ole-oak-tree",
+    "title": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "artist": "Tony Orlando and Dawn",
+    "artistId": "tony-orlando-and-dawn",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "bubblegum pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 1,
+    "trivia": [
+      "Tony Orlando and Dawn had two songs on the Year-End Hot 100, including 'Tie a Yellow Ribbon Round the Ole Oak Tree', the number one song of 1973."
+    ],
+    "youtube_search": "Tony Orlando and Dawn Tie a Yellow Ribbon Round the Ole Oak Tree",
+    "tags": [
+      "iconic",
+      "number-one"
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "bad-bad-leroy-brown",
+    "title": "Bad, Bad Leroy Brown",
+    "artist": "Jim Croce",
+    "artistId": "jim-croce",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "folk pop",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 2,
+    "trivia": [
+      "This song was revealed in the year-end edition of Billboard dated December 29, 1973."
+    ],
+    "youtube_search": "Jim Croce Bad Bad Leroy Brown",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "killing-me-softly-with-his-song",
+    "title": "Killing Me Softly with His Song",
+    "artist": "Roberta Flack",
+    "artistId": "roberta-flack",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "smooth soul",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 3,
+    "trivia": [
+      "This song is part of the ranking of recorded music for the year 1973."
+    ],
+    "youtube_search": "Roberta Flack Killing Me Softly with His Song",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "lets-get-it-on",
+    "title": "Let's Get It On",
+    "artist": "Marvin Gaye",
+    "artistId": "marvin-gaye",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "quiet storm",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 4,
+    "trivia": [
+      "The list containing this song is based on Hot 100 charts from issue dates between November 1972 and November 1973."
+    ],
+    "youtube_search": "Marvin Gaye Let's Get It On",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "my-love",
+    "title": "My Love",
+    "artist": "Paul McCartney & Wings",
+    "artistId": "paul-mccartney-wings",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 5,
+    "trivia": [
+      "This song was featured on the Billboard Year-End Hot 100 singles of 1973 list."
+    ],
+    "youtube_search": "Paul McCartney Wings My Love",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "why-me",
+    "title": "Why Me",
+    "artist": "Kris Kristofferson",
+    "artistId": "kris-kristofferson",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "gospel country",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 6,
+    "trivia": [
+      "This track was one of the Top Hot 100 songs of 1973 according to Billboard magazine."
+    ],
+    "youtube_search": "Kris Kristofferson Why Me",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "crocodile-rock",
+    "title": "Crocodile Rock",
+    "artist": "Elton John",
+    "artistId": "elton-john",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "glam rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 7,
+    "trivia": [
+      "Elton John appeared on the 1973 year-end list with this song."
+    ],
+    "youtube_search": "Elton John Crocodile Rock",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "will-it-go-round-in-circles",
+    "title": "Will It Go Round in Circles",
+    "artist": "Billy Preston",
+    "artistId": "billy-preston",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 8,
+    "trivia": [
+      "This song appears in the ranking of recorded music for the year 1973."
+    ],
+    "youtube_search": "Billy Preston Will It Go Round in Circles",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "youre-so-vain",
+    "title": "You're So Vain",
+    "artist": "Carly Simon",
+    "artistId": "carly-simon",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "singer-songwriter",
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 9,
+    "trivia": [
+      "Carly Simon's hit was among the top 10 songs for the 1973 year-end chart."
+    ],
+    "youtube_search": "Carly Simon You're So Vain",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 10,
+    "id": "touch-me-in-the-morning",
+    "title": "Touch Me in the Morning",
+    "artist": "Diana Ross",
+    "artistId": "diana-ross",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "adult contemporary",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 10,
+    "trivia": [
+      "Diana Ross reached the top ten of the Billboard Year-End Hot 100 for 1973."
+    ],
+    "youtube_search": "Diana Ross Touch Me in the Morning",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "the-night-the-lights-went-out-in-georgia",
+    "title": "The Night the Lights Went Out in Georgia",
+    "artist": "Vicki Lawrence",
+    "artistId": "vicki-lawrence",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "country pop",
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 11,
+    "trivia": [
+      "This song was part of the Billboard magazine's Top Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Vicki Lawrence The Night the Lights Went Out in Georgia",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "playground-in-my-mind",
+    "title": "Playground in My Mind",
+    "artist": "Clint Holmes",
+    "artistId": "clint-holmes",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "bubblegum pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 12,
+    "trivia": [
+      "Clint Holmes appears on the year-end chart for 1973 with this single."
+    ],
+    "youtube_search": "Clint Holmes Playground in My Mind",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "brother-louie",
+    "title": "Brother Louie",
+    "artist": "Stories",
+    "artistId": "stories",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "soul rock",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 13,
+    "trivia": [
+      "This song was ranked number 13 on the 1973 Billboard year-end list."
+    ],
+    "youtube_search": "Stories Brother Louie",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "delta-dawn",
+    "title": "Delta Dawn",
+    "artist": "Helen Reddy",
+    "artistId": "helen-reddy",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "adult contemporary",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 14,
+    "trivia": [
+      "Helen Reddy had multiple entries on the 1973 list, including this song."
+    ],
+    "youtube_search": "Helen Reddy Delta Dawn",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 15,
+    "id": "me-and-mrs-jones",
+    "title": "Me and Mrs. Jones",
+    "artist": "Billy Paul",
+    "artistId": "billy-paul",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "philly soul",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 15,
+    "trivia": [
+      "This Billy Paul track was ranked among the top 20 songs of 1973."
+    ],
+    "youtube_search": "Billy Paul Me and Mrs. Jones",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "frankenstein",
+    "title": "Frankenstein",
+    "artist": "The Edgar Winter Group",
+    "artistId": "the-edgar-winter-group",
+    "year": 1973,
+    "genre": "hard-rock",
+    "subgenre": "instrumental rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 16,
+    "trivia": [
+      "The Edgar Winter Group had multiple entries on the 1973 Billboard chart."
+    ],
+    "youtube_search": "The Edgar Winter Group Frankenstein",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 17,
+    "id": "drift-away",
+    "title": "Drift Away",
+    "artist": "Dobie Gray",
+    "artistId": "dobie-gray",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "country soul",
+    "mood": [
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 17,
+    "trivia": [
+      "Dobie Gray's song was ranked 17th for the year ending in 1973."
+    ],
+    "youtube_search": "Dobie Gray Drift Away",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "little-willy",
+    "title": "Little Willy",
+    "artist": "Sweet",
+    "artistId": "sweet",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "glam rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 18,
+    "trivia": [
+      "The band Sweet was featured on the 1973 year-end Billboard list."
+    ],
+    "youtube_search": "Sweet Little Willy",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 19,
+    "id": "you-are-the-sunshine-of-my-life",
+    "title": "You Are the Sunshine of My Life",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "pop soul",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 19,
+    "trivia": [
+      "Stevie Wonder had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "Stevie Wonder You Are the Sunshine of My Life",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 20,
+    "id": "half-breed",
+    "title": "Half-Breed",
+    "artist": "Cher",
+    "artistId": "cher",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "story song",
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 20,
+    "trivia": [
+      "Cher's hit was ranked in the top 20 of the 1973 Billboard year-end chart."
+    ],
+    "youtube_search": "Cher Half-Breed",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 21,
+    "id": "that-lady",
+    "title": "That Lady",
+    "artist": "The Isley Brothers",
+    "artistId": "the-isley-brothers",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "psychedelic funk",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 21,
+    "trivia": [
+      "The Isley Brothers appear on the Billboard Year-End Hot 100 for 1973."
+    ],
+    "youtube_search": "The Isley Brothers That Lady",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 22,
+    "id": "pillow-talk",
+    "title": "Pillow Talk",
+    "artist": "Sylvia Robinson",
+    "artistId": "sylvia-robinson",
+    "year": 1973,
+    "genre": "rnb",
+    "subgenre": "soul",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 22,
+    "trivia": [
+      "Sylvia's track was one of the Top Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Sylvia Robinson Pillow Talk",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 23,
+    "id": "were-an-american-band",
+    "title": "We're an American Band",
+    "artist": "Grand Funk Railroad",
+    "artistId": "grand-funk-railroad",
+    "year": 1973,
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 23,
+    "trivia": [
+      "Grand Funk Railroad's anthem is featured in the 1973 ranking."
+    ],
+    "youtube_search": "Grand Funk Railroad We're an American Band",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 24,
+    "id": "right-place-wrong-time",
+    "title": "Right Place Wrong Time",
+    "artist": "Dr. John",
+    "artistId": "dr-john",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "new orleans funk",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 24,
+    "trivia": [
+      "Dr. John is listed as the artist for the 24th song on the 1973 chart."
+    ],
+    "youtube_search": "Dr. John Right Place Wrong Time",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 25,
+    "id": "wildflower",
+    "title": "Wildflower",
+    "artist": "Skylark",
+    "artistId": "skylark",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 25,
+    "trivia": [
+      "Skylark's song was ranked 25th in the Billboard Top Hot 100 for 1973."
+    ],
+    "youtube_search": "Skylark Wildflower",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 26,
+    "id": "superstition",
+    "title": "Superstition",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "funk rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 26,
+    "trivia": [
+      "Stevie Wonder had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "Stevie Wonder Superstition",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 27,
+    "id": "loves-me-like-a-rock",
+    "title": "Loves Me Like a Rock",
+    "artist": "Paul Simon",
+    "artistId": "paul-simon",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "gospel pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 27,
+    "trivia": [
+      "Paul Simon had two solo songs on the year-end chart for 1973."
+    ],
+    "youtube_search": "Paul Simon Loves Me Like a Rock",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 28,
+    "id": "the-morning-after",
+    "title": "The Morning After",
+    "artist": "Maureen McGovern",
+    "artistId": "maureen-mcgovern",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "movie theme",
+    "mood": [
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 28,
+    "trivia": [
+      "Maureen McGovern's theme song was ranked in the top 30 of 1973."
+    ],
+    "youtube_search": "Maureen McGovern The Morning After",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 29,
+    "id": "rocky-mountain-high",
+    "title": "Rocky Mountain High",
+    "artist": "John Denver",
+    "artistId": "john-denver",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "folk rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 29,
+    "trivia": [
+      "John Denver's classic is included in the 1973 year-end ranking."
+    ],
+    "youtube_search": "John Denver Rocky Mountain High",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 30,
+    "id": "stuck-in-the-middle-with-you",
+    "title": "Stuck in the Middle with You",
+    "artist": "Stealers Wheel",
+    "artistId": "stealers-wheel",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "folk rock",
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 30,
+    "trivia": [
+      "Stealers Wheel appears at number 30 on the Billboard chart for 1973."
+    ],
+    "youtube_search": "Stealers Wheel Stuck in the Middle with You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 31,
+    "id": "shambala",
+    "title": "Shambala",
+    "artist": "Three Dog Night",
+    "artistId": "three-dog-night",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 31,
+    "trivia": [
+      "Three Dog Night's hit was part of the 1973 year-end countdown."
+    ],
+    "youtube_search": "Three Dog Night Shambala",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 32,
+    "id": "love-train",
+    "title": "Love Train",
+    "artist": "The O'Jays",
+    "artistId": "the-ojays",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "philly soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 32,
+    "trivia": [
+      "The O'Jays' anthem was ranked in the Top 40 for the year 1973."
+    ],
+    "youtube_search": "The O'Jays Love Train",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 33,
+    "id": "im-gonna-love-you-just-a-little-more-baby",
+    "title": "I'm Gonna Love You Just a Little More Baby",
+    "artist": "Barry White",
+    "artistId": "barry-white",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "disco soul",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 33,
+    "trivia": [
+      "Barry White's soul track is included in the Billboard list for 1973."
+    ],
+    "youtube_search": "Barry White I'm Gonna Love You Just a Little More Baby",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 34,
+    "id": "say-has-anybody-seen-my-sweet-gypsy-rose",
+    "title": "Say, Has Anybody Seen My Sweet Gypsy Rose",
+    "artist": "Tony Orlando and Dawn",
+    "artistId": "tony-orlando-and-dawn",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "vaudeville pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 34,
+    "trivia": [
+      "Tony Orlando and Dawn had two songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "Tony Orlando and Dawn Say Has Anybody Seen My Sweet Gypsy Rose",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 35,
+    "id": "keep-on-truckin",
+    "title": "Keep on Truckin'",
+    "artist": "Eddie Kendricks",
+    "artistId": "eddie-kendricks",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 35,
+    "trivia": [
+      "Eddie Kendricks reached the top 40 of the 1973 Billboard year-end chart."
+    ],
+    "youtube_search": "Eddie Kendricks Keep on Truckin'",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 36,
+    "id": "dannys-song",
+    "title": "Danny's Song",
+    "artist": "Anne Murray",
+    "artistId": "anne-murray",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "soft rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 36,
+    "trivia": [
+      "Anne Murray's song was ranked 36th on the Billboard year-end list."
+    ],
+    "youtube_search": "Anne Murray Danny's Song",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 37,
+    "id": "dancing-in-the-moonlight",
+    "title": "Dancing in the Moonlight",
+    "artist": "King Harvest",
+    "artistId": "king-harvest",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 37,
+    "trivia": [
+      "King Harvest's track is part of the 1973 Hot 100 ranking."
+    ],
+    "youtube_search": "King Harvest Dancing in the Moonlight",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 38,
+    "id": "monster-mash",
+    "title": "Monster Mash",
+    "artist": "Bobby 'Boris' Pickett",
+    "artistId": "bobby-boris-pickett",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "novelty",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 38,
+    "trivia": [
+      "This novelty song re-entered the chart and was part of the 1973 list."
+    ],
+    "youtube_search": "Bobby 'Boris' Pickett Monster Mash",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 39,
+    "id": "natural-high",
+    "title": "Natural High",
+    "artist": "Bloodstone",
+    "artistId": "bloodstone",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "smooth soul",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 39,
+    "trivia": [
+      "Bloodstone is listed at number 39 on the year-end Hot 100 of 1973."
+    ],
+    "youtube_search": "Bloodstone Natural High",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 40,
+    "id": "diamond-girl",
+    "title": "Diamond Girl",
+    "artist": "Seals and Crofts",
+    "artistId": "seals-and-crofts",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "folk rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 40,
+    "trivia": [
+      "Seals and Crofts appear in the Top 40 of the Billboard 1973 year-end list."
+    ],
+    "youtube_search": "Seals and Crofts Diamond Girl",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 41,
+    "id": "long-train-runnin",
+    "title": "Long Train Runnin'",
+    "artist": "The Doobie Brothers",
+    "artistId": "the-doobie-brothers",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "roots rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 41,
+    "trivia": [
+      "The Doobie Brothers were ranked in the 1973 year-end Billboard list."
+    ],
+    "youtube_search": "The Doobie Brothers Long Train Runnin'",
+    "tags": []
+  },
+  {
+    "rank": 42,
+    "id": "give-me-love-give-me-peace-on-earth",
+    "title": "Give Me Love (Give Me Peace on Earth)",
+    "artist": "George Harrison",
+    "artistId": "george-harrison",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 42,
+    "trivia": [
+      "George Harrison is among the artists featured on the Hot 100 of 1973."
+    ],
+    "youtube_search": "George Harrison Give Me Love (Give Me Peace on Earth)",
+    "tags": []
+  },
+  {
+    "rank": 43,
+    "id": "if-you-want-me-to-stay",
+    "title": "If You Want Me to Stay",
+    "artist": "Sly & the Family Stone",
+    "artistId": "sly-the-family-stone",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "psychedelic soul",
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 43,
+    "trivia": [
+      "Sly & the Family Stone are included in the 1973 year-end ranking."
+    ],
+    "youtube_search": "Sly & the Family Stone If You Want Me to Stay",
+    "tags": []
+  },
+  {
+    "rank": 44,
+    "id": "daddys-home",
+    "title": "Daddy's Home",
+    "artist": "Jermaine Jackson",
+    "artistId": "jermaine-jackson",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 44,
+    "trivia": [
+      "Jermaine Jackson's single was ranked 44th for the year 1973."
+    ],
+    "youtube_search": "Jermaine Jackson Daddy's Home",
+    "tags": []
+  },
+  {
+    "rank": 45,
+    "id": "neither-one-of-us-wants-to-be-the-first-to-say-goodbye",
+    "title": "Neither One of Us (Wants to Be the First to Say Goodbye)",
+    "artist": "Gladys Knight & the Pips",
+    "artistId": "gladys-knight-the-pips",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 45,
+    "trivia": [
+      "Gladys Knight & the Pips had multiple songs on the 1973 chart."
+    ],
+    "youtube_search": "Gladys Knight & the Pips Neither One of Us (Wants to Be the First to Say Goodbye)",
+    "tags": []
+  },
+  {
+    "rank": 46,
+    "id": "im-doin-fine-now",
+    "title": "I'm Doin' Fine Now",
+    "artist": "New York City",
+    "artistId": "new-york-city",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 46,
+    "trivia": [
+      "The group New York City appears at number 46 on the 1973 chart."
+    ],
+    "youtube_search": "New York City I'm Doin' Fine Now",
+    "tags": []
+  },
+  {
+    "rank": 47,
+    "id": "could-it-be-im-falling-in-love",
+    "title": "Could It Be I'm Falling in Love",
+    "artist": "The Spinners",
+    "artistId": "the-spinners",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "philly soul",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 47,
+    "trivia": [
+      "The Spinners are featured twice in the Billboard Hot 100 for 1973."
+    ],
+    "youtube_search": "The Spinners Could It Be I'm Falling in Love",
+    "tags": []
+  },
+  {
+    "rank": 48,
+    "id": "daniel",
+    "title": "Daniel",
+    "artist": "Elton John",
+    "artistId": "elton-john",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 48,
+    "trivia": [
+      "Elton John had multiple songs listed on the 1973 Billboard year-end chart."
+    ],
+    "youtube_search": "Elton John Daniel",
+    "tags": []
+  },
+  {
+    "rank": 49,
+    "id": "midnight-train-to-georgia",
+    "title": "Midnight Train to Georgia",
+    "artist": "Gladys Knight & the Pips",
+    "artistId": "gladys-knight-the-pips",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 49,
+    "trivia": [
+      "This iconic song by Gladys Knight & the Pips appears on the 1973 ranking."
+    ],
+    "youtube_search": "Gladys Knight & the Pips Midnight Train to Georgia",
+    "tags": []
+  },
+  {
+    "rank": 50,
+    "id": "smoke-on-the-water",
+    "title": "Smoke on the Water",
+    "artist": "Deep Purple",
+    "artistId": "deep-purple",
+    "year": 1973,
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 50,
+    "trivia": [
+      "Deep Purple's classic hit reached the top 50 in the 1973 year-end list."
+    ],
+    "youtube_search": "Deep Purple Smoke on the Water",
+    "tags": []
+  },
+  {
+    "rank": 51,
+    "id": "the-cover-of-rolling-stone",
+    "title": "The Cover of \"Rolling Stone\"",
+    "artist": "Dr. Hook & The Medicine Show",
+    "artistId": "dr-hook-the-medicine-show",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "comedy rock",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 51,
+    "trivia": [
+      "Dr. Hook & The Medicine Show appear on the year-end Billboard list for 1973."
+    ],
+    "youtube_search": "Dr. Hook & The Medicine Show The Cover of Rolling Stone",
+    "tags": []
+  },
+  {
+    "rank": 52,
+    "id": "behind-closed-doors",
+    "title": "Behind Closed Doors",
+    "artist": "Charlie Rich",
+    "artistId": "charlie-rich",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "country soul",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 52,
+    "trivia": [
+      "Charlie Rich is ranked 52nd on the year-end Hot 100 for 1973."
+    ],
+    "youtube_search": "Charlie Rich Behind Closed Doors",
+    "tags": []
+  },
+  {
+    "rank": 53,
+    "id": "your-mama-dont-dance",
+    "title": "Your Mama Don't Dance",
+    "artist": "Loggins and Messina",
+    "artistId": "loggins-and-messina",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 53,
+    "trivia": [
+      "Loggins and Messina are part of the ranking of Top Hot 100 songs for 1973."
+    ],
+    "youtube_search": "Loggins and Messina Your Mama Don't Dance",
+    "tags": []
+  },
+  {
+    "rank": 54,
+    "id": "feelin-stronger-every-day",
+    "title": "Feelin' Stronger Every Day",
+    "artist": "Chicago",
+    "artistId": "chicago",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "jazz rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 54,
+    "trivia": [
+      "The band Chicago's track is featured on the 1973 year-end Billboard list."
+    ],
+    "youtube_search": "Chicago Feelin' Stronger Every Day",
+    "tags": []
+  },
+  {
+    "rank": 55,
+    "id": "the-cisco-kid",
+    "title": "The Cisco Kid",
+    "artist": "War",
+    "artistId": "war",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "latin funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 55,
+    "trivia": [
+      "War had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "War The Cisco Kid",
+    "tags": []
+  },
+  {
+    "rank": 56,
+    "id": "live-and-let-die",
+    "title": "Live and Let Die",
+    "artist": "Paul McCartney & Wings",
+    "artistId": "paul-mccartney-wings",
+    "year": 1973,
+    "genre": "hard-rock",
+    "subgenre": "orchestral rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 56,
+    "trivia": [
+      "Paul McCartney & Wings had multiple songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "Paul McCartney Wings Live and Let Die",
+    "tags": []
+  },
+  {
+    "rank": 57,
+    "id": "oh-babe-what-would-you-say",
+    "title": "Oh, Babe, What Would You Say?",
+    "artist": "Hurricane Smith",
+    "artistId": "hurricane-smith",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "traditional pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 57,
+    "trivia": [
+      "Hurricane Smith is ranked number 57 on the Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Hurricane Smith Oh, Babe, What Would You Say?",
+    "tags": []
+  },
+  {
+    "rank": 58,
+    "id": "i-believe-in-you-you-believe-in-me",
+    "title": "I Believe in You (You Believe in Me)",
+    "artist": "Johnnie Taylor",
+    "artistId": "johnnie-taylor",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 58,
+    "trivia": [
+      "Johnnie Taylor's soul song appears on the 1973 year-end Billboard list."
+    ],
+    "youtube_search": "Johnnie Taylor I Believe in You (You Believe in Me)",
+    "tags": []
+  },
+  {
+    "rank": 59,
+    "id": "sing",
+    "title": "Sing",
+    "artist": "The Carpenters",
+    "artistId": "the-carpenters",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 59,
+    "trivia": [
+      "The Carpenters had multiple entries on the 1973 year-end Hot 100 list."
+    ],
+    "youtube_search": "The Carpenters Sing",
+    "tags": []
+  },
+  {
+    "rank": 60,
+    "id": "aint-no-woman-like-the-one-ive-got",
+    "title": "Ain't No Woman (Like the One I've Got)",
+    "artist": "The Four Tops",
+    "artistId": "the-four-tops",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 60,
+    "trivia": [
+      "The Four Tops are included in the Billboard Year-End Hot 100 for 1973."
+    ],
+    "youtube_search": "The Four Tops Ain't No Woman (Like the One I've Got)",
+    "tags": []
+  },
+  {
+    "rank": 61,
+    "id": "dueling-banjos",
+    "title": "Dueling Banjos",
+    "artist": "Eric Weissberg & Steve Mandell",
+    "artistId": "eric-weissberg-steve-mandell",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "bluegrass",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 61,
+    "trivia": [
+      "This instrumental track was ranked 61st on the 1973 year-end list."
+    ],
+    "youtube_search": "Eric Weissberg Steve Mandell Dueling Banjos",
+    "tags": []
+  },
+  {
+    "rank": 62,
+    "id": "higher-ground",
+    "title": "Higher Ground",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "funk rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 62,
+    "trivia": [
+      "Stevie Wonder had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "Stevie Wonder Higher Ground",
+    "tags": []
+  },
+  {
+    "rank": 63,
+    "id": "here-i-am-come-and-take-me",
+    "title": "Here I Am (Come and Take Me)",
+    "artist": "Al Green",
+    "artistId": "al-green",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 63,
+    "trivia": [
+      "Al Green appears in the Hot 100 ranking of recorded music for 1973."
+    ],
+    "youtube_search": "Al Green Here I Am (Come and Take Me)",
+    "tags": []
+  },
+  {
+    "rank": 64,
+    "id": "my-maria",
+    "title": "My Maria",
+    "artist": "B.W. Stevenson",
+    "artistId": "bw-stevenson",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "country rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 64,
+    "trivia": [
+      "B.W. Stevenson's song was ranked 64th on the Billboard 1973 year-end chart."
+    ],
+    "youtube_search": "B.W. Stevenson My Maria",
+    "tags": []
+  },
+  {
+    "rank": 65,
+    "id": "superfly",
+    "title": "Superfly",
+    "artist": "Curtis Mayfield",
+    "artistId": "curtis-mayfield",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 65,
+    "trivia": [
+      "Curtis Mayfield's title track is part of the Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Curtis Mayfield Superfly",
+    "tags": []
+  },
+  {
+    "rank": 66,
+    "id": "last-song",
+    "title": "Last Song",
+    "artist": "Edward Bear",
+    "artistId": "edward-bear",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "soft rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 66,
+    "trivia": [
+      "Edward Bear is listed on the year-end edition of Billboard dated December 29, 1973."
+    ],
+    "youtube_search": "Edward Bear Last Song",
+    "tags": []
+  },
+  {
+    "rank": 67,
+    "id": "get-down",
+    "title": "Get Down",
+    "artist": "Gilbert O'Sullivan",
+    "artistId": "gilbert-osullivan",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "soft rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 67,
+    "trivia": [
+      "Gilbert O'Sullivan has multiple songs on the year-end chart for 1973."
+    ],
+    "youtube_search": "Gilbert O'Sullivan Get Down",
+    "tags": []
+  },
+  {
+    "rank": 68,
+    "id": "reelin-in-the-years",
+    "title": "Reelin' in the Years",
+    "artist": "Steely Dan",
+    "artistId": "steely-dan",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "jazz rock",
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 68,
+    "trivia": [
+      "Steely Dan is featured twice on the Billboard Year-End Hot 100 for 1973."
+    ],
+    "youtube_search": "Steely Dan Reelin' in the Years",
+    "tags": []
+  },
+  {
+    "rank": 69,
+    "id": "hocus-pocus",
+    "title": "Hocus Pocus",
+    "artist": "Focus",
+    "artistId": "focus",
+    "year": 1973,
+    "genre": "prog-rock",
+    "subgenre": "instrumental rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 69,
+    "trivia": [
+      "Focus's instrumental track was ranked 69th on the 1973 year-end chart."
+    ],
+    "youtube_search": "Focus Hocus Pocus",
+    "tags": []
+  },
+  {
+    "rank": 70,
+    "id": "yesterday-once-more",
+    "title": "Yesterday Once More",
+    "artist": "The Carpenters",
+    "artistId": "the-carpenters",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 70,
+    "trivia": [
+      "The Carpenters had multiple songs on the Year-End Hot 100 list in 1973."
+    ],
+    "youtube_search": "The Carpenters Yesterday Once More",
+    "tags": []
+  },
+  {
+    "rank": 71,
+    "id": "boogie-woogie-bugle-boy",
+    "title": "Boogie Woogie Bugle Boy",
+    "artist": "Bette Midler",
+    "artistId": "bette-midler",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "swing",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 71,
+    "trivia": [
+      "Bette Midler has two entries on the 1973 Billboard year-end list."
+    ],
+    "youtube_search": "Bette Midler Boogie Woogie Bugle Boy",
+    "tags": []
+  },
+  {
+    "rank": 72,
+    "id": "clair",
+    "title": "Clair",
+    "artist": "Gilbert O'Sullivan",
+    "artistId": "gilbert-osullivan",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "soft rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 72,
+    "trivia": [
+      "Gilbert O'Sullivan had multiple hits in the Billboard ranking for 1973."
+    ],
+    "youtube_search": "Gilbert O'Sullivan Clair",
+    "tags": []
+  },
+  {
+    "rank": 73,
+    "id": "do-it-again",
+    "title": "Do It Again",
+    "artist": "Steely Dan",
+    "artistId": "steely-dan",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "jazz rock",
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 73,
+    "trivia": [
+      "Steely Dan's track is part of the Top Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Steely Dan Do It Again",
+    "tags": []
+  },
+  {
+    "rank": 74,
+    "id": "kodachrome",
+    "title": "Kodachrome",
+    "artist": "Paul Simon",
+    "artistId": "paul-simon",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 74,
+    "trivia": [
+      "Paul Simon had two solo tracks in the Billboard 1973 year-end ranking."
+    ],
+    "youtube_search": "Paul Simon Kodachrome",
+    "tags": []
+  },
+  {
+    "rank": 75,
+    "id": "why-cant-we-live-together",
+    "title": "Why Can't We Live Together",
+    "artist": "Timmy Thomas",
+    "artistId": "timmy-thomas",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 75,
+    "trivia": [
+      "Timmy Thomas's soul hit was ranked 75th on the 1973 year-end chart."
+    ],
+    "youtube_search": "Timmy Thomas Why Can't We Live Together",
+    "tags": []
+  },
+  {
+    "rank": 76,
+    "id": "do-you-want-to-dance",
+    "title": "Do You Want To Dance?",
+    "artist": "Bette Midler",
+    "artistId": "bette-midler",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 76,
+    "trivia": [
+      "Bette Midler's version of this song is featured on the 1973 Hot 100."
+    ],
+    "youtube_search": "Bette Midler Do You Want To Dance?",
+    "tags": []
+  },
+  {
+    "rank": 77,
+    "id": "so-very-hard-to-go",
+    "title": "So Very Hard to Go",
+    "artist": "Tower of Power",
+    "artistId": "tower-of-power",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "bay area funk",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 77,
+    "trivia": [
+      "Tower of Power appears at number 77 on the Billboard 1973 list."
+    ],
+    "youtube_search": "Tower of Power So Very Hard to Go",
+    "tags": []
+  },
+  {
+    "rank": 78,
+    "id": "rockin-pneumonia-and-the-boogie-woogie-flu",
+    "title": "Rockin' Pneumonia and the Boogie Woogie Flu",
+    "artist": "Johnny Rivers",
+    "artistId": "johnny-rivers",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "rock and roll",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 78,
+    "trivia": [
+      "Johnny Rivers reached the year-end Billboard list for 1973 with this song."
+    ],
+    "youtube_search": "Johnny Rivers Rockin' Pneumonia and the Boogie Woogie Flu",
+    "tags": []
+  },
+  {
+    "rank": 79,
+    "id": "ramblin-man",
+    "title": "Ramblin' Man",
+    "artist": "The Allman Brothers Band",
+    "artistId": "the-allman-brothers-band",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "southern rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 79,
+    "trivia": [
+      "The Allman Brothers Band's hit was part of the 1973 year-end ranking."
+    ],
+    "youtube_search": "The Allman Brothers Band Ramblin' Man",
+    "tags": []
+  },
+  {
+    "rank": 80,
+    "id": "masterpiece",
+    "title": "Masterpiece",
+    "artist": "The Temptations",
+    "artistId": "the-temptations",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "psychedelic soul",
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 80,
+    "trivia": [
+      "The Temptations had two entries in the year-end Billboard list for 1973."
+    ],
+    "youtube_search": "The Temptations Masterpiece",
+    "tags": []
+  },
+  {
+    "rank": 81,
+    "id": "peaceful",
+    "title": "Peaceful",
+    "artist": "Helen Reddy",
+    "artistId": "helen-reddy",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "adult contemporary",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 81,
+    "trivia": [
+      "Helen Reddy had multiple songs in the Hot 100 ranking of music for 1973."
+    ],
+    "youtube_search": "Helen Reddy Peaceful",
+    "tags": []
+  },
+  {
+    "rank": 82,
+    "id": "one-of-a-kind-love-affair",
+    "title": "One of a Kind (Love Affair)",
+    "artist": "The Spinners",
+    "artistId": "the-spinners",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "philly soul",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 82,
+    "trivia": [
+      "The Spinners appear twice on the Billboard Year-End Hot 100 of 1973 chart."
+    ],
+    "youtube_search": "The Spinners One of a Kind (Love Affair)",
+    "tags": []
+  },
+  {
+    "rank": 83,
+    "id": "funny-face",
+    "title": "Funny Face",
+    "artist": "Donna Fargo",
+    "artistId": "donna-fargo",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "country pop",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 83,
+    "trivia": [
+      "Donna Fargo's country hit is part of the 1973 year-end Hot 100."
+    ],
+    "youtube_search": "Donna Fargo Funny Face",
+    "tags": []
+  },
+  {
+    "rank": 84,
+    "id": "funky-worm",
+    "title": "Funky Worm",
+    "artist": "Ohio Players",
+    "artistId": "ohio-players",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 84,
+    "trivia": [
+      "Ohio Players' funk track reached number 84 for the year 1973."
+    ],
+    "youtube_search": "Ohio Players Funky Worm",
+    "tags": []
+  },
+  {
+    "rank": 85,
+    "id": "angie",
+    "title": "Angie",
+    "artist": "The Rolling Stones",
+    "artistId": "the-rolling-stones",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 85,
+    "trivia": [
+      "The Rolling Stones appear on the year-end edition of Billboard dated December 29, 1973."
+    ],
+    "youtube_search": "The Rolling Stones Angie",
+    "tags": []
+  },
+  {
+    "rank": 86,
+    "id": "jambalaya-on-the-bayou",
+    "title": "Jambalaya (On the Bayou)",
+    "artist": "Blue Ridge Rangers",
+    "artistId": "blue-ridge-rangers",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "country rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 86,
+    "trivia": [
+      "The Blue Ridge Rangers' cover is part of the Top Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Blue Ridge Rangers Jambalaya (On the Bayou)",
+    "tags": []
+  },
+  {
+    "rank": 87,
+    "id": "dont-expect-me-to-be-your-friend",
+    "title": "Don't Expect Me to Be Your Friend",
+    "artist": "Lobo",
+    "artistId": "lobo",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 87,
+    "trivia": [
+      "Lobo is featured in the 1973 ranking of recorded music."
+    ],
+    "youtube_search": "Lobo Don't Expect Me to Be Your Friend",
+    "tags": []
+  },
+  {
+    "rank": 88,
+    "id": "break-up-to-make-up",
+    "title": "Break Up to Make Up",
+    "artist": "The Stylistics",
+    "artistId": "the-stylistics",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "philly soul",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 88,
+    "trivia": [
+      "The Stylistics' soul track was ranked 88th for the year ending in 1973."
+    ],
+    "youtube_search": "The Stylistics Break Up to Make Up",
+    "tags": []
+  },
+  {
+    "rank": 89,
+    "id": "daisy-a-day",
+    "title": "Daisy a Day",
+    "artist": "Jud Strunk",
+    "artistId": "jud-strunk",
+    "year": 1973,
+    "genre": "country",
+    "subgenre": "folk",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 89,
+    "trivia": [
+      "Jud Strunk's song appears in the Billboard Year-End Hot 100 for 1973."
+    ],
+    "youtube_search": "Jud Strunk Daisy a Day",
+    "tags": []
+  },
+  {
+    "rank": 90,
+    "id": "also-sprach-zarathustra-2001",
+    "title": "Also Sprach Zarathustra (2001)",
+    "artist": "Deodato",
+    "artistId": "deodato",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "jazz fusion",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 90,
+    "trivia": [
+      "Deodato's adaptation is part of the Hot 100 songs of 1973."
+    ],
+    "youtube_search": "Deodato Also Sprach Zarathustra (2001)",
+    "tags": []
+  },
+  {
+    "rank": 91,
+    "id": "stir-it-up",
+    "title": "Stir It Up",
+    "artist": "Johnny Nash",
+    "artistId": "johnny-nash",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "reggae",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 91,
+    "trivia": [
+      "Johnny Nash is featured on the 1973 Hot 100 year-end list."
+    ],
+    "youtube_search": "Johnny Nash Stir It Up",
+    "tags": []
+  },
+  {
+    "rank": 92,
+    "id": "money",
+    "title": "Money",
+    "artist": "Pink Floyd",
+    "artistId": "pink-floyd",
+    "year": 1973,
+    "genre": "prog-rock",
+    "subgenre": "art rock",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 92,
+    "trivia": [
+      "Pink Floyd's track is part of the ranking of music for the year 1973."
+    ],
+    "youtube_search": "Pink Floyd Money",
+    "tags": []
+  },
+  {
+    "rank": 93,
+    "id": "gypsy-man",
+    "title": "Gypsy Man",
+    "artist": "War",
+    "artistId": "war",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "jazz rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 93,
+    "trivia": [
+      "War had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "War Gypsy Man",
+    "tags": []
+  },
+  {
+    "rank": 94,
+    "id": "the-world-is-a-ghetto",
+    "title": "The World Is a Ghetto",
+    "artist": "War",
+    "artistId": "war",
+    "year": 1973,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 94,
+    "trivia": [
+      "War had three songs on the Year-End Hot 100 in 1973."
+    ],
+    "youtube_search": "War The World Is a Ghetto",
+    "tags": []
+  },
+  {
+    "rank": 95,
+    "id": "yes-we-can-can",
+    "title": "Yes We Can Can",
+    "artist": "The Pointer Sisters",
+    "artistId": "the-pointer-sisters",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "rhythm and blues",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 95,
+    "trivia": [
+      "The Pointer Sisters appear at number 95 on the Billboard 1973 chart."
+    ],
+    "youtube_search": "The Pointer Sisters Yes We Can Can",
+    "tags": []
+  },
+  {
+    "rank": 96,
+    "id": "free-ride",
+    "title": "Free Ride",
+    "artist": "The Edgar Winter Group",
+    "artistId": "the-edgar-winter-group",
+    "year": 1973,
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 96,
+    "trivia": [
+      "The Edgar Winter Group had multiple entries on the 1973 Billboard chart."
+    ],
+    "youtube_search": "The Edgar Winter Group Free Ride",
+    "tags": []
+  },
+  {
+    "rank": 97,
+    "id": "space-oddity",
+    "title": "Space Oddity",
+    "artist": "David Bowie",
+    "artistId": "david-bowie",
+    "year": 1973,
+    "genre": "classic-rock",
+    "subgenre": "glam rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 97,
+    "trivia": [
+      "David Bowie's song re-entered and was part of the Hot 100 for 1973."
+    ],
+    "youtube_search": "David Bowie Space Oddity",
+    "tags": []
+  },
+  {
+    "rank": 98,
+    "id": "it-never-rains-in-southern-california",
+    "title": "It Never Rains in Southern California",
+    "artist": "Albert Hammond",
+    "artistId": "albert-hammond",
+    "year": 1973,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 98,
+    "trivia": [
+      "Albert Hammond is featured on the year-end Billboard list for 1973."
+    ],
+    "youtube_search": "Albert Hammond It Never Rains in Southern California",
+    "tags": []
+  },
+  {
+    "rank": 99,
+    "id": "the-twelfth-of-never",
+    "title": "The Twelfth of Never",
+    "artist": "Donny Osmond",
+    "artistId": "donny-osmond",
+    "year": 1973,
+    "genre": "pop",
+    "subgenre": "traditional pop",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 99,
+    "trivia": [
+      "Donny Osmond reached the year-end 1973 chart with this classic song."
+    ],
+    "youtube_search": "Donny Osmond The Twelfth of Never",
+    "tags": []
+  },
+  {
+    "rank": 100,
+    "id": "papa-was-a-rollin-stone",
+    "title": "Papa Was a Rollin' Stone",
+    "artist": "The Temptations",
+    "artistId": "the-temptations",
+    "year": 1973,
+    "genre": "soul",
+    "subgenre": "psychedelic soul",
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 100,
+    "trivia": [
+      "The Temptations had two entries in the year-end Billboard list for 1973."
+    ],
+    "youtube_search": "The Temptations Papa Was a Rollin' Stone",
+    "tags": []
+  }
+]

@@ -1,0 +1,3388 @@
+[
+  {
+    "id": "average-white-band",
+    "name": "Average White Band",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Dundee, Scotland",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "In the 1970s, Average White Band established themselves as a premier tight-groove funk ensemble with a strong influence from American R&B. They combined melodic soul vocals with precision-focused instrumental arrangements, most famously on their multi-million selling track 'Pick Up the Pieces'. Their sound was distinguished by a sophisticated horn section and a polished production style that bridged the gap between pure funk and early disco.",
+    "members_70s": [
+      "Alan Gorrie",
+      "Onnie McIntyre",
+      "Hamish Stuart",
+      "Roger Ball",
+      "Malcolm Duncan",
+      "Robbie McIntosh",
+      "Steve Ferrone"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Show Your Hand",
+        "year": 1973
+      },
+      {
+        "title": "AWB",
+        "year": 1974
+      },
+      {
+        "title": "Cut the Cake",
+        "year": 1975
+      },
+      {
+        "title": "Soul Searching",
+        "year": 1976
+      },
+      {
+        "title": "Warmer Communications",
+        "year": 1978
+      },
+      {
+        "title": "Feel No Fret",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Pick Up the Pieces",
+      "Cut the Cake",
+      "If I Ever Lose This Heaven",
+      "School Boy Crush",
+      "Queen of My Soul",
+      "A Love of Your Own"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was initially proposed by Bonnie Bramlett. They are ranked as the 15th most sampled act in history due to their heavy influence on hip hop.",
+      "The group's 1974 self-titled album reached number one on both the US Billboard 200 and R&B charts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Average_White_Band",
+    "youtube_search": "Average White Band Pick Up the Pieces",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "blue-eyed-soul"
+    ]
+  },
+  {
+    "id": "bar-kays",
+    "name": "Bar-Kays",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Memphis, Tennessee, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "In the 1970s, the Bar-Kays successfully transitioned from being a premier Stax session band to a powerhouse self-contained funk unit. Their sound evolved from gritty Southern soul-instrumentals into a more elaborate, high-energy funk-rock and disco-infused style. They became known for their explosive live performances and heavy, driving basslines that helped define the late-70s funk era.",
+    "members_70s": [
+      "James Alexander",
+      "Larry Dodson",
+      "Harvey Henderson",
+      "Winston Stewart",
+      "Lloyd Smith",
+      "Michael Beard",
+      "Charles Allen"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Black Rock",
+        "year": 1971
+      },
+      {
+        "title": "Do You See What I See?",
+        "year": 1972
+      },
+      {
+        "title": "Coldblooded",
+        "year": 1974
+      },
+      {
+        "title": "Too Hot to Stop",
+        "year": 1976
+      },
+      {
+        "title": "Flying High on Your Love",
+        "year": 1977
+      },
+      {
+        "title": "Injoy",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Son of Shaft",
+      "Shake Your Rump to the Funk",
+      "Too Hot to Stop",
+      "Spellbound",
+      "Let's Have Some Fun",
+      "Holy Ghost",
+      "Move Your Boogie Body"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "After losing most of their original lineup in a 1967 plane crash, the group reformed and eventually became the backing band for Isaac Hayes. Their hit 'Holy Ghost' is recognized as a quintessential funk anthem of the late 70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bar-Kays",
+    "youtube_search": "Bar-Kays Holy Ghost",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "stax"
+    ]
+  },
+  {
+    "id": "bobby-byrd",
+    "name": "Bobby Byrd",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Toccoa, Georgia, USA",
+    "formed": 1952,
+    "active_70s": true,
+    "description": "Bobby Byrd was the foundational architect of the James Brown sound, serving as Brown's most consistent collaborator and hype man during the 1970s. His solo recordings from this era are cornerstones of heavy funk, characterized by raw vocal intensity and hypnotic repetitive grooves. He provided the essential vocal support and rhythmic anchor that allowed Brown's funk innovations to flourish.",
+    "key_albums_70s": [
+      {
+        "title": "James Brown Plays Nothing But Soul",
+        "year": 1970
+      },
+      {
+        "title": "Food for Thought",
+        "year": 1972
+      },
+      {
+        "title": "Doing It to Death",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "I Know You Got Soul",
+      "Hot Pants - I'm Coming, Coming, I'm Coming",
+      "If You Don't Work You Can't Eat",
+      "Keep On Doin'",
+      "Sayin' It and Doin' It"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Byrd is credited with discovering James Brown and was the founder of the Famous Flames. His signature vocal interjections are among the most sampled sounds in hip hop history, notably 'I Know You Got Soul'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bobby_Byrd",
+    "youtube_search": "Bobby Byrd I Know You Got Soul",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "james-brown"
+    ]
+  },
+  {
+    "id": "bootsy-collins",
+    "name": "Bootsy Collins",
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "origin": "Cincinnati, Ohio, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Bootsy Collins redefined the role of the bass guitar in the 1970s, moving from the J.B.'s to become a central pillar of the Parliament-Funkadelic collective. With his Rubber Band, he introduced a whimsical, space-themed persona characterized by heavy use of the wah-wah pedal and multi-layered 'space bass' grooves. His sound blended deep, driving rhythms with humorous, cartoonish vocals that became a definitive element of P-Funk.",
+    "key_albums_70s": [
+      {
+        "title": "Stretchin' Out in Bootsy's Rubber Band",
+        "year": 1976
+      },
+      {
+        "title": "Ahh... The Name Is Bootsy, Baby!",
+        "year": 1977
+      },
+      {
+        "title": "Bootsy? Player of the Year",
+        "year": 1978
+      },
+      {
+        "title": "This Boot Is Made for Fonk-N",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Stretchin' Out",
+      "The Pinocchio Theory",
+      "I'd Rather Be with You",
+      "Bootzilla",
+      "Hollywood Squares",
+      "Vanishing"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1978 album 'Bootsy? Player of the Year' topped the Billboard R&B chart. He is widely considered one of the top five greatest bassists of all time by Rolling Stone."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bootsy_Collins",
+    "youtube_search": "Bootsy Collins I'd Rather Be With You",
+    "tags": [
+      "funk",
+      "p-funk",
+      "bass"
+    ]
+  },
+  {
+    "id": "brass-construction",
+    "name": "Brass Construction",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Brooklyn, New York, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "In the mid-70s, Brass Construction helped define the orchestral dance-funk sound with heavy emphasis on layered horn sections and driving percussion. Their compositions typically featured extended, high-energy instrumental vamps that bridged the gap between funk and the emerging disco scene. Under the leadership of Randy Muller, they produced sophisticated arrangements that became staples of the New York club circuit.",
+    "members_70s": [
+      "Randy Muller",
+      "Wade Williamston",
+      "Sandy Billups",
+      "Morris Price",
+      "Larry Payton",
+      "Jesse Ward Jr.",
+      "Michael Grudge",
+      "Wayne Parris"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Brass Construction",
+        "year": 1975
+      },
+      {
+        "title": "Brass Construction II",
+        "year": 1976
+      },
+      {
+        "title": "Brass Construction III",
+        "year": 1977
+      },
+      {
+        "title": "Brass Construction IV",
+        "year": 1978
+      },
+      {
+        "title": "Brass Construction 5",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Movin'",
+      "Changin'",
+      "Ha Cha Cha (Funktion)",
+      "The Message (Inspirational)",
+      "Celebrate",
+      "L-O-V-E-U",
+      "Get Up"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their debut single 'Movin'' reached number one on the US Hot Dance Club Play chart in 1976. Founder Randy Muller also achieved success arranging for other funk icons like B.T. Express."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brass_Construction",
+    "youtube_search": "Brass Construction Movin",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "disco"
+    ]
+  },
+  {
+    "id": "cameo",
+    "name": "Cameo",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "New York City, New York, USA",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Initially known as the New York City Players, Cameo emerged in the late 70s as a horn-heavy funk ensemble influenced by Parliament-Funkadelic. Their 1970s sound was organic and orchestral, featuring complex horn arrangements and tight rhythm sections before they adopted their signature drum-machine style of the 80s. They were significant for maintaining a raw, club-oriented funk appeal while achieving steady R&B chart success.",
+    "members_70s": [
+      "Larry Blackmon",
+      "Tomi Jenkins",
+      "Nathan Leftenant",
+      "Gregory B. Johnson",
+      "Arnett Leftenant",
+      "Jeryl Bright"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Cardiac Arrest",
+        "year": 1977
+      },
+      {
+        "title": "We All Know Who We Are",
+        "year": 1978
+      },
+      {
+        "title": "Ugly Ego",
+        "year": 1978
+      },
+      {
+        "title": "Secret Omen",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Rigor Mortis",
+      "Post Mortem",
+      "It's Serious",
+      "It's Over",
+      "I Just Want to Be",
+      "Sparkle"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band changed their name from 'The Players' to 'Cameo' after Mercury Records complained it was too similar to the Ohio Players. The name 'Cameo' was taken from a brand of cigarettes found in Canada."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cameo_(band)",
+    "youtube_search": "Cameo Rigor Mortis",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "larry-blackmon"
+    ]
+  },
+  {
+    "id": "charles-wright-and-the-watts-103rd-street-rhythm-band",
+    "name": "Charles Wright & the Watts 103rd Street Rhythm Band",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Charles Wright and his band were pioneers of the 'West Coast' funk sound, characterized by loose, extended grooves and conversational vocal styles. Their early 70s work bridged the gap between traditional soul and a more experimental, rhythmically-centered funk. They were essential for developing hypnotic, stripped-down arrangements that prioritized the 'pocket' over orchestral complexity.",
+    "members_70s": [
+      "Charles Wright",
+      "James Gadson",
+      "Melvin Dunlap",
+      "Ray Jackson",
+      "Al McKay",
+      "Benorce Blackmon",
+      "Gabe Flemings"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Express Yourself",
+        "year": 1970
+      },
+      {
+        "title": "You're So Beautiful",
+        "year": 1971
+      },
+      {
+        "title": "Rhythm & Poetry",
+        "year": 1972
+      },
+      {
+        "title": "Doin' What Comes Naturally",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Express Yourself",
+      "Love Land",
+      "Solution for Pollution",
+      "Your Love (Means Everything to Me)",
+      "I Got Your Love",
+      "Must Be Your Thing"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The song 'Express Yourself' became an iconic hip-hop sample, most notably for N.W.A. Several core members eventually left to work with Bill Withers, contributing to his seminal early 70s recordings."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Wright_%26_the_Watts_103rd_Street_Rhythm_Band",
+    "youtube_search": "Charles Wright Express Yourself",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "west-coast"
+    ]
+  },
+  {
+    "id": "cold-blood",
+    "name": "Cold Blood",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Oakland, California, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Based in Oakland, Cold Blood was a key architect of the East Bay horn-funk sound, often featuring the powerful vocals of Lydia Pense. Their 1970s sound melded rock energy with R&B horn arrangements and jazz-influenced structures. They were significant for their collaborations with producers like Donny Hathaway and for helping establish the San Francisco Bay Area as a major funk hub.",
+    "members_70s": [
+      "Lydia Pense",
+      "Larry Field",
+      "Danny Hull",
+      "Larry Jonutz",
+      "Pat O'Hara",
+      "Raul Matute",
+      "Jerry Jonutz",
+      "David Padron",
+      "Rod Ellicott"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Sisyphus",
+        "year": 1970
+      },
+      {
+        "title": "First Taste of Sin",
+        "year": 1972
+      },
+      {
+        "title": "Thriller",
+        "year": 1973
+      },
+      {
+        "title": "Lydia",
+        "year": 1974
+      },
+      {
+        "title": "Lydia Pense and Cold Blood",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "You Got Me Hummin'",
+      "Too Many People",
+      "I'm a Good Woman",
+      "I Adore You",
+      "Baby I Love You"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Their album 'First Taste of Sin' was produced by soul legend Donny Hathaway. The group is often grouped with Tower of Power as definitive representatives of the Oakland horn-funk scene."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cold_Blood_(band)",
+    "youtube_search": "Cold Blood You Got Me Hummin",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "oakland"
+    ]
+  },
+  {
+    "id": "con-funk-shun",
+    "name": "Con Funk Shun",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Vallejo, California, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Emerging from Vallejo in the late 70s, Con Funk Shun specialized in a blend of high-energy dance funk and smooth soul ballads. Their sound was characterized by tight horn section interplay and the dual lead vocals of Felton Pilate and Michael Cooper. They achieved major commercial success during the late 70s transition into the disco era while maintaining a core funk identity.",
+    "members_70s": [
+      "Michael Cooper",
+      "Felton Pilate",
+      "Louis A. McCall Sr.",
+      "Cedric Martin",
+      "Karl Fuller",
+      "Paul Harrell",
+      "Danny Thomas"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Con Funk Shun",
+        "year": 1976
+      },
+      {
+        "title": "Secrets",
+        "year": 1977
+      },
+      {
+        "title": "Loveshine",
+        "year": 1978
+      },
+      {
+        "title": "Candy",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Ffun",
+      "Shake and Dance with Me",
+      "Confunkshunizeya",
+      "Sho Feels Good to Me",
+      "Chase Me",
+      "Loveshine"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'Ffun' reached number one on the US R&B chart in 1977. In 2014, the seven original band members were honored with a Lifetime Achievement Award by the National R&B Music Society."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Con_Funk_Shun",
+    "youtube_search": "Con Funk Shun Ffun",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "dance"
+    ]
+  },
+  {
+    "id": "cymande",
+    "name": "Cymande",
+    "genre": "funk",
+    "subgenre": "afro-funk",
+    "origin": "London, England",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Active in the early 1970s, Cymande developed a unique sound they called 'nyah-rock,' a blend of funk, calypso, reggae, and soul. Their music was characterized by spiritual themes, hypnotic percussion, and a relaxed, deeply atmospheric groove. Despite a short initial lifespan, their sophisticated rhythmic structures became foundational for both early hip-hop and later house music.",
+    "members_70s": [
+      "Ray King",
+      "Steve Scipio",
+      "Patrick Patterson",
+      "Derek Gibbs",
+      "Pablo Gonsales",
+      "Sam Kelly",
+      "Joey Dee",
+      "Peter Serreo",
+      "Mike Rose"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Cymande",
+        "year": 1972
+      },
+      {
+        "title": "Second Time Round",
+        "year": 1973
+      },
+      {
+        "title": "Promised Heights",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "The Message",
+      "Bra",
+      "Dove",
+      "Fug",
+      "One Brothers Stick Together",
+      "Brothers on the Slide"
+    ],
+    "mood": [
+      "nostalgic",
+      "happy",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band's name is derived from a calypso word meaning 'dove,' symbolizing peace and love. Their music became cult hits in the US hip-hop scene decades after their initial dissolution."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cymande",
+    "youtube_search": "Cymande The Message",
+    "tags": [
+      "funk",
+      "afro-funk",
+      "spiritual-funk"
+    ]
+  },
+  {
+    "id": "donald-byrd",
+    "name": "Donald Byrd",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Detroit, Michigan, USA",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "Donald Byrd was a pioneering jazz trumpeter who successfully transitioned into jazz-funk in the early 1970s through his partnership with the Mizell Brothers. His 70s sound featured ethereal synthesizers, soulful backing vocals, and tight, danceable rhythm tracks that redefined 'crossover jazz'. He became a central figure in the fusion movement, influencing both the soul-jazz and acid jazz genres.",
+    "key_albums_70s": [
+      {
+        "title": "Fancy Free",
+        "year": 1970
+      },
+      {
+        "title": "Electric Byrd",
+        "year": 1970
+      },
+      {
+        "title": "Ethiopian Knights",
+        "year": 1971
+      },
+      {
+        "title": "Black Byrd",
+        "year": 1973
+      },
+      {
+        "title": "Stepping into Tomorrow",
+        "year": 1975
+      },
+      {
+        "title": "Places and Spaces",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Black Byrd",
+      "Lansana's Priestess",
+      "Think Twice",
+      "Stepping into Tomorrow",
+      "Wind Parade",
+      "Dominoes"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1973 album 'Black Byrd' was for many years Blue Note Records' best-selling album of all time. He also founded and produced the successful fusion group The Blackbyrds with his Howard University students."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Byrd",
+    "youtube_search": "Donald Byrd Black Byrd",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "blue-note"
+    ]
+  },
+  {
+    "id": "dyke-and-the-blazers",
+    "name": "Dyke and the Blazers",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Buffalo, New York, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Dyke and the Blazers were early pioneers of the gritty, raw funk sound that emerged in the late 1960s and carried into the early 70s. Their music was defined by repetitive, rhythmic intensity and Arlester 'Dyke' Christian's raw, shouting vocal style. They were instrumental in developing the 'funky' rhythmic innovations that became standard across the genre during the early 1970s.",
+    "members_70s": [
+      "Arlester Christian",
+      "Alvester Jacobs",
+      "J.V. Hunt",
+      "Bernard Williams",
+      "Rich Cason",
+      "Rodney Brown"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Funky Broadway",
+      "We Got More Soul",
+      "Let a Woman Be a Woman",
+      "Uhh",
+      "Runaway People",
+      "You Are My Sunshine"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band is famous for recording the original version of 'Funky Broadway' in 1966. Their career was cut short when leader Arlester Christian was tragically killed in 1971."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dyke_and_the_Blazers",
+    "youtube_search": "Dyke and the Blazers Funky Broadway",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "early-funk"
+    ]
+  },
+  {
+    "id": "earth-wind-and-fire",
+    "name": "Earth, Wind & Fire",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "During the 1970s, Earth, Wind & Fire became the gold standard for orchestral, high-production soul-funk. Their sound was a complex tapestry of jazz, African rhythms, R&B, and pop, distinguished by the interplay of falsetto and tenor vocals. They were legendary for their elaborate, cosmic-themed stage shows and for consistently delivering upbeat, spiritually-resonant anthems that dominated the charts.",
+    "members_70s": [
+      "Maurice White",
+      "Philip Bailey",
+      "Verdine White",
+      "Ralph Johnson",
+      "Larry Dunn",
+      "Al McKay",
+      "Andrew Woolfolk",
+      "Fred White",
+      "Johnny Graham"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Last Days and Time",
+        "year": 1972
+      },
+      {
+        "title": "Head to the Sky",
+        "year": 1973
+      },
+      {
+        "title": "Open Our Eyes",
+        "year": 1974
+      },
+      {
+        "title": "That's the Way of the World",
+        "year": 1975
+      },
+      {
+        "title": "Spirit",
+        "year": 1976
+      },
+      {
+        "title": "All 'n All",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Shining Star",
+      "September",
+      "Boogie Wonderland",
+      "Got to Get You into My Life",
+      "Serpentine Fire",
+      "Fantasy",
+      "Sing a Song",
+      "That's the Way of the World"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed by Maurice White, a former session drummer for Chess Records and member of the Ramsey Lewis Trio. Their 1975 album 'That's the Way of the World' was the soundtrack to a film in which the band members themselves appeared."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Earth,Wind%26_Fire",
+    "youtube_search": "Earth Wind Fire September",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "iconic"
+    ]
+  },
+  {
+    "id": "fatback-band",
+    "name": "Fatback Band",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "New York City, New York, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "The Fatback Band specialized in what they called 'street funk,' characterized by thick, gritty basslines and infectious, repetitive dance grooves. Their 1970s sound transitioned from raw instrumental jams to a more polished, disco-friendly R&B style. They were a pivotal group in the New York club scene, known for their focus on the rhythmic 'pocket' and for producing many of the decade's essential dancefloor hits.",
+    "members_70s": [
+      "Bill 'Fatback' Curtis",
+      "Johnny Flippin",
+      "Gerry Thomas",
+      "Johnny King",
+      "George Williams",
+      "Earl Shelton"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Keep on Steppin'",
+        "year": 1974
+      },
+      {
+        "title": "Raising Hell",
+        "year": 1975
+      },
+      {
+        "title": "Night Fever",
+        "year": 1976
+      },
+      {
+        "title": "Fired Up 'N' Kickin",
+        "year": 1978
+      },
+      {
+        "title": "Fatback XII",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "(Are You Ready) Do the Bus Stop",
+      "Spanish Hustle",
+      "Party Time",
+      "I Like Girls",
+      "King Tim III (Personality Jock)",
+      "Wicki-Wacky"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their 1979 single 'King Tim III (Personality Jock)' is widely considered the first commercially released hip-hop single. Founder Bill Curtis was a session drummer who aimed to merge New Orleans 'fatback' beats with funk."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatback_Band",
+    "youtube_search": "Fatback Band Spanish Hustle",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "street-funk"
+    ]
+  },
+  {
+    "id": "frankie-beverly",
+    "name": "Frankie Beverly",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Frankie Beverly was the iconic voice and producer behind the group Maze, establishing a signature sound of smooth, soulful funk during the late 70s. His compositions were known for their mid-tempo grooves, sophisticated arrangements, and relatable lyrics about love and community. He were significant for cultivating a fiercely loyal fan base through consistent, high-energy live performances and a polished, professional aesthetic.",
+    "key_albums_70s": [
+      {
+        "title": "Maze featuring Frankie Beverly",
+        "year": 1977
+      },
+      {
+        "title": "Golden Time of Day",
+        "year": 1978
+      },
+      {
+        "title": "Inspiration",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "While I'm Alone",
+      "Lady of Magic",
+      "Workin' Together",
+      "Golden Time of Day",
+      "Travelin' Man",
+      "Feel That You're Feelin'"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "reflect"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "He formed the band Maze (originally called Raw Soul) in Philadelphia before moving to San Francisco. Marvin Gaye was a major supporter who encouraged the band to change their name to Maze."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frankie_Beverly",
+    "youtube_search": "Frankie Beverly Maze Before I Let Go",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "maze"
+    ]
+  },
+  {
+    "id": "fred-wesley",
+    "name": "Fred Wesley",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Columbus, Georgia, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Fred Wesley was the pivotal trombonist and musical director for James Brown's J.B.'s before joining the Parliament-Funkadelic collective in the late 70s. His solo work and leadership in the 70s were characterized by incredibly precise horn arrangements and gritty, low-slung funk grooves. He was essential for adding instrumental punch and formal structure to some of the era's most foundational funk recordings.",
+    "key_albums_70s": [
+      {
+        "title": "Food for Thought",
+        "year": 1972
+      },
+      {
+        "title": "Doing It to Death",
+        "year": 1973
+      },
+      {
+        "title": "Damn Right I Am Somebody",
+        "year": 1974
+      },
+      {
+        "title": "Breakin' Bread",
+        "year": 1975
+      },
+      {
+        "title": "A Blow for Me, a Toot to You",
+        "year": 1977
+      },
+      {
+        "title": "Say Blow by Blow Backwards",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Doing It to Death",
+      "Damn Right I Am Somebody",
+      "Breakin' Bread",
+      "Blow Your Head",
+      "J.B. Shout",
+      "A Blow for Me, a Toot to You"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Wesley was the bandleader and musical director of the J.B.'s, composing many of James Brown's biggest hits. He later led 'The Horny Horns,' a brass section shared by Parliament and Funkadelic."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fred_Wesley",
+    "youtube_search": "Fred Wesley Doing It to Death",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "trombone"
+    ]
+  },
+  {
+    "id": "funkadelic",
+    "name": "Funkadelic",
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "origin": "Plainfield, New Jersey, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Funkadelic was the experimental, rock-oriented flagship of George Clinton's P-Funk empire, known for blending psychedelic rock with deep soul and funk. Their 1970s sound was dominated by distorted electric guitars, heavy bass vamps, and Afrofuturist concepts. They were essential for pioneering funk-rock and for pushing the boundaries of the genre with socially conscious lyrics and long, improvisational jams.",
+    "members_70s": [
+      "George Clinton",
+      "Eddie Hazel",
+      "Bernie Worrell",
+      "Bootsy Collins",
+      "Garry Shider",
+      "Cordell Mosson",
+      "Jerome Brailey",
+      "Tiki Fulwood"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Maggot Brain",
+        "year": 1971
+      },
+      {
+        "title": "Cosmic Slop",
+        "year": 1973
+      },
+      {
+        "title": "Standing on the Verge of Getting It On",
+        "year": 1974
+      },
+      {
+        "title": "Let's Take It to the Stage",
+        "year": 1975
+      },
+      {
+        "title": "One Nation Under a Groove",
+        "year": 1978
+      },
+      {
+        "title": "Uncle Jam Wants You",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Maggot Brain",
+      "Cosmic Slop",
+      "Red Hot Mama",
+      "One Nation Under a Groove",
+      "(Not Just) Knee Deep",
+      "Standing on the Verge of Getting It On",
+      "Get Off Your Ass and Jam"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group's 1978 album 'One Nation Under a Groove' was a massive crossover success, certified Platinum in the US. Guitarist Eddie Hazel's solo on 'Maggot Brain' is often cited as one of the greatest in rock history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Funkadelic",
+    "youtube_search": "Funkadelic One Nation Under a Groove",
+    "tags": [
+      "funk",
+      "p-funk",
+      "rock"
+    ]
+  },
+  {
+    "id": "george-clinton",
+    "name": "George Clinton",
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "origin": "Kannapolis, North Carolina, USA",
+    "formed": 1955,
+    "active_70s": true,
+    "description": "As the mastermind behind the Parliament-Funkadelic collective, George Clinton was the primary architect of P-Funk in the 1970s. He developed an eclectic and influential sound that combined outlandish fashion, Afrofuturism, psychedelia, and surreal humor. His production and bandleading dominated the decade's funk scene, blending the grit of street funk with the complexity of rock and jazz arrangements.",
+    "key_albums_70s": [
+      {
+        "title": "Mothership Connection",
+        "year": 1975
+      },
+      {
+        "title": "The Clones of Dr. Funkenstein",
+        "year": 1976
+      },
+      {
+        "title": "Funkentelechy vs. the Placebo Syndrome",
+        "year": 1977
+      },
+      {
+        "title": "One Nation Under a Groove",
+        "year": 1978
+      },
+      {
+        "title": "Motor Booty Affair",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Give Up the Funk (Tear the Roof off the Sucker)",
+      "P. Funk (Wants to Get Funked Up)",
+      "Flash Light",
+      "Bop Gun",
+      "Aqua Boogie",
+      "Atomic Dog"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Clinton is regarded as one of the three foremost innovators of funk, alongside James Brown and Sly Stone. He founded his musical empire while working at a barbershop in Plainfield, New Jersey."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_Clinton_(funk_musician)",
+    "youtube_search": "George Clinton Parliament Flash Light",
+    "tags": [
+      "funk",
+      "p-funk",
+      "mastermind"
+    ]
+  },
+  {
+    "id": "graham-central-station",
+    "name": "Graham Central Station",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Oakland, California, USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Formed by Larry Graham after his departure from Sly and the Family Stone, Graham Central Station was defined by its revolutionary 'slap' bass technique and heavy gospel-rock energy. Their 1970s sound featured powerful vocal harmonies, driving rhythms, and pioneering use of the drum machine and fuzz bass. They were essential for bringing a harder, more aggressive funk-rock edge to the soul music landscape of the mid-70s.",
+    "members_70s": [
+      "Larry Graham",
+      "Patryce Banks",
+      "David Vega",
+      "Hershall Kennedy",
+      "Willie Sparks",
+      "Robert Sam"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Graham Central Station",
+        "year": 1974
+      },
+      {
+        "title": "Release Yourself",
+        "year": 1974
+      },
+      {
+        "title": "Ain't No 'Bout-A-Doubt It",
+        "year": 1975
+      },
+      {
+        "title": "Mirror",
+        "year": 1976
+      },
+      {
+        "title": "Now Do U Wanta Dance",
+        "year": 1977
+      },
+      {
+        "title": "My Radio Sure Sounds Good to Me",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Your Love",
+      "Feel the Need",
+      "The Jam",
+      "Now Do-U-Wanta Dance",
+      "Release Yourself",
+      "Can You Handle It?"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Founder Larry Graham is credited with inventing the slapping technique on the electric bass. The band's name is a pun on New York City's Grand Central Terminal."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Central_Station",
+    "youtube_search": "Graham Central Station The Jam",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "bass"
+    ]
+  },
+  {
+    "id": "heatwave",
+    "name": "Heatwave",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "London, England",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Heatwave emerged in the late 70s with a polished, multinational sound that combined heavy funk grooves with high-gloss disco and soul-pop production. Their sound featured tight, melodic horn arrangements and a focus on catchy, danceable song structures tailored for the club scene. They were significant for their international crossover success and for the songwriting of keyboardist Rod Temperton, who later became a primary collaborator for Michael Jackson.",
+    "members_70s": [
+      "Johnnie Wilder Jr.",
+      "Keith Wilder",
+      "Rod Temperton",
+      "Mario Mantese",
+      "Ernest Berger",
+      "Eric Johns",
+      "Roy Carter"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Too Hot to Handle",
+        "year": 1976
+      },
+      {
+        "title": "Central Heating",
+        "year": 1978
+      },
+      {
+        "title": "Hot Property",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Boogie Nights",
+      "The Groove Line",
+      "Always and Forever",
+      "Too Hot to Handle",
+      "Mind Blowing Decisions",
+      "Gangsters of the Groove"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Founding member Johnnie Wilder Jr. was an American serviceman who formed the band after relocating to the UK. Songwriter Rod Temperton went on to write Michael Jackson's hits 'Thriller,' 'Rock with You,' and 'Off the Wall.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heatwave_(band)",
+    "youtube_search": "Heatwave Boogie Nights",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "disco"
+    ]
+  },
+  {
+    "id": "herbie-hancock",
+    "name": "Herbie Hancock",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "In the 1970s, jazz legend Herbie Hancock pivoted to electronic music and funk, resulting in some of the most influential jazz-fusion recordings of all time. His sound featured a dense array of synthesizers and tight, rhythmic structures that appealed to pop and soul audiences. He were significant for bridging the gap between high-level jazz improvisation and commercial street-funk rhythms.",
+    "key_albums_70s": [
+      {
+        "title": "Mwandishi",
+        "year": 1971
+      },
+      {
+        "title": "Crossings",
+        "year": 1972
+      },
+      {
+        "title": "Sextant",
+        "year": 1973
+      },
+      {
+        "title": "Head Hunters",
+        "year": 1973
+      },
+      {
+        "title": "Thrust",
+        "year": 1974
+      },
+      {
+        "title": "Man-Child",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Chameleon",
+      "Watermelon Man",
+      "Palm Grease",
+      "Actual Proof",
+      "Spank-a-Lee",
+      "I Thought It Was You"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1973 album 'Head Hunters' was a massive commercial success and is one of the best-selling jazz albums of all time. He is a primary architect of the post-bop jazz sound who successfully explored funk using synthesizers like the ARP Odyssey."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Herbie_Hancock",
+    "youtube_search": "Herbie Hancock Chameleon",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "synthesizer"
+    ]
+  },
+  {
+    "id": "honey-cone",
+    "name": "Honey Cone",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Honey Cone was the premier female soul-funk group for the Hot Wax label, established by the Holland-Dozier-Holland team after leaving Motown. Their early 70s sound combined catchy pop melodies with a driving, rhythmically sharp funk edge. They were significant for delivering socially-conscious lyrics from a female perspective while maintaining massive chart popularity during the first half of the decade.",
+    "members_70s": [
+      "Edna Wright",
+      "Carolyn Willis",
+      "Shelly Clark"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Take Me with You",
+        "year": 1970
+      },
+      {
+        "title": "Sweet Replies",
+        "year": 1971
+      },
+      {
+        "title": "Soulful Tapestry",
+        "year": 1971
+      },
+      {
+        "title": "Love, Peace & Soul",
+        "year": 1972
+      }
+    ],
+    "key_songs_70s": [
+      "Want Ads",
+      "Stick-Up",
+      "One Monkey Don't Stop No Show",
+      "The Day I Found Myself",
+      "While You're Out Looking for Sugar?",
+      "Girls It Ain't Easy"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "Their single 'Want Ads' reached number one on both the US Billboard Hot 100 and R&B charts in 1971. Lead singer Edna Wright was the sister of gospel and soul legend Darlene Love."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Honey_Cone",
+    "youtube_search": "Honey Cone Want Ads",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "girl-group"
+    ]
+  },
+  {
+    "id": "hot-chocolate",
+    "name": "Hot Chocolate",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "London, England",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Based in London, Hot Chocolate specialized in a melodic soul-funk sound that achieved consistent chart success throughout the 1970s. Their sound blended a smooth pop sensibility with hard-hitting funk percussion and basslines. They were significant for their longevity, having a hit on the UK charts every single year between 1970 and 1984.",
+    "members_70s": [
+      "Errol Brown",
+      "Tony Wilson",
+      "Patrick Olive",
+      "Harvey Hinsley",
+      "Tony Connor",
+      "Larry Ferguson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Cicero Park",
+        "year": 1974
+      },
+      {
+        "title": "Hot Chocolate",
+        "year": 1975
+      },
+      {
+        "title": "Man to Man",
+        "year": 1976
+      },
+      {
+        "title": "Every 1's a Winner",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "You Sexy Thing",
+      "Emma",
+      "Every 1's a Winner",
+      "So You Win Again",
+      "Brother Louie",
+      "A Child's Prayer"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1975 hit 'You Sexy Thing' is one of the few songs to make the UK top ten in three different decades. Lead singer Errol Brown received an Ivor Novello Award for his outstanding contribution to British music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_Chocolate",
+    "youtube_search": "Hot Chocolate You Sexy Thing",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "pop"
+    ]
+  },
+  {
+    "id": "jimmy-castor",
+    "name": "Jimmy Castor",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Manhattan, New York, USA",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Known as 'The Everything Man,' Jimmy Castor led his Bunch through a series of playful, high-energy funk-rock hits in the early 1970s. His sound was unique for combining humorous spoken-word narratives, gritty saxophone solos, and heavy rhythmic grooves. He were significant for creating some of the most enduringly sampled music in hip-hop history, specifically for his use of infectious, street-oriented hooks.",
+    "key_albums_70s": [
+      {
+        "title": "It's Just Begun",
+        "year": 1972
+      },
+      {
+        "title": "Phase 2",
+        "year": 1972
+      },
+      {
+        "title": "Dimension 3",
+        "year": 1973
+      },
+      {
+        "title": "Butt of Course...",
+        "year": 1975
+      },
+      {
+        "title": "Supersound",
+        "year": 1975
+      },
+      {
+        "title": "E-Man Groovin'",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Troglodyte (Cave Man)",
+      "It's Just Begun",
+      "The Bertha Butt Boogie",
+      "Potential",
+      "King Kong",
+      "E-Man Groovin'"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "His signature hit 'Troglodyte (Cave Man)' sold over a million copies and reached number six on the Billboard Hot 100. Castor's 'It's Just Begun' was a legendary anthem at early New York block parties and helped define b-boy culture."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Castor",
+    "youtube_search": "Jimmy Castor Bunch It's Just Begun",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "saxophone"
+    ]
+  },
+  {
+    "id": "kool-and-the-gang",
+    "name": "Kool & the Gang",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Jersey City, New Jersey, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "During the 1970s, Kool & the Gang evolved from a gritty jazz-influenced instrumental unit to a dominant powerhouse of dance-oriented funk. Their mid-70s work was characterized by heavy horn stabs, 'party' atmosphere, and intricate rhythmic patterns that became templates for hip-hop. By the end of the decade, they successfully integrated disco polish with their established funk grooves, achieving even greater commercial peaks.",
+    "members_70s": [
+      "Robert 'Kool' Bell",
+      "Ronald Bell",
+      "George Brown",
+      "Dennis 'Dee Tee' Thomas",
+      "Claydes Charles Smith",
+      "Robert 'Spike' Mickens",
+      "Ricky Westfield"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Music Is the Message",
+        "year": 1972
+      },
+      {
+        "title": "Wild and Peaceful",
+        "year": 1973
+      },
+      {
+        "title": "Light of Worlds",
+        "year": 1974
+      },
+      {
+        "title": "Spirit of the Boogie",
+        "year": 1975
+      },
+      {
+        "title": "Open Sesame",
+        "year": 1976
+      },
+      {
+        "title": "Ladies' Night",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Jungle Boogie",
+      "Hollywood Swinging",
+      "Higher Plane",
+      "Spirit of the Boogie",
+      "Open Sesame",
+      "Ladies' Night",
+      "Summer Madness",
+      "Funky Stuff"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band members grew up in the same apartment building as jazz legend Thelonious Monk, who was Robert Bell's godfather. Their hit 'Summer Madness' was featured on the soundtrack of the 1976 film 'Rocky'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kool_%26_the_Gang",
+    "youtube_search": "Kool and the Gang Jungle Boogie",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "horns"
+    ]
+  },
+  {
+    "id": "lakeside",
+    "name": "Lakeside",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Dayton, Ohio, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Lakeside brought a high-concept, multi-instrumental approach to the late-70s funk scene, often using elaborate costumes and theatrical themes on their album covers. Their sound featured tight, layered vocal harmonies and polished production that blended funk with R&B-pop. They were a key part of the SOLAR Records roster, contributing to the sophisticated 'Solar Sound' that would peak as the 1970s ended.",
+    "members_70s": [
+      "Mark Wood",
+      "Tiemeyer McCain",
+      "Thomas Shelby",
+      "Stephen Shockley",
+      "Norman Beavers",
+      "Marvin Craig",
+      "Fred Lewis",
+      "Otis Stokes",
+      "Fred Alexander"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Lakeside Express",
+        "year": 1977
+      },
+      {
+        "title": "Shot of Love",
+        "year": 1978
+      },
+      {
+        "title": "Rough Riders",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "It's All the Way Live",
+      "Pull My Strings",
+      "Given into Love",
+      "From 9:00 Until",
+      "Fantastic Voyage"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The group was originally known as Ohio Lakeside Express before shortening it to Lakeside. They were famous for their costumed personas, ranging from pirates and cowboys to Arabian knights on their album art."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lakeside_(band)",
+    "youtube_search": "Lakeside It's All the Way Live",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "dayton"
+    ]
+  },
+  {
+    "id": "lonnie-liston-smith",
+    "name": "Lonnie Liston Smith",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Richmond, Virginia, USA",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "In the 1970s, Lonnie Liston Smith and his Cosmic Echoes developed a signature 'spiritual' jazz-funk sound that emphasized atmospheric keyboards and positive themes. His work blended deep rhythmic grooves with melodic improvisation and soulful vocals, creating a precursor to smooth jazz and acid jazz. He was significant for bringing a meditative, expansive quality to the funk genre during the mid-to-late 70s.",
+    "key_albums_70s": [
+      {
+        "title": "Astral Traveling",
+        "year": 1973
+      },
+      {
+        "title": "Expansions",
+        "year": 1974
+      },
+      {
+        "title": "Visions of a New World",
+        "year": 1975
+      },
+      {
+        "title": "Reflections of a Golden Dream",
+        "year": 1976
+      },
+      {
+        "title": "Renaissance",
+        "year": 1977
+      },
+      {
+        "title": "Loveland",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Expansions",
+      "Astral Traveling",
+      "Visions of a New World",
+      "A Chance for Peace",
+      "Renaissance",
+      "Space Lady"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lonnie played with jazz icons Pharoah Sanders and Miles Davis before forming the Cosmic Echoes. His song 'Expansions' is widely regarded as a classic across the fusion, smooth jazz, and acid jazz genres."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lonnie_Liston_Smith",
+    "youtube_search": "Lonnie Liston Smith Expansions",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "lyn-collins",
+    "name": "Lyn Collins",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Abilene, Texas, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Known as 'The Female Preacher,' Lyn Collins was a primary female powerhouse in the James Brown stable during the early 1970s. Her sound was defined by raw, high-register shouting vocals and heavy orchestral funk production provided by the J.B.'s. She were significant for delivering some of the decade's most aggressive and rhythmically driving soul-funk anthems.",
+    "key_albums_70s": [
+      {
+        "title": "Think (About It)",
+        "year": 1972
+      },
+      {
+        "title": "Check Me Out If You Don't Know Me by Now",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Think (About It)",
+      "Rock Me Again and Again and Again and Again",
+      "Mama Feelgood",
+      "Give It Up or Turnit a Loose",
+      "Take Me Just As I Am"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Her song 'Think (About It)' contains the 'Yeah! Woo!' drum break that became the most widely used sample in hip-hop and dance music history. She began her recording career at age 14 and was personally selected by James Brown to join his revue."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lyn_Collins",
+    "youtube_search": "Lyn Collins Think About It",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "james-brown"
+    ]
+  },
+  {
+    "id": "maceo-parker",
+    "name": "Maceo Parker",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Kinston, North Carolina, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "In the 1970s, Maceo Parker served as the definitive voice of the funk saxophone, moving between James Brown's J.B.'s and George Clinton's Parliament-Funkadelic. His sound was characterized by sharp, percussive solos and 'staccato' phrasing that became the benchmark for funk woodwinds. He was essential for providing the melodic punch and rhythmic discipline that underscored many of the decade's most influential funk recordings.",
+    "key_albums_70s": [
+      {
+        "title": "Doing Their Own Thing",
+        "year": 1970
+      },
+      {
+        "title": "Funky Music Machine",
+        "year": 1972
+      },
+      {
+        "title": "Us",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Soul Power '74",
+      "Tighten Up",
+      "Cross the Track (We Better Go Back)",
+      "Southwick",
+      "Parrty",
+      "Rabbit Got the Gun"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Maceo is one of the most prominent horn players in history, famous for the 'Maceo, I want you to blow!' command from James Brown. He was an integral part of the P-Funk collective during their height of popularity in the late 70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maceo_Parker",
+    "youtube_search": "Maceo Parker Soul Power 74",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "saxophone"
+    ]
+  },
+  {
+    "id": "mandrill",
+    "name": "Mandrill",
+    "genre": "funk",
+    "subgenre": "afro-funk",
+    "origin": "Brooklyn, New York, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Mandrill was one of the most experimental and progressive funk bands of the 1970s, blending Latin, rock, jazz, and African elements. Their sound featured complex arrangements with a heavy emphasis on brass and diverse percussion. They were significant for their expansive vision and for delivering socially-conscious funk that bridged multiple cultural musical traditions.",
+    "members_70s": [
+      "Carlos Wilson",
+      "Ric Wilson",
+      "Lou Wilson",
+      "Claude Cave II",
+      "Omar Mesa",
+      "Bundie Cenas",
+      "Charlie Padro",
+      "Fudgie Kae Solomon"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mandrill",
+        "year": 1971
+      },
+      {
+        "title": "Mandrill Is",
+        "year": 1972
+      },
+      {
+        "title": "Composite Truth",
+        "year": 1973
+      },
+      {
+        "title": "Mandrilland",
+        "year": 1974
+      },
+      {
+        "title": "Solid",
+        "year": 1975
+      },
+      {
+        "title": "We Are One",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Fencewalk",
+      "Git It All",
+      "Mandrill",
+      "Mango Meat",
+      "Positive Thing",
+      "Can You Get It",
+      "Ali Bomaye"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed by brothers Carlos, Lou, and Ric Wilson, who were born in Panama and raised in Brooklyn. Their 1973 album 'Composite Truth' was their most commercially successful, featuring their signature song 'Fencewalk'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mandrill_(band)",
+    "youtube_search": "Mandrill Fencewalk",
+    "tags": [
+      "funk",
+      "afro-funk",
+      "latin-funk"
+    ]
+  },
+  {
+    "id": "marva-whitney",
+    "name": "Marva Whitney",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Kansas City, Kansas, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Known as 'Soul Sister #1,' Marva Whitney was a definitive funk diva in the late 60s and early 70s as part of the James Brown Revue. Her sound featured a powerful, brassy vocal delivery over aggressive, syncopated rhythm tracks provided by the J.B.'s. She were significant for being one of the 'rawest' voices in the genre, providing a strong female counterpart to Brown's stylistic innovations.",
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "It's My Thing",
+      "Unwind Yourself",
+      "Things Got to Get Better",
+      "Giving Up on Love",
+      "If You Love Me",
+      "I'm Tired, I'm Tired, I'm Tired"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "Her hit 'It's My Thing' was a direct response to the Isley Brothers' 'It's Your Thing.' Her vocals on 'Unwind Yourself' have been sampled in major hip-hop tracks by acts like the N.W.A and Public Enemy."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marva_Whitney",
+    "youtube_search": "Marva Whitney It's My Thing",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "diva"
+    ]
+  },
+  {
+    "id": "maze",
+    "name": "Maze",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Under the leadership of Frankie Beverly, Maze perfected a sophisticated, mid-tempo soul-funk sound that came to prominence in the late 1970s. Their music was defined by smooth, melodic vocal arrangements, infectious bass-led grooves, and a warm, atmospheric production style. They were essential for creating 'feel-good' funk anthems that consistently topped the R&B charts and became staples of soul radio.",
+    "members_70s": [
+      "Frankie Beverly",
+      "Roame Lowery",
+      "Sam Porter",
+      "Robin Duhe",
+      "Wayne Thomas",
+      "Joe Provost"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Maze featuring Frankie Beverly",
+        "year": 1977
+      },
+      {
+        "title": "Golden Time of Day",
+        "year": 1978
+      },
+      {
+        "title": "Inspiration",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Happy Feelings",
+      "While I'm Alone",
+      "Golden Time of Day",
+      "Southern Girl",
+      "Look in Your Eyes",
+      "Feel That You're Feelin'"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "reflect"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band released nine Gold albums between 1977 and 1993. Originally called Raw Soul, they changed their name to Maze at the suggestion of Marvin Gaye while touring with him in 1976."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maze_(band)",
+    "youtube_search": "Maze Happy Feelings",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "smooth"
+    ]
+  },
+  {
+    "id": "new-birth",
+    "name": "New Birth",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Louisville, Kentucky, USA",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "New Birth was a complex musical ensemble that blended the talents of an instrumental band (The Nite-Liters) and multiple vocal groups. Their 1970s sound featured lush orchestral soul combined with heavy, driving funk grooves and powerful lead vocals. They were significant for their versatile repertoire, ranging from aggressive funk jams to elaborate soul balladry that achieved major R&B success.",
+    "members_70s": [
+      "Tony Churchill",
+      "James Baker",
+      "Robin Russell",
+      "Robert Jackson",
+      "Austin Lander",
+      "Leroy Taylor",
+      "Leslie Wilson",
+      "Melvin Wilson",
+      "Londee Loren"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Ain't No Big Thing, But It's Growing",
+        "year": 1971
+      },
+      {
+        "title": "Birth Day",
+        "year": 1972
+      },
+      {
+        "title": "It's Been a Long Time",
+        "year": 1973
+      },
+      {
+        "title": "Comin' from All Ends",
+        "year": 1974
+      },
+      {
+        "title": "Blind Baby",
+        "year": 1975
+      },
+      {
+        "title": "Love Potion",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "I Can Understand It",
+      "Wild Flower",
+      "Dream Merchant",
+      "It's Been a Long Time",
+      "K-Jee",
+      "Until It's Time for You to Go"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The group was co-founded by former Motown producer Harvey Fuqua. Their track 'K-Jee' was a major instrumental hit before being re-recorded for the Saturday Night Fever soundtrack by another artist."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_Birth_(band)",
+    "youtube_search": "New Birth I Can Understand It",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "ohio-players",
+    "name": "Ohio Players",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Dayton, Ohio, USA",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "The Ohio Players dominated the mid-70s funk scene with a sound that combined bluesy rock elements, elaborate horn arrangements, and heavy, syncopated dance rhythms. They were famous for their dual vocal attack, characterized by Leroy 'Sugarfoot' Bonner's gritty leads and high-pitched synthesizer-like vocal ad-libs. Their sound transitioned from raw, underground street-funk to high-gloss chart-toppers that redefined the commercial potential of the genre.",
+    "members_70s": [
+      "Marshall Jones",
+      "Clarence Satchell",
+      "James Williams",
+      "William Beck",
+      "Leroy Bonner",
+      "Ralph Middlebrooks",
+      "Marvin Pierce"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Pleasure",
+        "year": 1972
+      },
+      {
+        "title": "Skin Tight",
+        "year": 1974
+      },
+      {
+        "title": "Fire",
+        "year": 1974
+      },
+      {
+        "title": "Honey",
+        "year": 1975
+      },
+      {
+        "title": "Contradiction",
+        "year": 1976
+      },
+      {
+        "title": "Angel",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Funky Worm",
+      "Fire",
+      "Love Rollercoaster",
+      "Skin Tight",
+      "Sweet Sticky Thing",
+      "Who'd She Coo?",
+      "Jive Turkey"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group was famous for its erotic album covers, which often featured Playboy models. Their hit 'Fire' reached number one on both the Billboard Hot 100 and R&B charts in 1975."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ohio_Players",
+    "youtube_search": "Ohio Players Love Rollercoaster",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "dayton"
+    ]
+  },
+  {
+    "id": "parliament",
+    "name": "Parliament",
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "origin": "Plainfield, New Jersey, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Parliament was the polished, horn-heavy flagship of George Clinton's P-Funk universe, blending funk with elaborate pop production and surreal concepts. Their 1970s sound featured deep, melodic basslines, intricate horn section interplay, and an array of synthesizers. They were significant for developing the 'Mothership' mythology and for consistently delivering upbeat, dance-oriented anthems that defined the P-Funk sound.",
+    "members_70s": [
+      "George Clinton",
+      "Bootsy Collins",
+      "Bernie Worrell",
+      "Fred Wesley",
+      "Maceo Parker",
+      "Garry Shider",
+      "Glenn Goins",
+      "Jerome Brailey"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Up for the Down Stroke",
+        "year": 1974
+      },
+      {
+        "title": "Chocolate City",
+        "year": 1975
+      },
+      {
+        "title": "Mothership Connection",
+        "year": 1975
+      },
+      {
+        "title": "The Clones of Dr. Funkenstein",
+        "year": 1976
+      },
+      {
+        "title": "Funkentelechy vs. the Placebo Syndrome",
+        "year": 1977
+      },
+      {
+        "title": "Motor Booty Affair",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Give Up the Funk (Tear the Roof off the Sucker)",
+      "Flash Light",
+      "Bop Gun",
+      "Aqua Boogie",
+      "Up for the Down Stroke",
+      "Chocolate City"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'Flash Light' reached number one on the US R&B chart in 1978. The band's live shows were legendary for featuring a landing 'Mothership' prop as part of their Afrofuturist spectacle."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_(band)",
+    "youtube_search": "Parliament Flash Light",
+    "tags": [
+      "funk",
+      "p-funk",
+      "afrofuturism"
+    ]
+  },
+  {
+    "id": "peoples-choice",
+    "name": "People's Choice",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "People's Choice specialized in tight, instrumental-led dance funk that became a cornerstone of the Philadelphia soul and early disco scene. Their mid-70s sound was characterized by relentless rhythmic patterns and simple, catchy melodic hooks designed for the club floor. They were essential for helping define the 'Philly' sound transition from soul to a more percussion-focused, upbeat funk-dance style.",
+    "members_70s": [
+      "Frankie Brunson",
+      "David Thompson",
+      "Guy Fiske",
+      "Roger Andrews",
+      "Marc Reed"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Boogie Down U.S.A.",
+        "year": 1975
+      },
+      {
+        "title": "We Got the Rhythm",
+        "year": 1976
+      },
+      {
+        "title": "Turn Me Loose",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Do It Any Way You Wanna",
+      "Boogie Down U.S.A.",
+      "I Likes to Do It",
+      "Nursery Rhymes",
+      "Party Is a Groovy Thing",
+      "Here We Go Again"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'Do It Any Way You Wanna' sold over a million copies in three months and reached number one on the Billboard R&B chart. The group was signed to the TSOP label by Leon Huff after he saw them perform in concert."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Choice_(band)",
+    "youtube_search": "People's Choice Do It Any Way You Wanna",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "philly-soul"
+    ]
+  },
+  {
+    "id": "prince",
+    "name": "Prince",
+    "genre": "funk",
+    "subgenre": "boogie",
+    "origin": "Minneapolis, Minnesota, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "In the late 1970s, Prince emerged as a prodigious multi-instrumentalist who blended funk with pop, rock, and soul. His early sound was characterized by heavy, polished synthesizer arrangements and a provocative lyrical approach. He were significant for laying the groundwork for the 'Minneapolis sound,' which would go on to redefine post-disco funk in the 1980s.",
+    "key_albums_70s": [
+      {
+        "title": "For You",
+        "year": 1978
+      },
+      {
+        "title": "Prince",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Soft and Wet",
+      "I Wanna Be Your Lover",
+      "Why You Wanna Treat Me So Bad?",
+      "Just as Long as We're Together",
+      "Sexy Dancer"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "On his debut album 'For You,' Prince wrote, produced, arranged, and played all 27 instruments. His second album featured his first major hit 'I Wanna Be Your Lover,' which reached number one on the Billboard R&B chart."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+    "youtube_search": "Prince I Wanna Be Your Lover",
+    "tags": [
+      "funk",
+      "boogie",
+      "minneapolis-sound"
+    ]
+  },
+  {
+    "id": "quincy-jones",
+    "name": "Quincy Jones",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1951,
+    "active_70s": true,
+    "description": "In the 1970s, legendary arranger and producer Quincy Jones moved into sophisticated jazz-funk and orchestral R&B. His sound was characterized by high-gloss production, lush horn and string arrangements, and the inclusion of top-tier session musicians. He were significant for producing some of the decade's most polished and commercially successful soul-funk recordings, culminating in his pivotal work with Michael Jackson.",
+    "key_albums_70s": [
+      {
+        "title": "Gula Matari",
+        "year": 1970
+      },
+      {
+        "title": "Smackwater Jack",
+        "year": 1971
+      },
+      {
+        "title": "You've Got It Bad Girl",
+        "year": 1973
+      },
+      {
+        "title": "Body Heat",
+        "year": 1974
+      },
+      {
+        "title": "Mellow Madness",
+        "year": 1975
+      },
+      {
+        "title": "I Heard That!!",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Body Heat",
+      "Everything Must Change",
+      "Stuff Like That",
+      "Walking in Space",
+      "Killer Joe",
+      "Sanford and Son Theme (The Streetbeater)"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He composed 'The Streetbeater,' which became the iconic theme music for the sitcom 'Sanford and Son.' His 1979 production of Michael Jackson's 'Off the Wall' made him the most powerful record producer in the industry at that time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quincy_Jones",
+    "youtube_search": "Quincy Jones Sanford and Son Theme",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "producer"
+    ]
+  },
+  {
+    "id": "rick-james",
+    "name": "Rick James",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Buffalo, New York, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Rick James revitalized Motown in the late 70s with his 'punk-funk' sound, a high-octane mix of classic funk, rock, and soul. His music featured hard-driving basslines, sexually charged lyrics, and a rebellious, street-oriented aesthetic. He was significant for modernizing the funk genre for the late-disco era and for his massive success as a producer and songwriter for other soul acts.",
+    "key_albums_70s": [
+      {
+        "title": "Come Get It!",
+        "year": 1978
+      },
+      {
+        "title": "Bustin' Out of L Seven",
+        "year": 1979
+      },
+      {
+        "title": "Fire It Up",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "You and I",
+      "Mary Jane",
+      "Bustin' Out",
+      "High on Your Love Suite",
+      "Love Gun"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "His debut album 'Come Get It!' produced the massive hits 'You and I' and 'Mary Jane.' Before his solo success, he was in a band called the Mynah Birds with future rock legend Neil Young."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_James",
+    "youtube_search": "Rick James You and I",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "motown"
+    ]
+  },
+  {
+    "id": "roy-ayers",
+    "name": "Roy Ayers",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Roy Ayers became a central figure in the 1970s jazz-funk scene, melding the vibraphone's melodic textures with heavy rhythmic grooves. His sound featured a signature 'feel-good' atmosphere, blending soulful vocals, jazz improvisation, and pioneering electronic elements. He were significant for creating a more relaxed, vibey style of funk that would later be recognized as a foundation for neo soul and acid jazz.",
+    "key_albums_70s": [
+      {
+        "title": "He's Coming",
+        "year": 1972
+      },
+      {
+        "title": "Virgo Red",
+        "year": 1973
+      },
+      {
+        "title": "Mystic Voyage",
+        "year": 1975
+      },
+      {
+        "title": "Everybody Loves the Sunshine",
+        "year": 1976
+      },
+      {
+        "title": "Vibrations",
+        "year": 1976
+      },
+      {
+        "title": "Lifeline",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Everybody Loves the Sunshine",
+      "Running Away",
+      "Freaky Deaky",
+      "Mystic Voyage",
+      "Searching",
+      "He's a Superstar"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Ayers is often called 'The Godfather of Neo Soul' and is among the most sampled musicians in history. He was given his first pair of vibraphone mallets at age five by jazz legend Lionel Hampton."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roy_Ayers",
+    "youtube_search": "Roy Ayers Everybody Loves the Sunshine",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "vibraphone"
+    ]
+  },
+  {
+    "id": "slave",
+    "name": "Slave",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Dayton, Ohio, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Emerging from the Dayton funk scene in the late 70s, Slave developed a heavy, guitar-and-bass driven sound that pushed funk into a harder, more aggressive territory. Their compositions were characterized by relentless rhythmic grooves, high-pitched synthesizer accents, and the innovative 'electric trumpet' work of Steve Washington. They were significant for their raw, high-energy tracks that became foundational for the transition into 80s funk-rock.",
+    "members_70s": [
+      "Steve Washington",
+      "Floyd Miller",
+      "Mark Adams",
+      "Mark Hicks",
+      "Danny Webster",
+      "Steve Arrington",
+      "Starleana Young",
+      "Curt Jones"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Slave",
+        "year": 1977
+      },
+      {
+        "title": "The Hardness of the World",
+        "year": 1977
+      },
+      {
+        "title": "The Concept",
+        "year": 1978
+      },
+      {
+        "title": "Just a Touch of Love",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Slide",
+      "The Party Song",
+      "Stellar Fungk",
+      "Just Freak",
+      "Just a Touch of Love",
+      "Baby Sinister"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Their debut single 'Slide' reached number one on the Billboard R&B chart in 1977. Multi-instrumentalist Steve Washington was one of the first musicians to use an 'electric trumpet' in a funk context."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Slave_(band)",
+    "youtube_search": "Slave Slide",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "dayton"
+    ]
+  },
+  {
+    "id": "sly-and-the-family-stone",
+    "name": "Sly and the Family Stone",
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "origin": "San Francisco, California, USA",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "In the early 1970s, Sly and the Family Stone shifted from optimistic psychedelic soul to a dark, experimental, and deeply influential funk sound. Their work from this era introduced hypnotic, stripped-down grooves and pioneered the use of drum machines in a funk context. They were essential for redefining the genre's structures, influencing a vast range of artists from Herbie Hancock to Prince with their rhythmically complex and socially resonant compositions.",
+    "members_70s": [
+      "Sly Stone",
+      "Freddie Stone",
+      "Rose Stone",
+      "Larry Graham",
+      "Cynthia Robinson",
+      "Jerry Martini",
+      "Greg Errico",
+      "Rustee Allen",
+      "Andy Newmark"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "There's a Riot Goin' On",
+        "year": 1971
+      },
+      {
+        "title": "Fresh",
+        "year": 1973
+      },
+      {
+        "title": "Small Talk",
+        "year": 1974
+      },
+      {
+        "title": "Heard Ya Missed Me, Well I'm Back",
+        "year": 1976
+      },
+      {
+        "title": "Back on the Right Track",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Family Affair",
+      "Runnin' Away",
+      "If You Want Me to Stay",
+      "Frisky",
+      "Loose Booty",
+      "Time for Livin'",
+      "Que Sera, Sera (Whatever Will Be, Will Be)"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their 1971 album 'There's a Riot Goin' On' reached number one on the Billboard 200 and is considered a foundational masterpiece of funk. Sly Stone was a DJ before the band's formation and was known for integrating music by white and black artists on his radio show."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sly_and_the_Family_Stone",
+    "youtube_search": "Sly and the Family Stone Family Affair",
+    "tags": [
+      "funk",
+      "p-funk",
+      "iconic"
+    ]
+  },
+  {
+    "id": "the-blackbyrds",
+    "name": "The Blackbyrds",
+    "genre": "funk",
+    "subgenre": "jazz-funk",
+    "origin": "Washington, D.C., USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Formed by Donald Byrd at Howard University, the Blackbyrds perfected a melodic, high-groove jazz-funk fusion in the mid-1970s. Their sound featured catchy rhythmic motifs, sophisticated vocal harmonies, and tight session-quality instrumentation. They were significant for their consistent chart presence and for creating some of the era's most recognizable and enduring jazz-funk hits that successfully crossed over to pop audiences.",
+    "members_70s": [
+      "Kevin Toney",
+      "Keith Killgo",
+      "Joe Hall",
+      "Allan Barnes",
+      "Barney Perry",
+      "Orville Saunders",
+      "Jay Jones"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Blackbyrds",
+        "year": 1974
+      },
+      {
+        "title": "Flying Start",
+        "year": 1974
+      },
+      {
+        "title": "City Life",
+        "year": 1975
+      },
+      {
+        "title": "Unfinished Business",
+        "year": 1976
+      },
+      {
+        "title": "Action",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Walking in Rhythm",
+      "Rock Creek Park",
+      "Happy Music",
+      "Do It, Fluid",
+      "City Life",
+      "Time Is Movin'"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1975 song 'Rock Creek Park' has been sampled by over a hundred artists, including De La Soul and Nas. Their hit 'Walking in Rhythm' received a Grammy nomination and sold over a million copies by 1975."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Blackbyrds",
+    "youtube_search": "The Blackbyrds Rock Creek Park",
+    "tags": [
+      "funk",
+      "jazz-funk",
+      "washington-dc"
+    ]
+  },
+  {
+    "id": "the-brothers-johnson",
+    "name": "The Brothers Johnson",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "The Brothers Johnson were masters of high-gloss, energetic dance funk in the late 70s, famously produced by Quincy Jones. Their sound was built around George's flashy guitar leads and Louis's legendary slap-bass technique, creating a highly rhythmic and polished aesthetic. They were significant for their massive crossover appeal and for consistently topping the R&B charts with high-energy party anthems and soulful ballads.",
+    "members_70s": [
+      "George Johnson",
+      "Louis Johnson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Look Out for #1",
+        "year": 1976
+      },
+      {
+        "title": "Right on Time",
+        "year": 1977
+      },
+      {
+        "title": "Blam!",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I'll Be Good to You",
+      "Strawberry Letter 23",
+      "Get The Funk Out Ma Face",
+      "Ain't We Funkin' Now",
+      "Runnin' for Your Lovin'"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Louis Johnson was nicknamed 'Thunder Thumbs' for his innovative slap bass style, while George was known as 'Lightnin' Licks.' Their hit 'Strawberry Letter 23' was originally recorded by Shuggie Otis."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Brothers_Johnson",
+    "youtube_search": "Brothers Johnson Strawberry Letter 23",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "slap-bass"
+    ]
+  },
+  {
+    "id": "the-gap-band",
+    "name": "The Gap Band",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Tulsa, Oklahoma, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "After an early period as an underground funk unit, the Gap Band emerged in the late 70s with a powerful, synthesizer-led dance sound. Their music was defined by the soulful, grit-flecked vocals of Charlie Wilson and infectious, high-energy grooves. They were significant for modernizing the funk sound as the decade closed, blending live instrumentation with the emerging 'boogie' aesthetic that would define the next decade.",
+    "members_70s": [
+      "Charlie Wilson",
+      "Ronnie Wilson",
+      "Robert Wilson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Magicians Holiday",
+        "year": 1974
+      },
+      {
+        "title": "The Gap Band",
+        "year": 1977
+      },
+      {
+        "title": "The Gap Band",
+        "year": 1979
+      },
+      {
+        "title": "The Gap Band II",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Shake",
+      "Open Up Your Mind (Wide)",
+      "Steppin' (Out)",
+      "I'm in Love",
+      "I Can't Forget",
+      "Baby Baba Boogie"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name stands for 'Greenwood, Archer, and Pine,' referring to three streets in their historic hometown neighborhood in Tulsa. They received their first major break as the backup band for fellow Oklahoman Leon Russell."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gap_Band",
+    "youtube_search": "The Gap Band Shake",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "boogie"
+    ]
+  },
+  {
+    "id": "the-meters",
+    "name": "The Meters",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "New Orleans, Louisiana, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "The Meters defined the New Orleans 'second line' funk sound during the 1970s, characterized by incredibly tight, syncopated rhythm section interplay and stripped-down instrumental jams. Their sound shifted from purely instrumental tracks to include soulful vocals while maintaining a raw, organic aesthetic. They were essential for pioneering the 'deep groove' and served as the premier session band for some of the decade's greatest soul and R&B artists.",
+    "members_70s": [
+      "Art Neville",
+      "Leo Nocentelli",
+      "George Porter Jr.",
+      "Zigaboo Modeliste",
+      "Cyril Neville"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Struttin'",
+        "year": 1970
+      },
+      {
+        "title": "Cabbage Alley",
+        "year": 1972
+      },
+      {
+        "title": "Rejuvenation",
+        "year": 1974
+      },
+      {
+        "title": "Fire on the Bayou",
+        "year": 1975
+      },
+      {
+        "title": "Trick Bag",
+        "year": 1976
+      },
+      {
+        "title": "New Directions",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Cissy Strut",
+      "Look-Ka Py Py",
+      "Chicken Strut",
+      "Hey Pocky A-Way",
+      "People Say",
+      "Fire on the Bayou",
+      "Africa",
+      "Just Kissed My Baby"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was presented with the Grammy Lifetime Achievement Award in 2018. They served as the house band for Allen Toussaint's Sansu Enterprises, backing legendary New Orleans acts like Lee Dorsey and Dr. John."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Meters",
+    "youtube_search": "The Meters Cissy Strut",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "new-orleans"
+    ]
+  },
+  {
+    "id": "tower-of-power",
+    "name": "Tower of Power",
+    "genre": "funk",
+    "subgenre": "soul-funk",
+    "origin": "Oakland, California, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Tower of Power was the preeminent Oakland horn-funk band of the 1970s, legendary for their massive brass section and incredibly tight, syncopated rhythm section. Their sound was a high-gloss blend of soul, R&B, and jazz, featuring some of the decade's most complex and celebrated instrumental arrangements. They were significant for their influence on pop orchestration and for the high-level musicianship of their consistent lineup.",
+    "members_70s": [
+      "Emilio Castillo",
+      "Stephen Kupka",
+      "Francis Prestia",
+      "David Garibaldi",
+      "Lenny Williams",
+      "Greg Adams",
+      "Mic Gillette"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "East Bay Grease",
+        "year": 1970
+      },
+      {
+        "title": "Bump City",
+        "year": 1972
+      },
+      {
+        "title": "Tower of Power",
+        "year": 1973
+      },
+      {
+        "title": "Back to Oakland",
+        "year": 1974
+      },
+      {
+        "title": "Urban Renewal",
+        "year": 1975
+      },
+      {
+        "title": "In the Slot",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "What Is Hip?",
+      "So Very Hard to Go",
+      "You're Still a Young Man",
+      "Don't Change Horses (in the Middle of a Stream)",
+      "Time Will Tell",
+      "Only So Much Oil in the Ground"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lenny Williams, their best-known lead vocalist, fronted the band during their greatest commercial peak between 1973 and 1974. The group was originally named 'The Motowns' before becoming Tower of Power in 1968."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tower_of_Power",
+    "youtube_search": "Tower of Power What Is Hip",
+    "tags": [
+      "funk",
+      "soul-funk",
+      "horns"
+    ]
+  },
+  {
+    "id": "war",
+    "name": "War",
+    "genre": "funk",
+    "subgenre": "afro-funk",
+    "origin": "Long Beach, California, USA",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "War emerged as a dominant musical force in the 1970s, blending funk, soul, Latin, and rock into a highly eclectic, socially resonant sound. Their music was defined by laid-back, infectious grooves and conversational lyrics that reflected the diverse urban culture of Southern California. They were significant for their massive commercial success and for delivering some of the decade's most enduring and culturally impactful crossover hits.",
+    "members_70s": [
+      "Lonnie Jordan",
+      "Howard E. Scott",
+      "Lee Oskar",
+      "B.B. Dickerson",
+      "Harold Brown",
+      "Charles Miller",
+      "Thomas Allen"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "War",
+        "year": 1971
+      },
+      {
+        "title": "All Day Music",
+        "year": 1971
+      },
+      {
+        "title": "The World Is a Ghetto",
+        "year": 1972
+      },
+      {
+        "title": "Deliver the Word",
+        "year": 1973
+      },
+      {
+        "title": "Why Can't We Be Friends?",
+        "year": 1975
+      },
+      {
+        "title": "Galaxy",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The World Is a Ghetto",
+      "The Cisco Kid",
+      "Low Rider",
+      "Why Can't We Be Friends?",
+      "Slippin' into Darkness",
+      "Summer",
+      "Spill the Wine"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their 1972 album 'The World Is a Ghetto' was the best-selling album of 1973 according to Billboard. The group originally formed as a backing band for Eric Burdon of The Animals before achieving stardom as a self-contained unit."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/War_(band)",
+    "youtube_search": "War Low Rider",
+    "tags": [
+      "funk",
+      "afro-funk",
+      "latin-funk"
+    ]
+  },
+  {
+    "id": "wild-cherry",
+    "name": "Wild Cherry",
+    "genre": "funk",
+    "subgenre": "dance-funk",
+    "origin": "Mingo Junction, Ohio, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Wild Cherry emerged in the mid-70s as a hard-rock band that pivoted to a highly successful 'blue-eyed' funk-rock sound. Their sound was characterized by aggressive guitar riffs, driving dance rhythms, and energetic, rock-influenced vocals. They were significant for delivering one of the decade's most iconic and commercially successful funk crossover hits, bridging the gap between rock radio and the disco floor.",
+    "members_70s": [
+      "Rob Parissi",
+      "Allen Wentz",
+      "Bryan Bassett",
+      "Ronald Beitle",
+      "Mark Avsec"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wild Cherry",
+        "year": 1976
+      },
+      {
+        "title": "Electrified Funk",
+        "year": 1977
+      },
+      {
+        "title": "I Love My Music",
+        "year": 1978
+      },
+      {
+        "title": "Only the Wild Survive",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Play That Funky Music",
+      "I Feel Sanctified",
+      "Baby Don't You Know",
+      "Hot to Trot",
+      "Hold On (With Strings)",
+      "I Love My Music"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their signature hit 'Play That Funky Music' reached number one on both the US Billboard Hot 100 and R&B charts in 1976. The band was named after a brand of cough drops Parissi was using while ill during a period of transition for the group."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wild_Cherry_(band)",
+    "youtube_search": "Wild Cherry Play That Funky Music",
+    "tags": [
+      "funk",
+      "dance-funk",
+      "rock"
+    ]
+  },
+  {
+    "id": "zapp",
+    "name": "Zapp",
+    "genre": "funk",
+    "subgenre": "electro-funk",
+    "origin": "Dayton, Ohio, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Formed in the late 70s under the leadership of Roger Troutman, Zapp pioneered a signature electro-funk sound that made heavy use of the talk-box effect. Their sound blended driving, synthesized rhythms with traditional funk instrumentation and catchy, harmonized vocals. They were significant for their technical innovations and for providing the blueprint for the G-funk sound that would dominate West Coast hip-hop years later.",
+    "members_70s": [
+      "Roger Troutman",
+      "Larry Troutman",
+      "Lester Troutman",
+      "Terry Troutman",
+      "Gregory Jackson",
+      "Bobby Glover"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "More Bounce to the Ounce",
+      "Be Alright",
+      "Doo Wa Ditty (Blow That Thing)",
+      "Dance Floor",
+      "I Can Make You Dance"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band worked closely with George Clinton and Bootsy Collins during their early stages, which helped them secure a major record deal. Frontman Roger Troutman's use of the talk-box became one of the most recognizable sounds in funk history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zapp",
+    "youtube_search": "Zapp More Bounce to the Ounce",
+    "tags": [
+      "funk",
+      "electro-funk",
+      "talk-box"
+    ]
+  }
+]

@@ -1,0 +1,4720 @@
+{
+  "1970": [
+    {
+      "week": 1,
+      "week_start": "1970-01-03",
+      "week_end": "1970-01-09",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Temptations opened the decade at number one with their album Puzzle People. "
+    },
+    {
+      "week": 2,
+      "week_start": "1970-01-10",
+      "week_end": "1970-01-16",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Puzzle People held the top spot for the first six weeks of 1970. "
+    },
+    {
+      "week": 3,
+      "week_start": "1970-01-17",
+      "week_end": "1970-01-23",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This album was one of two number-one records for The Temptations in 1970. "
+    },
+    {
+      "week": 4,
+      "week_start": "1970-01-24",
+      "week_end": "1970-01-30",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Temptations remained a dominant force on the R&B charts as the 1970s began. "
+    },
+    {
+      "week": 5,
+      "week_start": "1970-01-31",
+      "week_end": "1970-02-06",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The group saw continued success with their psychedelic-influenced soul sound during this period. "
+    },
+    {
+      "week": 6,
+      "week_start": "1970-02-07",
+      "week_end": "1970-02-13",
+      "title": "Puzzle People",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This marked the final week of the album's initial run at the top of the chart. "
+    },
+    {
+      "week": 7,
+      "week_start": "1970-02-14",
+      "week_end": "1970-02-20",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This was the first of three different number-one albums for the Jackson 5 in 1970. "
+    },
+    {
+      "week": 8,
+      "week_start": "1970-02-21",
+      "week_end": "1970-02-27",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album introduced the world to the young Michael Jackson and his brothers. "
+    },
+    {
+      "week": 9,
+      "week_start": "1970-02-28",
+      "week_end": "1970-03-06",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Motown used Diana Ross's star power to help launch the group's massive career. "
+    },
+    {
+      "week": 10,
+      "week_start": "1970-03-07",
+      "week_end": "1970-03-13",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The group enjoyed immediate chart success upon their arrival at Motown. "
+    },
+    {
+      "week": 11,
+      "week_start": "1970-03-14",
+      "week_end": "1970-03-20",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's success highlighted the 'Jacksonmania' that began sweeping the country. "
+    },
+    {
+      "week": 12,
+      "week_start": "1970-03-21",
+      "week_end": "1970-03-27",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This debut album proved the group was more than just a singles act. "
+    },
+    {
+      "week": 13,
+      "week_start": "1970-03-28",
+      "week_end": "1970-04-03",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 7,
+      "fun_fact": "The group's soulful pop sound resonated deeply with R&B audiences. "
+    },
+    {
+      "week": 14,
+      "week_start": "1970-04-04",
+      "week_end": "1970-04-10",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 8,
+      "fun_fact": "The Jackson 5 spent a total of nine consecutive weeks at number one with this release. "
+    },
+    {
+      "week": 15,
+      "week_start": "1970-04-11",
+      "week_end": "1970-04-17",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 9,
+      "fun_fact": "This album concluded its nine-week reign just before the next Temptations hit. "
+    },
+    {
+      "week": 16,
+      "week_start": "1970-04-18",
+      "week_end": "1970-04-24",
+      "title": "Psychedelic Shack",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This was the second album of 1970 for The Temptations to reach the number one spot. "
+    },
+    {
+      "week": 17,
+      "week_start": "1970-04-25",
+      "week_end": "1970-05-01",
+      "title": "Psychedelic Shack",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album title reflected the band's continued exploration of 'psychedelic soul.' "
+    },
+    {
+      "week": 18,
+      "week_start": "1970-05-02",
+      "week_end": "1970-05-08",
+      "title": "Psychedelic Shack",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Norman Whitfield's production was central to the success of this chart-topping album. "
+    },
+    {
+      "week": 19,
+      "week_start": "1970-05-09",
+      "week_end": "1970-05-15",
+      "title": "Psychedelic Shack",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Temptations spent four weeks at the top before being replaced by Isaac Hayes. "
+    },
+    {
+      "week": 20,
+      "week_start": "1970-05-16",
+      "week_end": "1970-05-22",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes scored his first of two number-one albums in 1970 with this release. "
+    },
+    {
+      "week": 21,
+      "week_start": "1970-05-23",
+      "week_end": "1970-05-29",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Hayes became known for his long, orchestrated arrangements that redefined soul music. "
+    },
+    {
+      "week": 22,
+      "week_start": "1970-05-30",
+      "week_end": "1970-06-05",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album was a significant success for Stax Records and its subsidiary, Enterprise. "
+    },
+    {
+      "week": 23,
+      "week_start": "1970-06-06",
+      "week_end": "1970-06-12",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Isaac Hayes' deep baritone and cinematic sound dominated the early summer of 1970. "
+    },
+    {
+      "week": 24,
+      "week_start": "1970-06-13",
+      "week_end": "1970-06-19",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This initial five-week run was just the beginning of Hayes' chart presence that year. "
+    },
+    {
+      "week": 25,
+      "week_start": "1970-06-20",
+      "week_end": "1970-06-26",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 1,
+      "fun_fact": "ABC was the second number-one album of the year for the Jackson 5. "
+    },
+    {
+      "week": 26,
+      "week_start": "1970-06-27",
+      "week_end": "1970-07-03",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track was a massive hit, helping propel the album to the top of the charts. "
+    },
+    {
+      "week": 27,
+      "week_start": "1970-07-04",
+      "week_end": "1970-07-10",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's youthful energy continued to make them one of Motown's top acts. "
+    },
+    {
+      "week": 28,
+      "week_start": "1970-07-11",
+      "week_end": "1970-07-17",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album spent a total of seven consecutive weeks at number one in its first run. "
+    },
+    {
+      "week": 29,
+      "week_start": "1970-07-18",
+      "week_end": "1970-07-24",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The group achieved widespread crossover success, appealing to both R&B and pop fans. "
+    },
+    {
+      "week": 30,
+      "week_start": "1970-07-25",
+      "week_end": "1970-07-31",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 6,
+      "fun_fact": "Motown's assembly line of hits was working perfectly for the Jackson 5 in 1970. "
+    },
+    {
+      "week": 31,
+      "week_start": "1970-08-01",
+      "week_end": "1970-08-07",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 7,
+      "fun_fact": "The album concluded its first stay at number one after seven weeks. "
+    },
+    {
+      "week": 32,
+      "week_start": "1970-08-08",
+      "week_end": "1970-08-14",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes' album returned to the number one position for a second run. "
+    },
+    {
+      "week": 33,
+      "week_start": "1970-08-15",
+      "week_end": "1970-08-21",
+      "title": "The Isaac Hayes Movement",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This two-week return brought the album's total weeks at number one to seven for 1970. "
+    },
+    {
+      "week": 34,
+      "week_start": "1970-08-22",
+      "week_end": "1970-08-28",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Jackson 5's ABC also made a return to the number one spot in August. "
+    },
+    {
+      "week": 35,
+      "week_start": "1970-08-29",
+      "week_end": "1970-09-04",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This return to the top solidified the group's massive popularity that summer. "
+    },
+    {
+      "week": 36,
+      "week_start": "1970-09-05",
+      "week_end": "1970-09-11",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Jackson 5 and Isaac Hayes traded the number one spot throughout late summer. "
+    },
+    {
+      "week": 37,
+      "week_start": "1970-09-12",
+      "week_end": "1970-09-18",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 4,
+      "fun_fact": "ABC spent a combined total of 12 weeks at number one across two separate runs in 1970. "
+    },
+    {
+      "week": 38,
+      "week_start": "1970-09-19",
+      "week_end": "1970-09-25",
+      "title": "ABC",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This marked the final week at number one for the Jackson 5's second LP of the year. "
+    },
+    {
+      "week": 39,
+      "week_start": "1970-09-26",
+      "week_end": "1970-10-02",
+      "title": "Diana Ross",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This was the self-titled debut solo album for Diana Ross after leaving the Supremes. "
+    },
+    {
+      "week": 40,
+      "week_start": "1970-10-03",
+      "week_end": "1970-10-09",
+      "title": "Diana Ross",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the iconic hit 'Ain't No Mountain High Enough.' "
+    },
+    {
+      "week": 41,
+      "week_start": "1970-10-10",
+      "week_end": "1970-10-16",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Jackson 5 achieved their third different number-one album of 1970 with this release. "
+    },
+    {
+      "week": 42,
+      "week_start": "1970-10-17",
+      "week_end": "1970-10-23",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured the massive number-one ballad 'I'll Be There.' "
+    },
+    {
+      "week": 43,
+      "week_start": "1970-10-24",
+      "week_end": "1970-10-30",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Jackson 5 dominated the R&B charts in 1970, holding the top spot for much of the year. "
+    },
+    {
+      "week": 44,
+      "week_start": "1970-10-31",
+      "week_end": "1970-11-06",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 4,
+      "fun_fact": "By this point, the group was one of the most successful acts in the world. "
+    },
+    {
+      "week": 45,
+      "week_start": "1970-11-07",
+      "week_end": "1970-11-13",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 5,
+      "fun_fact": "Third Album proved that the Jackson 5's formula for success was consistently working. "
+    },
+    {
+      "week": 46,
+      "week_start": "1970-11-14",
+      "week_end": "1970-11-20",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The group's dominance on the chart was nearly unrivaled during the latter half of 1970. "
+    },
+    {
+      "week": 47,
+      "week_start": "1970-11-21",
+      "week_end": "1970-11-27",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 7,
+      "fun_fact": "Michael Jackson's lead vocals were a key factor in the album's sustained success. "
+    },
+    {
+      "week": 48,
+      "week_start": "1970-11-28",
+      "week_end": "1970-12-04",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 8,
+      "fun_fact": "The album stayed at number one for a total of 10 consecutive weeks. "
+    },
+    {
+      "week": 49,
+      "week_start": "1970-12-05",
+      "week_end": "1970-12-11",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 9,
+      "fun_fact": "The Jackson 5 spent over half the year (31 weeks) at the number one spot with three albums. "
+    },
+    {
+      "week": 50,
+      "week_start": "1970-12-12",
+      "week_end": "1970-12-18",
+      "title": "Third Album",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 10,
+      "fun_fact": "This was the final week of the longest single run at number one for 1970. "
+    },
+    {
+      "week": 51,
+      "week_start": "1970-12-19",
+      "week_end": "1970-12-25",
+      "title": "Greatest Hits",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This compilation captured the many chart-topping singles the group had produced in the late 60s. "
+    },
+    {
+      "week": 52,
+      "week_start": "1970-12-26",
+      "week_end": "1971-01-01",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes returned to number one at the end of the year with his fourth studio album. "
+    }
+  ],
+  "1971": [
+    {
+      "week": 1,
+      "week_start": "1971-01-02",
+      "week_end": "1971-01-08",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes began the new year holding the top spot with his fourth studio album ."
+    },
+    {
+      "week": 2,
+      "week_start": "1971-01-09",
+      "week_end": "1971-01-15",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album was one of two Isaac Hayes projects to reach number one in 1971 ."
+    },
+    {
+      "week": 3,
+      "week_start": "1971-01-16",
+      "week_end": "1971-01-22",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album continued the 'hot buttered soul' sound that made Hayes a superstar ."
+    },
+    {
+      "week": 4,
+      "week_start": "1971-01-23",
+      "week_end": "1971-01-29",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Isaac Hayes dominated the R&B album charts for most of January ."
+    },
+    {
+      "week": 5,
+      "week_start": "1971-01-30",
+      "week_end": "1971-02-05",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This marked the final week of the album's first run at the top of the chart ."
+    },
+    {
+      "week": 6,
+      "week_start": "1971-02-06",
+      "week_end": "1971-02-12",
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Curtis Mayfield's debut solo album reached number one after he left The Impressions ."
+    },
+    {
+      "week": 7,
+      "week_start": "1971-02-13",
+      "week_end": "1971-02-19",
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This influential soul album featured socially conscious themes that resonated with audiences ."
+    },
+    {
+      "week": 8,
+      "week_start": "1971-02-20",
+      "week_end": "1971-02-26",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes returned to the number one position for a second stay in late February ."
+    },
+    {
+      "week": 9,
+      "week_start": "1971-02-27",
+      "week_end": "1971-03-05",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Hayes and Mayfield traded the top spot back and forth during the early months of 1971 ."
+    },
+    {
+      "week": 10,
+      "week_start": "1971-03-06",
+      "week_end": "1971-03-12",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This three-week run brought the album's cumulative total to eight weeks at number one ."
+    },
+    {
+      "week": 11,
+      "week_start": "1971-03-13",
+      "week_end": "1971-03-19",
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Curtis Mayfield returned to the top of the chart for a second two-week run ."
+    },
+    {
+      "week": 12,
+      "week_start": "1971-03-20",
+      "week_end": "1971-03-26",
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album 'Curtis' remained a steady seller throughout the spring of 1971 ."
+    },
+    {
+      "week": 13,
+      "week_start": "1971-03-27",
+      "week_end": "1971-04-02",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes' album remarkably returned to number one for a third separate run ."
+    },
+    {
+      "week": 14,
+      "week_start": "1971-04-03",
+      "week_end": "1971-04-09",
+      "title": "...To Be Continued",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This final stay brought the total number-one count for '...To Be Continued' to ten weeks ."
+    },
+    {
+      "week": 15,
+      "week_start": "1971-04-10",
+      "week_end": "1971-04-16",
+      "title": "Live in Cook County Jail",
+      "artist": "B.B. King",
+      "weeks_at_number_one": 1,
+      "fun_fact": "B.B. King's acclaimed live performance in a prison reached the top of the R&B charts ."
+    },
+    {
+      "week": 16,
+      "week_start": "1971-04-17",
+      "week_end": "1971-04-23",
+      "title": "Live in Cook County Jail",
+      "artist": "B.B. King",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album is often cited as one of the greatest live blues recordings ever made ."
+    },
+    {
+      "week": 17,
+      "week_start": "1971-04-24",
+      "week_end": "1971-04-30",
+      "title": "Live in Cook County Jail",
+      "artist": "B.B. King",
+      "weeks_at_number_one": 3,
+      "fun_fact": "B.B. King enjoyed a three-week reign at the top before Curtis Mayfield returned ."
+    },
+    {
+      "week": 18,
+      "week_start": "1971-05-01",
+      "week_end": "1971-05-07",
+      "title": "Curtis",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Curtis Mayfield's album made its third and final appearance at number one ."
+    },
+    {
+      "week": 19,
+      "week_start": "1971-05-08",
+      "week_end": "1971-05-14",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Jackson 5 earned their first number-one R&B album of 1971 with this release ."
+    },
+    {
+      "week": 20,
+      "week_start": "1971-05-15",
+      "week_end": "1971-05-21",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured hits like 'Never Can Say Goodbye' and the title track ."
+    },
+    {
+      "week": 21,
+      "week_start": "1971-05-22",
+      "week_end": "1971-05-28",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Motown's young stars continued their incredible chart dominance into the spring ."
+    },
+    {
+      "week": 22,
+      "week_start": "1971-05-29",
+      "week_end": "1971-06-04",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The group's soulful harmonies and Michael's lead vocals kept them at the top ."
+    },
+    {
+      "week": 23,
+      "week_start": "1971-06-05",
+      "week_end": "1971-06-11",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This album was a significant transition toward a more mature sound for the group ."
+    },
+    {
+      "week": 24,
+      "week_start": "1971-06-12",
+      "week_end": "1971-06-18",
+      "title": "Maybe Tomorrow",
+      "artist": "The Jackson 5",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The Jackson 5 concluded their six-week run just as Aretha Franklin moved up ."
+    },
+    {
+      "week": 25,
+      "week_start": "1971-06-19",
+      "week_end": "1971-06-25",
+      "title": "Aretha Live at Fillmore West",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Aretha Franklin's live recording from the famous San Francisco venue debuted at the top ."
+    },
+    {
+      "week": 26,
+      "week_start": "1971-06-26",
+      "week_end": "1971-07-02",
+      "title": "Aretha Live at Fillmore West",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album showcased Aretha's incredible versatility across soul, rock, and gospel ."
+    },
+    {
+      "week": 27,
+      "week_start": "1971-07-03",
+      "week_end": "1971-07-09",
+      "title": "Aretha Live at Fillmore West",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This album captured a historic cross-cultural musical moment in 1971 ."
+    },
+    {
+      "week": 28,
+      "week_start": "1971-07-10",
+      "week_end": "1971-07-16",
+      "title": "Aretha Live at Fillmore West",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Queen of Soul remained number one for over a month during the summer ."
+    },
+    {
+      "week": 29,
+      "week_start": "1971-07-17",
+      "week_end": "1971-07-23",
+      "title": "Aretha Live at Fillmore West",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This five-week run was Aretha Franklin's only number-one album stint of 1971 ."
+    },
+    {
+      "week": 30,
+      "week_start": "1971-07-24",
+      "week_end": "1971-07-30",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye's landmark concept album reached number one in late July ."
+    },
+    {
+      "week": 31,
+      "week_start": "1971-07-31",
+      "week_end": "1971-08-06",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album broke Motown's traditional formula with its focus on social issues ."
+    },
+    {
+      "week": 32,
+      "week_start": "1971-08-07",
+      "week_end": "1971-08-13",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Critics and audiences alike hailed the album as a creative masterpiece ."
+    },
+    {
+      "week": 33,
+      "week_start": "1971-08-14",
+      "week_end": "1971-08-20",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The title track and 'Mercy Mercy Me' helped drive the album's success ."
+    },
+    {
+      "week": 34,
+      "week_start": "1971-08-21",
+      "week_end": "1971-08-27",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 5,
+      "fun_fact": "Gaye's smooth delivery and sophisticated arrangements dominated the summer airwaves ."
+    },
+    {
+      "week": 35,
+      "week_start": "1971-08-28",
+      "week_end": "1971-09-03",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The album's cohesive structure changed the way R&B artists approached full-length records ."
+    },
+    {
+      "week": 36,
+      "week_start": "1971-09-04",
+      "week_end": "1971-09-10",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 7,
+      "fun_fact": "Marvin Gaye remained at the top for nine consecutive weeks in total ."
+    },
+    {
+      "week": 37,
+      "week_start": "1971-09-11",
+      "week_end": "1971-09-17",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 8,
+      "fun_fact": "The album is still considered one of the greatest of all time in any genre ."
+    },
+    {
+      "week": 38,
+      "week_start": "1971-09-18",
+      "week_end": "1971-09-24",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 9,
+      "fun_fact": "This was the final week at number one for Marvin Gaye's defining work ."
+    },
+    {
+      "week": 39,
+      "week_start": "1971-09-25",
+      "week_end": "1971-10-01",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes returned to the top of the chart with the iconic soundtrack to 'Shaft' ."
+    },
+    {
+      "week": 40,
+      "week_start": "1971-10-02",
+      "week_end": "1971-10-08",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The 'Theme from Shaft' became a major pop and R&B crossover hit ."
+    },
+    {
+      "week": 41,
+      "week_start": "1971-10-09",
+      "week_end": "1971-10-15",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Hayes won an Academy Award for the music featured on this number-one album ."
+    },
+    {
+      "week": 42,
+      "week_start": "1971-10-16",
+      "week_end": "1971-10-22",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album's funk-infused soul sound defined the 'Blaxploitation' film era ."
+    },
+    {
+      "week": 43,
+      "week_start": "1971-10-23",
+      "week_end": "1971-10-29",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 5,
+      "fun_fact": "Isaac Hayes' cinematic arrangements were unlike anything else on the charts ."
+    },
+    {
+      "week": 44,
+      "week_start": "1971-10-30",
+      "week_end": "1971-11-05",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The 'Shaft' soundtrack spent the rest of the year at the top of the R&B charts ."
+    },
+    {
+      "week": 45,
+      "week_start": "1971-11-06",
+      "week_end": "1971-11-12",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 7,
+      "fun_fact": "By early November, Hayes had solidified his position as a 1971 chart powerhouse ."
+    },
+    {
+      "week": 46,
+      "week_start": "1971-11-13",
+      "week_end": "1971-11-19",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 8,
+      "fun_fact": "This was the eighth consecutive week at number one for the soundtrack ."
+    },
+    {
+      "week": 47,
+      "week_start": "1971-11-20",
+      "week_end": "1971-11-26",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 9,
+      "fun_fact": "The album's success made it one of the most famous soundtracks in R&B history ."
+    },
+    {
+      "week": 48,
+      "week_start": "1971-11-27",
+      "week_end": "1971-12-03",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 10,
+      "fun_fact": "Isaac Hayes hit the double-digit mark for consecutive weeks at the top ."
+    },
+    {
+      "week": 49,
+      "week_start": "1971-12-04",
+      "week_end": "1971-12-10",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 11,
+      "fun_fact": "The album proved that Isaac Hayes was an unstoppable force on the 1971 charts ."
+    },
+    {
+      "week": 50,
+      "week_start": "1971-12-11",
+      "week_end": "1971-12-17",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 12,
+      "fun_fact": "This was the 12th consecutive week at number one as the year came to a close ."
+    },
+    {
+      "week": 51,
+      "week_start": "1971-12-18",
+      "week_end": "1971-12-24",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 13,
+      "fun_fact": "The 'Shaft' soundtrack became the longest-running number-one album of the year ."
+    },
+    {
+      "week": 52,
+      "week_start": "1971-12-25",
+      "week_end": "1971-12-31",
+      "title": "Shaft",
+      "artist": "Soundtrack / Isaac Hayes",
+      "weeks_at_number_one": 14,
+      "fun_fact": "Isaac Hayes ended 1971 just as he began it: at the top of the R&B charts ."
+    }
+  ],
+  "1972": [
+    {
+      "week": 1,
+      "week_start": "1972-01-01",
+      "week_end": "1972-01-07",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album featured a darker, more experimental funk sound compared to the group's earlier hits."
+    },
+    {
+      "week": 2,
+      "week_start": "1972-01-08",
+      "week_end": "1972-01-14",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Sly Stone's use of a drum machine on this record was highly influential for the development of modern soul and hip-hop."
+    },
+    {
+      "week": 3,
+      "week_start": "1972-01-15",
+      "week_end": "1972-01-21",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album remained at number one for the first six weeks of 1972."
+    },
+    {
+      "week": 4,
+      "week_start": "1972-01-22",
+      "week_end": "1972-01-28",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Despite its difficult production, the album was a major commercial success for Epic Records."
+    },
+    {
+      "week": 5,
+      "week_start": "1972-01-29",
+      "week_end": "1972-02-04",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The record captured the shifting mood of the early 1970s with its dense and murky production."
+    },
+    {
+      "week": 6,
+      "week_start": "1972-02-05",
+      "week_end": "1972-02-11",
+      "title": "There's a Riot Goin' On",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the sixth and final consecutive week at the top for Sly and the Family Stone's masterpiece."
+    },
+    {
+      "week": 7,
+      "week_start": "1972-02-12",
+      "week_end": "1972-02-18",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green earned his first number-one R&B album with this Hi Records release."
+    },
+    {
+      "week": 8,
+      "week_start": "1972-02-19",
+      "week_end": "1972-02-25",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became one of the defining soul songs of the decade."
+    },
+    {
+      "week": 9,
+      "week_start": "1972-02-26",
+      "week_end": "1972-03-03",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Producer Willie Mitchell helped create the smooth, polished 'Memphis Soul' sound heard on this album."
+    },
+    {
+      "week": 10,
+      "week_start": "1972-03-04",
+      "week_end": "1972-03-10",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Al Green's unique falsetto and silky delivery resonated strongly with R&B audiences."
+    },
+    {
+      "week": 11,
+      "week_start": "1972-03-11",
+      "week_end": "1972-03-17",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's success cemented Al Green's status as a top-tier soul star."
+    },
+    {
+      "week": 12,
+      "week_start": "1972-03-18",
+      "week_end": "1972-03-24",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 6,
+      "fun_fact": "Green dominated the R&B charts throughout the spring of 1972."
+    },
+    {
+      "week": 13,
+      "week_start": "1972-03-25",
+      "week_end": "1972-03-31",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This album was the first of two number-one releases for Al Green in 1972."
+    },
+    {
+      "week": 14,
+      "week_start": "1972-04-01",
+      "week_end": "1972-04-07",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 8,
+      "fun_fact": "Al Green's ninth week at the top came during his first extended run at number one."
+    },
+    {
+      "week": 15,
+      "week_start": "1972-04-08",
+      "week_end": "1972-04-14",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 9,
+      "fun_fact": "This nine-week run was the longest continuous stay at number one for any album in 1972."
+    },
+    {
+      "week": 16,
+      "week_start": "1972-04-15",
+      "week_end": "1972-04-21",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Staple Singers reached number one with this Stax Records release featuring a message-driven soul sound."
+    },
+    {
+      "week": 17,
+      "week_start": "1972-04-22",
+      "week_end": "1972-04-28",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album includes the massive hit single 'I'll Take You There.'"
+    },
+    {
+      "week": 18,
+      "week_start": "1972-04-29",
+      "week_end": "1972-05-05",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Mavis Staples' powerful lead vocals were a highlight of this crossover success."
+    },
+    {
+      "week": 19,
+      "week_start": "1972-05-06",
+      "week_end": "1972-05-12",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green returned to the top spot for a second run in May."
+    },
+    {
+      "week": 20,
+      "week_start": "1972-05-13",
+      "week_end": "1972-05-19",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This two-week return brought the album's cumulative total to 11 weeks at number one."
+    },
+    {
+      "week": 21,
+      "week_start": "1972-05-20",
+      "week_end": "1972-05-26",
+      "title": "First Take",
+      "artist": "Roberta Flack",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Flack's 1969 debut album reached number one years later after a track was featured in a movie."
+    },
+    {
+      "week": 22,
+      "week_start": "1972-05-27",
+      "week_end": "1972-06-02",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Staple Singers returned to the top for a one-week stay at the end of May."
+    },
+    {
+      "week": 23,
+      "week_start": "1972-06-03",
+      "week_end": "1972-06-09",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Remarkably, Al Green's debut Hi Records LP returned to number one for a third time."
+    },
+    {
+      "week": 24,
+      "week_start": "1972-06-10",
+      "week_end": "1972-06-16",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album spent four more weeks at the top during this summer run."
+    },
+    {
+      "week": 25,
+      "week_start": "1972-06-17",
+      "week_end": "1972-06-23",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Green's longevity on the chart was a testament to the album's broad appeal."
+    },
+    {
+      "week": 26,
+      "week_start": "1972-06-24",
+      "week_end": "1972-06-30",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 4,
+      "fun_fact": "By the end of June, this album had spent 15 total weeks at number one."
+    },
+    {
+      "week": 27,
+      "week_start": "1972-07-01",
+      "week_end": "1972-07-07",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Staple Singers began July back at the top for their third separate run."
+    },
+    {
+      "week": 28,
+      "week_start": "1972-07-08",
+      "week_end": "1972-07-14",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This two-week stay brought the group's total for the year to six weeks at number one."
+    },
+    {
+      "week": 29,
+      "week_start": "1972-07-15",
+      "week_end": "1972-07-21",
+      "title": "Still Bill",
+      "artist": "Bill Withers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Bill Withers' second album, featuring 'Lean on Me,' hit number one in mid-July."
+    },
+    {
+      "week": 30,
+      "week_start": "1972-07-22",
+      "week_end": "1972-07-28",
+      "title": "Be Altitude: Respect Yourself",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Staple Singers returned for a final one-week stay at number one."
+    },
+    {
+      "week": 31,
+      "week_start": "1972-07-29",
+      "week_end": "1972-08-04",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "In an incredible chart performance, Al Green's album returned to number one for a fourth run."
+    },
+    {
+      "week": 32,
+      "week_start": "1972-08-05",
+      "week_end": "1972-08-11",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album remained at number one through early August."
+    },
+    {
+      "week": 33,
+      "week_start": "1972-08-12",
+      "week_end": "1972-08-18",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Green's dominance of 1972 was historic, with this album eventually tallying 19 total weeks at #1."
+    },
+    {
+      "week": 34,
+      "week_start": "1972-08-19",
+      "week_end": "1972-08-25",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 4,
+      "fun_fact": "This was the 19th and final total week at number one for this legendary soul record."
+    },
+    {
+      "week": 35,
+      "week_start": "1972-08-26",
+      "week_end": "1972-09-01",
+      "title": "Taylored in Silk",
+      "artist": "Johnnie Taylor",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Johnnie Taylor brought Stax Records back to the top of the chart in late August."
+    },
+    {
+      "week": 36,
+      "week_start": "1972-09-02",
+      "week_end": "1972-09-08",
+      "title": "Taylored in Silk",
+      "artist": "Johnnie Taylor",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Taylor was one of the most consistent hit-makers for the Memphis-based Stax label."
+    },
+    {
+      "week": 37,
+      "week_start": "1972-09-09",
+      "week_end": "1972-09-15",
+      "title": "I'm Still in Love with You",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green earned his second number-one R&B album of the year with this release."
+    },
+    {
+      "week": 38,
+      "week_start": "1972-09-16",
+      "week_end": "1972-09-22",
+      "title": "Amazing Grace",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This live gospel album became the highest-selling disc of Aretha Franklin's entire career."
+    },
+    {
+      "week": 39,
+      "week_start": "1972-09-23",
+      "week_end": "1972-09-29",
+      "title": "Back Stabbers",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album helped launch the 'Philly Soul' sound of Gamble and Huff's Philadelphia International Records."
+    },
+    {
+      "week": 40,
+      "week_start": "1972-09-30",
+      "week_end": "1972-10-06",
+      "title": "I'm Still in Love with You",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green's second LP of the year returned to number one for a one-week stay."
+    },
+    {
+      "week": 41,
+      "week_start": "1972-10-07",
+      "week_end": "1972-10-13",
+      "title": "Super Fly",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This iconic blaxploitation soundtrack spent four consecutive weeks at number one."
+    },
+    {
+      "week": 42,
+      "week_start": "1972-10-14",
+      "week_end": "1972-10-20",
+      "title": "Super Fly",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Mayfield's lyrics provided a socially conscious counterpoint to the film's imagery."
+    },
+    {
+      "week": 43,
+      "week_start": "1972-10-21",
+      "week_end": "1972-10-27",
+      "title": "Super Fly",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album is regarded as one of the most influential soul soundtracks in history."
+    },
+    {
+      "week": 44,
+      "week_start": "1972-10-28",
+      "week_end": "1972-11-03",
+      "title": "Super Fly",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Curtis Mayfield achieved major crossover success with this chart-topping project."
+    },
+    {
+      "week": 45,
+      "week_start": "1972-11-04",
+      "week_end": "1972-11-10",
+      "title": "Back Stabbers",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The O'Jays returned to number one for a two-week run in November."
+    },
+    {
+      "week": 46,
+      "week_start": "1972-11-11",
+      "week_end": "1972-11-17",
+      "title": "Back Stabbers",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track and 'Love Train' helped define the group's classic sound."
+    },
+    {
+      "week": 47,
+      "week_start": "1972-11-18",
+      "week_end": "1972-11-24",
+      "title": "All Directions",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Temptations returned to the top with their groundbreaking 'psychedelic soul' album."
+    },
+    {
+      "week": 48,
+      "week_start": "1972-11-25",
+      "week_end": "1972-12-01",
+      "title": "All Directions",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured the 12-minute original version of 'Papa Was a Rollin' Stone.'"
+    },
+    {
+      "week": 49,
+      "week_start": "1972-12-02",
+      "week_end": "1972-12-08",
+      "title": "360 Degrees of Billy Paul",
+      "artist": "Billy Paul",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Billy Paul reached number one thanks to the massive success of 'Me and Mrs. Jones.'"
+    },
+    {
+      "week": 50,
+      "week_start": "1972-12-09",
+      "week_end": "1972-12-15",
+      "title": "360 Degrees of Billy Paul",
+      "artist": "Billy Paul",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album was another major win for Philadelphia International Records in 1972."
+    },
+    {
+      "week": 51,
+      "week_start": "1972-12-16",
+      "week_end": "1972-12-22",
+      "title": "All Directions",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Temptations returned to number one for a second separate run in December."
+    },
+    {
+      "week": 52,
+      "week_start": "1972-12-23",
+      "week_end": "1972-12-29",
+      "title": "All Directions",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Norman Whitfield's production continued to push the boundaries of Motown's sound."
+    },
+    {
+      "week": 53,
+      "week_start": "1972-12-30",
+      "week_end": "1973-01-05",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 1,
+      "fun_fact": "War ended the year at number one with their multi-platinum fusion of soul, jazz, and Latin music."
+    }
+  ],
+  "1973": [
+    {
+      "week": 1,
+      "week_start": "1973-01-06",
+      "week_end": "1973-01-12",
+      "title": "360 Degrees of Billy Paul",
+      "artist": "Billy Paul",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Billy Paul's album returned to the top spot to kick off the first two chart weeks of 1973."
+    },
+    {
+      "week": 2,
+      "week_start": "1973-01-13",
+      "week_end": "1973-01-19",
+      "title": "360 Degrees of Billy Paul",
+      "artist": "Billy Paul",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album benefited greatly from the massive crossover success of the single 'Me and Mrs. Jones'."
+    },
+    {
+      "week": 3,
+      "week_start": "1973-01-20",
+      "week_end": "1973-01-26",
+      "title": "Talking Book",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Talking Book marked a major creative turning point for Stevie Wonder, featuring the hit 'Superstition'."
+    },
+    {
+      "week": 4,
+      "week_start": "1973-01-27",
+      "week_end": "1973-02-02",
+      "title": "Talking Book",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's innovative use of synthesizers helped redefine the sound of soul music in the 70s."
+    },
+    {
+      "week": 5,
+      "week_start": "1973-02-03",
+      "week_end": "1973-02-09",
+      "title": "Talking Book",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Stevie Wonder enjoyed a three-week stay at the top before being replaced by War."
+    },
+    {
+      "week": 6,
+      "week_start": "1973-02-10",
+      "week_end": "1973-02-16",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 1,
+      "fun_fact": "War reached number one with what would eventually become Billboard's best-selling album of 1973."
+    },
+    {
+      "week": 7,
+      "week_start": "1973-02-17",
+      "week_end": "1973-02-23",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album blended elements of rock, jazz, Latin, and soul into a unique 'lowrider' sound."
+    },
+    {
+      "week": 8,
+      "week_start": "1973-02-24",
+      "week_end": "1973-03-02",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The title track and 'The Cisco Kid' were major hits that helped the album stay at number one."
+    },
+    {
+      "week": 9,
+      "week_start": "1973-03-03",
+      "week_end": "1973-03-09",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 4,
+      "fun_fact": "War's dominance continued through the month of March."
+    },
+    {
+      "week": 10,
+      "week_start": "1973-03-10",
+      "week_end": "1973-03-16",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's success reflected the band's widespread popularity across diverse audiences."
+    },
+    {
+      "week": 11,
+      "week_start": "1973-03-17",
+      "week_end": "1973-03-23",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The group from Long Beach, California, held the top spot for seven consecutive weeks in this run."
+    },
+    {
+      "week": 12,
+      "week_start": "1973-03-24",
+      "week_end": "1973-03-30",
+      "title": "The World Is a Ghetto",
+      "artist": "War",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This was the final week of War's most significant stay at number one during 1973."
+    },
+    {
+      "week": 13,
+      "week_start": "1973-03-31",
+      "week_end": "1973-04-06",
+      "title": "Wattstax: The Living Word",
+      "artist": "Various artists / Soundtrack",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This live soundtrack captured the historic 1972 benefit concert at the Los Angeles Memorial Coliseum."
+    },
+    {
+      "week": 14,
+      "week_start": "1973-04-07",
+      "week_end": "1973-04-13",
+      "title": "Wattstax: The Living Word",
+      "artist": "Various artists / Soundtrack",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Often called the 'Black Woodstock,' the album featured top Stax Records artists like Isaac Hayes and the Staple Singers."
+    },
+    {
+      "week": 15,
+      "week_start": "1973-04-14",
+      "week_end": "1973-04-20",
+      "title": "Neither One of Us",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This was the group's first of two number-one albums in 1973."
+    },
+    {
+      "week": 16,
+      "week_start": "1973-04-21",
+      "week_end": "1973-04-27",
+      "title": "Neither One of Us",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became one of the group's most enduring and successful singles."
+    },
+    {
+      "week": 17,
+      "week_start": "1973-04-28",
+      "week_end": "1973-05-04",
+      "title": "Masterpiece",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Temptations returned to the top with another Norman Whitfield production."
+    },
+    {
+      "week": 18,
+      "week_start": "1973-05-05",
+      "week_end": "1973-05-11",
+      "title": "Masterpiece",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album continued the group's exploration of cinematic and psychedelic soul."
+    },
+    {
+      "week": 19,
+      "week_start": "1973-05-12",
+      "week_end": "1973-05-18",
+      "title": "Spinners",
+      "artist": "The Spinners",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This self-titled Atlantic Records debut for the group reached number one in mid-May."
+    },
+    {
+      "week": 20,
+      "week_start": "1973-05-19",
+      "week_end": "1973-05-25",
+      "title": "Spinners",
+      "artist": "The Spinners",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Produced by Thom Bell, the album helped define the smooth 'Philadelphia Soul' sound."
+    },
+    {
+      "week": 21,
+      "week_start": "1973-05-26",
+      "week_end": "1973-06-01",
+      "title": "Spinners",
+      "artist": "The Spinners",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album featured hits like 'I'll Be Around' and 'Could It Be I'm Falling in Love'."
+    },
+    {
+      "week": 22,
+      "week_start": "1973-06-02",
+      "week_end": "1973-06-08",
+      "title": "Birth Day",
+      "artist": "New Birth",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The R&B ensemble New Birth earned their only number-one album with this release."
+    },
+    {
+      "week": 23,
+      "week_start": "1973-06-09",
+      "week_end": "1973-06-15",
+      "title": "Call Me",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green returned to the number one spot with one of his most critically acclaimed albums."
+    },
+    {
+      "week": 24,
+      "week_start": "1973-06-16",
+      "week_end": "1973-06-22",
+      "title": "Call Me",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's polished Memphis soul sound remained a favorite with R&B fans."
+    },
+    {
+      "week": 25,
+      "week_start": "1973-06-23",
+      "week_end": "1973-06-29",
+      "title": "Live at the Sahara Tahoe",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This double live album captured Isaac Hayes' grand, orchestrated stage show."
+    },
+    {
+      "week": 26,
+      "week_start": "1973-06-30",
+      "week_end": "1973-07-06",
+      "title": "Live at the Sahara Tahoe",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Hayes' ability to command a live audience was evident on this chart-topping recording."
+    },
+    {
+      "week": 27,
+      "week_start": "1973-07-07",
+      "week_end": "1973-07-13",
+      "title": "I've Got So Much to Give",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album marked the debut of Barry White's solo career as a legendary baritone crooner."
+    },
+    {
+      "week": 28,
+      "week_start": "1973-07-14",
+      "week_end": "1973-07-20",
+      "title": "I've Got So Much to Give",
+      "artist": "Barry White",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The success of the single 'I'm Gonna Love You Just a Little More Baby' propelled the album to number one."
+    },
+    {
+      "week": 29,
+      "week_start": "1973-07-21",
+      "week_end": "1973-07-27",
+      "title": "Back to the World",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Curtis Mayfield's first album following 'Super Fly' addressed the experiences of returning Vietnam veterans."
+    },
+    {
+      "week": 30,
+      "week_start": "1973-07-28",
+      "week_end": "1973-08-03",
+      "title": "Back to the World",
+      "artist": "Curtis Mayfield",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Mayfield continued his streak of socially conscious number-one soul albums."
+    },
+    {
+      "week": 31,
+      "week_start": "1973-08-04",
+      "week_end": "1973-08-10",
+      "title": "Fresh",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Fresh was the second number-one album for Sly and the Family Stone in the 1970s."
+    },
+    {
+      "week": 32,
+      "week_start": "1973-08-11",
+      "week_end": "1973-08-17",
+      "title": "Fresh",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured a more stripped-down, funk-focused sound than their previous efforts."
+    },
+    {
+      "week": 33,
+      "week_start": "1973-08-18",
+      "week_end": "1973-08-24",
+      "title": "Fresh",
+      "artist": "Sly and the Family Stone",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This album featured the hit single 'If You Want Me to Stay'."
+    },
+    {
+      "week": 34,
+      "week_start": "1973-08-25",
+      "week_end": "1973-08-31",
+      "title": "Touch Me in the Morning",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Diana Ross achieved her second solo number-one album in late August."
+    },
+    {
+      "week": 35,
+      "week_start": "1973-09-01",
+      "week_end": "1973-09-07",
+      "title": "Touch Me in the Morning",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became a number-one hit on both the R&B and Pop charts."
+    },
+    {
+      "week": 36,
+      "week_start": "1973-09-08",
+      "week_end": "1973-09-14",
+      "title": "Innervisions",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder's second number-one album of the year is often cited as his masterpiece."
+    },
+    {
+      "week": 37,
+      "week_start": "1973-09-15",
+      "week_end": "1973-09-21",
+      "title": "Innervisions",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album explored complex social and spiritual themes with cutting-edge production."
+    },
+    {
+      "week": 38,
+      "week_start": "1973-09-22",
+      "week_end": "1973-09-28",
+      "title": "Deliver the Word",
+      "artist": "War",
+      "weeks_at_number_one": 1,
+      "fun_fact": "War secured their second number-one album of the year in late September."
+    },
+    {
+      "week": 39,
+      "week_start": "1973-09-29",
+      "week_end": "1973-10-05",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye's sensual masterpiece reached number one and began a massive chart run."
+    },
+    {
+      "week": 40,
+      "week_start": "1973-10-06",
+      "week_end": "1973-10-12",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album moved Gaye away from social commentary toward more romantic and sexual themes."
+    },
+    {
+      "week": 41,
+      "week_start": "1973-10-13",
+      "week_end": "1973-10-19",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The title track was a huge crossover success, helping drive album sales throughout the fall."
+    },
+    {
+      "week": 42,
+      "week_start": "1973-10-20",
+      "week_end": "1973-10-26",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Gaye's smooth delivery and soulful arrangements made the album an instant classic."
+    },
+    {
+      "week": 43,
+      "week_start": "1973-10-27",
+      "week_end": "1973-11-02",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 5,
+      "fun_fact": "By late October, the album had spent over a month at the top of the chart."
+    },
+    {
+      "week": 44,
+      "week_start": "1973-11-03",
+      "week_end": "1973-11-09",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The album's enduring popularity kept it at number one through early November."
+    },
+    {
+      "week": 45,
+      "week_start": "1973-11-10",
+      "week_end": "1973-11-16",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This was the seventh consecutive week at number one for Marvin Gaye's landmark LP."
+    },
+    {
+      "week": 46,
+      "week_start": "1973-11-17",
+      "week_end": "1973-11-23",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 8,
+      "fun_fact": "Gaye's dominance of the late 1973 R&B chart was nearly absolute."
+    },
+    {
+      "week": 47,
+      "week_start": "1973-11-24",
+      "week_end": "1973-11-30",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 9,
+      "fun_fact": "The album eventually spent 11 consecutive weeks at the top before being unseated."
+    },
+    {
+      "week": 48,
+      "week_start": "1973-12-01",
+      "week_end": "1973-12-07",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 10,
+      "fun_fact": "Marvin Gaye reached the double-digit mark for consecutive weeks at number one."
+    },
+    {
+      "week": 49,
+      "week_start": "1973-12-08",
+      "week_end": "1973-12-14",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 11,
+      "fun_fact": "This was the final week of one of the longest number-one runs of the early 70s."
+    },
+    {
+      "week": 50,
+      "week_start": "1973-12-15",
+      "week_end": "1973-12-21",
+      "title": "Imagination",
+      "artist": "Gladies Knight & the Pips",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Gladys Knight & the Pips earned their second number-one album of the year with 'Imagination'."
+    },
+    {
+      "week": 51,
+      "week_start": "1973-12-22",
+      "week_end": "1973-12-28",
+      "title": "Imagination",
+      "artist": "Gladies Knight & the Pips",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the classic hit 'Midnight Train to Georgia'."
+    },
+    {
+      "week": 52,
+      "week_start": "1973-12-29",
+      "week_end": "1974-01-04",
+      "title": "Imagination",
+      "artist": "Gladies Knight & the Pips",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group ended the year at number one, solidifying their status as soul superstars."
+    }
+  ],
+  "1974": [
+    {
+      "week": 1,
+      "week_start": "1974-01-05",
+      "week_end": "1974-01-11",
+      "title": "Imagination",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Gladys Knight & the Pips continued their chart dominance from late 1973 into the first month of 1974 [1, 2]."
+    },
+    {
+      "week": 2,
+      "week_start": "1974-01-12",
+      "week_end": "1974-01-18",
+      "title": "Imagination",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured 'Midnight Train to Georgia,' which became the group's signature song [2]."
+    },
+    {
+      "week": 3,
+      "week_start": "1974-01-19",
+      "week_end": "1974-01-25",
+      "title": "Imagination",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group held the top spot for the first four consecutive weeks of the new year [2]."
+    },
+    {
+      "week": 4,
+      "week_start": "1974-01-26",
+      "week_end": "1974-02-01",
+      "title": "Imagination",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 4,
+      "fun_fact": "By the end of January, this album had spent a combined total of seven weeks at number one across 1973 and 1974 [1, 2]."
+    },
+    {
+      "week": 5,
+      "week_start": "1974-02-02",
+      "week_end": "1974-02-08",
+      "title": "Stone Gon'",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White secured his first of two number-one R&B albums of 1974 with this release [2]."
+    },
+    {
+      "week": 6,
+      "week_start": "1974-02-09",
+      "week_end": "1974-02-15",
+      "title": "Stone Gon'",
+      "artist": "Barry White",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album showcased White's lush arrangements and deep, seductive baritone vocals [2]."
+    },
+    {
+      "week": 7,
+      "week_start": "1974-02-16",
+      "week_end": "1974-02-22",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This landmark Philadelphia Soul album reached number one for the first of three separate stays during 1974 [2]."
+    },
+    {
+      "week": 8,
+      "week_start": "1974-02-23",
+      "week_end": "1974-03-01",
+      "title": "Livin' for You",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green continued his streak of chart-topping albums with this early 1974 release [2]."
+    },
+    {
+      "week": 9,
+      "week_start": "1974-03-02",
+      "week_end": "1974-03-08",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The O'Jays returned to the top spot for a two-week run in early March [2]."
+    },
+    {
+      "week": 10,
+      "week_start": "1974-03-09",
+      "week_end": "1974-03-15",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album is highly regarded for its socially conscious themes and polished production [2]."
+    },
+    {
+      "week": 11,
+      "week_start": "1974-03-16",
+      "week_end": "1974-03-22",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The house band for Philadelphia International Records, MFSB, hit number one with their second studio album [2]."
+    },
+    {
+      "week": 12,
+      "week_start": "1974-03-23",
+      "week_end": "1974-03-29",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured the iconic hit 'TSOP (The Sound of Philadelphia),' the theme for Soul Train [2]."
+    },
+    {
+      "week": 13,
+      "week_start": "1974-03-30",
+      "week_end": "1974-04-05",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's name stands for 'Mother Father Sister Brother' [2]."
+    },
+    {
+      "week": 14,
+      "week_start": "1974-04-06",
+      "week_end": "1974-04-12",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album stayed at number one for a total of six consecutive weeks [2]."
+    },
+    {
+      "week": 15,
+      "week_start": "1974-04-13",
+      "week_end": "1974-04-19",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 5,
+      "fun_fact": "MFSB defined the sophisticated orchestral sound of mid-70s R&B [2]."
+    },
+    {
+      "week": 16,
+      "week_start": "1974-04-20",
+      "week_end": "1974-04-26",
+      "title": "Love Is the Message",
+      "artist": "MFSB",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the final week of MFSB's lengthy run at the top of the chart [2]."
+    },
+    {
+      "week": 17,
+      "week_start": "1974-04-27",
+      "week_end": "1974-05-03",
+      "title": "Boogie Down!",
+      "artist": "Eddie Kendricks",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Former Temptations lead singer Eddie Kendricks scored a solo number-one album with Boogie Down! [2]."
+    },
+    {
+      "week": 18,
+      "week_start": "1974-05-04",
+      "week_end": "1974-05-10",
+      "title": "The Payback",
+      "artist": "James Brown",
+      "weeks_at_number_one": 1,
+      "fun_fact": "James Brown's funk masterpiece reached the number one spot in early May [2]."
+    },
+    {
+      "week": 19,
+      "week_start": "1974-05-11",
+      "week_end": "1974-05-17",
+      "title": "The Payback",
+      "artist": "James Brown",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track is one of the most sampled songs in the history of hip-hop [2]."
+    },
+    {
+      "week": 20,
+      "week_start": "1974-05-18",
+      "week_end": "1974-05-24",
+      "title": "Let Me in Your Life",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Queen of Soul returned to number one with this studio album featuring 'Until You Come Back to Me' [2]."
+    },
+    {
+      "week": 21,
+      "week_start": "1974-05-25",
+      "week_end": "1974-05-31",
+      "title": "Open Our Eyes",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album marked Earth, Wind & Fire's first appearance at the top of the R&B album charts [2]."
+    },
+    {
+      "week": 22,
+      "week_start": "1974-06-01",
+      "week_end": "1974-06-07",
+      "title": "Mighty Love",
+      "artist": "The Spinners",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Produced by Thom Bell, this album continued The Spinners' successful run on Atlantic Records [2]."
+    },
+    {
+      "week": 23,
+      "week_start": "1974-06-08",
+      "week_end": "1974-06-14",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "In a rare chart feat, The O'Jays' Ship Ahoy returned to number one for a third separate run [2]."
+    },
+    {
+      "week": 24,
+      "week_start": "1974-06-15",
+      "week_end": "1974-06-21",
+      "title": "Ship Ahoy",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This two-week stay brought the album's total count to five weeks at the top for 1974 [2]."
+    },
+    {
+      "week": 25,
+      "week_start": "1974-06-22",
+      "week_end": "1974-06-28",
+      "title": "War Live",
+      "artist": "War",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The group War reached number one with this energetic live recording [2]."
+    },
+    {
+      "week": 26,
+      "week_start": "1974-06-29",
+      "week_end": "1974-07-05",
+      "title": "War Live",
+      "artist": "War",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album captured the group's diverse musical blend in a live setting [2]."
+    },
+    {
+      "week": 27,
+      "week_start": "1974-07-06",
+      "week_end": "1974-07-12",
+      "title": "Body Heat",
+      "artist": "Quincy Jones",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Quincy Jones reached number one with this influential soul-jazz crossover album [2]."
+    },
+    {
+      "week": 28,
+      "week_start": "1974-07-13",
+      "week_end": "1974-07-19",
+      "title": "Claudine",
+      "artist": "Soundtrack / Gladys Knight & the Pips",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This soundtrack album was written and produced by Curtis Mayfield for the film Claudine [2]."
+    },
+    {
+      "week": 29,
+      "week_start": "1974-07-20",
+      "week_end": "1974-07-26",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Ohio Players secured their first number-one album of the decade in late July [2]."
+    },
+    {
+      "week": 30,
+      "week_start": "1974-07-27",
+      "week_end": "1974-08-02",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track's heavy funk groove helped propel the album to massive success [2]."
+    },
+    {
+      "week": 31,
+      "week_start": "1974-08-03",
+      "week_end": "1974-08-09",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's provocative album covers were nearly as famous as their music [2]."
+    },
+    {
+      "week": 32,
+      "week_start": "1974-08-10",
+      "week_end": "1974-08-16",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Skin Tight spent a total of six consecutive weeks at the top of the chart [2]."
+    },
+    {
+      "week": 33,
+      "week_start": "1974-08-17",
+      "week_end": "1974-08-23",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's success made the band one of the most prominent funk acts of 1974 [2]."
+    },
+    {
+      "week": 34,
+      "week_start": "1974-08-24",
+      "week_end": "1974-08-30",
+      "title": "Skin Tight",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the final week of the Ohio Players' longest run at number one in 1974 [2]."
+    },
+    {
+      "week": 35,
+      "week_start": "1974-08-31",
+      "week_end": "1974-09-06",
+      "title": "Marvin Gaye Live!",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye reached number one with this recording of his first tour in eight years [2]."
+    },
+    {
+      "week": 36,
+      "week_start": "1974-09-07",
+      "week_end": "1974-09-13",
+      "title": "That Nigger's Crazy",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Comedian Richard Pryor made history by reaching number one on the R&B album chart with a comedy record [2]."
+    },
+    {
+      "week": 37,
+      "week_start": "1974-09-14",
+      "week_end": "1974-09-20",
+      "title": "That Nigger's Crazy",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album won a Grammy Award for Best Comedy Album [2]."
+    },
+    {
+      "week": 38,
+      "week_start": "1974-09-21",
+      "week_end": "1974-09-27",
+      "title": "That Nigger's Crazy",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Pryor's raw and influential humor resonated deeply with R&B audiences [2]."
+    },
+    {
+      "week": 39,
+      "week_start": "1974-09-28",
+      "week_end": "1974-10-04",
+      "title": "That Nigger's Crazy",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album spent four consecutive weeks at the top during the month of September [2]."
+    },
+    {
+      "week": 40,
+      "week_start": "1974-10-05",
+      "week_end": "1974-10-11",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder returned to number one with his 17th studio album [2]."
+    },
+    {
+      "week": 41,
+      "week_start": "1974-10-12",
+      "week_end": "1974-10-18",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the hit single 'You Haven't Done Nothin',' a social commentary track [2]."
+    },
+    {
+      "week": 42,
+      "week_start": "1974-10-19",
+      "week_end": "1974-10-25",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This album was part of Stevie Wonder's 'classic period' and eventually won three Grammys [2]."
+    },
+    {
+      "week": 43,
+      "week_start": "1974-10-26",
+      "week_end": "1974-11-01",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album explored deeper, more personal, and darker themes than his previous works [2]."
+    },
+    {
+      "week": 44,
+      "week_start": "1974-11-02",
+      "week_end": "1974-11-08",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 5,
+      "fun_fact": "Stevie Wonder's initial five-week run at the top concluded in early November [2]."
+    },
+    {
+      "week": 45,
+      "week_start": "1974-11-09",
+      "week_end": "1974-11-15",
+      "title": "Marvin Gaye Live!",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye's live album returned to number one for a single week in November [2]."
+    },
+    {
+      "week": 46,
+      "week_start": "1974-11-16",
+      "week_end": "1974-11-22",
+      "title": "Live It Up",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers earned their only number-one album of 1974 with this funk-rock release [2]."
+    },
+    {
+      "week": 47,
+      "week_start": "1974-11-23",
+      "week_end": "1974-11-29",
+      "title": "Can't Get Enough",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White's second number-one album of 1974 featured the massive hit 'You're the First, the Last, My Everything' [2]."
+    },
+    {
+      "week": 48,
+      "week_start": "1974-11-30",
+      "week_end": "1974-12-06",
+      "title": "Can't Get Enough",
+      "artist": "Barry White",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album stayed at number one for two weeks as the year drew to a close [2]."
+    },
+    {
+      "week": 49,
+      "week_start": "1974-12-07",
+      "week_end": "1974-12-13",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder's masterpiece returned to number one for a three-week December run [2]."
+    },
+    {
+      "week": 50,
+      "week_start": "1974-12-14",
+      "week_end": "1974-12-20",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album eventually tallied a total of eight weeks at the top during 1974 [2]."
+    },
+    {
+      "week": 51,
+      "week_start": "1974-12-21",
+      "week_end": "1974-12-27",
+      "title": "Fulfillingness' First Finale",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Stevie Wonder was one of the most successful artists of the year on the R&B charts [2]."
+    },
+    {
+      "week": 52,
+      "week_start": "1974-12-28",
+      "week_end": "1975-01-03",
+      "title": "I Feel a Song",
+      "artist": "Gladys Knight & the Pips",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Gladys Knight & the Pips ended the year exactly as they began it: at number one [2]."
+    }
+  ],
+  "1975": [
+    {
+      "week": 1,
+      "week_start": "1975-01-04",
+      "week_end": "1975-01-10",
+      "title": "Fire",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Ohio Players opened the year at number one with their classic funk album Fire."
+    },
+    {
+      "week": 2,
+      "week_start": "1975-01-11",
+      "week_end": "1975-01-17",
+      "title": "Fire",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured a high-energy title track that became a defining song for the band."
+    },
+    {
+      "week": 3,
+      "week_start": "1975-01-18",
+      "week_end": "1975-01-24",
+      "title": "Fire",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Ohio Players remained a dominant force in the R&B charts as 1975 began."
+    },
+    {
+      "week": 4,
+      "week_start": "1975-01-25",
+      "week_end": "1975-01-31",
+      "title": "Fire",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The group's signature blend of heavy funk and soulful grooves kept them at the top for over a month."
+    },
+    {
+      "week": 5,
+      "week_start": "1975-02-01",
+      "week_end": "1975-02-07",
+      "title": "Fire",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This was the final week of the Ohio Players' initial five-week run at the top of the chart."
+    },
+    {
+      "week": 6,
+      "week_start": "1975-02-08",
+      "week_end": "1975-02-14",
+      "title": "Kung Fu Fighting and Other Great Love Songs",
+      "artist": "Carl Douglas",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Carl Douglas reached number one following the massive global success of his martial arts-themed single."
+    },
+    {
+      "week": 7,
+      "week_start": "1975-02-15",
+      "week_end": "1975-02-21",
+      "title": "New and Improved",
+      "artist": "The Spinners",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Spinners earned a number-one album with this Atlantic Records release produced by Thom Bell."
+    },
+    {
+      "week": 8,
+      "week_start": "1975-02-22",
+      "week_end": "1975-02-28",
+      "title": "Do It ('Til You're Satisfied)",
+      "artist": "B.T. Express",
+      "weeks_at_number_one": 1,
+      "fun_fact": "B.T. Express achieved their first number-one R&B album in late February."
+    },
+    {
+      "week": 9,
+      "week_start": "1975-03-01",
+      "week_end": "1975-03-07",
+      "title": "AWB",
+      "artist": "Average White Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Scottish soul group reached the top with their breakthrough self-titled second album."
+    },
+    {
+      "week": 10,
+      "week_start": "1975-03-08",
+      "week_end": "1975-03-14",
+      "title": "AWB",
+      "artist": "Average White Band",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the iconic instrumental track 'Pick Up the Pieces,' which was a massive hit."
+    },
+    {
+      "week": 11,
+      "week_start": "1975-03-15",
+      "week_end": "1975-03-21",
+      "title": "AWB",
+      "artist": "Average White Band",
+      "weeks_at_number_one": 3,
+      "fun_fact": "AWB proved their soulful credentials by holding the top spot for three consecutive weeks."
+    },
+    {
+      "week": 12,
+      "week_start": "1975-03-22",
+      "week_end": "1975-03-28",
+      "title": "Al Green Explores Your Mind",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green continued his chart success with this Hi Records release in early spring."
+    },
+    {
+      "week": 13,
+      "week_start": "1975-03-29",
+      "week_end": "1975-04-04",
+      "title": "Perfect Angel",
+      "artist": "Minnie Riperton",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Minnie Riperton reached number one with the album featuring her signature hit 'Lovin' You'."
+    },
+    {
+      "week": 14,
+      "week_start": "1975-04-05",
+      "week_end": "1975-04-11",
+      "title": "Perfect Angel",
+      "artist": "Minnie Riperton",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album showcased Riperton's incredible five-octave vocal range and delicate delivery."
+    },
+    {
+      "week": 15,
+      "week_start": "1975-04-12",
+      "week_end": "1975-04-18",
+      "title": "Perfect Angel",
+      "artist": "Minnie Riperton",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album was a critical and commercial success, staying at number one for three weeks."
+    },
+    {
+      "week": 16,
+      "week_start": "1975-04-19",
+      "week_end": "1975-04-25",
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire achieved a massive hit with this soundtrack and studio album."
+    },
+    {
+      "week": 17,
+      "week_start": "1975-04-26",
+      "week_end": "1975-05-02",
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's spiritual and uplifting themes resonated deeply with mid-70s audiences."
+    },
+    {
+      "week": 18,
+      "week_start": "1975-05-03",
+      "week_end": "1975-05-09",
+      "title": "A Song for You",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Temptations earned another number-one R&B album with this mid-70s release."
+    },
+    {
+      "week": 19,
+      "week_start": "1975-05-10",
+      "week_end": "1975-05-16",
+      "title": "To Be True",
+      "artist": "Harold Melvin and the Blue Notes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album featured the powerful lead vocals of Teddy Pendergrass and the classic 'Philly Soul' sound."
+    },
+    {
+      "week": 20,
+      "week_start": "1975-05-17",
+      "week_end": "1975-05-23",
+      "title": "Mister Magic",
+      "artist": "Grover Washington, Jr.",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Jazz-funk saxophonist Grover Washington, Jr. reached the top with this influential crossover album."
+    },
+    {
+      "week": 21,
+      "week_start": "1975-05-24",
+      "week_end": "1975-05-30",
+      "title": "Sun Goddess",
+      "artist": "Ramsey Lewis",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Jazz fusion musician Ramsey Lewis hit number one with this album in late May."
+    },
+    {
+      "week": 22,
+      "week_start": "1975-05-31",
+      "week_end": "1975-06-06",
+      "title": "Just Another Way to Say I Love You",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White's seductive baritone vocals returned to the number one spot at the end of May."
+    },
+    {
+      "week": 23,
+      "week_start": "1975-06-07",
+      "week_end": "1975-06-13",
+      "title": "Survival",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The O'Jays achieved their first number-one album of 1975 with this Gamble and Huff production."
+    },
+    {
+      "week": 24,
+      "week_start": "1975-06-14",
+      "week_end": "1975-06-20",
+      "title": "Survival",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album continued the group's successful run for Philadelphia International Records."
+    },
+    {
+      "week": 25,
+      "week_start": "1975-06-21",
+      "week_end": "1975-06-27",
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire returned to the top spot for a second separate run in June."
+    },
+    {
+      "week": 26,
+      "week_start": "1975-06-28",
+      "week_end": "1975-07-04",
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album spent a total of five weeks at number one across its two runs in 1975."
+    },
+    {
+      "week": 27,
+      "week_start": "1975-07-05",
+      "week_end": "1975-07-11",
+      "title": "That's the Way of the World",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's popularity peaked during the summer of 1975 with this multi-platinum release."
+    },
+    {
+      "week": 28,
+      "week_start": "1975-07-12",
+      "week_end": "1975-07-18",
+      "title": "Disco Baby",
+      "artist": "Van McCoy & the Soul City Symphony",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Van McCoy reached number one with the album featuring the massive dance craze 'The Hustle'."
+    },
+    {
+      "week": 29,
+      "week_start": "1975-07-19",
+      "week_end": "1975-07-25",
+      "title": "The Heat Is On",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers hit number one with this essential funk-rock album."
+    },
+    {
+      "week": 30,
+      "week_start": "1975-07-26",
+      "week_end": "1975-08-01",
+      "title": "The Heat Is On",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured high-energy tracks like 'Fight the Power' and soulful ballads."
+    },
+    {
+      "week": 31,
+      "week_start": "1975-08-02",
+      "week_end": "1975-08-08",
+      "title": "The Heat Is On",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's versatile sound appealed to a wide range of R&B and rock audiences."
+    },
+    {
+      "week": 32,
+      "week_start": "1975-08-09",
+      "week_end": "1975-08-15",
+      "title": "Chocolate Chip",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Isaac Hayes returned to the top with his final number-one album for Stax Records."
+    },
+    {
+      "week": 33,
+      "week_start": "1975-08-16",
+      "week_end": "1975-08-22",
+      "title": "Chocolate Chip",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Hayes' smooth arrangements and deep vocals remained a winning formula on the charts."
+    },
+    {
+      "week": 34,
+      "week_start": "1975-08-23",
+      "week_end": "1975-08-29",
+      "title": "Cut the Cake",
+      "artist": "Average White Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Average White Band achieved their second number-one album of the year in late August."
+    },
+    {
+      "week": 35,
+      "week_start": "1975-08-30",
+      "week_end": "1975-09-05",
+      "title": "Why Can't We Be Friends?",
+      "artist": "War",
+      "weeks_at_number_one": 1,
+      "fun_fact": "War reached the top of the chart with this diverse and influential funk-jazz project."
+    },
+    {
+      "week": 36,
+      "week_start": "1975-09-06",
+      "week_end": "1975-09-12",
+      "title": "Non-Stop",
+      "artist": "B.T. Express",
+      "weeks_at_number_one": 1,
+      "fun_fact": "B.T. Express achieved their second number-one R&B album of 1975 in early September."
+    },
+    {
+      "week": 37,
+      "week_start": "1975-09-13",
+      "week_end": "1975-09-19",
+      "title": "Non-Stop",
+      "artist": "B.T. Express",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The group was a key part of the popular disco and funk sound that defined the mid-70s."
+    },
+    {
+      "week": 38,
+      "week_start": "1975-09-20",
+      "week_end": "1975-09-26",
+      "title": "The Heat Is On",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers returned to the number one spot for a one-week stay in September."
+    },
+    {
+      "week": 39,
+      "week_start": "1975-09-27",
+      "week_end": "1975-10-03",
+      "title": "Honey",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Ohio Players secured their second number-one album of the year with Honey."
+    },
+    {
+      "week": 40,
+      "week_start": "1975-10-04",
+      "week_end": "1975-10-10",
+      "title": "Honey",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's distinctive cover and funk grooves made it a standout hit in the fall."
+    },
+    {
+      "week": 41,
+      "week_start": "1975-10-11",
+      "week_end": "1975-10-17",
+      "title": "...Is It Something I Said?",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Richard Pryor made history again by reaching number one with another classic comedy album."
+    },
+    {
+      "week": 42,
+      "week_start": "1975-10-18",
+      "week_end": "1975-10-24",
+      "title": "...Is It Something I Said?",
+      "artist": "Richard Pryor",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Pryor was one of the few comedians to consistently top the R&B album charts during the 70s."
+    },
+    {
+      "week": 43,
+      "week_start": "1975-10-25",
+      "week_end": "1975-10-31",
+      "title": "Honey",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Ohio Players' Honey returned to the number one spot for a final run in October."
+    },
+    {
+      "week": 44,
+      "week_start": "1975-11-01",
+      "week_end": "1975-11-07",
+      "title": "Al Green Is Love",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Al Green secured his second number-one R&B album of the year in early November."
+    },
+    {
+      "week": 45,
+      "week_start": "1975-11-08",
+      "week_end": "1975-11-14",
+      "title": "Al Green Is Love",
+      "artist": "Al Green",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Green's dominance of the 70s soul charts continued throughout the end of 1975."
+    },
+    {
+      "week": 46,
+      "week_start": "1975-11-15",
+      "week_end": "1975-11-21",
+      "title": "KC and the Sunshine Band",
+      "artist": "KC and the Sunshine Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The group's self-titled album reached number one thanks to their massive disco-funk hits."
+    },
+    {
+      "week": 47,
+      "week_start": "1975-11-22",
+      "week_end": "1975-11-28",
+      "title": "Inseparable",
+      "artist": "Natalie Cole",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Natalie Cole achieved her first number-one R&B album with her highly acclaimed debut release."
+    },
+    {
+      "week": 48,
+      "week_start": "1975-11-29",
+      "week_end": "1975-12-05",
+      "title": "Save Me",
+      "artist": "Silver Convention",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Munich-based disco group reached number one with the hit 'Fly, Robin, Fly'."
+    },
+    {
+      "week": 49,
+      "week_start": "1975-12-06",
+      "week_end": "1975-12-12",
+      "title": "Let's Do It Again",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The soundtrack to the film Let's Do It Again reached number one in early December."
+    },
+    {
+      "week": 50,
+      "week_start": "1975-12-13",
+      "week_end": "1975-12-19",
+      "title": "Let's Do It Again",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Written and produced by Curtis Mayfield, the title track became one of the group's biggest hits."
+    },
+    {
+      "week": 51,
+      "week_start": "1975-12-20",
+      "week_end": "1975-12-26",
+      "title": "Feels So Good",
+      "artist": "Grover Washington, Jr.",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Grover Washington, Jr. earned his second number-one R&B album of 1975 as the year drew to a close."
+    },
+    {
+      "week": 52,
+      "week_start": "1975-12-27",
+      "week_end": "1976-01-02",
+      "title": "Family Reunion",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The O'Jays ended the year at number one with their second chart-topping album of 1975."
+    }
+  ],
+  "1976": [
+    {
+      "week": 1,
+      "week_start": "1976-01-03",
+      "week_end": "1976-01-09",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire's hybrid live/studio album Gratitude opened 1976 at number one."
+    },
+    {
+      "week": 2,
+      "week_start": "1976-01-10",
+      "week_end": "1976-01-16",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album showcased the group's dynamic live energy and spiritual soul-funk sound."
+    },
+    {
+      "week": 3,
+      "week_start": "1976-01-17",
+      "week_end": "1976-01-23",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Gratitude spent its initial three weeks of the year at the top of the chart."
+    },
+    {
+      "week": 4,
+      "week_start": "1976-01-24",
+      "week_end": "1976-01-30",
+      "title": "Wake Up Everybody",
+      "artist": "Harold Melvin & the Blue Notes",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This Philly soul classic featured the powerful lead vocals of Teddy Pendergrass."
+    },
+    {
+      "week": 5,
+      "week_start": "1976-01-31",
+      "week_end": "1976-02-06",
+      "title": "Wake Up Everybody",
+      "artist": "Harold Melvin & the Blue Notes",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became a socially conscious anthem during the U.S. Bicentennial year."
+    },
+    {
+      "week": 6,
+      "week_start": "1976-02-07",
+      "week_end": "1976-02-13",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire returned to number one for a second separate run in February."
+    },
+    {
+      "week": 7,
+      "week_start": "1976-02-14",
+      "week_end": "1976-02-20",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album eventually tallied a total of six weeks at number one during the first quarter of the year."
+    },
+    {
+      "week": 8,
+      "week_start": "1976-02-21",
+      "week_end": "1976-02-27",
+      "title": "Gratitude",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This was the final week at the top for one of the most successful albums of the group's career."
+    },
+    {
+      "week": 9,
+      "week_start": "1976-02-28",
+      "week_end": "1976-03-05",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Chaka Khan and Rufus began a dominant six-week reign at the top in late February."
+    },
+    {
+      "week": 10,
+      "week_start": "1976-03-06",
+      "week_end": "1976-03-12",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the hit single 'Sweet Thing,' a signature track for Chaka Khan."
+    },
+    {
+      "week": 11,
+      "week_start": "1976-03-13",
+      "week_end": "1976-03-19",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's mix of funk and rock continued to resonate deeply with R&B fans."
+    },
+    {
+      "week": 12,
+      "week_start": "1976-03-20",
+      "week_end": "1976-03-26",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Rufus and Chaka Khan remained at number one throughout most of the month of March."
+    },
+    {
+      "week": 13,
+      "week_start": "1976-03-27",
+      "week_end": "1976-04-02",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This release solidified Chaka Khan's status as a leading voice in 70s soul and funk."
+    },
+    {
+      "week": 14,
+      "week_start": "1976-04-03",
+      "week_end": "1976-04-09",
+      "title": "Rufus featuring Chaka Khan",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The six-week run concluded in early April, making it one of the longest continuous runs of the year so far."
+    },
+    {
+      "week": 15,
+      "week_start": "1976-04-10",
+      "week_end": "1976-04-16",
+      "title": "Eargasm",
+      "artist": "Johnnie Taylor",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Johnnie Taylor reached number one with Eargasm, fueled by the massive success of 'Disco Lady'."
+    },
+    {
+      "week": 16,
+      "week_start": "1976-04-17",
+      "week_end": "1976-04-23",
+      "title": "Eargasm",
+      "artist": "Johnnie Taylor",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The single 'Disco Lady' became the first-ever single to be certified platinum by the RIAA."
+    },
+    {
+      "week": 17,
+      "week_start": "1976-04-24",
+      "week_end": "1976-04-30",
+      "title": "Brass Construction I",
+      "artist": "Brass Construction",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The self-titled debut from Brass Construction reached number one in late April."
+    },
+    {
+      "week": 18,
+      "week_start": "1976-05-01",
+      "week_end": "1976-05-07",
+      "title": "Brass Construction I",
+      "artist": "Brass Construction",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album helped define the infectious Brooklyn funk sound of the mid-1970s."
+    },
+    {
+      "week": 19,
+      "week_start": "1976-05-08",
+      "week_end": "1976-05-14",
+      "title": "Brass Construction I",
+      "artist": "Brass Construction",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's rhythmic arrangements made them a favorite in the emerging disco scene."
+    },
+    {
+      "week": 20,
+      "week_start": "1976-05-15",
+      "week_end": "1976-05-21",
+      "title": "I Want You",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye returned to the top with this smooth, Leon Ware-produced masterpiece."
+    },
+    {
+      "week": 21,
+      "week_start": "1976-05-22",
+      "week_end": "1976-05-28",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Jazz guitarist George Benson achieved massive crossover success with the soul-infused Breezin'."
+    },
+    {
+      "week": 22,
+      "week_start": "1976-05-29",
+      "week_end": "1976-06-04",
+      "title": "Look Out for #1",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The debut album from brothers George and Louis Johnson was produced by Quincy Jones."
+    },
+    {
+      "week": 23,
+      "week_start": "1976-06-05",
+      "week_end": "1976-06-11",
+      "title": "Look Out for #1",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Louis Johnson's innovative 'slap' bass technique became a trademark of the album's funk sound."
+    },
+    {
+      "week": 24,
+      "week_start": "1976-06-12",
+      "week_end": "1976-06-18",
+      "title": "Look Out for #1",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album featured the major hit 'I'll Be Good to You,' helping it stay at number one."
+    },
+    {
+      "week": 25,
+      "week_start": "1976-06-19",
+      "week_end": "1976-06-25",
+      "title": "Look Out for #1",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Brothers Johnson held the top spot for four consecutive weeks in early summer."
+    },
+    {
+      "week": 26,
+      "week_start": "1976-06-26",
+      "week_end": "1976-07-02",
+      "title": "Harvest for the World",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers reached number one with their socially conscious and folk-influenced funk album."
+    },
+    {
+      "week": 27,
+      "week_start": "1976-07-03",
+      "week_end": "1976-07-09",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "George Benson's Breezin' returned to the top spot for a second three-week stay."
+    },
+    {
+      "week": 28,
+      "week_start": "1976-07-10",
+      "week_end": "1976-07-16",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's success marked a peak in the popularity of jazz-fusion on the R&B charts."
+    },
+    {
+      "week": 29,
+      "week_start": "1976-07-17",
+      "week_end": "1976-07-23",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The record eventually became the best-selling jazz album of all time up to that point."
+    },
+    {
+      "week": 30,
+      "week_start": "1976-07-24",
+      "week_end": "1976-07-30",
+      "title": "Contradiction",
+      "artist": "The Ohio Players",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Ohio Players secured their only number-one R&B album of 1976 with Contradiction."
+    },
+    {
+      "week": 31,
+      "week_start": "1976-07-31",
+      "week_end": "1976-08-06",
+      "title": "Sparkle",
+      "artist": "Soundtrack / Aretha Franklin",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The soundtrack to Sparkle featured songs written and produced by soul icon Curtis Mayfield."
+    },
+    {
+      "week": 32,
+      "week_start": "1976-08-07",
+      "week_end": "1976-08-13",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "In a rare feat, George Benson's album returned to number one for a third separate run."
+    },
+    {
+      "week": 33,
+      "week_start": "1976-08-14",
+      "week_end": "1976-08-20",
+      "title": "Breezin'",
+      "artist": "George Benson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This final two-week run brought the album's total time at number one to six weeks."
+    },
+    {
+      "week": 34,
+      "week_start": "1976-08-21",
+      "week_end": "1976-08-27",
+      "title": "All Things in Time",
+      "artist": "Lou Rawls",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Lou Rawls enjoyed a massive career resurgence with this album featuring 'You'll Never Find Another Love Like Mine'."
+    },
+    {
+      "week": 35,
+      "week_start": "1976-08-28",
+      "week_end": "1976-09-03",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores reached number one with the album featuring the romantic hit 'Just to Be Close to You'."
+    },
+    {
+      "week": 36,
+      "week_start": "1976-09-04",
+      "week_end": "1976-09-10",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The Tuskegee-based group became one of Motown's most consistent hit-making acts of the late 70s."
+    },
+    {
+      "week": 37,
+      "week_start": "1976-09-11",
+      "week_end": "1976-09-17",
+      "title": "Wild Cherry",
+      "artist": "Wild Cherry",
+      "weeks_at_number_one": 1,
+      "fun_fact": "This album hit number one largely due to the massive crossover success of 'Play That Funky Music'."
+    },
+    {
+      "week": 38,
+      "week_start": "1976-09-18",
+      "week_end": "1976-09-24",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores returned to the top for a second run that would last throughout the early fall."
+    },
+    {
+      "week": 39,
+      "week_start": "1976-09-25",
+      "week_end": "1976-10-01",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The group's blend of hard funk and smooth ballads made them superstars during the year."
+    },
+    {
+      "week": 40,
+      "week_start": "1976-10-02",
+      "week_end": "1976-10-08",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album spent a total of six weeks at number one across its two runs in 1976."
+    },
+    {
+      "week": 41,
+      "week_start": "1976-10-09",
+      "week_end": "1976-10-15",
+      "title": "Hot on the Tracks",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 4,
+      "fun_fact": "This final week at number one for the Commodores preceded the arrival of a soul masterpiece."
+    },
+    {
+      "week": 42,
+      "week_start": "1976-10-16",
+      "week_end": "1976-10-22",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder's magnum opus debuted at the top of the chart in mid-October."
+    },
+    {
+      "week": 43,
+      "week_start": "1976-10-23",
+      "week_end": "1976-10-29",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The ambitious double album featured hits like 'Sir Duke' and 'I Wish'."
+    },
+    {
+      "week": 44,
+      "week_start": "1976-10-30",
+      "week_end": "1976-11-05",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album is frequently cited by critics as one of the greatest records ever made."
+    },
+    {
+      "week": 45,
+      "week_start": "1976-11-06",
+      "week_end": "1976-11-12",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Wonder's creative peak resulted in 11 consecutive weeks at number one to close the year."
+    },
+    {
+      "week": 46,
+      "week_start": "1976-11-13",
+      "week_end": "1976-11-19",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's success was so massive that no other album reached number one for the rest of 1976."
+    },
+    {
+      "week": 47,
+      "week_start": "1976-11-20",
+      "week_end": "1976-11-26",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 6,
+      "fun_fact": "Stevie Wonder dominated the airwaves during the 1976 holiday season."
+    },
+    {
+      "week": 48,
+      "week_start": "1976-11-27",
+      "week_end": "1976-12-03",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 7,
+      "fun_fact": "The album featured a wide range of musical styles, including jazz fusion, soul, and pop."
+    },
+    {
+      "week": 49,
+      "week_start": "1976-12-04",
+      "week_end": "1976-12-10",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 8,
+      "fun_fact": "By early December, the album was already one of the longest-running #1s of the decade."
+    },
+    {
+      "week": 50,
+      "week_start": "1976-12-11",
+      "week_end": "1976-12-17",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 9,
+      "fun_fact": "The album eventually stayed at number one on the R&B charts for a total of 20 weeks."
+    },
+    {
+      "week": 51,
+      "week_start": "1976-12-18",
+      "week_end": "1976-12-24",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 10,
+      "fun_fact": "This masterpiece solidified Stevie Wonder's status as a musical genius of his generation."
+    },
+    {
+      "week": 52,
+      "week_start": "1976-12-25",
+      "week_end": "1976-12-31",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 11,
+      "fun_fact": "Stevie Wonder ended 1976 at number one, continuing a historic run into the new year."
+    }
+  ],
+  "1977": [
+    {
+      "week": 1,
+      "week_start": "1977-01-01",
+      "week_end": "1977-01-07",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder's magnum opus continued its historic chart run into the first week of 1977."
+    },
+    {
+      "week": 2,
+      "week_start": "1977-01-08",
+      "week_end": "1977-01-14",
+      "title": "Good High",
+      "artist": "Brick",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Atlanta-based band Brick reached the top with their unique 'Dazz' sound\u2014a fusion of disco and jazz."
+    },
+    {
+      "week": 3,
+      "week_start": "1977-01-15",
+      "week_end": "1977-01-21",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Stevie Wonder's double album returned to number one for a massive nine-week second run in 1977."
+    },
+    {
+      "week": 4,
+      "week_start": "1977-01-22",
+      "week_end": "1977-01-28",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album features the Duke Ellington tribute 'Sir Duke' and the nostalgic hit 'I Wish'."
+    },
+    {
+      "week": 5,
+      "week_start": "1977-01-29",
+      "week_end": "1977-02-04",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Songs in the Key of Life is one of the best-selling and most critically acclaimed albums in R&B history."
+    },
+    {
+      "week": 6,
+      "week_start": "1977-02-05",
+      "week_end": "1977-02-11",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album dominated the R&B charts throughout the winter of 1977."
+    },
+    {
+      "week": 7,
+      "week_start": "1977-02-12",
+      "week_end": "1977-02-18",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This collection earned Stevie Wonder the Grammy Award for Album of the Year."
+    },
+    {
+      "week": 8,
+      "week_start": "1977-02-19",
+      "week_end": "1977-02-25",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 6,
+      "fun_fact": "Wonder's creative peak was on full display across the album's four sides and bonus EP."
+    },
+    {
+      "week": 9,
+      "week_start": "1977-02-26",
+      "week_end": "1977-03-04",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 7,
+      "fun_fact": "The album spent a total of 20 non-consecutive weeks at number one on the R&B chart."
+    },
+    {
+      "week": 10,
+      "week_start": "1977-03-05",
+      "week_end": "1977-03-11",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 8,
+      "fun_fact": "By March, the album was nearing the end of its dominant stay at the top of the chart."
+    },
+    {
+      "week": 11,
+      "week_start": "1977-03-12",
+      "week_end": "1977-03-18",
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 9,
+      "fun_fact": "This was the final week at number one for Stevie Wonder's legendary double album."
+    },
+    {
+      "week": 12,
+      "week_start": "1977-03-19",
+      "week_end": "1977-03-25",
+      "title": "Ask Rufus",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Rufus and Chaka Khan reached number one with their fifth studio album, Ask Rufus."
+    },
+    {
+      "week": 13,
+      "week_start": "1977-03-26",
+      "week_end": "1977-04-01",
+      "title": "Ask Rufus",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the hit single 'At Midnight (My Love Will Lift You Up)'."
+    },
+    {
+      "week": 14,
+      "week_start": "1977-04-02",
+      "week_end": "1977-04-08",
+      "title": "Ask Rufus",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Ask Rufus is often cited as the band's most cohesive and jazz-influenced project."
+    },
+    {
+      "week": 15,
+      "week_start": "1977-04-09",
+      "week_end": "1977-04-15",
+      "title": "Unpredictable",
+      "artist": "Natalie Cole",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Natalie Cole secured her second consecutive number-one R&B album with Unpredictable."
+    },
+    {
+      "week": 16,
+      "week_start": "1977-04-16",
+      "week_end": "1977-04-22",
+      "title": "Unpredictable",
+      "artist": "Natalie Cole",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album contained the hit single 'I've Got Love on My Mind'."
+    },
+    {
+      "week": 17,
+      "week_start": "1977-04-23",
+      "week_end": "1977-04-29",
+      "title": "Unpredictable",
+      "artist": "Natalie Cole",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Cole's sophisticated vocal style made her one of the most successful female R&B artists of the year."
+    },
+    {
+      "week": 18,
+      "week_start": "1977-04-30",
+      "week_end": "1977-05-06",
+      "title": "Ahh... The Name Is Bootsy, Baby!",
+      "artist": "Bootsy's Rubber Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Parliament-Funkadelic bassist Bootsy Collins reached number one with his second solo outing."
+    },
+    {
+      "week": 19,
+      "week_start": "1977-05-07",
+      "week_end": "1977-05-13",
+      "title": "Live at the London Palladium",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Marvin Gaye's live double album hit number one following his return to international touring."
+    },
+    {
+      "week": 20,
+      "week_start": "1977-05-14",
+      "week_end": "1977-05-20",
+      "title": "Live at the London Palladium",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's studio track 'Got to Give It Up' became a massive disco and R&B crossover hit."
+    },
+    {
+      "week": 21,
+      "week_start": "1977-05-21",
+      "week_end": "1977-05-27",
+      "title": "Go for Your Guns",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers reached the top with this guitar-heavy funk-rock masterpiece."
+    },
+    {
+      "week": 22,
+      "week_start": "1977-05-28",
+      "week_end": "1977-06-03",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores earned a number-one album with this self-titled release featuring 'Easy'."
+    },
+    {
+      "week": 23,
+      "week_start": "1977-06-04",
+      "week_end": "1977-06-10",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Lionel Richie's songwriting helped propel the group into superstardom during the summer."
+    },
+    {
+      "week": 24,
+      "week_start": "1977-06-11",
+      "week_end": "1977-06-17",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album spent five consecutive weeks at number one during its initial run."
+    },
+    {
+      "week": 25,
+      "week_start": "1977-06-18",
+      "week_end": "1977-06-24",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Commodores were one of Motown's most successful acts on the R&B charts in 1977."
+    },
+    {
+      "week": 26,
+      "week_start": "1977-06-25",
+      "week_end": "1977-07-01",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This was the final week of the group's first significant stay at the top of the chart."
+    },
+    {
+      "week": 27,
+      "week_start": "1977-07-02",
+      "week_end": "1977-07-08",
+      "title": "Go for Your Guns",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers returned to number one for a single week in early July."
+    },
+    {
+      "week": 28,
+      "week_start": "1977-07-09",
+      "week_end": "1977-07-15",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores' self-titled album remarkably returned to number one for a second run."
+    },
+    {
+      "week": 29,
+      "week_start": "1977-07-16",
+      "week_end": "1977-07-22",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This three-week return brought the album's total count to eight weeks at the top."
+    },
+    {
+      "week": 30,
+      "week_start": "1977-07-23",
+      "week_end": "1977-07-29",
+      "title": "Commodores",
+      "artist": "Commodores",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Commodores dominated the R&B album charts for most of the early summer."
+    },
+    {
+      "week": 31,
+      "week_start": "1977-07-30",
+      "week_end": "1977-08-05",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The vocal group The Emotions reached number one with Rejoice, produced by Maurice White of Earth, Wind & Fire."
+    },
+    {
+      "week": 32,
+      "week_start": "1977-08-06",
+      "week_end": "1977-08-12",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured the iconic, chart-topping disco single 'Best of My Love'."
+    },
+    {
+      "week": 33,
+      "week_start": "1977-08-13",
+      "week_end": "1977-08-19",
+      "title": "Floaters",
+      "artist": "The Floaters",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Detroit quartet The Floaters hit number one with their self-titled debut album."
+    },
+    {
+      "week": 34,
+      "week_start": "1977-08-20",
+      "week_end": "1977-08-26",
+      "title": "Floaters",
+      "artist": "The Floaters",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album was driven by the success of their astrological-themed ballad 'Float On'."
+    },
+    {
+      "week": 35,
+      "week_start": "1977-08-27",
+      "week_end": "1977-09-02",
+      "title": "Floaters",
+      "artist": "The Floaters",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The group's smooth vocal harmonies resonated with late-summer R&B audiences."
+    },
+    {
+      "week": 36,
+      "week_start": "1977-09-03",
+      "week_end": "1977-09-09",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Emotions returned to the number one spot for a second run starting in late August."
+    },
+    {
+      "week": 37,
+      "week_start": "1977-09-10",
+      "week_end": "1977-09-16",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The group's collaboration with Earth, Wind & Fire personnel defined the sound of 1977 soul."
+    },
+    {
+      "week": 38,
+      "week_start": "1977-09-17",
+      "week_end": "1977-09-23",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Rejoice spent a total of seven weeks at number one across its two runs."
+    },
+    {
+      "week": 39,
+      "week_start": "1977-09-24",
+      "week_end": "1977-09-30",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The Emotions remained a steady presence at the top of the charts throughout September."
+    },
+    {
+      "week": 40,
+      "week_start": "1977-10-01",
+      "week_end": "1977-10-07",
+      "title": "Rejoice",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This was the fifth and final week of the group's second number-one stint."
+    },
+    {
+      "week": 41,
+      "week_start": "1977-10-08",
+      "week_end": "1977-10-14",
+      "title": "In Full Bloom",
+      "artist": "Rose Royce",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Following their 'Car Wash' success, Rose Royce hit number one with their second album."
+    },
+    {
+      "week": 42,
+      "week_start": "1977-10-15",
+      "week_end": "1977-10-21",
+      "title": "Something to Love",
+      "artist": "L.T.D.",
+      "weeks_at_number_one": 1,
+      "fun_fact": "L.T.D., featuring lead vocalist Jeffrey Osborne, reached the top of the chart in October."
+    },
+    {
+      "week": 43,
+      "week_start": "1977-10-22",
+      "week_end": "1977-10-28",
+      "title": "Something to Love",
+      "artist": "L.T.D.",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album included the hit single '(Every Time I Turn Around) Back in Love Again'."
+    },
+    {
+      "week": 44,
+      "week_start": "1977-10-29",
+      "week_end": "1977-11-04",
+      "title": "Barry White Sings for Someone You Love",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White returned to the top with his signature deep baritone and orchestral soul sound."
+    },
+    {
+      "week": 45,
+      "week_start": "1977-11-05",
+      "week_end": "1977-11-11",
+      "title": "Barry White Sings for Someone You Love",
+      "artist": "Barry White",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured White's major hit 'It's Ecstasy When You Lay Down Next to Me'."
+    },
+    {
+      "week": 46,
+      "week_start": "1977-11-12",
+      "week_end": "1977-11-18",
+      "title": "Barry White Sings for Someone You Love",
+      "artist": "Barry White",
+      "weeks_at_number_one": 3,
+      "fun_fact": "White spent three consecutive weeks at number one during his first 1977 chart run."
+    },
+    {
+      "week": 47,
+      "week_start": "1977-11-19",
+      "week_end": "1977-11-25",
+      "title": "Brick",
+      "artist": "Brick",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The band Brick earned their second number-one R&B album of the year with their self-titled release."
+    },
+    {
+      "week": 48,
+      "week_start": "1977-11-26",
+      "week_end": "1977-12-02",
+      "title": "Brick",
+      "artist": "Brick",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Brick's unique blend of jazz, funk, and disco remained popular throughout the fall."
+    },
+    {
+      "week": 49,
+      "week_start": "1977-12-03",
+      "week_end": "1977-12-09",
+      "title": "Barry White Sings for Someone You Love",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White's album made a one-week return to number one in late November."
+    },
+    {
+      "week": 50,
+      "week_start": "1977-12-10",
+      "week_end": "1977-12-16",
+      "title": "In Full Bloom",
+      "artist": "Rose Royce",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Rose Royce's In Full Bloom returned to number one for a final two-week run in December."
+    },
+    {
+      "week": 51,
+      "week_start": "1977-12-17",
+      "week_end": "1977-12-23",
+      "title": "In Full Bloom",
+      "artist": "Rose Royce",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album proved the group could maintain their success beyond their initial movie soundtrack."
+    },
+    {
+      "week": 52,
+      "week_start": "1977-12-24",
+      "week_end": "1977-12-30",
+      "title": "All 'n All",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire reached number one with this multi-platinum spiritual and cosmic soul classic."
+    },
+    {
+      "week": 53,
+      "week_start": "1977-12-31",
+      "week_end": "1978-01-06",
+      "title": "All 'n All",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album features the hits 'Serpentine Fire' and 'Fantasy,' ending the year at the top."
+    }
+  ],
+  "1978": [
+    {
+      "week": 1,
+      "week_start": "1978-01-07",
+      "week_end": "1978-01-13",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire opened the year at the top with their multi-platinum spiritual soul masterpiece."
+    },
+    {
+      "week": 2,
+      "week_start": "1978-01-14",
+      "week_end": "1978-01-20",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured high-energy tracks like 'Serpentine Fire' and 'Fantasy'."
+    },
+    {
+      "week": 3,
+      "week_start": "1978-01-21",
+      "week_end": "1978-01-27",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album remained a dominant force on the charts throughout the month of January."
+    },
+    {
+      "week": 4,
+      "week_start": "1978-01-28",
+      "week_end": "1978-02-03",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 4,
+      "fun_fact": "By late January, Earth, Wind & Fire had spent four consecutive weeks at the top."
+    },
+    {
+      "week": 5,
+      "week_start": "1978-02-04",
+      "week_end": "1978-02-10",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The group's innovative sound continued to set the standard for late-70s soul and funk."
+    },
+    {
+      "week": 6,
+      "week_start": "1978-02-11",
+      "week_end": "1978-02-17",
+      "title": "All 'N All",
+      "artist": "Earth, Wind and Fire",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the sixth and final week of Earth, Wind & Fire's 1978 run at number one."
+    },
+    {
+      "week": 7,
+      "week_start": "1978-02-18",
+      "week_end": "1978-02-24",
+      "title": "Saturday Night Fever",
+      "artist": "Soundtrack / Bee Gees",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The iconic disco soundtrack hit number one on the R&B charts in mid-February."
+    },
+    {
+      "week": 8,
+      "week_start": "1978-02-25",
+      "week_end": "1978-03-03",
+      "title": "Saturday Night Fever",
+      "artist": "Soundtrack / Bee Gees",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album's massive success reflected the disco explosion that was sweeping the nation."
+    },
+    {
+      "week": 9,
+      "week_start": "1978-03-04",
+      "week_end": "1978-03-10",
+      "title": "Saturday Night Fever",
+      "artist": "Soundtrack / Bee Gees",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The soundtrack's crossover appeal was nearly unprecedented for a disco-heavy collection."
+    },
+    {
+      "week": 10,
+      "week_start": "1978-03-11",
+      "week_end": "1978-03-17",
+      "title": "Saturday Night Fever",
+      "artist": "Soundtrack / Bee Gees",
+      "weeks_at_number_one": 4,
+      "fun_fact": "By March, the Bee Gees-led soundtrack was one of the best-selling albums in the world."
+    },
+    {
+      "week": 11,
+      "week_start": "1978-03-18",
+      "week_end": "1978-03-24",
+      "title": "Saturday Night Fever",
+      "artist": "Soundtrack / Bee Gees",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This was the final of five consecutive weeks at number one for the landmark soundtrack."
+    },
+    {
+      "week": 12,
+      "week_start": "1978-03-25",
+      "week_end": "1978-03-31",
+      "title": "Bootsy? Player of the Year",
+      "artist": "Bootsy's Rubber Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Bootsy Collins and his Rubber Band brought P-Funk back to the top of the charts in late March."
+    },
+    {
+      "week": 13,
+      "week_start": "1978-04-01",
+      "week_end": "1978-04-07",
+      "title": "Bootsy? Player of the Year",
+      "artist": "Bootsy's Rubber Band",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album highlighted Bootsy's charismatic personality and innovative bass playing."
+    },
+    {
+      "week": 14,
+      "week_start": "1978-04-08",
+      "week_end": "1978-04-14",
+      "title": "Bootsy? Player of the Year",
+      "artist": "Bootsy's Rubber Band",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Bootsy spent three weeks at the top before a brief disruption by Rufus and Chaka Khan."
+    },
+    {
+      "week": 15,
+      "week_start": "1978-04-15",
+      "week_end": "1978-04-21",
+      "title": "Street Player",
+      "artist": "Rufus featuring Chaka Khan",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Rufus and Chaka Khan reached number one with the album featuring the fan-favorite 'Stay'."
+    },
+    {
+      "week": 16,
+      "week_start": "1978-04-22",
+      "week_end": "1978-04-28",
+      "title": "Bootsy? Player of the Year",
+      "artist": "Bootsy's Rubber Band",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Bootsy's album remarkably returned to number one for a final one-week stay in April."
+    },
+    {
+      "week": 17,
+      "week_start": "1978-04-29",
+      "week_end": "1978-05-05",
+      "title": "Weekend in L.A.",
+      "artist": "George Benson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Jazz guitarist George Benson reached number one with this energetic live recording from the Roxy Theatre."
+    },
+    {
+      "week": 18,
+      "week_start": "1978-05-06",
+      "week_end": "1978-05-12",
+      "title": "Weekend in L.A.",
+      "artist": "George Benson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Benson's smooth guitar work and vocals remained a major draw for both jazz and R&B fans."
+    },
+    {
+      "week": 19,
+      "week_start": "1978-05-13",
+      "week_end": "1978-05-19",
+      "title": "Showdown",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Isley Brothers hit the top with this guitar-focused funk-rock release."
+    },
+    {
+      "week": 20,
+      "week_start": "1978-05-20",
+      "week_end": "1978-05-26",
+      "title": "Showdown",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured high-energy tracks and proved the group's continued relevance."
+    },
+    {
+      "week": 21,
+      "week_start": "1978-05-27",
+      "week_end": "1978-06-02",
+      "title": "Showdown",
+      "artist": "The Isley Brothers",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Isley Brothers spent three weeks at the top as the early summer arrived."
+    },
+    {
+      "week": 22,
+      "week_start": "1978-06-03",
+      "week_end": "1978-06-09",
+      "title": "So Full Of Love",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The O'Jays reached number one with this Philly soul classic featuring 'Use ta Be My Girl'."
+    },
+    {
+      "week": 23,
+      "week_start": "1978-06-10",
+      "week_end": "1978-06-16",
+      "title": "So Full Of Love",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album stayed at number one throughout much of the month of June."
+    },
+    {
+      "week": 24,
+      "week_start": "1978-06-17",
+      "week_end": "1978-06-23",
+      "title": "So Full Of Love",
+      "artist": "The O'Jays",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This marked the final week at the top for the group's highly successful 1978 release."
+    },
+    {
+      "week": 25,
+      "week_start": "1978-06-24",
+      "week_end": "1978-06-30",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores hit number one in late June with the album containing 'Three Times a Lady'."
+    },
+    {
+      "week": 26,
+      "week_start": "1978-07-01",
+      "week_end": "1978-07-07",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Lionel Richie's songwriting continued to propel the group into major pop and soul stardom."
+    },
+    {
+      "week": 27,
+      "week_start": "1978-07-08",
+      "week_end": "1978-07-14",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The Commodores held the top spot as the summer heat began to peak."
+    },
+    {
+      "week": 28,
+      "week_start": "1978-07-15",
+      "week_end": "1978-07-21",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The group's mix of hard funk and sentimental ballads proved to be a winning chart formula."
+    },
+    {
+      "week": 29,
+      "week_start": "1978-07-22",
+      "week_end": "1978-07-28",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 5,
+      "fun_fact": "By late July, Natural High had spent over a month at the number one position."
+    },
+    {
+      "week": 30,
+      "week_start": "1978-07-29",
+      "week_end": "1978-08-04",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The Commodores' dominance of the summer R&B charts was nearly absolute in 1978."
+    },
+    {
+      "week": 31,
+      "week_start": "1978-08-05",
+      "week_end": "1978-08-11",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This seven-week run was the longest continuous stay at the top for any album so far in 1978."
+    },
+    {
+      "week": 32,
+      "week_start": "1978-08-12",
+      "week_end": "1978-08-18",
+      "title": "Life Is a Song Worth Singing",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Teddy Pendergrass secured his first number-one solo album with this platinum seller."
+    },
+    {
+      "week": 33,
+      "week_start": "1978-08-19",
+      "week_end": "1978-08-25",
+      "title": "Life Is a Song Worth Singing",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Pendergrass's smooth and powerful baritone made him one of the decade's biggest R&B stars."
+    },
+    {
+      "week": 34,
+      "week_start": "1978-08-26",
+      "week_end": "1978-09-01",
+      "title": "Natural High",
+      "artist": "The Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores' Natural High returned to number one for a final one-week stay in August."
+    },
+    {
+      "week": 35,
+      "week_start": "1978-09-02",
+      "week_end": "1978-09-08",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Produced by Quincy Jones, the Brothers Johnson hit number one with their high-energy funk album Blam!"
+    },
+    {
+      "week": 36,
+      "week_start": "1978-09-09",
+      "week_end": "1978-09-15",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album stayed at number one throughout the entire month of September."
+    },
+    {
+      "week": 37,
+      "week_start": "1978-09-16",
+      "week_end": "1978-09-22",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The brothers' unique 'slap' bass and guitar style remained a favorite of R&B audiences."
+    },
+    {
+      "week": 38,
+      "week_start": "1978-09-23",
+      "week_end": "1978-09-29",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The group held the top spot for seven consecutive weeks during the fall."
+    },
+    {
+      "week": 39,
+      "week_start": "1978-09-30",
+      "week_end": "1978-10-06",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album's polished sound helped bridge the gap between funk and disco."
+    },
+    {
+      "week": 40,
+      "week_start": "1978-10-07",
+      "week_end": "1978-10-13",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 6,
+      "fun_fact": "By early October, the Brothers Johnson were one of the most successful acts of the year."
+    },
+    {
+      "week": 41,
+      "week_start": "1978-10-14",
+      "week_end": "1978-10-20",
+      "title": "Blam!",
+      "artist": "The Brothers Johnson",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This was the final week of the album's impressive seven-week reign at the top."
+    },
+    {
+      "week": 42,
+      "week_start": "1978-10-21",
+      "week_end": "1978-10-27",
+      "title": "Is It Still Good to Ya",
+      "artist": "Ashford & Simpson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The legendary husband-and-wife songwriting duo reached number one with this solo effort."
+    },
+    {
+      "week": 43,
+      "week_start": "1978-10-28",
+      "week_end": "1978-11-03",
+      "title": "One Nation Under a Groove",
+      "artist": "Funkadelic",
+      "weeks_at_number_one": 1,
+      "fun_fact": "George Clinton and Funkadelic achieved their first and most significant number-one R&B album."
+    },
+    {
+      "week": 44,
+      "week_start": "1978-11-04",
+      "week_end": "1978-11-10",
+      "title": "One Nation Under a Groove",
+      "artist": "Funkadelic",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became a definitive anthem for the P-Funk movement."
+    },
+    {
+      "week": 45,
+      "week_start": "1978-11-11",
+      "week_end": "1978-11-17",
+      "title": "One Nation Under a Groove",
+      "artist": "Funkadelic",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album stayed at the top of the chart for four weeks during late October and November."
+    },
+    {
+      "week": 46,
+      "week_start": "1978-11-18",
+      "week_end": "1978-11-24",
+      "title": "One Nation Under a Groove",
+      "artist": "Funkadelic",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Funkadelic's social and rhythmic innovation influenced a generation of hip-hop and funk artists."
+    },
+    {
+      "week": 47,
+      "week_start": "1978-11-25",
+      "week_end": "1978-12-01",
+      "title": "The Man",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Barry White returned to number one in late November with his signature deep baritone soul sound."
+    },
+    {
+      "week": 48,
+      "week_start": "1978-12-02",
+      "week_end": "1978-12-08",
+      "title": "The Man",
+      "artist": "Barry White",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured White's lush orchestrations that remained a favorite of romantic soul fans."
+    },
+    {
+      "week": 49,
+      "week_start": "1978-12-09",
+      "week_end": "1978-12-15",
+      "title": "The Man",
+      "artist": "Barry White",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Barry White held the number one spot for three consecutive weeks as the year drew to a close."
+    },
+    {
+      "week": 50,
+      "week_start": "1978-12-16",
+      "week_end": "1978-12-22",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Chic hit number one with the album featuring the massive disco anthem 'Le Freak'."
+    },
+    {
+      "week": 51,
+      "week_start": "1978-12-23",
+      "week_end": "1978-12-29",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Nile Rodgers and Bernard Edwards redefined the disco sound with their sophisticated arrangements."
+    },
+    {
+      "week": 52,
+      "week_start": "1978-12-30",
+      "week_end": "1979-01-05",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Chic ended 1978 at number one, cementing the year as a high point for the disco era."
+    }
+  ],
+  "1979": [
+    {
+      "week": 1,
+      "week_start": "1979-01-06",
+      "week_end": "1979-01-12",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Chic opened 1979 at number one, continuing a successful run that began in late 1978 [1]."
+    },
+    {
+      "week": 2,
+      "week_start": "1979-01-13",
+      "week_end": "1979-01-19",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album featured the disco anthem 'Le Freak,' which was a massive global hit [1]."
+    },
+    {
+      "week": 3,
+      "week_start": "1979-01-20",
+      "week_end": "1979-01-26",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Nile Rodgers and Bernard Edwards redefined the sound of late 70s R&B with this polished production [1]."
+    },
+    {
+      "week": 4,
+      "week_start": "1979-01-27",
+      "week_end": "1979-02-02",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Chic's dominance on the chart reflected the peak of the disco era's commercial influence [1]."
+    },
+    {
+      "week": 5,
+      "week_start": "1979-02-03",
+      "week_end": "1979-02-09",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The album stayed at the top of the R&B charts for most of February 1979 [1]."
+    },
+    {
+      "week": 6,
+      "week_start": "1979-02-10",
+      "week_end": "1979-02-16",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 6,
+      "fun_fact": "By mid-February, Chic had already spent six weeks at number one in the new year [1]."
+    },
+    {
+      "week": 7,
+      "week_start": "1979-02-17",
+      "week_end": "1979-02-23",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 7,
+      "fun_fact": "This album was one of the defining records for Atlantic Records during the disco boom [1]."
+    },
+    {
+      "week": 8,
+      "week_start": "1979-02-24",
+      "week_end": "1979-03-02",
+      "title": "C'est Chic",
+      "artist": "Chic",
+      "weeks_at_number_one": 8,
+      "fun_fact": "This was the final week of an impressive eight-week consecutive run at number one to start the year [1]."
+    },
+    {
+      "week": 9,
+      "week_start": "1979-03-03",
+      "week_end": "1979-03-09",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The duo Peaches & Herb reached number one with their major comeback album [1]."
+    },
+    {
+      "week": 10,
+      "week_start": "1979-03-10",
+      "week_end": "1979-03-16",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album featured 'Reunited,' which became a massive hit on both the R&B and pop charts [1]."
+    },
+    {
+      "week": 11,
+      "week_start": "1979-03-17",
+      "week_end": "1979-03-23",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The duo's chemistry and soulful ballads resonated deeply with audiences in early 1979 [1]."
+    },
+    {
+      "week": 12,
+      "week_start": "1979-03-24",
+      "week_end": "1979-03-30",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Peaches & Herb held the top spot for four consecutive weeks in their initial run [1]."
+    },
+    {
+      "week": 13,
+      "week_start": "1979-03-31",
+      "week_end": "1979-04-06",
+      "title": "Instant Funk",
+      "artist": "Instant Funk",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The band Instant Funk reached number one with their self-titled debut for Salsoul Records [1]."
+    },
+    {
+      "week": 14,
+      "week_start": "1979-04-07",
+      "week_end": "1979-04-13",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Sledge sisters achieved their first number-one album with this Chic-produced classic [1]."
+    },
+    {
+      "week": 15,
+      "week_start": "1979-04-14",
+      "week_end": "1979-04-20",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Peaches & Herb's 2 Hot returned to the number one spot for a second separate run in April [1]."
+    },
+    {
+      "week": 16,
+      "week_start": "1979-04-21",
+      "week_end": "1979-04-27",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 2,
+      "fun_fact": "This album was one of the most successful R&B records of the entire year [1]."
+    },
+    {
+      "week": 17,
+      "week_start": "1979-04-28",
+      "week_end": "1979-05-04",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The duo maintained their number one position throughout the end of April [1]."
+    },
+    {
+      "week": 18,
+      "week_start": "1979-05-05",
+      "week_end": "1979-05-11",
+      "title": "2 Hot",
+      "artist": "Peaches & Herb",
+      "weeks_at_number_one": 4,
+      "fun_fact": "This was the final week at number one for Peaches & Herb's definitive 1979 album [1]."
+    },
+    {
+      "week": 19,
+      "week_start": "1979-05-12",
+      "week_end": "1979-05-18",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Sister Sledge returned to number one in May, starting a long and dominant stay at the top [1]."
+    },
+    {
+      "week": 20,
+      "week_start": "1979-05-19",
+      "week_end": "1979-05-25",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track became a universal anthem of unity and family pride [1]."
+    },
+    {
+      "week": 21,
+      "week_start": "1979-05-26",
+      "week_end": "1979-06-01",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album also featured the hit 'He's the Greatest Dancer,' written by Nile Rodgers and Bernard Edwards [1]."
+    },
+    {
+      "week": 22,
+      "week_start": "1979-06-02",
+      "week_end": "1979-06-08",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Sister Sledge dominated the R&B album chart throughout the early summer months [1]."
+    },
+    {
+      "week": 23,
+      "week_start": "1979-06-09",
+      "week_end": "1979-06-15",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 5,
+      "fun_fact": "The group's soulful harmonies made this one of the most beloved albums of the disco era [1]."
+    },
+    {
+      "week": 24,
+      "week_start": "1979-06-16",
+      "week_end": "1979-06-22",
+      "title": "We Are Family",
+      "artist": "Sister Sledge",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the final week of a six-week consecutive run at the top for the Sledge sisters [1]."
+    },
+    {
+      "week": 25,
+      "week_start": "1979-06-23",
+      "week_end": "1979-06-29",
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Donna Summer reached number one with what many consider her best studio album [1]."
+    },
+    {
+      "week": 26,
+      "week_start": "1979-06-30",
+      "week_end": "1979-07-06",
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album blended disco with rock influences, as heard on the title track and 'Hot Stuff' [1]."
+    },
+    {
+      "week": 27,
+      "week_start": "1979-07-07",
+      "week_end": "1979-07-13",
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Summer spent three weeks at the top before Earth, Wind & Fire moved up [1]."
+    },
+    {
+      "week": 28,
+      "week_start": "1979-07-14",
+      "week_end": "1979-07-20",
+      "title": "I Am",
+      "artist": "Earth, Wind & Fire",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Earth, Wind & Fire reached number one with this multi-platinum album featuring 'After the Love Has Gone' [1]."
+    },
+    {
+      "week": 29,
+      "week_start": "1979-07-21",
+      "week_end": "1979-07-27",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Teddy Pendergrass secured his second consecutive solo number-one R&B album in July [1]."
+    },
+    {
+      "week": 30,
+      "week_start": "1979-07-28",
+      "week_end": "1979-08-03",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Pendergrass was one of the biggest sex symbols and stars of late 70s soul music [1]."
+    },
+    {
+      "week": 31,
+      "week_start": "1979-08-04",
+      "week_end": "1979-08-10",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album featured the sultry hit 'Turn Off the Lights' [1]."
+    },
+    {
+      "week": 32,
+      "week_start": "1979-08-11",
+      "week_end": "1979-08-17",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 4,
+      "fun_fact": "Teddy held the number one spot throughout the entire month of August [1]."
+    },
+    {
+      "week": 33,
+      "week_start": "1979-08-18",
+      "week_end": "1979-08-24",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 5,
+      "fun_fact": "This album showcased Pendergrass's smooth baritone and Philadelphia International's polished production [1]."
+    },
+    {
+      "week": 34,
+      "week_start": "1979-08-25",
+      "week_end": "1979-08-31",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 6,
+      "fun_fact": "The album remained at number one for a total of eight consecutive weeks [1]."
+    },
+    {
+      "week": 35,
+      "week_start": "1979-09-01",
+      "week_end": "1979-09-07",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 7,
+      "fun_fact": "By early September, Pendergrass had spent nearly two months at the top of the chart [1]."
+    },
+    {
+      "week": 36,
+      "week_start": "1979-09-08",
+      "week_end": "1979-09-14",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "weeks_at_number_one": 8,
+      "fun_fact": "This was the final week of Pendergrass's dominant 1979 summer run [1]."
+    },
+    {
+      "week": 37,
+      "week_start": "1979-09-15",
+      "week_end": "1979-09-21",
+      "title": "Midnight Magic",
+      "artist": "Commodores",
+      "weeks_at_number_one": 1,
+      "fun_fact": "The Commodores reached number one in mid-September with the album containing 'Still' [1]."
+    },
+    {
+      "week": 38,
+      "week_start": "1979-09-22",
+      "week_end": "1979-09-28",
+      "title": "Midnight Magic",
+      "artist": "Commodores",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The group from Tuskegee continued their streak of massive crossover success [1]."
+    },
+    {
+      "week": 39,
+      "week_start": "1979-09-29",
+      "week_end": "1979-10-05",
+      "title": "Midnight Magic",
+      "artist": "Commodores",
+      "weeks_at_number_one": 3,
+      "fun_fact": "This was the final of three consecutive weeks at the top for the Commodores [1]."
+    },
+    {
+      "week": 40,
+      "week_start": "1979-10-06",
+      "week_end": "1979-10-12",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Michael Jackson's breakout adult solo album debuted at number one in early October [1]."
+    },
+    {
+      "week": 41,
+      "week_start": "1979-10-13",
+      "week_end": "1979-10-19",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "Produced by Quincy Jones, this album featured hits like 'Don't Stop 'Til You Get Enough' [1]."
+    },
+    {
+      "week": 42,
+      "week_start": "1979-10-20",
+      "week_end": "1979-10-26",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 3,
+      "fun_fact": "The album's mix of disco, funk, and soulful ballads became a blueprint for 80s pop [1]."
+    },
+    {
+      "week": 43,
+      "week_start": "1979-10-27",
+      "week_end": "1979-11-02",
+      "title": "Ladies' Night",
+      "artist": "Kool & the Gang",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Kool & the Gang reached number one with their successful transition to a polished disco-funk sound [1]."
+    },
+    {
+      "week": 44,
+      "week_start": "1979-11-03",
+      "week_end": "1979-11-09",
+      "title": "Ladies' Night",
+      "artist": "Kool & the Gang",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The title track and 'Too Hot' helped the group make a major career comeback [1]."
+    },
+    {
+      "week": 45,
+      "week_start": "1979-11-10",
+      "week_end": "1979-11-16",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Michael Jackson's Off the Wall returned to number one in November for a long second run [1]."
+    },
+    {
+      "week": 46,
+      "week_start": "1979-11-17",
+      "week_end": "1979-11-23",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The album stayed at number one throughout the end of 1979, tallying many weeks at the top [1]."
+    },
+    {
+      "week": 47,
+      "week_start": "1979-11-24",
+      "week_end": "1979-11-30",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 3,
+      "fun_fact": "Michael Jackson ended the decade as one of the most successful artists on the R&B charts [1]."
+    },
+    {
+      "week": 48,
+      "week_start": "1979-12-01",
+      "week_end": "1979-12-07",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 4,
+      "fun_fact": "The album's infectious rhythms and Jackson's vocals dominated the holiday season [1]."
+    },
+    {
+      "week": 49,
+      "week_start": "1979-12-08",
+      "week_end": "1979-12-14",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 5,
+      "fun_fact": "Michael Jackson spent the final weeks of 1979 solidifying his status as a global superstar [1]."
+    },
+    {
+      "week": 50,
+      "week_start": "1979-12-15",
+      "week_end": "1979-12-21",
+      "title": "Off the Wall",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 6,
+      "fun_fact": "This was the final week of Michael Jackson's initial dominant 1979 run at number one [1]."
+    },
+    {
+      "week": 51,
+      "week_start": "1979-12-22",
+      "week_end": "1979-12-28",
+      "title": "Masterjam",
+      "artist": "Rufus and Chaka Khan",
+      "weeks_at_number_one": 1,
+      "fun_fact": "Rufus and Chaka Khan reunited with Quincy Jones to reach number one at the end of the year [1]."
+    },
+    {
+      "week": 52,
+      "week_start": "1979-12-29",
+      "week_end": "1980-01-04",
+      "title": "Masterjam",
+      "artist": "Rufus and Chaka Khan",
+      "weeks_at_number_one": 2,
+      "fun_fact": "The group closed out the decade at number one with their successful fourth chart-topping album [1]."
+    }
+  ]
+}

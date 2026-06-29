@@ -1,0 +1,4796 @@
+[
+  {
+    "id": "acdc",
+    "name": "AC/DC",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Sydney, New South Wales, Australia",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "AC/DC defined 1970s hard rock with a minimalist, high-energy blues-rock sound that reacted against the period's arena rock excesses. Led by the Young brothers' driving guitar work and Bon Scott's forceful vocals, they became one of the decade's most popular acts. Their sound was described as wilfully basic and hard-edged, featuring humorous sexual innuendo and rock and roll themes.",
+    "members_70s": [
+      "Angus Young",
+      "Malcolm Young",
+      "Bon Scott",
+      "Phil Rudd",
+      "Cliff Williams",
+      "Mark Evans"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "High Voltage",
+        "year": 1975
+      },
+      {
+        "title": "Dirty Deeds Done Dirt Cheap",
+        "year": 1976
+      },
+      {
+        "title": "Let There Be Rock",
+        "year": 1977
+      },
+      {
+        "title": "Powerage",
+        "year": 1978
+      },
+      {
+        "title": "Highway to Hell",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+      "T.N.T.",
+      "Dirty Deeds Done Dirt Cheap",
+      "Let There Be Rock",
+      "Whole Lotta Rosie",
+      "Highway to Hell"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Angus Young's schoolboy stage outfit was a signature look developed in the Australian pop music scene.",
+      "The band honed their craft in Melbourne, sometimes playing up to four gigs a day."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/AC/DC",
+    "youtube_search": "AC/DC Highway to Hell",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "australian"
+    ]
+  },
+  {
+    "id": "aerosmith",
+    "name": "Aerosmith",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Boston, Massachusetts, US",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Known as the 'Bad Boys from Boston,' Aerosmith's 70s sound was rooted in blues-based hard rock with heavy metal elements. Their breakthrough mid-decade albums captured a raw, rocking energy that made them one of the world's most popular bands. The songwriting partnership of Tyler and Perry, often called the 'Toxic Twins,' defined the decade's rock debauchery and success.",
+    "members_70s": [
+      "Steven Tyler",
+      "Joe Perry",
+      "Tom Hamilton",
+      "Joey Kramer",
+      "Brad Whitford"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Aerosmith",
+        "year": 1973
+      },
+      {
+        "title": "Get Your Wings",
+        "year": 1974
+      },
+      {
+        "title": "Toys in the Attic",
+        "year": 1975
+      },
+      {
+        "title": "Rocks",
+        "year": 1976
+      },
+      {
+        "title": "Draw the Line",
+        "year": 1977
+      },
+      {
+        "title": "Night in the Ruts",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Dream On",
+      "Sweet Emotion",
+      "Walk This Way",
+      "Last Child",
+      "Back in the Saddle",
+      "Draw the Line",
+      "Kings and Queens"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band lived together in a home at 1325 Commonwealth Avenue in Boston during their early years to write and rehearse.",
+      "They were reportedly the only band ever to pay out of their own pockets to secure a performance slot at Max's Kansas City."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aerosmith",
+    "youtube_search": "Aerosmith Dream On",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "alice-cooper",
+    "name": "Alice Cooper",
+    "genre": "hard-rock",
+    "subgenre": "shock rock",
+    "origin": "Phoenix, Arizona, US",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Alice Cooper pioneered shock rock in the early 70s, blending macabre theatricality with high-energy hard rock. The band drove a 'stake through the heart of the Love Generation' with violent stage shows featuring execution props and snakes. After the original band split in 1975, lead singer Furnier adopted the name legally for a solo career that continued the theatrical tradition.",
+    "members_70s": [
+      "Alice Cooper",
+      "Glen Buxton",
+      "Michael Bruce",
+      "Dennis Dunaway",
+      "Neal Smith",
+      "Dick Wagner",
+      "Steve Hunter"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Love It to Death",
+        "year": 1971
+      },
+      {
+        "title": "Killer",
+        "year": 1971
+      },
+      {
+        "title": "School's Out",
+        "year": 1972
+      },
+      {
+        "title": "Billion Dollar Babies",
+        "year": 1973
+      },
+      {
+        "title": "Welcome to My Nightmare",
+        "year": 1975
+      },
+      {
+        "title": "Alice Cooper Goes to Hell",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "I'm Eighteen",
+      "Under My Wheels",
+      "School's Out",
+      "Elected",
+      "No More Mr. Nice Guy",
+      "Billion Dollar Babies",
+      "Only Women Bleed"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The 'Chicken Incident' at the 1969 Toronto Rock and Roll Revival was an accidental catalyst for their shock rock reputation.",
+      "Magician James Randi designed several stage effects for the band, including the iconic guillotine execution stunt."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_Cooper",
+    "youtube_search": "Alice Cooper School's Out",
+    "tags": [
+      "hard-rock",
+      "shock-rock",
+      "theatrical"
+    ]
+  },
+  {
+    "id": "angel",
+    "name": "Angel",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Washington, D.C., U.S.",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Angel was known for a flamboyant glam stage presence, famously wearing all-white satin outfits to contrast with Kiss. Their sound blended hard rock and progressive elements, often featuring elaborate stage sets and an androgynous image. They were discovered by Gene Simmons and became a cult band on the Casablanca label.",
+    "members_70s": [
+      "Punky Meadows",
+      "Mickie Jones",
+      "Frank DiMino",
+      "Gregg Giuffria",
+      "Barry Brandt",
+      "Felix Robinson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Angel",
+        "year": 1975
+      },
+      {
+        "title": "Helluva Band",
+        "year": 1976
+      },
+      {
+        "title": "On Earth as It Is in Heaven",
+        "year": 1977
+      },
+      {
+        "title": "White Hot",
+        "year": 1978
+      },
+      {
+        "title": "Sinful",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Rock & Rollers",
+      "That Magic Touch",
+      "Anyway You Want It",
+      "Flying With Broken Wings",
+      "Don't Leave Me Lonely"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Frank Zappa wrote a satirical song about guitarist Punky Meadows titled 'Punky's Whips.'",
+      "The band's logo is ambigrammatic, meaning it reads the same when viewed normally or upside down."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angel_(American_band)",
+    "youtube_search": "Angel Rock & Rollers",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "cult-band"
+    ]
+  },
+  {
+    "id": "anvil",
+    "name": "Anvil",
+    "genre": "hard-rock",
+    "subgenre": "speed metal",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1978,
+    "active_70s": true,
+    "description": "Anvil began in the late 1970s under the name Lips, eventually becoming a pioneering force in speed metal. Their early sound was characterized by extreme volume and high-speed energy that laid the groundwork for future thrash metal icons. They maintained a dedicated following while refusing to stop gigging through significant setbacks.",
+    "members_70s": [
+      "Steve Kudlow",
+      "Robb Reiner",
+      "Dave Allison",
+      "Ian Dickson"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "School Love"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was originally called Lips from its formation in 1978 until changing to Anvil in 1981.",
+      "Founding members Steve 'Lips' Kudlow and Robb Reiner were high school friends who started playing together in 1973."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anvil_(band)",
+    "youtube_search": "Anvil School Love",
+    "tags": [
+      "hard-rock",
+      "speed-metal",
+      "influential"
+    ],
+    "key_albums_70s_note": "Formed in 1978, Anvil recorded demos during the late 70s but did not release a studio album until 1981."
+  },
+  {
+    "id": "april-wine",
+    "name": "April Wine",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Waverley, Nova Scotia, Canada",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "April Wine is one of Canada's most successful hard rock exports, emerging in the early 70s with a melodic yet heavy sound. They became staples of Canadian radio with hit covers and original rockers that balanced power and pop sensibility. Their significance lies in their longevity and their status as the first band to sell out major Canadian stadiums.",
+    "members_70s": [
+      "Myles Goodwyn",
+      "David Henman",
+      "Ritchie Henman",
+      "Jim Henman",
+      "Jim Clench",
+      "Jerry Mercer",
+      "Gary Moffet",
+      "Steve Lang",
+      "Brian Greenway"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "April Wine",
+        "year": 1971
+      },
+      {
+        "title": "On Record",
+        "year": 1972
+      },
+      {
+        "title": "Electric Jewels",
+        "year": 1973
+      },
+      {
+        "title": "Stand Back",
+        "year": 1975
+      },
+      {
+        "title": "The Whole World's Goin' Crazy",
+        "year": 1976
+      },
+      {
+        "title": "First Glance",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Fast Train",
+      "You Could Have Been a Lady",
+      "Tonite Is a Wonderful Time to Fall in Love",
+      "Roller",
+      "Say Hello"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band sent a demo to Aquarius Records which sent a rejection letter that the band mistook for an invitation.",
+      "They were the first band to sell out Regina Stadium and Edmonton's Kinsmen Field House."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/April_Wine",
+    "youtube_search": "April Wine Roller",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "canadian"
+    ]
+  },
+  {
+    "id": "bachman-turner-overdrive",
+    "name": "Bachman-Turner Overdrive",
+    "genre": "hard-rock",
+    "subgenre": "boogie rock",
+    "origin": "Winnipeg, Manitoba, Canada",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "BTO became a global boogie rock sensation in the mid-70s, noted for their heavy guitar riffs and working-class anthems. They achieved significant commercial success in both Canada and the US with a series of platinum-certified albums. Their high-energy sound and gear-shaped logo established them as a cornerstone of 70s hard rock.",
+    "members_70s": [
+      "Randy Bachman",
+      "Fred Turner",
+      "Robbie Bachman",
+      "Tim Bachman",
+      "Blair Thornton",
+      "Jim Clench"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Bachman-Turner Overdrive",
+        "year": 1973
+      },
+      {
+        "title": "Bachman-Turner Overdrive II",
+        "year": 1973
+      },
+      {
+        "title": "Not Fragile",
+        "year": 1974
+      },
+      {
+        "title": "Four Wheel Drive",
+        "year": 1975
+      },
+      {
+        "title": "Head On",
+        "year": 1975
+      },
+      {
+        "title": "Freeways",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Let It Ride",
+      "Takin' Care of Business",
+      "You Ain't Seen Nothing Yet",
+      "Roll on Down the Highway",
+      "Hey You",
+      "Take It Like a Man",
+      "Lookin' Out for #1"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's fans are affectionately referred to as 'gearheads' due to their gear-shaped logo.",
+      "Randy Bachman founded the group as Brave Belt after leaving The Guess Who."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bachman%E2%80%93Turner_Overdrive",
+    "youtube_search": "Bachman-Turner Overdrive Takin' Care of Business",
+    "tags": [
+      "hard-rock",
+      "boogie-rock",
+      "canadian"
+    ]
+  },
+  {
+    "id": "bad-company",
+    "name": "Bad Company",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "London, England, UK",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "This English supergroup built a massive 70s following on muscular grooves, soulful vocals, and hard-rocking blues. Their debut albums reached the top five in both the UK and US, producing staples of classic rock radio. The band's sound was built on 'swagger and muscular grooves' that defined the arena rock style of the mid-70s.",
+    "members_70s": [
+      "Paul Rodgers",
+      "Mick Ralphs",
+      "Simon Kirke",
+      "Boz Burrell"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Bad Company",
+        "year": 1974
+      },
+      {
+        "title": "Straight Shooter",
+        "year": 1975
+      },
+      {
+        "title": "Run with the Pack",
+        "year": 1976
+      },
+      {
+        "title": "Burnin' Sky",
+        "year": 1977
+      },
+      {
+        "title": "Desolation Angels",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Bad Company",
+      "Can't Get Enough",
+      "Ready for Love",
+      "Feel Like Makin' Love",
+      "Shooting Star",
+      "Burnin' Sky",
+      "Rock 'n' Roll Fantasy"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Bad Company was managed by Peter Grant, who also handled Led Zeppelin.",
+      "The group was the first band signed to Led Zeppelin's record label, Swan Song."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bad_Company",
+    "youtube_search": "Bad Company Feel Like Makin' Love",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "supergroup"
+    ]
+  },
+  {
+    "id": "black-sabbath",
+    "name": "Black Sabbath",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Birmingham, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Black Sabbath were a defining act of the 1970s hard rock era, known for their powerful sound and influential recordings.",
+    "members_70s": [
+      "Ozzy Osbourne",
+      "Tony Iommi",
+      "Geezer Butler",
+      "Bill Ward"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Paranoid",
+        "year": 1970
+      },
+      {
+        "title": "Master of Reality",
+        "year": 1971
+      }
+    ],
+    "key_songs_70s": [
+      "Paranoid",
+      "Iron Man",
+      "War Pigs",
+      "Sabbath Bloody Sabbath"
+    ],
+    "mood": [
+      "melancholy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Fact one from source.",
+      "Fact two from source."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
+    "youtube_search": "Black Sabbath Paranoid",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "iconic"
+    ]
+  },
+  {
+    "id": "blue-oyster-cult",
+    "name": "Blue Öyster Cult",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Stony Brook, New York, US",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Commonly referred to as 'the thinking man's heavy metal band,' Blue Öyster Cult mixed heavy riffs with literate, often cryptic lyrics. Their early 'black and white years' featured a raw, hard-rocking sound that gained a strong cult following. By the late 70s, they achieved mainstream success with polished production and international rock anthems.",
+    "members_70s": [
+      "Eric Bloom",
+      "Donald 'Buck Dharma' Roeser",
+      "Allen Lanier",
+      "Joe Bouchard",
+      "Albert Bouchard"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Blue Öyster Cult",
+        "year": 1972
+      },
+      {
+        "title": "Tyranny and Mutation",
+        "year": 1973
+      },
+      {
+        "title": "Secret Treaties",
+        "year": 1974
+      },
+      {
+        "title": "Agents of Fortune",
+        "year": 1976
+      },
+      {
+        "title": "Spectres",
+        "year": 1977
+      },
+      {
+        "title": "Mirrors",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Cities on Flame with Rock and Roll",
+      "Astronomy",
+      "(Don't Fear) The Reaper",
+      "Godzilla",
+      "The Red and the Black",
+      "Burnin' for You",
+      "Veteran of the Psychic Wars"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band used out-of-context fragments of sci-fi poetry for lyrics to add to their obscure mystique.",
+      "Their early name, Soft White Underbelly, was derived from Winston Churchill's description of Italy."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_%C3%96yster_Cult",
+    "youtube_search": "Blue Oyster Cult Don't Fear The Reaper",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "intellectual"
+    ]
+  },
+  {
+    "id": "boston",
+    "name": "Boston",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Boston, Massachusetts, US",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Boston revolutionized arena rock with their 1976 debut, featuring Tom Scholz's polished production and Brad Delp's soaring vocal range. Their sound was characterized by layered guitar harmonies and melodic hooks that made them an immediate stadium sensation. They defined the late-70s hard rock aesthetic with high-fidelity recordings and meticulous sonic detail.",
+    "members_70s": [
+      "Tom Scholz",
+      "Brad Delp",
+      "Barry Goudreau",
+      "Fran Sheehan",
+      "Sib Hashian"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Boston",
+        "year": 1976
+      },
+      {
+        "title": "Don't Look Back",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "More Than a Feeling",
+      "Peace of Mind",
+      "Foreplay/Long Time",
+      "Rock and Roll Band",
+      "Smokin'",
+      "Don't Look Back",
+      "A Man I'll Never Be",
+      "Feelin' Satisfied"
+    ],
+    "mood": [
+      "nostalgic",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Chief songwriter Tom Scholz built a recording studio in his basement using his salary from Polaroid.",
+      "Their 1976 self-titled debut became one of the best-selling albums by an American rock band in history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_(band)",
+    "youtube_search": "Boston More Than a Feeling",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "production"
+    ]
+  },
+  {
+    "id": "budgie",
+    "name": "Budgie",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Cardiff, Wales, UK",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "This Welsh power trio was one of the earliest heavy metal bands, known for a sound that was among the heaviest of its day. Their 70s output gradually moved from blues-oriented hard rock to a harder, more aggressive metal style. They combined intricate progressive rock elements with a unique sense of humor and Burke Shelley's high-pitched vocals.",
+    "members_70s": [
+      "Burke Shelley",
+      "Tony Bourge",
+      "Ray Phillips",
+      "Pete Boot",
+      "Steve Williams"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Budgie",
+        "year": 1971
+      },
+      {
+        "title": "Squawk",
+        "year": 1972
+      },
+      {
+        "title": "Never Turn Your Back on a Friend",
+        "year": 1973
+      },
+      {
+        "title": "In for the Kill!",
+        "year": 1974
+      },
+      {
+        "title": "Bandolier",
+        "year": 1975
+      },
+      {
+        "title": "If I Were Brittania I'd Waive the Rules",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Breadfan",
+      "Guts",
+      "Crash Course in Brain Surgery",
+      "Parents",
+      "Napoleon Bona-Part One & Two",
+      "I Ain't No Mountain",
+      "Smile Boy Smile"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Burke Shelley's banshee-wail vocals have been frequently compared to Rush's Geddy Lee.",
+      "The band's song 'Breadfan' was a major influence on Metallica, who later covered the track."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Budgie_(band)",
+    "youtube_search": "Budgie Breadfan",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "welsh"
+    ]
+  },
+  {
+    "id": "cheap-trick",
+    "name": "Cheap Trick",
+    "genre": "hard-rock",
+    "subgenre": "boogie rock",
+    "origin": "Rockford, Illinois, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Cheap Trick bridged 60s pop melody with 70s hard rock power and a hint of emerging punk energy. Their late-70s success was fueled by an intense following in Japan, which led to their international breakthrough. They set the template for power pop by combining catchy, guitar-driven hooks with an eccentric and energetic stage presence.",
+    "members_70s": [
+      "Robin Zander",
+      "Rick Nielsen",
+      "Tom Petersson",
+      "Bun E. Carlos"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Cheap Trick",
+        "year": 1977
+      },
+      {
+        "title": "In Color",
+        "year": 1977
+      },
+      {
+        "title": "Heaven Tonight",
+        "year": 1978
+      },
+      {
+        "title": "At Budokan",
+        "year": 1979
+      },
+      {
+        "title": "Dream Police",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Oh, Candy",
+      "I Want You to Want Me",
+      "Southern Girls",
+      "Surrender",
+      "California Man",
+      "Dream Police",
+      "Voices"
+    ],
+    "mood": [
+      "happy",
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "dance"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The Illinois Senate designated April 1 as Cheap Trick Day in the band's home state.",
+      "Their breakthrough live album, At Budokan, was originally intended only for release in Japan."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cheap_Trick",
+    "youtube_search": "Cheap Trick Surrender",
+    "tags": [
+      "hard-rock",
+      "boogie-rock",
+      "power-pop"
+    ]
+  },
+  {
+    "id": "deep-purple",
+    "name": "Deep Purple",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "London, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Deep Purple were key architects of 70s heavy metal, moving from psychedelic roots to a high-intensity hard rock sound. Their mid-70s work was defined by the 'unholy trinity' of Gillan's vocals, Blackmore's riffs, and Lord's distorted Hammond organ. They were renowned for extensive live improvisation and were officially recognized as the world's loudest band during this era.",
+    "members_70s": [
+      "Ian Gillan",
+      "Ritchie Blackmore",
+      "Jon Lord",
+      "Roger Glover",
+      "Ian Paice",
+      "David Coverdale",
+      "Glenn Hughes",
+      "Tommy Bolin"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Deep Purple in Rock",
+        "year": 1970
+      },
+      {
+        "title": "Fireball",
+        "year": 1971
+      },
+      {
+        "title": "Machine Head",
+        "year": 1972
+      },
+      {
+        "title": "Burn",
+        "year": 1974
+      },
+      {
+        "title": "Stormbringer",
+        "year": 1974
+      },
+      {
+        "title": "Come Taste the Band",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Child in Time",
+      "Fireball",
+      "Highway Star",
+      "Smoke on the Water",
+      "Woman from Tokyo",
+      "Burn",
+      "Stormbringer",
+      "Mistreated"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "They were listed in the 1975 Guinness Book of World Records as 'the globe's loudest band.'",
+      "The band's riffs on songs like 'Highway Star' were early influences on the development of speed metal."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Purple",
+    "youtube_search": "Deep Purple Smoke on the Water",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "iconic"
+    ]
+  },
+  {
+    "id": "def-leppard",
+    "name": "Def Leppard",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Sheffield, England",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Def Leppard formed in the late 1970s and quickly became key figures in the New Wave of British Heavy Metal. Their early sound featured raw, high-energy riffs combined with vocal harmonies that would eventually define their polished stadium-rock success. In the 1970s, they were a gritty working-class band from Sheffield focused on breaking into the rock mainstream.",
+    "members_70s": [
+      "Joe Elliott",
+      "Rick Savage",
+      "Pete Willis",
+      "Tony Kenning",
+      "Steve Clark",
+      "Rick Allen"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Wasted",
+      "Hello America",
+      "Getcha Rocks Off",
+      "Ride into the Sun"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The name was originally 'Deaf Leopard,' but was changed at Tony Kenning's suggestion to sound less like a punk band.",
+      "Drummer Rick Allen joined the band in 1978 when he was only 15 years old."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Def_Leppard",
+    "youtube_search": "Def Leppard Wasted",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "NWOBHM"
+    ],
+    "key_albums_70s_note": "Formed in 1977, Def Leppard released their debut album On Through the Night in 1980."
+  },
+  {
+    "id": "dokken",
+    "name": "Dokken",
+    "genre": "hard-rock",
+    "subgenre": "glam metal",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1978,
+    "active_70s": true,
+    "description": "Dokken began in the late 70s Los Angeles club scene, initially performing under names like Airborn. Their early sound laid the groundwork for the melodic heavy metal and glam metal boom of the following decade. Founder Don Dokken's high-register vocals and melodic focus made them a staple of the Sunset Strip circuit.",
+    "members_70s": [
+      "Don Dokken",
+      "Bobby Blotzer",
+      "Juan Croucier",
+      "Greg Pecka",
+      "Steven R. Barry",
+      "Greg Leon",
+      "Gary Holland",
+      "Gary Link"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Hard Rock Woman",
+      "Broken Heart"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Don Dokken demoed songs with the Scorpions when their lead singer Klaus Meine was recovering from vocal cord surgery.",
+      "The band's Hamburg recordings from 1979 were released years later without their consent as 'Back in the Streets.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dokken",
+    "youtube_search": "Dokken Hard Rock Woman",
+    "tags": [
+      "hard-rock",
+      "glam-metal",
+      "melodic"
+    ],
+    "key_albums_70s_note": "Formed in 1978, Dokken did not release a studio album until 1981."
+  },
+  {
+    "id": "foghat",
+    "name": "Foghat",
+    "genre": "hard-rock",
+    "subgenre": "boogie rock",
+    "origin": "London, England, UK",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Foghat defined 70s boogie rock with a sound built on simple, hard-rocking blues and electric slide guitar. They achieved major success in the US with a series of gold and platinum albums throughout the decade. Their mid-70s peak produced high-energy anthems that became staples of driving rock and party soundtracks.",
+    "members_70s": [
+      "Dave Peverett",
+      "Rod Price",
+      "Tony Stevens",
+      "Roger Earl",
+      "Nick Jameson",
+      "Craig MacGregor"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Foghat",
+        "year": 1972
+      },
+      {
+        "title": "Energized",
+        "year": 1974
+      },
+      {
+        "title": "Fool for the City",
+        "year": 1975
+      },
+      {
+        "title": "Night Shift",
+        "year": 1976
+      },
+      {
+        "title": "Foghat Live",
+        "year": 1977
+      },
+      {
+        "title": "Stone Blue",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I Just Want to Make Love to You",
+      "Slow Ride",
+      "Fool for the City",
+      "Drivin' Wheel",
+      "Stone Blue",
+      "Honey Hush",
+      "Sweet Home Chicago"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The name 'Foghat' was a nonsense word invented by lead singer Dave Peverett in a childhood game.",
+      "Three founding members left the band Savoy Brown to form Foghat in 1971."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Foghat",
+    "youtube_search": "Foghat Slow Ride",
+    "tags": [
+      "hard-rock",
+      "boogie-rock",
+      "slide-guitar"
+    ]
+  },
+  {
+    "id": "foreigner",
+    "name": "Foreigner",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "New York City, US",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Foreigner exploded onto the late-70s scene with a polished mix of hard rock anthems and rock ballads. Their debut featured catchy hooks and slick production that immediate made them arena headliners. They became one of the decade's best-selling acts, defined by Mick Jones' guitar work and Lou Gramm's powerhouse tenor vocals.",
+    "members_70s": [
+      "Mick Jones",
+      "Lou Gramm",
+      "Ian McDonald",
+      "Dennis Elliott",
+      "Al Greenwood",
+      "Ed Gagliardi",
+      "Rick Wills"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Foreigner",
+        "year": 1977
+      },
+      {
+        "title": "Double Vision",
+        "year": 1978
+      },
+      {
+        "title": "Head Games",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Feels Like the First Time",
+      "Cold as Ice",
+      "Long, Long Way from Home",
+      "Hot Blooded",
+      "Double Vision",
+      "Dirty White Boy",
+      "Head Games"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name reflects the fact that half the members were British and half were American.",
+      "Founding multi-instrumentalist Ian McDonald was a former member of King Crimson."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Foreigner_(band)",
+    "youtube_search": "Foreigner Hot Blooded",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "bestselling"
+    ]
+  },
+  {
+    "id": "free",
+    "name": "Free",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "London, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Free was a quintessential British blues rock band known for their minimalist, soulful sound and high-energy live performances. Their early-70s peak produced one of rock's most enduring anthems, 'All Right Now,' which propelled them to international stardom. Although their run was short-lived, their soulful hard rock style deeply influenced the development of the genre.",
+    "members_70s": [
+      "Paul Rodgers",
+      "Paul Kossoff",
+      "Andy Fraser",
+      "Simon Kirke",
+      "John Bundrick",
+      "Tetsu Yamauchi"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Fire and Water",
+        "year": 1970
+      },
+      {
+        "title": "Highway",
+        "year": 1970
+      },
+      {
+        "title": "Free Live!",
+        "year": 1971
+      },
+      {
+        "title": "Free at Last",
+        "year": 1972
+      },
+      {
+        "title": "Heartbreaker",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "All Right Now",
+      "The Stealer",
+      "My Brother Jake",
+      "Little Bit of Love",
+      "Wishing Well",
+      "Catch a Train"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band performed for over 600,000 people at the 1970 Isle of Wight Festival.",
+      "Paul Rodgers and Simon Kirke went on to form the supergroup Bad Company after Free disbanded."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Free_(band)",
+    "youtube_search": "Free All Right Now",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "soulful"
+    ]
+  },
+  {
+    "id": "gary-glitter",
+    "name": "Gary Glitter",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Banbury, Oxfordshire, England",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Gary Glitter was a central figure of the early 70s glam rock era, defined by his stomping rhythms and 'leader of the gang' persona. His music used a heavy, percussive 'Glitter sound' that became highly influential on the emerging punk and hard rock scenes. He was famous for his extravagant silver platform boots and sequined suits.",
+    "key_albums_70s": [
+      {
+        "title": "Glitter",
+        "year": 1972
+      },
+      {
+        "title": "Touch Me",
+        "year": 1973
+      },
+      {
+        "title": "G. G.",
+        "year": 1975
+      },
+      {
+        "title": "Silver Star",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Rock and Roll (Part 1)",
+      "Rock and Roll (Part 2)",
+      "I'm the Leader of the Gang (I Am)",
+      "Do You Wanna Touch Me",
+      "I Love You Love Me Love"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Glitter reportedly owned 30 glitter suits and 50 pairs of silver platform boots during his peak.",
+      "'Rock and Roll (Part 2)' became a massive sports anthem in North America despite his limited US chart success."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Glitter",
+    "youtube_search": "Gary Glitter Rock and Roll Part 2",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "solo-artist"
+    ]
+  },
+  {
+    "id": "girlschool",
+    "name": "Girlschool",
+    "genre": "hard-rock",
+    "subgenre": "NWOBHM",
+    "origin": "London, England",
+    "formed": 1978,
+    "active_70s": true,
+    "description": "Girlschool emerged from the London pub scene as an all-female hard rock band with a raw, punk-tinged metal sound. They gained significant attention for their musicianship in a male-dominated scene and were frequently associated with Motörhead. Their early work captured the high-energy, DIY spirit of the late 70s British rock explosion.",
+    "members_70s": [
+      "Kim McAuliffe",
+      "Enid Williams",
+      "Kelly Johnson",
+      "Denise Dufort"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Take It All Away",
+      "Emergency",
+      "Nothing to Lose"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band took their name from a B-side of the Paul McCartney and Wings single 'Mull of Kintyre.'",
+      "They were discovered by Lemmy after he heard their first independent single 'Take It All Away.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Girlschool",
+    "youtube_search": "Girlschool Take It All Away",
+    "tags": [
+      "hard-rock",
+      "NWOBHM",
+      "all-female"
+    ],
+    "key_albums_70s_note": "Formed in 1978, Girlschool released their debut album Demolition in 1980."
+  },
+  {
+    "id": "grand-funk-railroad",
+    "name": "Grand Funk Railroad",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Flint, Michigan, US",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Grand Funk Railroad was one of America's most popular hard rock acts of the early 70s, noted for their massive stadium tours and high-energy power trio sound. They evolved from a raw, bluesy hard rock style to a more melodic, commercial arena sound under producer Todd Rundgren mid-decade. They were famously dubbed 'the people's band' despite often lacking critical approval.",
+    "members_70s": [
+      "Mark Farner",
+      "Don Brewer",
+      "Mel Schacher",
+      "Craig Frost"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Closer to Home",
+        "year": 1970
+      },
+      {
+        "title": "Survival",
+        "year": 1971
+      },
+      {
+        "title": "E Pluribus Funk",
+        "year": 1971
+      },
+      {
+        "title": "We're an American Band",
+        "year": 1973
+      },
+      {
+        "title": "Shinin' On",
+        "year": 1974
+      },
+      {
+        "title": "All the Girls in the World Beware!!!",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "I'm Your Captain (Closer to Home)",
+      "Footstompin' Music",
+      "We're an American Band",
+      "Walk Like a Man",
+      "The Loco-Motion",
+      "Some Kind of Wonderful",
+      "Bad Time"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "They sold out New York's Shea Stadium in just 72 hours, equalling the Beatles' attendance record.",
+      "The band spent $100,000 on a Times Square billboard to advertise their album Closer to Home."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Funk_Railroad",
+    "youtube_search": "Grand Funk Railroad We're an American Band",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "michigan"
+    ]
+  },
+  {
+    "id": "hawkwind",
+    "name": "Hawkwind",
+    "genre": "hard-rock",
+    "subgenre": "proto-metal",
+    "origin": "London, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Hawkwind were pioneers of space rock, merging hard rock with hypnotic psychedelic jams and sci-fi lyrical themes. Their 70s sound was a raw, experimental blend that influenced both heavy metal and early punk. They maintained a rebellious, urban guerrilla image and are noted for their high-intensity, atmospheric live performances.",
+    "members_70s": [
+      "Dave Brock",
+      "Nik Turner",
+      "Lemmy",
+      "Robert Calvert",
+      "Simon House",
+      "Simon King",
+      "Del Dettmar",
+      "Huw Lloyd-Langton"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Hawkwind",
+        "year": 1970
+      },
+      {
+        "title": "In Search of Space",
+        "year": 1971
+      },
+      {
+        "title": "Doremi Fasol Latido",
+        "year": 1972
+      },
+      {
+        "title": "Space Ritual",
+        "year": 1973
+      },
+      {
+        "title": "Hall of the Mountain Grill",
+        "year": 1974
+      },
+      {
+        "title": "Warrior on the Edge of Time",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Hurry On Sundown",
+      "Silver Machine",
+      "Urban Guerrilla",
+      "Brainstorm",
+      "Kings of Speed",
+      "Kerb Crawler",
+      "Quark, Strangeness and Charm",
+      "Shot Down in the Night"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lemmy was a key member of the band in the early 70s before being fired and forming Motörhead.",
+      "The band's lyrics often covered science fiction themes and was influenced by author Michael Moorcock."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hawkwind",
+    "youtube_search": "Hawkwind Silver Machine",
+    "tags": [
+      "hard-rock",
+      "space-rock",
+      "psychedelic"
+    ]
+  },
+  {
+    "id": "heart",
+    "name": "Heart",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Seattle, Washington, US",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Heart rose to fame in the mid-70s with a powerful mix of hard rock, heavy metal, and acoustic folk. Spearheaded by Ann Wilson's powerhouse vocals and Nancy Wilson's intricate guitar, their sound redefined the presence of women in rock. They achieved massive commercial success with albums that captured both high-energy riffs and soulful, melodic compositions.",
+    "members_70s": [
+      "Ann Wilson",
+      "Nancy Wilson",
+      "Roger Fisher",
+      "Steve Fossen",
+      "Michael Derosier",
+      "Howard Leese"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Dreamboat Annie",
+        "year": 1975
+      },
+      {
+        "title": "Magazine",
+        "year": 1977
+      },
+      {
+        "title": "Little Queen",
+        "year": 1977
+      },
+      {
+        "title": "Dog and Butterfly",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Magic Man",
+      "Crazy on You",
+      "Barracuda",
+      "Little Queen",
+      "Kick It Out",
+      "Heartless",
+      "Straight On",
+      "Dog & Butterfly"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band officially formed in Canada after core members moved there to avoid the Vietnam War draft.",
+      "The lyrics to 'Barracuda' were written by Ann Wilson in response to a suggestive and sexist advertisement run by their record label."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heart_(band)",
+    "youtube_search": "Heart Barracuda",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "seattle"
+    ]
+  },
+  {
+    "id": "humble-pie",
+    "name": "Humble Pie",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Moreton, Essex, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "One of rock's first supergroups, Humble Pie refined a heavy, boogie-inflected blues rock sound during the early 70s. Renowned for their high-octane live shows and Steve Marriott's soulful, raspy vocals, they achieved significant success on both sides of the Atlantic. Their sound was a potent blend of hard rock, R&B, and acoustic folk elements.",
+    "members_70s": [
+      "Steve Marriott",
+      "Peter Frampton",
+      "Greg Ridley",
+      "Jerry Shirley",
+      "Clem Clempson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Humble Pie",
+        "year": 1970
+      },
+      {
+        "title": "Rock On",
+        "year": 1971
+      },
+      {
+        "title": "Performance Rockin' the Fillmore",
+        "year": 1971
+      },
+      {
+        "title": "Smokin'",
+        "year": 1972
+      },
+      {
+        "title": "Eat It",
+        "year": 1973
+      },
+      {
+        "title": "Thunderbox",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Natural Born Bugie",
+      "I Don't Need No Doctor",
+      "Hot 'n' Nasty",
+      "30 Days in the Hole",
+      "Black Coffee",
+      "Ninety-Nine Pounds",
+      "Rock and Roll Music"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Peter Frampton left the band in 1971 and achieved massive solo success later in the decade.",
+      "The band opened for Grand Funk Railroad at their historic Shea Stadium concert in 1971."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humble_Pie",
+    "youtube_search": "Humble Pie 30 Days in the Hole",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "supergroup"
+    ]
+  },
+  {
+    "id": "ian-hunter",
+    "name": "Ian Hunter",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Oswestry, Shropshire, England",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Ian Hunter established himself as a prominent solo artist in the mid-70s after departing Mott the Hoople. His sound blended sophisticated songwriting with raw hard rock energy, often collaborating with guitarist Mick Ronson. He is significant for his influential lyrics and his status as a rock icon who chronicled life on the road.",
+    "key_albums_70s": [
+      {
+        "title": "Ian Hunter",
+        "year": 1975
+      },
+      {
+        "title": "All American Alien Boy",
+        "year": 1976
+      },
+      {
+        "title": "Overnight Angels",
+        "year": 1977
+      },
+      {
+        "title": "You're Never Alone with a Schizophrenic",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Once Bitten, Twice Shy",
+      "England Rocks",
+      "Cleveland Rocks",
+      "Just Another Night",
+      "Ships"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Hunter was given the key to the city by the mayor of Cleveland in 1979 because of the popularity of 'Cleveland Rocks.'",
+      "The band Queen provided backing vocals on a track for his 1976 album 'All American Alien Boy.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ian_Hunter_(singer)",
+    "youtube_search": "Ian Hunter Once Bitten Twice Shy",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "iggy-pop",
+    "name": "Iggy Pop",
+    "genre": "hard-rock",
+    "subgenre": "proto-metal",
+    "origin": "Ann Arbor, Michigan, US",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "The 'Godfather of Punk' established a volatile and significant solo career in the late 70s following the Stooges' split. Collaborating with David Bowie in West Berlin, he released influential albums that merged hard rock energy with art-rock sensibilities. His work during this period, particularly Lust for Life, produced some of his most enduring and culturally impactful music.",
+    "key_albums_70s": [
+      {
+        "title": "The Idiot",
+        "year": 1977
+      },
+      {
+        "title": "Lust for Life",
+        "year": 1977
+      },
+      {
+        "title": "Kill City",
+        "year": 1977
+      },
+      {
+        "title": "New Values",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Sister Midnight",
+      "China Girl",
+      "Lust for Life",
+      "The Passenger",
+      "The Endless Sea",
+      "Kill City",
+      "I'm Bored"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "He and David Bowie were arrested together for marijuana possession in Rochester, New York, in 1976.",
+      "His solo debut album, The Idiot, was a major influence on post-punk, electronic, and industrial artists."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iggy_Pop",
+    "youtube_search": "Iggy Pop Lust for Life",
+    "tags": [
+      "hard-rock",
+      "proto-punk",
+      "iconic"
+    ]
+  },
+  {
+    "id": "iron-maiden",
+    "name": "Iron Maiden",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "London, England",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Iron Maiden was formed by bassist Steve Harris and spent the late 70s developing a complex, high-energy heavy metal sound. They were pioneers of the New Wave of British Heavy Metal, building a massive underground following through relentless gigging. Their 1970s sound was raw and influenced by both progressive rock and early hard rock riffs.",
+    "members_70s": [
+      "Steve Harris",
+      "Dave Murray",
+      "Doug Sampson",
+      "Paul Di'Anno",
+      "Paul Mario Day",
+      "Dennis Wilcock"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Iron Maiden",
+      "Prowler",
+      "Invasion",
+      "Strange World",
+      "Sanctuary",
+      "Wrathchild"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was inspired by a film adaptation of 'The Man in the Iron Mask.'",
+      "Their first release, the demo 'The Soundhouse Tapes,' sold all 5,000 copies within weeks in 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
+    "youtube_search": "Iron Maiden Prowler",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "NWOBHM"
+    ],
+    "key_albums_70s_note": "Formed in 1975, Iron Maiden released their debut album in 1980 after years of live performance in the late 70s NWOBHM scene."
+  },
+  {
+    "id": "journey",
+    "name": "Journey",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "San Francisco, California, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Journey began the decade as a progressive jazz fusion group before transitioning to a melodic arena rock sound. The addition of lead singer Steve Perry late in the 70s brought the soaring vocals that defined their commercial breakthrough. This shift from jazz fusion to radio-friendly hard rock turned them into one of the most successful acts of the era.",
+    "members_70s": [
+      "Neal Schon",
+      "Gregg Rolie",
+      "Ross Valory",
+      "George Tickner",
+      "Prairie Prince",
+      "Aynsley Dunbar",
+      "Robert Fleischman",
+      "Steve Perry",
+      "Steve Smith"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Journey",
+        "year": 1975
+      },
+      {
+        "title": "Look into the Future",
+        "year": 1976
+      },
+      {
+        "title": "Next",
+        "year": 1977
+      },
+      {
+        "title": "Infinity",
+        "year": 1978
+      },
+      {
+        "title": "Evolution",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "To Play Some Music",
+      "Look into the Future",
+      "Wheel in the Sky",
+      "Lights",
+      "Lovin', Touchin', Squeezin'",
+      "Any Way You Want It"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was originally called the Golden Gate Rhythm Section and was intended as a backup group.",
+      "The name 'Journey' was suggested by a roadie named John Villanueva after an unsuccessful naming contest."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Journey_(band)",
+    "youtube_search": "Journey Wheel in the Sky",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "san-francisco"
+    ]
+  },
+  {
+    "id": "judas-priest",
+    "name": "Judas Priest",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Birmingham, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Judas Priest was a key architect of 1970s heavy metal, moving from blues-based origins to a technical, hard-edged sound. Their mid-to-late decade work defined the genre with rapid rhythms and Halford's wide-ranging vocals. They pushed the limits of the period's aggression and complexity, laying the definitive groundwork for the metal explosion of the 80s.",
+    "members_70s": [
+      "Rob Halford",
+      "Glenn Tipton",
+      "K. K. Downing",
+      "Ian Hill",
+      "John Hinch",
+      "Alan Moore",
+      "Simon Phillips",
+      "Les Binks",
+      "Dave Holland"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Rocka Rolla",
+        "year": 1974
+      },
+      {
+        "title": "Sad Wings of Destiny",
+        "year": 1976
+      },
+      {
+        "title": "Sin After Sin",
+        "year": 1977
+      },
+      {
+        "title": "Stained Class",
+        "year": 1978
+      },
+      {
+        "title": "Killing Machine",
+        "year": 1978
+      },
+      {
+        "title": "Unleashed in the East",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Rocka Rolla",
+      "Victim of Changes",
+      "The Ripper",
+      "Diamonds & Rust",
+      "Sinner",
+      "Dissident Aggressor",
+      "Exciter",
+      "Hell Bent for Leather"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band took their name from the Bob Dylan song 'The Ballad of Frankie Lee and Judas Priest.'",
+      "The song 'Dissident Aggressor' pushed an increase in tempo and aggression that defined the genre."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Judas_Priest",
+    "youtube_search": "Judas Priest Victim of Changes",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "pioneers"
+    ]
+  },
+  {
+    "id": "kansas",
+    "name": "Kansas",
+    "genre": "hard-rock",
+    "subgenre": "progressive metal",
+    "origin": "Topeka, Kansas, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Kansas merged American boogie rock with complex symphonic arrangements and changing time signatures during the 70s. Their sound was characterized by Robby Steinhardt's distinctive violin and layered vocal harmonies. They achieved massive national prominence with mid-decade multi-platinum breakthroughs that became staples of the burgeoning progressive hard rock scene.",
+    "members_70s": [
+      "Kerry Livgren",
+      "Steve Walsh",
+      "Robby Steinhardt",
+      "Rich Williams",
+      "Dave Hope",
+      "Phil Ehart"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Kansas",
+        "year": 1974
+      },
+      {
+        "title": "Song for America",
+        "year": 1975
+      },
+      {
+        "title": "Masque",
+        "year": 1975
+      },
+      {
+        "title": "Leftoverture",
+        "year": 1976
+      },
+      {
+        "title": "Point of Know Return",
+        "year": 1977
+      },
+      {
+        "title": "Monolith",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Song for America",
+      "Carry On Wayward Son",
+      "What's on My Mind",
+      "Point of Know Return",
+      "Dust in the Wind",
+      "Portrait (He Knew)",
+      "People of the South Wind"
+    ],
+    "mood": [
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was named after the state and the Kanza (Kaw) Native American people.",
+      "They were named UNICEF Deputy Ambassadors of Goodwill in 1978."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kansas_(band)",
+    "youtube_search": "Kansas Carry On Wayward Son",
+    "tags": [
+      "hard-rock",
+      "progressive-rock",
+      "midwest"
+    ]
+  },
+  {
+    "id": "kiss",
+    "name": "Kiss",
+    "genre": "hard-rock",
+    "subgenre": "shock rock",
+    "origin": "New York City, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Kiss was a 70s pop culture phenomenon known for their theatrical shock rock performances and iconic makeup designs. Their sound was a potent blend of anthemic hard rock and heavy metal driven by catchy hooks and loud guitars. They rose from the NYC glam scene to become one of America's most successful rock bands by the second half of the decade.",
+    "members_70s": [
+      "Paul Stanley",
+      "Gene Simmons",
+      "Ace Frehley",
+      "Peter Criss"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Kiss",
+        "year": 1974
+      },
+      {
+        "title": "Hotter Than Hell",
+        "year": 1974
+      },
+      {
+        "title": "Dressed to Kill",
+        "year": 1975
+      },
+      {
+        "title": "Alive!",
+        "year": 1975
+      },
+      {
+        "title": "Destroyer",
+        "year": 1976
+      },
+      {
+        "title": "Love Gun",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Strutter",
+      "Deuce",
+      "Rock and Roll All Nite",
+      "C'mon and Love Me",
+      "Detroit Rock City",
+      "Beth",
+      "Hard Luck Woman",
+      "I Was Made for Lovin' You"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "dance"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "A 1977 Gallup poll named Kiss the most popular band in America.",
+      "In 1978, all four current members of the band released solo albums on the same day, a rock history first."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiss_(band)",
+    "youtube_search": "Kiss Rock and Roll All Nite",
+    "tags": [
+      "hard-rock",
+      "shock-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "led-zeppelin",
+    "name": "Led Zeppelin",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "London, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Widely regarded as the progenitors of heavy metal, Led Zeppelin defined 1970s rock with a heavy electric guitar sound rooted in blues and folk. Their albums throughout the decade achieved massive critical and commercial success, popularizing the stadium rock archetype. The combination of Page's riffs, Plant's vocals, and Bonham's aggressive drumming made them the biggest band in the world.",
+    "members_70s": [
+      "Jimmy Page",
+      "Robert Plant",
+      "John Paul Jones",
+      "John Bonham"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Led Zeppelin III",
+        "year": 1970
+      },
+      {
+        "title": "Led Zeppelin IV",
+        "year": 1971
+      },
+      {
+        "title": "Houses of the Holy",
+        "year": 1973
+      },
+      {
+        "title": "Physical Graffiti",
+        "year": 1975
+      },
+      {
+        "title": "Presence",
+        "year": 1976
+      },
+      {
+        "title": "In Through the Out Door",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Immigrant Song",
+      "Black Dog",
+      "Rock and Roll",
+      "Stairway to Heaven",
+      "The Song Remains the Same",
+      "Kashmir",
+      "Trampled Under Foot",
+      "All My Love"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "They traveled in a private Boeing 720 jet nicknamed 'the Starship' and were known for their hedonistic reputation.",
+      "The band's record label, Swan Song, was launched in 1974 and signed successful acts like Bad Company."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+    "youtube_search": "Led Zeppelin Stairway to Heaven",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "mc5",
+    "name": "MC5",
+    "genre": "hard-rock",
+    "subgenre": "proto-metal",
+    "origin": "Lincoln Park, Michigan, US",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "MC5 was a pivotal 70s rock band that essentially invented punk rock through their high-energy, anti-establishment sound. Their early-decade studio albums moved towards a more controlled production but remained volatile and politically charged. They blended hard rock, blues, and free jazz influences into a rebellious sound that defined the Detroit counterculture.",
+    "members_70s": [
+      "Rob Tyner",
+      "Wayne Kramer",
+      "Fred 'Sonic' Smith",
+      "Michael Davis",
+      "Dennis Thompson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Back in the USA",
+        "year": 1970
+      },
+      {
+        "title": "High Time",
+        "year": 1971
+      }
+    ],
+    "key_songs_70s": [
+      "Tonight",
+      "Shakin' Street",
+      "Looking at You",
+      "American Ruse",
+      "Sister Anne",
+      "Future/Now",
+      "Skunk (Sonicly Speaking)"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band's 1970 album, Back in the USA, was produced by future Bruce Springsteen mentor Jon Landau.",
+      "Guitarists Wayne Kramer and Michael Davis were unexpectedly reunited while both were incarcerated in federal prison in the late 70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MC5",
+    "youtube_search": "MC5 Shakin' Street",
+    "tags": [
+      "hard-rock",
+      "proto-punk",
+      "detroit"
+    ]
+  },
+  {
+    "id": "montrose",
+    "name": "Montrose",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "California, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Named after guitarist Ronnie Montrose, this band released an influential 1973 debut that is considered a hard rock blueprint. The album featured the early vocal talents of Sammy Hagar and a heavy sound that preceded later acts like Van Halen. Under Bill Graham's management, they reached their commercial peak in the mid-70s before disbanding late in the decade.",
+    "members_70s": [
+      "Ronnie Montrose",
+      "Sammy Hagar",
+      "Bill Church",
+      "Denny Carmassi",
+      "Alan Fitzgerald",
+      "Bob James",
+      "Jim Alcivar",
+      "Randy Jo Hobbs"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Montrose",
+        "year": 1973
+      },
+      {
+        "title": "Paper Money",
+        "year": 1974
+      },
+      {
+        "title": "Warner Bros. Presents Montrose!",
+        "year": 1975
+      },
+      {
+        "title": "Jump on It",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Rock the Nation",
+      "Bad Motor Scooter",
+      "Space Station #5",
+      "Rock Candy",
+      "Paper Money",
+      "I Got the Fire",
+      "Let's Go"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Sammy Hagar, who later achieved solo and Van Halen fame, was the band's original lead vocalist.",
+      "Ronnie Montrose was a successful session musician who played on Van Morrison's Tupelo Honey album."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Montrose_(band)",
+    "youtube_search": "Montrose Rock Candy",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "influential"
+    ]
+  },
+  {
+    "id": "motorhead",
+    "name": "Motörhead",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "London, England",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Motörhead was founded by Lemmy Kilmister to create the loudest and fastest rock 'n' roll band in the world. Their 1970s sound fused the speed of punk with the weight of heavy metal, creating a new blueprint for aggressive music. They bridged the gap between diverse subcultures and became legendary for their relentless, high-volume live shows.",
+    "members_70s": [
+      "Lemmy Kilmister",
+      "Larry Wallis",
+      "Lucas Fox",
+      "Phil Taylor",
+      "Eddie Clarke"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Motörhead",
+        "year": 1977
+      },
+      {
+        "title": "Overkill",
+        "year": 1979
+      },
+      {
+        "title": "Bomber",
+        "year": 1979
+      },
+      {
+        "title": "On Parole",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Motorhead",
+      "Louie Louie",
+      "Overkill",
+      "No Class",
+      "Bomber"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lemmy was fired from Hawkwind for 'doing the wrong drugs' after being arrested in Canada in 1975.",
+      "The band's fanged-face mascot, Snaggletooth, was created by artist Joe Petagno for their 1977 debut album."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mot%C3%B6rhead",
+    "youtube_search": "Motorhead Overkill",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "speed-metal"
+    ]
+  },
+  {
+    "id": "mott-the-hoople",
+    "name": "Mott the Hoople",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Hereford, Herefordshire, England",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Mott the Hoople transitioned from cult underground rockers to glam rock icons in the early 70s with the help of David Bowie. Their sound was characterized by Ian Hunter's distinctive vocals and anthemic piano-driven rock. They significantly influenced the upcoming punk and glam metal generations through their gritty yet melodic approach.",
+    "members_70s": [
+      "Ian Hunter",
+      "Mick Ralphs",
+      "Verden Allen",
+      "Pete Overend Watts",
+      "Dale Griffin",
+      "Ariel Bender",
+      "Morgan Fisher"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mad Shadows",
+        "year": 1970
+      },
+      {
+        "title": "Wildlife",
+        "year": 1971
+      },
+      {
+        "title": "Brain Capers",
+        "year": 1971
+      },
+      {
+        "title": "All the Young Dudes",
+        "year": 1972
+      },
+      {
+        "title": "Mott",
+        "year": 1973
+      },
+      {
+        "title": "The Hoople",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "All the Young Dudes",
+      "All the Way from Memphis",
+      "Roll Away the Stone",
+      "The Golden Age of Rock 'n' Roll",
+      "Honaloochie Boogie"
+    ],
+    "mood": [
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "David Bowie wrote 'All the Young Dudes' specifically for the band to prevent them from breaking up in 1972.",
+      "The band's name was taken from a Willard Manus novel about an eccentric who works in a circus freak show."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mott_the_Hoople",
+    "youtube_search": "Mott the Hoople All the Young Dudes",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "mountain",
+    "name": "Mountain",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Long Island, New York, US",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Mountain delivered a powerful blues-based hard rock sound characterized by Leslie West's heavy guitar and Felix Pappalardi's production. They achieved early 70s success with anthems like 'Mississippi Queen,' which became a staple of rock radio. Their sound and performance at Woodstock are credited with helping influence the development of heavy metal music.",
+    "members_70s": [
+      "Leslie West",
+      "Felix Pappalardi",
+      "Steve Knight",
+      "Corky Laing",
+      "Allan Schwartzberg",
+      "Bob Mann",
+      "David Perry"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Climbing!",
+        "year": 1970
+      },
+      {
+        "title": "Nantucket Sleighride",
+        "year": 1971
+      },
+      {
+        "title": "Flowers of Evil",
+        "year": 1971
+      },
+      {
+        "title": "Mountain Live: The Road Goes Ever On",
+        "year": 1972
+      },
+      {
+        "title": "Twin Peaks",
+        "year": 1974
+      },
+      {
+        "title": "Avalanche",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Mississippi Queen",
+      "Theme for an Imaginary Western",
+      "Nantucket Sleighride",
+      "Don't Look Around",
+      "Crossroader",
+      "Silver Paper",
+      "Whole Lotta Shakin' Goin' On"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The beginning of the live recording of 'Long Red' is one of the most sampled drum breaks in hip hop.",
+      "Felix Pappalardi had a burgeonging hearing impairment which contributed to the band's 1972 breakup."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mountain_(band)",
+    "youtube_search": "Mountain Mississippi Queen",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "influential"
+    ]
+  },
+  {
+    "id": "nazareth",
+    "name": "Nazareth",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Dunfermline, Fife, Scotland, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Nazareth achieved international success in the mid-70s with a powerful hard rock sound and Dan McCafferty's raspy vocals. Their album Hair of the Dog became a staple of 1970s rock radio, while their cover of 'Love Hurts' became their biggest global hit. They were pioneers of the Scottish hard rock scene and toured extensively with acts like Deep Purple.",
+    "members_70s": [
+      "Dan McCafferty",
+      "Manny Charlton",
+      "Pete Agnew",
+      "Darrell Sweet",
+      "Zal Cleminson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Nazareth",
+        "year": 1971
+      },
+      {
+        "title": "Exercises",
+        "year": 1972
+      },
+      {
+        "title": "Razamanaz",
+        "year": 1973
+      },
+      {
+        "title": "Loud 'N' Proud",
+        "year": 1973
+      },
+      {
+        "title": "Rampant",
+        "year": 1974
+      },
+      {
+        "title": "Hair of the Dog",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Broken Down Angel",
+      "Bad Bad Boy",
+      "This Flight Tonight",
+      "Shanghai'd in Shanghai",
+      "My White Bicycle",
+      "Hair of the Dog",
+      "Love Hurts"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band took their name from Nazareth, Pennsylvania, which is mentioned in the song 'The Weight' by The Band.",
+      "Their hit 'This Flight Tonight' is a heavy hard rock cover of a Joni Mitchell song."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nazareth_(band)",
+    "youtube_search": "Nazareth Hair of the Dog",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "scottish"
+    ]
+  },
+  {
+    "id": "new-york-dolls",
+    "name": "New York Dolls",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "New York City, US",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "The New York Dolls were seminal pioneers who merged drag-inspired fashion with a trashy, hard-rocking proto-punk sound. Their early-70s output influenced both the punk movement and the later 80s glam metal scene. They were notorious for their androgynous look and rebellious attitude, often preferring high heels and makeup while delivering raw rock and roll.",
+    "members_70s": [
+      "David Johansen",
+      "Johnny Thunders",
+      "Arthur Kane",
+      "Sylvain Sylvain",
+      "Jerry Nolan",
+      "Billy Murcia",
+      "Rick Rivets"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "New York Dolls",
+        "year": 1973
+      },
+      {
+        "title": "Too Much Too Soon",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Personality Crisis",
+      "Looking for a Kiss",
+      "Trash",
+      "Vietnamese Baby",
+      "Jet Boy",
+      "Stranded in the Jungle",
+      "Puss 'n' Boots"
+    ],
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's name was inspired by the New York Doll Hospital, a doll repair shop located across the street from Sylvain's job.",
+      "Their first performance was on Christmas Eve 1971 at an Endicott Hotel homeless shelter."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_York_Dolls",
+    "youtube_search": "New York Dolls Personality Crisis",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "proto-punk"
+    ]
+  },
+  {
+    "id": "night-ranger",
+    "name": "Night Ranger",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "San Francisco, California, U.S.",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "Night Ranger formed at the very end of the 70s out of the remnants of the funk/pop group Rubicon. Their early work in the late 70s San Francisco club scene refined a dual-guitar attack that would soon make them arena rock superstars. They balanced heavy, melodic guitar solos with a flair for anthemic rock performance.",
+    "members_70s": [
+      "Jack Blades",
+      "Kelly Keagy",
+      "Brad Gillis",
+      "Alan Fitzgerald",
+      "Jeff Watson"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Eddie's Coming Out Tonight"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The group's origin traces to Rubicon, led by Jerry Martini, before forming the trio that became Stereo and then Ranger.",
+      "They were forced to change their name from 'Ranger' to 'Night Ranger' after a country band claimed trademark infringement."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Night_Ranger",
+    "youtube_search": "Night Ranger Eddie's Coming Out Tonight",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "melodic"
+    ],
+    "key_albums_70s_note": "Formed in 1979, Night Ranger did not release a studio album until 1982."
+  },
+  {
+    "id": "pat-travers",
+    "name": "Pat Travers",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Pat Travers is a virtuoso guitarist whose mid-70s sound blended heavy blues rock with high-energy hard rock. He gained significant fame for his 'guitar god' status and his powerful, riff-heavy live performances. His 1970s work was influential for its complex guitar work and soulful delivery.",
+    "key_albums_70s": [
+      {
+        "title": "Pat Travers",
+        "year": 1976
+      },
+      {
+        "title": "Makin' Magic",
+        "year": 1977
+      },
+      {
+        "title": "Putting It Straight",
+        "year": 1977
+      },
+      {
+        "title": "Heat in the Street",
+        "year": 1978
+      },
+      {
+        "title": "Live! Go for What You Know",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Makes No Difference",
+      "Rock 'N' Roll Susie",
+      "Stevie",
+      "Boom, Boom (Out Go the Lights)",
+      "Snortin' Whiskey"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "A very early version of Travers' band in 1976 featured future Iron Maiden drummer Nicko McBrain.",
+      "Metallica's Kirk Hammett has cited Pat Travers as one of his favorite guitar players."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Travers",
+    "youtube_search": "Pat Travers Boom Boom Out Go the Lights",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "guitar-virtuoso"
+    ]
+  },
+  {
+    "id": "queen",
+    "name": "Queen",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "London, England, UK",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Queen defined 70s rock majesty by incorporating progressive rock, heavy metal, and theatrical pop into an exuberant arena rock sound. Characterized by Freddie Mercury's exuberant vocals and Brian May's layered guitar work, they became one of the decade's biggest acts. Their landmark hit 'Bohemian Rhapsody' revolutionized rock composition and pioneered the use of the promotional music video.",
+    "members_70s": [
+      "Freddie Mercury",
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Queen",
+        "year": 1973
+      },
+      {
+        "title": "Queen II",
+        "year": 1974
+      },
+      {
+        "title": "Sheer Heart Attack",
+        "year": 1974
+      },
+      {
+        "title": "A Night at the Opera",
+        "year": 1975
+      },
+      {
+        "title": "A Day at the Races",
+        "year": 1976
+      },
+      {
+        "title": "News of the World",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Keep Yourself Alive",
+      "Seven Seas of Rhye",
+      "Killer Queen",
+      "Bohemian Rhapsody",
+      "Somebody to Love",
+      "Tie Your Mother Down",
+      "We Will Rock You",
+      "We Are the Champions"
+    ],
+    "mood": [
+      "rebellious",
+      "happy",
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Brian May built his custom-made 'Red Special' guitar with his father in 1963 and has used it almost exclusively since.",
+      "The band pullled out of a last-minute TV slot in 1976, resulting in the infamous Sex Pistols interview that shocked the UK."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_(band)",
+    "youtube_search": "Queen Bohemian Rhapsody",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "theatrical"
+    ]
+  },
+  {
+    "id": "rainbow",
+    "name": "Rainbow",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Hertford, Hertfordshire, England, UK",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Formed by Ritchie Blackmore after his departure from Deep Purple, Rainbow merged hard rock with mystical lyrics and heavy metal power. Their mid-70s sound featured Ronnie James Dio's iconic vocals and high-intensity, free-form progressive rock arrangements. They delivered foundational metal landmarks before shifting towards a more commercial pop rock direction late in the decade.",
+    "members_70s": [
+      "Ritchie Blackmore",
+      "Ronnie James Dio",
+      "Cozy Powell",
+      "Jimmy Bain",
+      "Tony Carey",
+      "Bob Daisley",
+      "David Stone",
+      "Graham Bonnet",
+      "Don Airey",
+      "Roger Glover"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Ritchie Blackmore's Rainbow",
+        "year": 1975
+      },
+      {
+        "title": "Rising",
+        "year": 1976
+      },
+      {
+        "title": "On Stage",
+        "year": 1977
+      },
+      {
+        "title": "Long Live Rock 'n' Roll",
+        "year": 1978
+      },
+      {
+        "title": "Down to Earth",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Man on the Silver Mountain",
+      "Catch the Rainbow",
+      "Starstruck",
+      "Stargazer",
+      "Kill the King",
+      "Long Live Rock 'n' Roll",
+      "Since You Been Gone",
+      "All Night Long"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was inspired by the Rainbow Bar and Grill in West Hollywood.",
+      "Their mid-70s stage setup featured a 40-foot computer-controlled rainbow consisting of 3,000 lightbulbs."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rainbow_(rock_band)",
+    "youtube_search": "Rainbow Man on the Silver Mountain",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "mystical"
+    ]
+  },
+  {
+    "id": "reo-speedwagon",
+    "name": "REO Speedwagon",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Champaign, Illinois, US",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "REO Speedwagon cultivated a massive followng in the 1970s as a hard-working Midwestern hard rock act. Their sound evolved from early blues-rock roots to the polished, melodic arena rock that would eventually bring them massive commercial success. Led by Kevin Cronin's vocals and Gary Richrath's guitar, they became staples of the era's live rock circuit.",
+    "members_70s": [
+      "Kevin Cronin",
+      "Gary Richrath",
+      "Neal Doughty",
+      "Gregg Philbin",
+      "Alan Gratzer",
+      "Terry Luttrell",
+      "Mike Murphy",
+      "Bruce Hall"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "R.E.O. Speedwagon",
+        "year": 1971
+      },
+      {
+        "title": "R.E.O./T.W.O.",
+        "year": 1972
+      },
+      {
+        "title": "Ridin' the Storm Out",
+        "year": 1973
+      },
+      {
+        "title": "R.E.O.",
+        "year": 1976
+      },
+      {
+        "title": "You Can Tune a Piano, but You Can't Tuna Fish",
+        "year": 1978
+      },
+      {
+        "title": "Nine Lives",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "157 Riverside Avenue",
+      "Ridin' the Storm Out",
+      "Keep Pushin'",
+      "Roll with the Changes",
+      "Time for Me to Fly",
+      "Only the Strong Survive",
+      "Easy Money"
+    ],
+    "mood": [
+      "rebellious",
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's original manager was their University of Illinois classmate Irving Azoff.",
+      "Their name was taken from the R.E.O. Speed Wagon, a vintage motor truck designed by Ransom Eli Olds."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/REO_Speedwagon",
+    "youtube_search": "REO Speedwagon Roll with the Changes",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "midwest"
+    ]
+  },
+  {
+    "id": "ritchie-blackmore",
+    "name": "Ritchie Blackmore",
+    "genre": "hard-rock",
+    "subgenre": "progressive metal",
+    "origin": "Heston, Middlesex, England, UK",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "One of the most influential guitarists of the 1970s, Blackmore co-founded both Deep Purple and Rainbow. His sound redefined hard rock by merging heavy blues riffs with pioneering classical music influences and high-speed soloing. Throughout the decade, his work codified the aesthetic of British heavy metal and paved the way for neoclassical metal styles.",
+    "key_albums_70s": [
+      {
+        "title": "Deep Purple in Rock",
+        "year": 1970
+      },
+      {
+        "title": "Machine Head",
+        "year": 1972
+      },
+      {
+        "title": "Ritchie Blackmore's Rainbow",
+        "year": 1975
+      },
+      {
+        "title": "Rising",
+        "year": 1976
+      },
+      {
+        "title": "Long Live Rock 'n' Roll",
+        "year": 1978
+      },
+      {
+        "title": "Down to Earth",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Child in Time",
+      "Highway Star",
+      "Smoke on the Water",
+      "Burn",
+      "Man on the Silver Mountain",
+      "Stargazer",
+      "Since You Been Gone"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He used a Bachian chord progression (Dm, Gm, C, A7) behind his famous guitar solo in 'Highway Star.'",
+      "In 1974, he took cello lessons from ELO's Hugh McDowell to find new musical adventure."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ritchie_Blackmore",
+    "youtube_search": "Ritchie Blackmore Highway Star",
+    "tags": [
+      "hard-rock",
+      "guitar-hero",
+      "iconic"
+    ]
+  },
+  {
+    "id": "robin-trower",
+    "name": "Robin Trower",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Catford, London, England, UK",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "After leaving Procol Harum, Trower established himself as a solo hard rock force with a series of acclaimed, blues-infused albums. His 70s sound was famously compared to Jimi Hendrix, focusing on atmospheric guitar tones and soulful grooves in a power trio format. He achieved massive success in North America, releasing four consecutive gold-certified albums in the mid-to-late 70s.",
+    "key_albums_70s": [
+      {
+        "title": "Twice Removed from Yesterday",
+        "year": 1973
+      },
+      {
+        "title": "Bridge of Sighs",
+        "year": 1974
+      },
+      {
+        "title": "For Earth Below",
+        "year": 1975
+      },
+      {
+        "title": "Long Misty Days",
+        "year": 1976
+      },
+      {
+        "title": "In City Dreams",
+        "year": 1977
+      },
+      {
+        "title": "Caravan to Midnight",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Day of the Eagle",
+      "Bridge of Sighs",
+      "Too Rolling Stoned",
+      "Caledonia",
+      "Long Misty Days",
+      "Somebody Calling",
+      "In City Dreams"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He has described soul legend James Brown as his 'big hero' for his early crossover blues style.",
+      "Trower achieved four consecutive gold-certified albums from 1974 to 1977 that charted well in the US and Canada."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Trower",
+    "youtube_search": "Robin Trower Bridge of Sighs",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "guitar-hero"
+    ]
+  },
+  {
+    "id": "rory-gallagher",
+    "name": "Rory Gallagher",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Cork, Ireland",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Rory Gallagher was renowned for his raw, soulful blues-rock guitar playing and his dedicated commitment to live performance. Throughout the 70s, he maintained a relentless touring schedule and refused to bow to commercial trends or elaborate stage costumes. He became a role model for young musicians through his technical mastery and integrity.",
+    "key_albums_70s": [
+      {
+        "title": "Rory Gallagher",
+        "year": 1971
+      },
+      {
+        "title": "Deuce",
+        "year": 1971
+      },
+      {
+        "title": "Live in Europe",
+        "year": 1972
+      },
+      {
+        "title": "Blueprint",
+        "year": 1973
+      },
+      {
+        "title": "Tattoo",
+        "year": 1973
+      },
+      {
+        "title": "Irish Tour '74",
+        "year": 1974
+      },
+      {
+        "title": "Calling Card",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Laundromat",
+      "Tattoo'd Lady",
+      "A Million Miles Away",
+      "Walk on Hot Coals",
+      "Bad Penny"
+    ],
+    "mood": [
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Gallagher was voted Guitarist of the Year by Melody Maker in 1972, famously beating Eric Clapton.",
+      "He jammed with the Rolling Stones for three days in 1975 as they looked for a replacement for Mick Taylor."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rory_Gallagher",
+    "youtube_search": "Rory Gallagher Tattoo'd Lady",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "irish"
+    ]
+  },
+  {
+    "id": "rush",
+    "name": "Rush",
+    "genre": "hard-rock",
+    "subgenre": "progressive metal",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Rush began the 1970s as a blues-inspired hard rock power trio before evolving into the decade's definitive progressive rock band. With the arrival of drummer and lyricist Neil Peart in 1974, they developed complex compositions with science fiction and philosophical themes. Their virtuosic musicianship and conceptual albums like 2112 established them as significant hard rock innovators.",
+    "members_70s": [
+      "Alex Lifeson",
+      "Geddy Lee",
+      "John Rutsey",
+      "Neil Peart",
+      "Jeff Jones"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Rush",
+        "year": 1974
+      },
+      {
+        "title": "Fly by Night",
+        "year": 1975
+      },
+      {
+        "title": "Caress of Steel",
+        "year": 1975
+      },
+      {
+        "title": "2112",
+        "year": 1976
+      },
+      {
+        "title": "A Farewell to Kings",
+        "year": 1977
+      },
+      {
+        "title": "Hemispheres",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Working Man",
+      "Fly by Night",
+      "Anthem",
+      "Bastille Day",
+      "2112: Overture / The Temples of Syrinx",
+      "Closer to the Heart",
+      "The Trees",
+      "The Spirit of Radio"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1976 landmark album 2112 was heavily influenced by the writings of novelist Ayn Rand.",
+      "They were paid CA$25 for their first concert in a church basement in 1968."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rush_(band)",
+    "youtube_search": "Rush 2112",
+    "tags": [
+      "hard-rock",
+      "progressive-rock",
+      "virtuosic"
+    ]
+  },
+  {
+    "id": "savoy-brown",
+    "name": "Savoy Brown",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "London, England, UK",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Savoy Brown was a cornerstone of the British blues rock movement, achieving significant success in the US with a series of heavy, hard-rocking blues albums. Led by constant member Kim Simmonds, their 70s sound transitioned from traditional Chicago blues to a harder boogie-rock style. They maintained a relentless touring schedule that solidified their place in the 70s rock landscape.",
+    "members_70s": [
+      "Kim Simmonds",
+      "Dave Peverett",
+      "Tony Stevens",
+      "Roger Earl",
+      "Chris Youlden",
+      "Paul Raymond",
+      "Dave Walker",
+      "Miller Anderson",
+      "Stan Webb"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Raw Sienna",
+        "year": 1970
+      },
+      {
+        "title": "Looking In",
+        "year": 1970
+      },
+      {
+        "title": "Street Corner Talking",
+        "year": 1971
+      },
+      {
+        "title": "Hellbound Train",
+        "year": 1972
+      },
+      {
+        "title": "Lion's Share",
+        "year": 1972
+      },
+      {
+        "title": "Jack the Toad",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "A Hard Way to Go",
+      "Poor Girl",
+      "Tell Mama",
+      "Street Corner Talking",
+      "Hellbound Train",
+      "Shot in the Head",
+      "Boogie Brothers"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Three members of the 1970 lineup left to form the band Foghat.",
+      "Founder Kim Simmonds was the sole constant member of the band from its 1965 formation until his death in 2022."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Savoy_Brown",
+    "youtube_search": "Savoy Brown Hellbound Train",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "boogie"
+    ]
+  },
+  {
+    "id": "saxon",
+    "name": "Saxon",
+    "genre": "hard-rock",
+    "subgenre": "NWOBHM",
+    "origin": "Barnsley, Yorkshire, England",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Saxon formed in the mid-70s and became defining leaders of the New Wave of British Heavy Metal. Their early sound, initially under the name Son of a Bitch, was a heavy take on hard rock that resonated with working-class audiences. By 1979, they had developed the anthemic, bike-themed metal style that would earn them global success.",
+    "members_70s": [
+      "Biff Byford",
+      "Paul Quinn",
+      "Graham Oliver",
+      "Steve Dawson",
+      "Pete Gill"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Saxon",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Stallions of the Highway",
+      "Backs to the Wall",
+      "Militia Guard",
+      "Frozen Rainbow"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was influential on the film 'This Is Spinal Tap' after Harry Shearer toured with them to observe their lifestyle.",
+      "They were originally called Son of a Bitch but changed the name to Saxon to ensure radio airplay."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saxon_(band)",
+    "youtube_search": "Saxon Stallions of the Highway",
+    "tags": [
+      "hard-rock",
+      "NWOBHM",
+      "heavy-metal"
+    ]
+  },
+  {
+    "id": "scorpions",
+    "name": "Scorpions",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Hanover, West Germany",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "The Scorpions were Germany's leading hard rock and heavy metal act of the 1970s, moving from early krautrock influences to a global metal sound. Their sound featured a mix of heavy rock anthems and melodic ballads, building a strong international following by the late decade. Led by Rudolf Schenker and Klaus Meine, they defined the era's emerging European hard rock aesthetic.",
+    "members_70s": [
+      "Rudolf Schenker",
+      "Klaus Meine",
+      "Michael Schenker",
+      "Uli Jon Roth",
+      "Francis Buchholz",
+      "Matthias Jabs",
+      "Herman Rarebell",
+      "Rudy Lenners"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Lonesome Crow",
+        "year": 1972
+      },
+      {
+        "title": "Fly to the Rainbow",
+        "year": 1974
+      },
+      {
+        "title": "In Trance",
+        "year": 1975
+      },
+      {
+        "title": "Virgin Killer",
+        "year": 1976
+      },
+      {
+        "title": "Taken by Force",
+        "year": 1977
+      },
+      {
+        "title": "Lovedrive",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Lonesome Crow",
+      "Fly to the Rainbow",
+      "In Trance",
+      "Pictured Life",
+      "Steamrock Fever",
+      "Loving You Sunday Morning",
+      "Always Somewhere",
+      "Holiday"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Michael Schenker briefly returned to the band in 1979 to record the Lovedrive album after quitting UFO.",
+      "The band was originally founded as 'The Nameless' in 1965 before choosing 'The Scorpions' later that year."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scorpions_(band)",
+    "youtube_search": "Scorpions In Trance",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "german"
+    ]
+  },
+  {
+    "id": "slade",
+    "name": "Slade",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Wolverhampton, Staffordshire, England",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Slade dominated the UK charts in the early 70s with their raucous, anthemic glam rock and Noddy Holder's powerful vocals. They were famous for misspelled song titles and a heavy, foot-stomping beat that influenced everyone from Kiss to Quiet Riot. Their sound was a ripened blend of pop hooks and high-volume hard rock intensity.",
+    "members_70s": [
+      "Noddy Holder",
+      "Dave Hill",
+      "Jim Lea",
+      "Don Powell"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Play It Loud",
+        "year": 1970
+      },
+      {
+        "title": "Slayed?",
+        "year": 1972
+      },
+      {
+        "title": "Old, New, Borrowed and Blue",
+        "year": 1974
+      },
+      {
+        "title": "Slade in Flame",
+        "year": 1974
+      },
+      {
+        "title": "Nobody's Fools",
+        "year": 1976
+      },
+      {
+        "title": "Whatever Happened to Slade",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Get Down and Get with It",
+      "Coz I Luv You",
+      "Mama Weer All Crazee Now",
+      "Cum on Feel the Noize",
+      "Merry Xmas Everybody"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Noddy Holder was briefly considered as a replacement for the late Bon Scott in AC/DC in 1980.",
+      "The band adopted a skinhead look early on to gain publicity, but it unfortunately linked them to football hooliganism."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Slade",
+    "youtube_search": "Slade Cum on Feel the Noize",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "anthemic"
+    ]
+  },
+  {
+    "id": "styx",
+    "name": "Styx",
+    "genre": "hard-rock",
+    "subgenre": "progressive metal",
+    "origin": "Chicago, Illinois, US",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Styx became a powerhouse of 70s arena rock by blending progressive rock concepts with melodic hard rock and theatrical pop. Their sound was characterized by heavy guitars, synthesizers mixed with piano, and intricate vocal harmonies. They reached their commercial breakthrough late in the decade with multiple multi-platinum albums that became radio staples.",
+    "members_70s": [
+      "Dennis DeYoung",
+      "James 'J.Y.' Young",
+      "Chuck Panozzo",
+      "John Panozzo",
+      "John Curulewski",
+      "Tommy Shaw"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Styx",
+        "year": 1972
+      },
+      {
+        "title": "Styx II",
+        "year": 1973
+      },
+      {
+        "title": "Equinox",
+        "year": 1975
+      },
+      {
+        "title": "Crystal Ball",
+        "year": 1976
+      },
+      {
+        "title": "The Grand Illusion",
+        "year": 1977
+      },
+      {
+        "title": "Pieces of Eight",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Lady",
+      "Lorelei",
+      "Crystal Ball",
+      "The Grand Illusion",
+      "Come Sail Away",
+      "Fooling Yourself (The Angry Young Man)",
+      "Renegade",
+      "Blue Collar Man (Long Nights)"
+    ],
+    "mood": [
+      "rebellious",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was named after the river Styx from Greek mythology.",
+      "Seven of the band's eight top 10 singles were written and sung by founding member Dennis DeYoung."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Styx_(band)",
+    "youtube_search": "Styx Come Sail Away",
+    "tags": [
+      "hard-rock",
+      "progressive-rock",
+      "arena-rock"
+    ]
+  },
+  {
+    "id": "suzi-quatro",
+    "name": "Suzi Quatro",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Suzi Quatro was a trailblazing female rock pioneer who rose to fame as a leather-clad, bass-playing bandleader. Her sound was a hard-driving mix of glam rock and traditional rock 'n' roll that challenged male-dominated musical norms. She became a global icon, proving that women could lead hard rock bands as effectively as their male counterparts.",
+    "key_albums_70s": [
+      {
+        "title": "Suzi Quatro",
+        "year": 1973
+      },
+      {
+        "title": "Quatro",
+        "year": 1974
+      },
+      {
+        "title": "Your Mamma Won't Like Me",
+        "year": 1975
+      },
+      {
+        "title": "Aggro-Phobia",
+        "year": 1976
+      },
+      {
+        "title": "If You Knew Suzi...",
+        "year": 1978
+      },
+      {
+        "title": "Suzi ... and Other Four Letter Words",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Can the Can",
+      "48 Crash",
+      "Daytona Demon",
+      "Devil Gate Drive",
+      "The Wild One",
+      "If You Can't Give Me Love"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Quatro's father gave her a 1957 Fender Precision Bass in 1964, which she still uses in the studio.",
+      "She reached mainstream US fame playing the character Leather Tuscadero on the sitcom 'Happy Days.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suzi_Quatro",
+    "youtube_search": "Suzi Quatro Can the Can",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "pioneer"
+    ]
+  },
+  {
+    "id": "t-rex",
+    "name": "T. Rex",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "London, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "T. Rex, led by Marc Bolan, were the architects of the glam rock explosion in the early 70s. Their sound evolved from acoustic psychedelic folk to a unique style of boogie-rock characterized by heavy riffs and surreal lyrics. At their peak, 'T. Rextasy' rivaled the popularity of the Beatles, cementing Bolan's status as a generational superstar.",
+    "members_70s": [
+      "Marc Bolan",
+      "Mickey Finn",
+      "Steve Currie",
+      "Bill Legend",
+      "Gloria Jones",
+      "Dino Dines"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "T. Rex",
+        "year": 1970
+      },
+      {
+        "title": "Electric Warrior",
+        "year": 1971
+      },
+      {
+        "title": "The Slider",
+        "year": 1972
+      },
+      {
+        "title": "Tanx",
+        "year": 1973
+      },
+      {
+        "title": "Zinc Alloy and the Hidden Riders of Tomorrow",
+        "year": 1974
+      },
+      {
+        "title": "Futuristic Dragon",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Ride a White Swan",
+      "Hot Love",
+      "Get It On",
+      "Jeepster",
+      "Telegram Sam",
+      "Metal Guru",
+      "20th Century Boy"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Bolan's transformation began when glitter was added under his eyes for a 'Top of the Pops' performance.",
+      "Bolan died in a car crash in 1977, just months after the release of 'Dandy in the Underworld.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T.Rex(band)",
+    "youtube_search": "T. Rex Get It On",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "ted-nugent",
+    "name": "Ted Nugent",
+    "genre": "hard-rock",
+    "subgenre": "boogie rock",
+    "origin": "Detroit, Michigan, US",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "The 'Motor City Madman' established a massively successful solo career in the mid-to-late 70s with a raw, blues-based hard rock sound. Known for his frenzied guitar playing and energetic live shows, he produced multiple multi-platinum albums throughout the decade. His 70s career was defined by quintessential hard rock anthems and an intense, rebellious stage presence.",
+    "key_albums_70s": [
+      {
+        "title": "Ted Nugent",
+        "year": 1975
+      },
+      {
+        "title": "Free-for-All",
+        "year": 1976
+      },
+      {
+        "title": "Cat Scratch Fever",
+        "year": 1977
+      },
+      {
+        "title": "Double Live Gonzo!",
+        "year": 1978
+      },
+      {
+        "title": "Weekend Warriors",
+        "year": 1978
+      },
+      {
+        "title": "State of Shock",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Stranglehold",
+      "Hey Baby",
+      "Free-for-All",
+      "Dog Eat Dog",
+      "Cat Scratch Fever",
+      "Home Bound",
+      "Wang Dang Sweet Poontang",
+      "Wango Tango"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He is known for his exclusive use of the hollow-body Gibson Byrdland guitar.",
+      "Nugent is an ardent anti-drug campaigner who claimed to be unaware 'Journey to the Center of the Mind' was about drugs."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Nugent",
+    "youtube_search": "Ted Nugent Cat Scratch Fever",
+    "tags": [
+      "hard-rock",
+      "boogie-rock",
+      "guitar-hero"
+    ]
+  },
+  {
+    "id": "the-j-geils-band",
+    "name": "The J. Geils Band",
+    "genre": "hard-rock",
+    "subgenre": "blues rock",
+    "origin": "Worcester, Massachusetts, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "The J. Geils Band was a powerhouse of 1970s blues rock, known for their high-energy, R&B-influenced party sound. Led by Peter Wolf's stage presence and Magic Dick's pioneering harmonica, they were respected as one of America's best live acts. Their sound combined obscure soul covers with a healthy dose of Stonesy swagger.",
+    "members_70s": [
+      "Peter Wolf",
+      "J. Geils",
+      "Magic Dick",
+      "Stephen Jo Bladd",
+      "Seth Justman",
+      "Danny Klein"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The J. Geils Band",
+        "year": 1970
+      },
+      {
+        "title": "The Morning After",
+        "year": 1971
+      },
+      {
+        "title": "Full House",
+        "year": 1972
+      },
+      {
+        "title": "Bloodshot",
+        "year": 1973
+      },
+      {
+        "title": "Nightmares...and Other Tales from the Vinyl Jungle",
+        "year": 1974
+      },
+      {
+        "title": "Sanctuary",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "First I Look at the Purse",
+      "Lookin' for a Love",
+      "Give It to Me",
+      "Must of Got Lost",
+      "One Last Kiss"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Original U.S. copies of their breakout album 'Bloodshot' were distributed in red vinyl.",
+      "The Allman Brothers Band once named them their favorite local band during a 1971 show in Boston."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_J.Geils_Band",
+    "youtube_search": "J. Geils Band Must of Got Lost",
+    "tags": [
+      "hard-rock",
+      "blues-rock",
+      "live-act"
+    ]
+  },
+  {
+    "id": "the-stooges",
+    "name": "The Stooges",
+    "genre": "hard-rock",
+    "subgenre": "proto-metal",
+    "origin": "Ann Arbor, Michigan, US",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "The Stooges were foundational proto-punk pioneers known for a raw, primitive hard rock sound and Iggy Pop's confrontational stage antics. Their 70s run featured the landmark album Raw Power, which merged high-intensity rock aggression with a self-destructive energy. Although they sold few records at the time, their influence on the development of hard rock and punk is immeasurable.",
+    "members_70s": [
+      "Iggy Pop",
+      "Ron Asheton",
+      "Scott Asheton",
+      "Dave Alexander",
+      "James Williamson",
+      "Jimmy Recca",
+      "Scott Thurston"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Fun House",
+        "year": 1970
+      },
+      {
+        "title": "Raw Power",
+        "year": 1973
+      },
+      {
+        "title": "Metallic K.O.",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "1970",
+      "T.V. Eye",
+      "Dirt",
+      "Search and Destroy",
+      "Gimme Danger",
+      "Raw Power",
+      "Your Pretty Face Is Going to Hell"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Iggy Pop was one of the first performers to do a stage-dive and popularized the activity.",
+      "During a 1970 performance at the Cincinnati Pop Festival, Iggy Pop smeared peanut butter all over his chest while performing."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Stooges",
+    "youtube_search": "The Stooges Search and Destroy",
+    "tags": [
+      "hard-rock",
+      "proto-punk",
+      "iconic"
+    ]
+  },
+  {
+    "id": "the-sweet",
+    "name": "The Sweet",
+    "genre": "hard-rock",
+    "subgenre": "glam rock",
+    "origin": "London, England",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "The Sweet evolved from bubblegum hitmakers into sophisticated glam rock titans during the 1970s. Their sound was a unique fusion of high-pitched vocal harmonies and heavy, Who-inspired hard rock riffs. They were equally successful in the UK and US, providing some of the era's most enduring rock anthems and flamboyant stage personas.",
+    "members_70s": [
+      "Brian Connolly",
+      "Steve Priest",
+      "Mick Tucker",
+      "Andy Scott"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Funny How Sweet Co-Co Can Be",
+        "year": 1971
+      },
+      {
+        "title": "Sweet Fanny Adams",
+        "year": 1974
+      },
+      {
+        "title": "Desolation Boulevard",
+        "year": 1974
+      },
+      {
+        "title": "Give Us a Wink",
+        "year": 1976
+      },
+      {
+        "title": "Off the Record",
+        "year": 1977
+      },
+      {
+        "title": "Level Headed",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Block Buster!",
+      "The Ballroom Blitz",
+      "Teenage Rampage",
+      "Fox on the Run",
+      "Action",
+      "Love Is Like Oxygen"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The Man with the Golden Arm' featured an 8.5-minute drum solo by Mick Tucker, a staple of their live show.",
+      "Brian Connolly's badly bruised throat in 1974 prevented the band from supporting The Who at a major stadium show."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sweet",
+    "youtube_search": "The Sweet Ballroom Blitz",
+    "tags": [
+      "hard-rock",
+      "glam-rock",
+      "anthemic"
+    ]
+  },
+  {
+    "id": "thin-lizzy",
+    "name": "Thin Lizzy",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Dublin, Ireland",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Thin Lizzy was a pioneering Irish hard rock band defined by Phil Lynott's intelligent songwriting and the 'twin lead guitar' harmony sound. Their mid-to-late 70s albums blended blues, folk, and soul influences into a distinctive hard-rocking style. They became international stars with anthems like 'The Boys Are Back in Town,' reflecting Lynott's unique 'off-the-beat' phrasing.",
+    "members_70s": [
+      "Phil Lynott",
+      "Brian Downey",
+      "Eric Bell",
+      "Gary Moore",
+      "Scott Gorham",
+      "Brian Robertson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Thin Lizzy",
+        "year": 1971
+      },
+      {
+        "title": "Vagabonds of the Western World",
+        "year": 1973
+      },
+      {
+        "title": "Nightlife",
+        "year": 1974
+      },
+      {
+        "title": "Fighting",
+        "year": 1975
+      },
+      {
+        "title": "Jailbreak",
+        "year": 1976
+      },
+      {
+        "title": "Bad Reputation",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Whiskey in the Jar",
+      "The Rocker",
+      "Still in Love with You",
+      "The Boys Are Back in Town",
+      "Jailbreak",
+      "Cowboy Song",
+      "Dancing in the Moonlight",
+      "Waiting for an Alibi"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Phil Lynott was the first Black Irishman to achieve major commercial success in rock music.",
+      "The band's 1978 live album, Live and Dangerous, is frequently cited as one of the greatest live rock albums of all time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thin_Lizzy",
+    "youtube_search": "Thin Lizzy The Boys Are Back in Town",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "irish"
+    ]
+  },
+  {
+    "id": "triumph",
+    "name": "Triumph",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Mississauga, Ontario, Canada",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Triumph was a Canadian power trio that successfully blended hard rock power with progressive rock complexity. Their 70s sound featured Rik Emmett's virtuoso guitar work and alternating lead vocals that ranged from heavy rockers to classical interludes. They built a formidable reputation as a live band, renowned for high-tech productions and melodic rock.",
+    "members_70s": [
+      "Mike Levine",
+      "Gil Moore",
+      "Rik Emmett"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Triumph",
+        "year": 1976
+      },
+      {
+        "title": "Rock & Roll Machine",
+        "year": 1977
+      },
+      {
+        "title": "Just a Game",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Hobo",
+      "Rocky Mountain Way",
+      "Rock & Roll Machine",
+      "Lay It on the Line",
+      "Hold On"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Rik Emmett's songwriting often incorporated classical music influences, including a classical guitar solo piece on most albums.",
+      "The band was labeled a 'faceless band' by Rolling Stone reviewers despite their significant chart success and gold awards."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Triumph(band)",
+    "youtube_search": "Triumph Lay It on the Line",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "canadian"
+    ]
+  },
+  {
+    "id": "trooper",
+    "name": "Trooper",
+    "genre": "hard-rock",
+    "subgenre": "arena rock",
+    "origin": "Vancouver, British Columbia, Canada",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Known as 'Canada's party band,' Trooper emerged in the mid-70s with a string of infectious hard rock hits. Their sound was characterized by catchy choruses and upbeat energy, making them one of the most popular touring acts in Canada. They achieved significant multi-platinum success through their radio-friendly approach to hard rock.",
+    "members_70s": [
+      "Ra McGuire",
+      "Brian Smith",
+      "Tommy Stewart",
+      "Harry Kalensky",
+      "Frank Ludwig",
+      "Doni Underhill"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Trooper",
+        "year": 1975
+      },
+      {
+        "title": "Two for the Show",
+        "year": 1976
+      },
+      {
+        "title": "Knock 'Em Dead Kid",
+        "year": 1977
+      },
+      {
+        "title": "Thick as Thieves",
+        "year": 1978
+      },
+      {
+        "title": "Flying Colors",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "General Hand Grenade",
+      "Two for the Show",
+      "Santa Maria",
+      "We're Here for a Good Time (Not a Long Time)",
+      "Raise a Little Hell"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The hit 'Santa Maria' was inspired by a boat trip the band took to Tugwell Island near Prince Rupert.",
+      "In 1978, 'Raise a Little Hell' became the group's only successful U.S. single."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trooper_(band)",
+    "youtube_search": "Trooper Raise a Little Hell",
+    "tags": [
+      "hard-rock",
+      "arena-rock",
+      "canadian"
+    ]
+  },
+  {
+    "id": "ufo",
+    "name": "UFO",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "London, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "UFO was a pivotal British hard rock band that moved from early space rock influences to a high-intensity standard rock sound in the mid-70s. Led by Phil Mogg and featuring Michael Schenker's acclaimed guitar work, they achieved moderate international success with a string of multi-platinum albums. Their sound was a key influence on the 1980s hard rock and heavy metal scenes.",
+    "members_70s": [
+      "Phil Mogg",
+      "Mick Bolton",
+      "Pete Way",
+      "Andy Parker",
+      "Michael Schenker",
+      "Paul Chapman",
+      "Paul Raymond"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "UFO 1",
+        "year": 1970
+      },
+      {
+        "title": "UFO 2: Flying",
+        "year": 1971
+      },
+      {
+        "title": "Phenomenon",
+        "year": 1974
+      },
+      {
+        "title": "Force It",
+        "year": 1975
+      },
+      {
+        "title": "No Heavy Petting",
+        "year": 1976
+      },
+      {
+        "title": "Lights Out",
+        "year": 1977
+      },
+      {
+        "title": "Obsession",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Boogie For George",
+      "Prince Kajuku",
+      "Doctor Doctor",
+      "Rock Bottom",
+      "Shoot Shoot",
+      "Natural Thing",
+      "Lights Out",
+      "Only You Can Rock Me"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "They were originally named Hocus Pocus before changing their moniker to UFO.",
+      "Michael Schenker was only a teenager when he joined the band in 1973 after leaving Scorpions."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/UFO_(band)",
+    "youtube_search": "UFO Doctor Doctor",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "influential"
+    ]
+  },
+  {
+    "id": "uriah-heep",
+    "name": "Uriah Heep",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "London, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Uriah Heep were major pioneers of hard rock, heavy metal, and progressive rock in the 1970s. Their sound focused on massive keyboard textures, strong vocal harmonies, and David Byron's quasi-operatic vocals. They blended fantasy-oriented lyrical epics with powerful hard rock arrangements, maintaining a significant international following throughout the decade.",
+    "members_70s": [
+      "Mick Box",
+      "David Byron",
+      "Ken Hensley",
+      "Paul Newton",
+      "Lee Kerslake",
+      "Gary Thain",
+      "John Lawton",
+      "Trevor Bolder"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "...Very 'Eavy ...Very 'Umble",
+        "year": 1970
+      },
+      {
+        "title": "Salisbury",
+        "year": 1971
+      },
+      {
+        "title": "Look at Yourself",
+        "year": 1971
+      },
+      {
+        "title": "Demons and Wizards",
+        "year": 1972
+      },
+      {
+        "title": "The Magician's Birthday",
+        "year": 1972
+      },
+      {
+        "title": "Return to Fantasy",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Gypsy",
+      "Lady in Black",
+      "Look at Yourself",
+      "July Morning",
+      "The Wizard",
+      "Easy Livin'",
+      "Sunrise",
+      "Stealin'"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band took their name from a character in the Charles Dickens novel David Copperfield.",
+      "Their 1971 album Salisbury featured a 16-minute title track with a 24-piece orchestra."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uriah_Heep_(band)",
+    "youtube_search": "Uriah Heep Easy Livin'",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "progressive-rock"
+    ]
+  },
+  {
+    "id": "van-halen",
+    "name": "Van Halen",
+    "genre": "hard-rock",
+    "subgenre": "heavy metal",
+    "origin": "Pasadena, California, US",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Van Halen restored hard rock to the forefront of the music scene late in the decade with their high-energy 1978 debut. Spearheaded by Eddie Van Halen's revolutionary 'finger-tapping' guitar and David Lee Roth's charismatic showmanship, their sound was a 'party-ready' metal. They became immediate commercial icons, defining a new era of virtuosic, high-intensity California rock.",
+    "members_70s": [
+      "Eddie Van Halen",
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Michael Anthony",
+      "Mark Stone"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Van Halen",
+        "year": 1978
+      },
+      {
+        "title": "Van Halen II",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Runnin' with the Devil",
+      "Eruption",
+      "You Really Got Me",
+      "Jamie's Cryin'",
+      "Ain't Talkin' 'bout Love",
+      "Dance the Night Away",
+      "Beautiful Girls",
+      "Somebody Get Me a Doctor"
+    ],
+    "mood": [
+      "rebellious",
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band members ran several miles to a meeting with record reps after their car broke down to avoid being late.",
+      "Eddie and Alex Van Halen were originally born in Amsterdam before moving to California as children."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Van_Halen",
+    "youtube_search": "Van Halen Runnin' with the Devil",
+    "tags": [
+      "hard-rock",
+      "heavy-metal",
+      "california"
+    ]
+  },
+  {
+    "id": "wishbone-ash",
+    "name": "Wishbone Ash",
+    "genre": "hard-rock",
+    "subgenre": "progressive metal",
+    "origin": "Torquay, Devon, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Wishbone Ash was a pivotal 1970s rock band known for their extensive use of harmony twin lead guitars. Their sound blended progressive rock with elements of folk and classical music, creating a unique and melodic hard rock style. They achieved strong critical and commercial success during the decade, influencing numerous later hard rock and metal bands.",
+    "members_70s": [
+      "Martin Turner",
+      "Steve Upton",
+      "Andy Powell",
+      "Ted Turner",
+      "Laurie Wisefield"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wishbone Ash",
+        "year": 1970
+      },
+      {
+        "title": "Pilgrimage",
+        "year": 1971
+      },
+      {
+        "title": "Argus",
+        "year": 1972
+      },
+      {
+        "title": "Wishbone Four",
+        "year": 1973
+      },
+      {
+        "title": "There's the Rub",
+        "year": 1974
+      },
+      {
+        "title": "New England",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Phoenix",
+      "Lullaby",
+      "The King Will Come",
+      "Warrior",
+      "Throw Down the Sword",
+      "Blowin' Free",
+      "Rock 'n' Roll Widow",
+      "F.U.B.B."
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band formed after they couldn't decide between two guitarists at an audition and hired them both.",
+      "Melody Maker described their guitar team as the most interesting since Jeff Beck and Jimmy Page in the Yardbirds."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wishbone_Ash",
+    "youtube_search": "Wishbone Ash The King Will Come",
+    "tags": [
+      "hard-rock",
+      "progressive-rock",
+      "twin-guitars"
+    ]
+  },
+  {
+    "id": "zz-top",
+    "name": "ZZ Top",
+    "genre": "hard-rock",
+    "subgenre": "boogie rock",
+    "origin": "Houston, Texas, US",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "ZZ Top defined 1970s boogie rock with a sound based on Billy Gibbons' heavy blues style and a driving rhythm section. Throughout the decade, they built a massive North American following for their high-impact live shows and sly, humorous lyrics. By the late 70s, they established their iconic image and were transitioning towards a more modern, commercial sound.",
+    "members_70s": [
+      "Billy Gibbons",
+      "Frank Beard",
+      "Dusty Hill",
+      "Lanier Greig",
+      "Dan Mitchell",
+      "Billy Ethridge"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "ZZ Top's First Album",
+        "year": 1971
+      },
+      {
+        "title": "Rio Grande Mud",
+        "year": 1972
+      },
+      {
+        "title": "Tres Hombres",
+        "year": 1973
+      },
+      {
+        "title": "Fandango!",
+        "year": 1975
+      },
+      {
+        "title": "Tejas",
+        "year": 1976
+      },
+      {
+        "title": "Degüello",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Brown Sugar",
+      "Francine",
+      "Just Got Paid",
+      "La Grange",
+      "Beer Drinkers & Hell Raisers",
+      "Tush",
+      "Blue Jean Blues",
+      "Cheap Sunglasses"
+    ],
+    "mood": [
+      "rebellious",
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Dusty Hill once spent three months working at DFW Airport during a hiatus to 'feel normal.'",
+      "The band performed their first concert together at a Knights of Columbus Hall in Beaumont, Texas in 1970."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ZZ_Top",
+    "youtube_search": "ZZ Top La Grange",
+    "tags": [
+      "hard-rock",
+      "boogie-rock",
+      "texas-blues"
+    ]
+  }
+]

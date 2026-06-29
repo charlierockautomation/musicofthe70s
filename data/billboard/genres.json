@@ -1,0 +1,202 @@
+[
+  {
+    "id": "disco",
+    "name": "Disco",
+    "description": "Disco is a genre of dance music and a subculture that emerged in the late 1960s from the urban nightlife scene in the United States\n. Its sound is characterized by four-on-the-floor beats, syncopated basslines, and lush orchestral arrangements involving strings and horns\n.",
+    "peak_years": "1975-1979",
+    "defining_characteristics": [
+      "Four-on-the-floor beats",
+      "Syncopated basslines",
+      "Lush orchestral string and horn sections"
+    ],
+    "key_artists": [
+      "Donna Summer",
+      "Bee Gees"
+    ],
+    "landmark_songs": [
+      "I Feel Love",
+      "Stayin' Alive"
+    ],
+    "cultural_context": "Disco emerged as a reaction to rock dominance and provided a liberatory space for the sexual revolution and queer self-realization\n.",
+    "seo_keywords": [
+      "dance subculture",
+      "Studio 54",
+      "disco hits"
+    ]
+  },
+  {
+    "id": "classic-rock",
+    "name": "Classic Rock",
+    "description": "Classic rock is a radio format that developed from the album-oriented rock (AOR) format in the early-to-mid 1980s\n. It primarily focuses on commercially successful blues rock and hard rock acts from the mid-1960s through the late 1970s\n.",
+    "peak_years": "1980s-1990s",
+    "defining_characteristics": [
+      "Focus on the 'album era' of rock",
+      "Male homosocial paradigm of musicianship",
+      "Emphasis on the guitar as the primary instrument"
+    ],
+    "key_artists": [
+      "Fleetwood Mac",
+      "The Rolling Stones"
+    ],
+    "landmark_songs": [
+      "(I Can't Get No) Satisfaction",
+      "Miss You"
+    ],
+    "cultural_context": "The format commodified 1960s-1970s Western culture for audiences in a post-baby boomer economy while canonizing a male-centric rock history\n.",
+    "seo_keywords": [
+      "radio formats",
+      "blues rock",
+      "AOR"
+    ]
+  },
+  {
+    "id": "funk",
+    "name": "Funk",
+    "description": "Funk originated in African-American communities in the mid-1960s as a rhythmic, danceable new form of music\n. It deemphasizes melody and chord progressions in favor of a strong, hypnotic rhythmic groove based on an electric bassline\n.",
+    "peak_years": "1970s",
+    "defining_characteristics": [
+      "Heavy emphasis on the first beat ('The One')",
+      "Syncopated basslines and drum patterns",
+      "Percussive 'chicken-scratch' rhythm guitar style"
+    ],
+    "key_artists": [
+      "James Brown",
+      "George Clinton"
+    ],
+    "landmark_songs": [
+      "Papa's Got a Brand New Bag",
+      "Flash Light"
+    ],
+    "cultural_context": "Funk music accompanied protest movements during the Civil Rights era and addressed the socioeconomic challenges faced by the Black working class\n.",
+    "seo_keywords": [
+      "James Brown",
+      "P-Funk",
+      "groove music"
+    ]
+  },
+  {
+    "id": "soul",
+    "name": "Soul",
+    "description": "Soul music is a popular music genre that originated in African-American communities in the late 1950s and early 1960s\n. It primarily combines elements of traditional African-American gospel music, rhythm and blues, and jazz\n.",
+    "peak_years": "1960s",
+    "defining_characteristics": [
+      "Call and response between lead and backing vocalists",
+      "Catchy rhythms stressed by handclaps",
+      "Tense and emotional vocal delivery"
+    ],
+    "key_artists": [
+      "Aretha Franklin",
+      "Ray Charles"
+    ],
+    "landmark_songs": [
+      "Respect",
+      "I Got a Woman"
+    ],
+    "cultural_context": "Soul music reflected African-American identity and pride, functioning as a vital cultural force during the civil rights movement\n.",
+    "seo_keywords": [
+      "Motown sound",
+      "gospel influences",
+      "R&B music"
+    ]
+  },
+  {
+    "id": "country-rock",
+    "name": "Country Rock",
+    "description": "Country rock is a fusion genre developed by rock musicians who recorded country-flavored songs and country musicians who incorporated rock elements in the late 1960s\n. It blends rock production with country themes, vocal styles, and specific instrumentation\n.",
+    "peak_years": "1970-1976",
+    "defining_characteristics": [
+      "Prominent use of pedal steel guitars",
+      "Blended rock and country vocal harmonies",
+      "Adoption of mainstream commercial production techniques"
+    ],
+    "key_artists": [
+      "The Byrds",
+      "Eagles"
+    ],
+    "landmark_songs": [
+      "Sweetheart of the Rodeo",
+      "Hotel California"
+    ],
+    "cultural_context": "The genre grew from the adoption of mainstream production techniques and the migration of Southern Americans to the Los Angeles music scene\n.",
+    "seo_keywords": [
+      "pedal steel",
+      "California rock",
+      "country fusion"
+    ]
+  },
+  {
+    "id": "punk",
+    "name": "Punk Rock",
+    "description": "Punk rock emerged in the mid-1970s as a rejection of the overproduction and corporate nature of mainstream arena rock\n. It features short, fast-paced songs with rough vocals, simple instrumentation, and anti-establishment themes\n.",
+    "peak_years": "1976-1977",
+    "defining_characteristics": [
+      "Do-it-yourself (DIY) ethic",
+      "Short songs with fast tempos",
+      "Distorted power chords and abrasive vocals"
+    ],
+    "key_artists": [
+      "The Ramones",
+      "Sex Pistols"
+    ],
+    "landmark_songs": [
+      "Blitzkrieg Bop",
+      "Anarchy in the U.K."
+    ],
+    "cultural_context": "Punk emerged as a cultural 'Year Zero' that discarded nostalgia in favor of a nihilistic rebellion against societal norms\n.",
+    "seo_keywords": [
+      "punk rebellion",
+      "DIY music",
+      "CBGB"
+    ]
+  },
+  {
+    "id": "soft-rock",
+    "name": "Soft Rock",
+    "description": "Soft rock is a form of rock music originating in the late 1960s that smoothed over the edges of singer-songwriter and pop rock\n. It relies on simple, melodic songs supported by big, lush production values\n.",
+    "peak_years": "1975-1979",
+    "defining_characteristics": [
+      "Simple, melodic songwriting",
+      "Big, lush studio production",
+      "Focus on acoustic-based pop-rock fusion"
+    ],
+    "key_artists": [
+      "The Carpenters",
+      "Bread"
+    ],
+    "landmark_songs": [
+      "(They Long to Be) Close to You",
+      "Make It with You"
+    ],
+    "cultural_context": "Soft rock defined the 'mellow' radio landscape of the 1970s and eventually metamorphosed into the adult contemporary format\n.",
+    "seo_keywords": [
+      "yacht rock",
+      "mellow hits",
+      "70s radio"
+    ]
+  },
+  {
+    "id": "prog-rock",
+    "name": "Progressive Rock",
+    "description": "Progressive rock is a broad genre that developed in the late 1960s, abandoning pop traditions for techniques associated with jazz, folk, or classical music\n. It treats music as an art form, emphasizing technological innovation and poetic lyricism\n.",
+    "peak_years": "1971-1976",
+    "defining_characteristics": [
+      "Extended compositions and long instrumental solos",
+      "Fantastic and poetic lyrical themes",
+      "Obsessive dedication to technical virtuosity"
+    ],
+    "key_artists": [
+      "Pink Floyd",
+      "Yes"
+    ],
+    "landmark_songs": [
+      "Roundabout",
+      "Tubular Bells"
+    ],
+    "cultural_context": "The genre represented a maturation of rock into a serious listening experience created primarily by educated, middle-class males from Southern England\n.",
+    "seo_keywords": [
+      "art rock",
+      "concept albums",
+      "musical virtuosity"
+    ]
+  }
+]

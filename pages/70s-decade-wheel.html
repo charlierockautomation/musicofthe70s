@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>70s Decade Wheel | Spin Through Every Year of 70s Music</title>
+  <meta name="description" content="Spin the wheel and land on a year from 1970 to 1979. Discover that year's biggest hit, top artists, and defining moment in music history.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/70s-decade-wheel.html">
+
+  <meta property="og:title" content="70s Decade Wheel | Spin Through Every Year of 70s Music">
+  <meta property="og:description" content="Spin the wheel and land on a year from 1970 to 1979. Discover that year's biggest hit, top artists, and defining moment in music history.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/70s-decade-wheel.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "70s Decade Wheel",
+    "url": "https://musicofthe70s.net/pages/70s-decade-wheel.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "Spin a wheel to land on a year from 1970–1979 and discover that year's biggest hit and musical significance.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "70s Decade Wheel", "item": "https://musicofthe70s.net/pages/70s-decade-wheel.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › 70s Decade Wheel</nav>
+      <div class="page-intro">
+        <h1>70s Decade Wheel</h1>
+        <p>Give it a spin and land on any year from 1970 to 1979 — then explore what made that year unforgettable in music.</p>
+      </div>
+
+      <div class="tool-stage">
+        <div id="loading">
+          <div class="spinner" role="status" aria-live="polite"></div>
+          <p class="loading-text">Loading the decade…</p>
+        </div>
+
+        <div id="error" class="error-text hidden"></div>
+
+        <div id="tool" class="hidden">
+          <div class="wheel-wrap">
+            <div class="wheel-pointer"></div>
+            <svg id="wheel" class="wheel" viewBox="0 0 100 100" role="img" aria-label="Wheel of years 1970 to 1979"></svg>
+            <div class="wheel-center"></div>
+          </div>
+          <button id="spinBtn" class="btn-primary">Spin the Wheel</button>
+
+          <div id="result" class="result hidden" aria-live="polite" style="margin-top:2rem;">
+            <h2 class="song-title" id="rYear"></h2>
+            <p class="meta">#1 Song of the Year</p>
+            <h3 id="rSong" style="color:var(--text-primary)"></h3>
+            <p class="artist-name" id="rArtist"></p>
+            <p id="rFlavour" style="max-width:560px;margin:1rem auto;color:var(--text-primary);"></p>
+            <div class="actions">
+              <a id="rYouTube" class="btn-yt" target="_blank" rel="noopener noreferrer">▶ Search on YouTube</a>
+            </div>
+            <div style="margin-top:1.25rem;">
+              <button id="againBtn" class="btn-secondary">Spin Again</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>Ten Years, Ten Worlds of Sound</h2>
+      <p>What makes the <strong>music of the 70s</strong> so endlessly fascinating is how much it changed from one year to the next. The decade that opened with The Beatles disbanding and Motown in full swing closed with disco backlash, punk in full cry and Michael Jackson hinting at the pop future to come. Spin through the years and you can practically hear the culture shifting.</p>
+      <p>Each year had its own flavour. 1971 belonged to the singer-songwriters; 1973 to the prog visionaries; 1975 to disco's mainstream breakthrough; 1977 to <em>Saturday Night Fever</em> and the rise of punk all at once. The <strong>70s songs</strong> that topped the charts tell the story of a decade in constant motion, and the <strong>70s decade</strong> rewards anyone curious enough to explore it year by year.</p>
+      <p>So take a spin. Whether you land on a year you lived through or one you only know through the records, there's always a new thread of <strong>70s rock music</strong>, soul, funk or disco waiting to be pulled.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+  (function () {
+    const loadingEl = document.getElementById('loading');
+    const errorEl = document.getElementById('error');
+    const toolEl = document.getElementById('tool');
+    const spinBtn = document.getElementById('spinBtn');
+    const againBtn = document.getElementById('againBtn');
+    const resultEl = document.getElementById('result');
+    const wheel = document.getElementById('wheel');
+
+    const YEARS = ['1970','1971','1972','1973','1974','1975','1976','1977','1978','1979'];
+    const COLORS = ['#f5a623','#e8956d','#d4841a','#c8742a','#e0a93c','#cf8f33','#f0b14a','#dd9438','#c87f1f','#eaa040'];
+    const SUMMARIES = {
+      '1970': "The Beatles released their final album. Simon & Garfunkel, James Brown, and the Motown machine all dominated the charts simultaneously.",
+      '1971': "Soul and singer-songwriters ruled. Marvin Gaye's What's Going On changed what R&B could say. Carole King's Tapestry became one of the best-selling albums of all time.",
+      '1972': "The glam era arrived with Bowie and T.Rex. Don McLean's American Pie spent weeks at #1. Neil Young and the Laurel Canyon sound defined the year's emotional tone.",
+      '1973': "Prog rock peaked with Yes, ELP, and Genesis releasing landmark albums. Pink Floyd's Dark Side of the Moon entered the chart and barely left for the rest of the decade.",
+      '1974': "Philadelphia soul and early disco started their takeover. ABBA won Eurovision and changed pop forever. Stevie Wonder was untouchable.",
+      '1975': "Disco broke mainstream. Earth Wind & Fire, the Eagles, and Fleetwood Mac all released career-defining work in the same 12 months.",
+      '1976': "Punk exploded in the UK. The Sex Pistols signed to EMI. On the US charts, disco and soft rock shared dominance while classic rock sold out arenas.",
+      '1977': "Saturday Night Fever changed everything. The Bee Gees became the biggest act on earth. Meanwhile Elvis died, marking the end of an era that predated the 70s.",
+      '1978': "Grease hit cinemas. Blondie, The Clash, and The Police were rewriting what rock could sound like. Disco filled every dancefloor in every city on earth.",
+      '1979': "The decade went out loud. Pink Floyd's The Wall, Led Zeppelin's In Through the Out Door, and Michael Jackson's Off the Wall all released. Disco's backlash began, and a new decade loomed."
+    };
+
+    let yearEnd = null;
+    let currentRotation = 0;
+    let spinning = false;
+
+    function buildWheel() {
+      const seg = 360 / YEARS.length;
+      let svg = '';
+      YEARS.forEach((yr, i) => {
+        const a0 = (i * seg - 90) * Math.PI / 180;
+        const a1 = ((i + 1) * seg - 90) * Math.PI / 180;
+        const x0 = 50 + 50 * Math.cos(a0), y0 = 50 + 50 * Math.sin(a0);
+        const x1 = 50 + 50 * Math.cos(a1), y1 = 50 + 50 * Math.sin(a1);
+        svg += `<path d="M50,50 L${x0.toFixed(2)},${y0.toFixed(2)} A50,50 0 0,1 ${x1.toFixed(2)},${y1.toFixed(2)} Z" fill="${COLORS[i]}"/>`;
+        const mid = (a0 + a1) / 2;
+        const tx = 50 + 32 * Math.cos(mid), ty = 50 + 32 * Math.sin(mid);
+        const rot = (i * seg) + seg / 2;
+        svg += `<text x="${tx.toFixed(2)}" y="${ty.toFixed(2)}" fill="#1a1a2e" font-size="5" font-weight="700" text-anchor="middle" dominant-baseline="middle" transform="rotate(${rot.toFixed(1)} ${tx.toFixed(2)} ${ty.toFixed(2)})">${yr}</text>`;
+      });
+      wheel.innerHTML = svg;
+    }
+
+    function spin() {
+      if (spinning) return;
+      spinning = true;
+      spinBtn.disabled = true;
+      resultEl.classList.add('hidden');
+
+      const seg = 360 / YEARS.length;
+      const landIndex = Math.floor(Math.random() * YEARS.length);
+      // Pointer at top (12 o'clock). Segment i center sits at angle (i*seg + seg/2)
+      // measured clockwise from the top. To bring it to the top we rotate by the
+      // negative of that, plus full spins.
+      const targetAngle = 360 * 5 + (360 - (landIndex * seg + seg / 2));
+      currentRotation += targetAngle;
+      wheel.style.transform = `rotate(${currentRotation}deg)`;
+
+      setTimeout(() => {
+        spinning = false;
+        spinBtn.disabled = false;
+        showYear(YEARS[landIndex]);
+      }, 4100);
+    }
+
+    function showYear(year) {
+      const entries = yearEnd[year] || [];
+      const top = entries.find((e) => e.rank === 1) || entries[0] || {};
+      document.getElementById('rYear').textContent = year;
+      document.getElementById('rSong').textContent = top.title || '—';
+      document.getElementById('rArtist').textContent = top.artist ? `by ${top.artist}` : '';
+      document.getElementById('rFlavour').textContent = SUMMARIES[year] || '';
+      document.getElementById('rYouTube').href = youtubeSearchURL(`${top.title || ''} ${top.artist || ''}`.trim());
+      resultEl.classList.remove('result'); void resultEl.offsetWidth; resultEl.classList.add('result');
+      resultEl.classList.remove('hidden');
+    }
+
+    spinBtn.addEventListener('click', spin);
+    againBtn.addEventListener('click', spin);
+
+    (async function init() {
+      try {
+        yearEnd = await loadJSON('/data/billboard/year_end_hot100.json');
+        buildWheel();
+        loadingEl.classList.add('hidden');
+        toolEl.classList.remove('hidden');
+      } catch (err) {
+        console.error('Decade wheel failed to load data:', err);
+        loadingEl.classList.add('hidden');
+        errorEl.textContent = 'Sorry — we couldn\'t load the year-end chart data right now. Please refresh the page to try again.';
+        errorEl.classList.remove('hidden');
+      }
+    })();
+  })();
+  </script>
+</body>
+</html>

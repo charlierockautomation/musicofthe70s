@@ -1,0 +1,4036 @@
+[
+  {
+    "id": "10cc",
+    "name": "10cc",
+    "genre": "prog-rock",
+    "subgenre": "art-rock",
+    "origin": "Stockport, England",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "10cc developed a sophisticated progressive pop sound in the 1970s, characterized by witty lyrics and innovative studio production. The band featured four multi-instrumentalists who wrote and produced together at their own Strawberry Studios. They achieved significant success with a string of top-ten albums and experimental hit singles like 'I'm Not in Love.'",
+    "members_70s": [
+      "Graham Gouldman",
+      "Eric Stewart",
+      "Kevin Godley",
+      "Lol Creme",
+      "Paul Burgess",
+      "Rick Fenn",
+      "Stuart Tosh"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "10cc",
+        "year": 1973
+      },
+      {
+        "title": "Sheet Music",
+        "year": 1974
+      },
+      {
+        "title": "The Original Soundtrack",
+        "year": 1975
+      },
+      {
+        "title": "How Dare You!",
+        "year": 1976
+      },
+      {
+        "title": "Deceptive Bends",
+        "year": 1977
+      },
+      {
+        "title": "Bloody Tourists",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Rubber Bullets",
+      "I'm Not in Love",
+      "Life Is a Minestrone",
+      "The Things We Do for Love",
+      "Dreadlock Holiday"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was suggested by Jonathan King.",
+      "They co-produced and played on two Neil Sedaka albums in the early 1970s.",
+      "Godley and Creme left in 1976 to develop 'The Gizmo,' an electronic guitar effect device."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/10cc",
+    "youtube_search": "10cc I'm Not in Love",
+    "tags": [
+      "prog-rock",
+      "art-rock",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "ange",
+    "name": "Ange",
+    "genre": "prog-rock",
+    "subgenre": "french-prog",
+    "origin": "Belfort, Bourgogne-Franche-Comté, France",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Ange emerged as France's premiere progressive rock band in the 1970s, characterized by theatrical and poetic music inspired by medieval texts and fantasy. Their sound featured unique keyboard textures generated from a Viscount organ through modified Hammond reverb. During their mid-70s peak, they relentlessly toured Europe and performed over 100 concerts in England.",
+    "members_70s": [
+      "Christian Décamps",
+      "Francis Décamps",
+      "Jean-Michel Brézovar",
+      "Daniel Haas",
+      "Gérard Jelsch",
+      "Guénolé Biger",
+      "Jean-Pierre Guichard"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Caricatures",
+        "year": 1972
+      },
+      {
+        "title": "Le Cimetière des arlequins",
+        "year": 1973
+      },
+      {
+        "title": "Au-delà du délire",
+        "year": 1974
+      },
+      {
+        "title": "Émile Jacotey",
+        "year": 1975
+      },
+      {
+        "title": "Par les fils de Mandrin",
+        "year": 1976
+      },
+      {
+        "title": "Guet-apens",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Ces gens-là",
+      "Caricatures",
+      "Dignité",
+      "Au-delà du délire",
+      "Sur la trace des fées",
+      "Guet-apens"
+    ],
+    "mood": [
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band opened for Genesis at the Reading Festival in 1973 before a crowd of 30,000.",
+      "Though they released an English version of Par les fils de Mandrin, it sold poorly and struggled to break into the British market."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ange_(band)",
+    "youtube_search": "Ange Ces gens-là",
+    "tags": [
+      "prog-rock",
+      "french-prog",
+      "theatrical-prog"
+    ]
+  },
+  {
+    "id": "argent",
+    "name": "Argent",
+    "genre": "prog-rock",
+    "subgenre": "art-rock",
+    "origin": "London, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Formed by former Zombies keyboardist Rod Argent, the band blended progressive rock complexity with heavier rhythms and strong pop melodies. Their mid-70s sound took an even more progressive and jazz-fusion turn on later albums like Circus. They are best remembered for high-energy anthems that achieved major chart success in both the UK and US.",
+    "members_70s": [
+      "Rod Argent",
+      "Russ Ballard",
+      "Jim Rodford",
+      "Bob Henrit",
+      "John Verity",
+      "John Grimaldi"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Argent",
+        "year": 1970
+      },
+      {
+        "title": "Ring of Hands",
+        "year": 1971
+      },
+      {
+        "title": "All Together Now",
+        "year": 1972
+      },
+      {
+        "title": "In Deep",
+        "year": 1973
+      },
+      {
+        "title": "Nexus",
+        "year": 1974
+      },
+      {
+        "title": "Circus",
+        "year": 1975
+      },
+      {
+        "title": "Counterpoints",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Hold Your Head Up",
+      "God Gave Rock and Roll to You",
+      "Liar",
+      "Tragedy",
+      "The Coming of Kohoutek",
+      "It's Only Money"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The single 'Hold Your Head Up' reached No. 5 in both the US and UK and sold over one million copies.",
+      "Guitarist Russ Ballard wrote 'Liar,' which became a massive hit for Three Dog Night in 1971."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Argent_(band)",
+    "youtube_search": "Argent Hold Your Head Up",
+    "tags": [
+      "prog-rock",
+      "art-rock",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "banco-del-mutuo-soccorso",
+    "name": "Banco del Mutuo Soccorso",
+    "genre": "prog-rock",
+    "subgenre": "italian-prog",
+    "origin": "Rome, Italy",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Banco del Mutuo Soccorso was a pillar of the 1970s Italian progressive rock scene, known for the complex keyboard interplay of the Nocenzi brothers. Their sound balanced electronic and acoustic instruments, blending rock, jazz, and classical music with the operatic vocals of Francesco Di Giacomo. They achieved international notoriety by signing with Manticore Records, alongside Premiata Forneria Marconi.",
+    "members_70s": [
+      "Vittorio Nocenzi",
+      "Gianni Nocenzi",
+      "Francesco Di Giacomo",
+      "Rodolfo Maltese",
+      "Renato D'Angelo",
+      "Pierluigi Calderoni",
+      "Marcello Todaro",
+      "Gianni Colajacomo"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Banco del Mutuo Soccorso",
+        "year": 1972
+      },
+      {
+        "title": "Darwin!",
+        "year": 1972
+      },
+      {
+        "title": "Io sono nato libero",
+        "year": 1973
+      },
+      {
+        "title": "Banco",
+        "year": 1975
+      },
+      {
+        "title": "Garofano rosso",
+        "year": 1976
+      },
+      {
+        "title": "Come in un'ultima cena",
+        "year": 1976
+      },
+      {
+        "title": "...di terra",
+        "year": 1978
+      },
+      {
+        "title": "Canto di primavera",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "R.I.P. (Requiescant in pace)",
+      "Metamorfosi",
+      "Il giardino del mago",
+      "Non mi rompete",
+      "L'evoluzione",
+      "Canto di primavera"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The cover of their eponymous 1972 debut was uniquely shaped like a terracotta piggy bank.",
+      "Their 1972 album Darwin! was the group's first concept album, focused on the theory of the evolution of species."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banco_del_Mutuo_Soccorso",
+    "youtube_search": "Banco del Mutuo Soccorso Non mi rompete",
+    "tags": [
+      "prog-rock",
+      "italian-prog",
+      "symphonic-prog"
+    ]
+  },
+  {
+    "id": "barclay-james-harvest",
+    "name": "Barclay James Harvest",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Oldham, England",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "During the 1970s, Barclay James Harvest specialized in a melodic, symphonic style of progressive rock often featuring heavy use of the Mellotron. They were pioneers in combining a rock band with a full orchestra for live performances and studio recordings. Despite lukewarm UK critical reception, they built a massive following in mainland Europe, particularly Germany.",
+    "members_70s": [
+      "John Lees",
+      "Les Holroyd",
+      "Stuart 'Woolly' Wolstenholme",
+      "Mel Pritchard"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Barclay James Harvest",
+        "year": 1970
+      },
+      {
+        "title": "Once Again",
+        "year": 1971
+      },
+      {
+        "title": "Barclay James Harvest and Other Short Stories",
+        "year": 1971
+      },
+      {
+        "title": "Baby James Harvest",
+        "year": 1972
+      },
+      {
+        "title": "Everyone Is Everybody Else",
+        "year": 1974
+      },
+      {
+        "title": "Time Honoured Ghosts",
+        "year": 1975
+      },
+      {
+        "title": "Octoberon",
+        "year": 1976
+      },
+      {
+        "title": "Gone to Earth",
+        "year": 1977
+      },
+      {
+        "title": "XII",
+        "year": 1978
+      },
+      {
+        "title": "Eyes of the Universe",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Mocking Bird",
+      "Hymn",
+      "Poor Man's Moody Blues",
+      "Child of the Universe",
+      "Titles"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was chosen by drawing random words out of a hat.",
+      "They once released a single under the pseudonym 'Bombadil' in 1972.",
+      "Woolly Wolstenholme left in 1979 to pursue farming after the album XII."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barclay_James_Harvest",
+    "youtube_search": "Barclay James Harvest Mocking Bird",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "brand-x",
+    "name": "Brand X",
+    "genre": "prog-rock",
+    "subgenre": "jazz-rock",
+    "origin": "London, England, UK",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Brand X was a premiere British jazz fusion ensemble characterized by intricate instrumental interplay and technically demanding compositions. The band frequently featured Genesis drummer Phil Collins, whose participation helped the group bridge the gap between progressive rock and the American jazz fusion market. During the late 1970s, they famously operated with two distinct lineups to satisfy label demands for more commercial material.",
+    "members_70s": [
+      "John Goodsall",
+      "Percy Jones",
+      "Robin Lumley",
+      "Phil Collins",
+      "Morris Pert",
+      "Kenwood Dennard",
+      "J. Peter Robinson",
+      "Chuck Burgi",
+      "Mike Clark",
+      "John Giblin"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Unorthodox Behaviour",
+        "year": 1976
+      },
+      {
+        "title": "Moroccan Roll",
+        "year": 1977
+      },
+      {
+        "title": "Livestock",
+        "year": 1977
+      },
+      {
+        "title": "Masques",
+        "year": 1978
+      },
+      {
+        "title": "Product",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Nuclear Burn",
+      "Euthanasia Waltz",
+      "Malaga Virgen",
+      "Don't Make Waves",
+      "Macrocosm",
+      "And So to F..."
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was a placeholder used by an A&R man to track their activity on the studio calendar.",
+      "Their 1977 live album Livestock won the 'Best Live Recording' award from Melody Maker."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brand_X",
+    "youtube_search": "Brand X Nuclear Burn",
+    "tags": [
+      "prog-rock",
+      "jazz-fusion",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "camel",
+    "name": "Camel",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Guildford, Surrey, England",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Camel became a standard-bearer for melodic symphonic prog in the 1970s, noted for Andrew Latimer's fluid guitar work and intricate arrangements. Their 1975 instrumental concept album, The Snow Goose, brought them significant acclaim and a prestigious performance with the London Symphony Orchestra. Though often associated with the Canterbury scene, their sound remained firmly rooted in structured, thematic progressive rock.",
+    "members_70s": [
+      "Andrew Latimer",
+      "Andy Ward",
+      "Peter Bardens",
+      "Doug Ferguson",
+      "Mel Collins",
+      "Richard Sinclair",
+      "Dave Sinclair",
+      "Jan Schelhaas",
+      "Kit Watkins",
+      "Colin Bass"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Camel",
+        "year": 1973
+      },
+      {
+        "title": "Mirage",
+        "year": 1974
+      },
+      {
+        "title": "The Snow Goose",
+        "year": 1975
+      },
+      {
+        "title": "Moonmadness",
+        "year": 1976
+      },
+      {
+        "title": "Rain Dances",
+        "year": 1977
+      },
+      {
+        "title": "Breathless",
+        "year": 1978
+      },
+      {
+        "title": "I Can See Your House from Here",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Lady Fantasy",
+      "The Snow Goose",
+      "Rhayader",
+      "Lunar Sea",
+      "Never Let Go"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The Snow Goose was titled after a short story by Paul Gallico, which led to a copyright infringement lawsuit.",
+      "Bassist Doug Ferguson left in 1977 and later became a property developer.",
+      "The cover of I Can See Your House from Here features a manipulated image of a crucified astronaut."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Camel_(band)",
+    "youtube_search": "Camel Lady Fantasy",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "can",
+    "name": "Can",
+    "genre": "prog-rock",
+    "subgenre": "krautrock",
+    "origin": "Cologne, West Germany",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Can were pioneers of the German Krautrock scene, blending avant-garde, jazz, and repetitive funk rhythms into a highly influential sound. Their 1970s work, particularly with vocalist Damo Suzuki, emphasized 'instant compositions' and collective improvisation. The band's rhythm-heavy approach and tape-editing techniques anticipated various modern genres like post-punk and ambient jungle.",
+    "members_70s": [
+      "Holger Czukay",
+      "Irmin Schmidt",
+      "Michael Karoli",
+      "Jaki Liebezeit",
+      "Damo Suzuki",
+      "Malcolm Mooney",
+      "Rosko Gee",
+      "Rebop Kwaku Baah"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Soundtracks",
+        "year": 1970
+      },
+      {
+        "title": "Tago Mago",
+        "year": 1971
+      },
+      {
+        "title": "Ege Bamyasi",
+        "year": 1972
+      },
+      {
+        "title": "Future Days",
+        "year": 1973
+      },
+      {
+        "title": "Soon Over Babaluma",
+        "year": 1974
+      },
+      {
+        "title": "Landed",
+        "year": 1975
+      },
+      {
+        "title": "Flow Motion",
+        "year": 1976
+      },
+      {
+        "title": "Saw Delight",
+        "year": 1977
+      },
+      {
+        "title": "Out of Reach",
+        "year": 1978
+      },
+      {
+        "title": "Can",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Mother Sky",
+      "Spoon",
+      "Vitamin C",
+      "I Want More",
+      "Halleluhwah"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Founding members Czukay and Schmidt were both pupils of the composer Karlheinz Stockhausen.",
+      "Damo Suzuki left the band in 1973 to marry and become a Jehovah's Witness.",
+      "The single 'I Want More' was an unexpected commercial success in 1976."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Can_(band)",
+    "youtube_search": "Can Vitamin C",
+    "tags": [
+      "prog-rock",
+      "krautrock",
+      "german-prog"
+    ]
+  },
+  {
+    "id": "caravan",
+    "name": "Caravan",
+    "genre": "prog-rock",
+    "subgenre": "canterbury",
+    "origin": "Canterbury, Kent, England",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Caravan were central to the Canterbury scene, merging jazz-inflected progressive rock with whimsical, quintessentially English lyrics. Their definitive 1971 album, In the Land of Grey and Pink, features David Sinclair’s signature 'fuzztone' organ sound. Over the 1970s, the band’s sound shifted from sprawling jazz-rock epics to more melodic, pop-influenced arrangements.",
+    "members_70s": [
+      "Pye Hastings",
+      "Richard Coughlan",
+      "David Sinclair",
+      "Richard Sinclair",
+      "Steve Miller",
+      "Geoffrey Richardson",
+      "John G. Perry",
+      "Mike Wedgwood",
+      "Jan Schelhaas",
+      "Dek Messecar"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "If I Could Do It All Over Again, I'd Do It All Over You",
+        "year": 1970
+      },
+      {
+        "title": "In the Land of Grey and Pink",
+        "year": 1971
+      },
+      {
+        "title": "Waterloo Lily",
+        "year": 1972
+      },
+      {
+        "title": "For Girls Who Grow Plump in the Night",
+        "year": 1973
+      },
+      {
+        "title": "Caravan and the New Symphonia",
+        "year": 1974
+      },
+      {
+        "title": "Cunning Stunts",
+        "year": 1975
+      },
+      {
+        "title": "Blind Dog at St. Dunstans",
+        "year": 1976
+      },
+      {
+        "title": "Better by Far",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Nine Feet Underground",
+      "Golf Girl",
+      "Winter Wine",
+      "For Richard",
+      "Memory Lain, Hugh / Headloss"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band shared a common history with Soft Machine, as both emerged from the Canterbury group The Wilde Flowers.",
+      "They borrowed Soft Machine's PA system during their early days while that band was on tour with Jimi Hendrix.",
+      "The album title Cunning Stunts is a spoonerism."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caravan_(band)",
+    "youtube_search": "Caravan Nine Feet Underground",
+    "tags": [
+      "prog-rock",
+      "canterbury",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum",
+    "genre": "prog-rock",
+    "subgenre": "jazz-rock",
+    "origin": "London, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Colosseum was a pioneering English band that fused jazz, rock, and blues with sophisticated improvisation. Led by drummer Jon Hiseman, the group was instrumental in making jazz-rock commercially acceptable in the UK market. Although the original lineup disbanded in 1971, the group's legacy continued through influential spinoffs like Colosseum II and Greenslade.",
+    "members_70s": [
+      "Jon Hiseman",
+      "Dick Heckstall-Smith",
+      "Dave Greenslade",
+      "Dave 'Clem' Clempson",
+      "Mark Clarke",
+      "Chris Farlowe",
+      "Louis Cennamo",
+      "Tony Reeves"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Grass Is Greener",
+        "year": 1970
+      },
+      {
+        "title": "Daughter of Time",
+        "year": 1970
+      },
+      {
+        "title": "Colosseum Live",
+        "year": 1971
+      }
+    ],
+    "key_songs_70s": [
+      "The Kettle",
+      "Walking in the Park",
+      "The Daughter of Time",
+      "Lost Angeles",
+      "Bring Out Your Dead",
+      "Rope Ladder to the Moon"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "Founding members Jon Hiseman and Dick Heckstall-Smith met while playing in John Mayall's Bluesbreakers.",
+      "The band's second album, Valentyne Suite, was the first release on Philips' iconic Vertigo label."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colosseum_(band)",
+    "youtube_search": "Colosseum The Kettle",
+    "tags": [
+      "prog-rock",
+      "jazz-rock",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "curved-air",
+    "name": "Curved Air",
+    "genre": "prog-rock",
+    "subgenre": "eclectic-prog",
+    "origin": "London, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Curved Air utilized a unique blend of classical, folk, and electronic music fronted by the operatic vocals of Sonja Kristina. In the early 1970s, they were notable for featuring prominent electric violin work from Darryl Way and later Eddie Jobson. The group achieved significant UK chart success with their first three albums and the hit single 'Back Street Luv.'",
+    "members_70s": [
+      "Sonja Kristina",
+      "Darryl Way",
+      "Francis Monkman",
+      "Florian Pilkington-Miksa",
+      "Rob Martin",
+      "Ian Eyre",
+      "Mike Wedgwood",
+      "Kirby Gregory",
+      "Eddie Jobson",
+      "Jim Russell",
+      "Phil Kohn",
+      "Stewart Copeland",
+      "Mick Jacques",
+      "Tony Reeves",
+      "Alex Richman"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Air Conditioning",
+        "year": 1970
+      },
+      {
+        "title": "Second Album",
+        "year": 1971
+      },
+      {
+        "title": "Phantasmagoria",
+        "year": 1972
+      },
+      {
+        "title": "Air Cut",
+        "year": 1973
+      },
+      {
+        "title": "Curved Air – Live",
+        "year": 1975
+      },
+      {
+        "title": "Midnight Wire",
+        "year": 1975
+      },
+      {
+        "title": "Airborne",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Back Street Luv",
+      "It Happened Today",
+      "Vivaldi",
+      "Marie Antoinette",
+      "Metamorphosis"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band was named after the Terry Riley album A Rainbow in Curved Air.",
+      "Their debut album, Air Conditioning, was the first commercially available LP picture disc in the UK.",
+      "Drummer Stewart Copeland joined in 1975 and later married Sonja Kristina."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curved_Air",
+    "youtube_search": "Curved Air Back Street Luv",
+    "tags": [
+      "prog-rock",
+      "eclectic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "electric-light-orchestra",
+    "name": "Electric Light Orchestra",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Birmingham, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "ELO was formed with the goal of combining modern rock with orchestral instruments to pick up 'where the Beatles left off.' Led by Jeff Lynne, they evolved from experimental symphonic rock into a globally successful group characterized by lush arrangements and futuristic iconography. During the mid-to-late 1970s, they produced a string of multi-platinum albums and top-ten hits.",
+    "members_70s": [
+      "Jeff Lynne",
+      "Roy Wood",
+      "Bev Bevan",
+      "Richard Tandy",
+      "Bill Hunt",
+      "Wilfred Gibson",
+      "Mike Edwards",
+      "Colin Walker",
+      "Mik Kaminski",
+      "Mike de Albuquerque",
+      "Kelly Groucutt",
+      "Hugh McDowell",
+      "Melvyn Gale"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Electric Light Orchestra",
+        "year": 1971
+      },
+      {
+        "title": "ELO 2",
+        "year": 1973
+      },
+      {
+        "title": "On the Third Day",
+        "year": 1973
+      },
+      {
+        "title": "Eldorado",
+        "year": 1974
+      },
+      {
+        "title": "Face the Music",
+        "year": 1975
+      },
+      {
+        "title": "A New World Record",
+        "year": 1976
+      },
+      {
+        "title": "Out of the Blue",
+        "year": 1977
+      },
+      {
+        "title": "Discovery",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "10538 Overture",
+      "Roll Over Beethoven",
+      "Can't Get It Out of My Head",
+      "Evil Woman",
+      "Mr. Blue Sky",
+      "Telephone Line",
+      "Don't Bring Me Down"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's debut album was released in the US as No Answer because of a misunderstood telephone message.",
+      "Roy Wood left shortly after formation to form the band Wizzard.",
+      "ELO appeared on the US show The Midnight Special more than any other band in its history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Electric_Light_Orchestra",
+    "youtube_search": "Electric Light Orchestra Mr. Blue Sky",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "eloy",
+    "name": "Eloy",
+    "genre": "prog-rock",
+    "subgenre": "space-rock",
+    "origin": "Hannover, West Germany",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Eloy is a seminal German progressive rock band that evolved from hard rock foundations toward a lush, symphonic space-rock sound. Led by guitarist Frank Bornemann, the band gained massive popularity in Germany with their elaborate concept albums like Ocean. Their 1970s work is characterized by atmospheric synthesizers and epic mythological themes, distinct from the contemporary krautrock scene.",
+    "members_70s": [
+      "Frank Bornemann",
+      "Klaus-Peter Matziol",
+      "Detlev Schmidtchen",
+      "Jürgen Rosenthal",
+      "Manfred Wieczorke",
+      "Fritz Randow",
+      "Luitjen Jansen",
+      "Wolfgang Stöcker"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Eloy",
+        "year": 1971
+      },
+      {
+        "title": "Inside",
+        "year": 1973
+      },
+      {
+        "title": "Floating",
+        "year": 1974
+      },
+      {
+        "title": "Power and the Passion",
+        "year": 1975
+      },
+      {
+        "title": "Dawn",
+        "year": 1976
+      },
+      {
+        "title": "Ocean",
+        "year": 1977
+      },
+      {
+        "title": "Silent Cries and Mighty Echoes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Poseidon's Creation",
+      "The Sun-Song",
+      "Floating",
+      "Inside",
+      "Dawn",
+      "Castle in the Air"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name is taken from a futuristic race of humans in H. G. Wells' The Time Machine.",
+      "Their 1977 album Ocean remains their best-known classic symphonic progressive rock work."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eloy_(band)",
+    "youtube_search": "Eloy Poseidon's Creation",
+    "tags": [
+      "prog-rock",
+      "space-rock",
+      "german-prog"
+    ]
+  },
+  {
+    "id": "emerson-lake-and-palmer",
+    "name": "Emerson, Lake & Palmer",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "ELP were one of the most successful and flamboyant progressive rock supergroups of the 1970s. Their sound was defined by Keith Emerson’s virtuoso keyboard displays, including rock adaptations of classical works, and Greg Lake’s acoustic ballads. They were pioneers in the large-scale use of the Moog modular synthesizer in live performance and became a massive arena-filling act.",
+    "members_70s": [
+      "Keith Emerson",
+      "Greg Lake",
+      "Carl Palmer"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Emerson, Lake & Palmer",
+        "year": 1970
+      },
+      {
+        "title": "Tarkus",
+        "year": 1971
+      },
+      {
+        "title": "Pictures at an Exhibition",
+        "year": 1971
+      },
+      {
+        "title": "Trilogy",
+        "year": 1972
+      },
+      {
+        "title": "Brain Salad Surgery",
+        "year": 1973
+      },
+      {
+        "title": "Works Volume 1",
+        "year": 1977
+      },
+      {
+        "title": "Works Volume 2",
+        "year": 1977
+      },
+      {
+        "title": "Love Beach",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Lucky Man",
+      "Tarkus",
+      "Karn Evil 9",
+      "Fanfare for the Common Man",
+      "From the Beginning"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Before choosing their final name, they considered titles like 'Triton' and 'Seahorse.' The band famously fired cannons during their 1970 Isle of Wight performance.",
+      "At their peak, their touring gear required an enormous logistics operation to transport Emerson's 'fortress' of synthesizers."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emerson,Lake%26_Palmer",
+    "youtube_search": "ELP Karn Evil 9",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "focus",
+    "name": "Focus",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Amsterdam, Netherlands",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Focus became the most internationally successful Dutch progressive rock band of the 1970s. Their music was predominantly instrumental, blending jazz fusion and classical influences with Thijs van Leer's signature flute and yodeling. They achieved global recognition with hit singles like 'Hocus Pocus' and 'Sylvia,' showcasing Jan Akkerman's virtuoso guitar work.",
+    "members_70s": [
+      "Thijs van Leer",
+      "Jan Akkerman",
+      "Hans Cleuver",
+      "Martijn Dresden",
+      "Cyril Havermans",
+      "Pierre van der Linden",
+      "Bert Ruiter",
+      "Colin Allen",
+      "David Kemper",
+      "Philip Catherine",
+      "Eef Albers",
+      "P. J. Proby",
+      "Steve Smith"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Focus Plays Focus",
+        "year": 1970
+      },
+      {
+        "title": "Moving Waves",
+        "year": 1971
+      },
+      {
+        "title": "Focus 3",
+        "year": 1972
+      },
+      {
+        "title": "Hamburger Concerto",
+        "year": 1974
+      },
+      {
+        "title": "Mother Focus",
+        "year": 1975
+      },
+      {
+        "title": "Ship of Memories",
+        "year": 1976
+      },
+      {
+        "title": "Focus con Proby",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Hocus Pocus",
+      "Sylvia",
+      "House of the King",
+      "Eruption",
+      "Anonymous II"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Hocus Pocus' was developed through an improvised jam session in 1971.",
+      "They were the first band in a decade to have two concurrent instrumental songs in the UK top 40 in 1973.",
+      "For a time, their popularity in the UK was so great that Polydor's record plant printed nothing but Focus albums for ten days."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Focus_(band)",
+    "youtube_search": "Focus Hocus Pocus",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "dutch-prog"
+    ]
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Godalming, Surrey, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Genesis were pioneers of the 1970s progressive rock movement, known for complex arrangements and Peter Gabriel’s theatrical performances. Albums like Foxtrot and Selling England by the Pound featured expansive suites and intricate instrumental interplay. Following Gabriel's departure in 1975, Phil Collins took over as frontman, leading the band toward a more streamlined sound.",
+    "members_70s": [
+      "Tony Banks",
+      "Mike Rutherford",
+      "Peter Gabriel",
+      "Anthony Phillips",
+      "John Mayhew",
+      "Phil Collins",
+      "Mick Barnard",
+      "Steve Hackett"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Trespass",
+        "year": 1970
+      },
+      {
+        "title": "Nursery Cryme",
+        "year": 1971
+      },
+      {
+        "title": "Foxtrot",
+        "year": 1972
+      },
+      {
+        "title": "Genesis Live",
+        "year": 1973
+      },
+      {
+        "title": "Selling England by the Pound",
+        "year": 1973
+      },
+      {
+        "title": "The Lamb Lies Down on Broadway",
+        "year": 1974
+      },
+      {
+        "title": "A Trick of the Tail",
+        "year": 1976
+      },
+      {
+        "title": "Wind & Wuthering",
+        "year": 1976
+      },
+      {
+        "title": "Seconds Out",
+        "year": 1977
+      },
+      {
+        "title": "...And Then There Were Three...",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "The Knife",
+      "Watcher of the Skies",
+      "Supper's Ready",
+      "I Know What I Like (In Your Wardrobe)",
+      "The Carpet Crawlers",
+      "Follow You Follow Me"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed at Charterhouse School by pupils aged between 15 and 17.",
+      "Their name was provided by pop impresario Jonathan King.",
+      "The 23-minute track 'Supper's Ready' is considered a creative peak and milestone of British group music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Genesis_(band)",
+    "youtube_search": "Genesis Supper's Ready",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "gentle-giant",
+    "name": "Gentle Giant",
+    "genre": "prog-rock",
+    "subgenre": "eclectic-prog",
+    "origin": "Portsmouth, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Gentle Giant were known for creating some of the most sophisticated and complex music in the progressive rock genre. Every member was a multi-instrumentalist, allowing the band to utilize over 40 different instruments in their recordings and live sets. Their 1970s sound blended medieval madrigals and baroque counterpoint with jazz and hard rock.",
+    "members_70s": [
+      "Gary Green",
+      "Kerry Minnear",
+      "Derek Shulman",
+      "Ray Shulman",
+      "Phil Shulman",
+      "John Weathers",
+      "Martin Smith",
+      "Malcolm Mortimore"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Gentle Giant",
+        "year": 1970
+      },
+      {
+        "title": "Acquiring the Taste",
+        "year": 1971
+      },
+      {
+        "title": "Three Friends",
+        "year": 1972
+      },
+      {
+        "title": "Octopus",
+        "year": 1972
+      },
+      {
+        "title": "In a Glass House",
+        "year": 1973
+      },
+      {
+        "title": "The Power and the Glory",
+        "year": 1974
+      },
+      {
+        "title": "Free Hand",
+        "year": 1975
+      },
+      {
+        "title": "Interview",
+        "year": 1976
+      },
+      {
+        "title": "Playing the Fool",
+        "year": 1977
+      },
+      {
+        "title": "The Missing Piece",
+        "year": 1977
+      },
+      {
+        "title": "Giant for a Day!",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Knots",
+      "Proclamation",
+      "On Reflection",
+      "Experience",
+      "Funny Ways"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's stated aim was to 'expand the frontiers of contemporary popular music at the risk of becoming very unpopular.' Lyrics were often inspired by philosophy and the works of François Rabelais.",
+      "They were famous for 'rapid-fire instrument-swapping' during their virtuosic live performances."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gentle_Giant",
+    "youtube_search": "Gentle Giant Proclamation",
+    "tags": [
+      "prog-rock",
+      "eclectic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "goblin",
+    "name": "Goblin",
+    "genre": "prog-rock",
+    "subgenre": "italian-prog",
+    "origin": "Rome, Italy",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Goblin gained international fame for their ominous and eerie progressive rock film scores, particularly for horror director Dario Argento. Their sound blends jazz-rock, heavy metal, and atmospheric synthesizers into a distinctive and highly influential style. While primarily known for soundtracks like Suspiria, they also produced standalone progressive rock concept albums during the 1970s.",
+    "members_70s": [
+      "Claudio Simonetti",
+      "Massimo Morante",
+      "Fabio Pignatelli",
+      "Walter Martino",
+      "Agostino Marangolo",
+      "Maurizio Guarini",
+      "Carlo Pennisi"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Profondo Rosso",
+        "year": 1975
+      },
+      {
+        "title": "Cherry Five",
+        "year": 1975
+      },
+      {
+        "title": "Roller",
+        "year": 1976
+      },
+      {
+        "title": "Suspiria",
+        "year": 1977
+      },
+      {
+        "title": "Il fantastico viaggio del 'bagarozzo' Mark",
+        "year": 1978
+      },
+      {
+        "title": "Zombi",
+        "year": 1978
+      },
+      {
+        "title": "Amo non-amo",
+        "year": 1979
+      },
+      {
+        "title": "Patrick",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Profondo Rosso",
+      "Suspiria",
+      "Zombi",
+      "Roller",
+      "L'alba Dei Morti Viventi",
+      "Death Dies"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Dario Argento famously gave the band just one night to write the score for Profondo Rosso and one day to record it.",
+      "Before adopting the name Goblin, the band initially recorded their debut progressive rock album as Cherry Five."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goblin_(band)",
+    "youtube_search": "Goblin Profondo Rosso",
+    "tags": [
+      "prog-rock",
+      "italian-prog",
+      "horror-prog"
+    ]
+  },
+  {
+    "id": "gong",
+    "name": "Gong",
+    "genre": "prog-rock",
+    "subgenre": "canterbury",
+    "origin": "Paris, France",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Gong was a premiere band of the Canterbury scene, blending psychedelic whimsy, space rock jams, and jazz fusion. Their 1970s output is defined by the Radio Gnome Invisible trilogy, an allegorical space opera detailing the adventures of the Pot Head Pixies. Following founder Daevid Allen's 1975 departure, the group evolved into a mallet-percussion-led jazz fusion ensemble under drummer Pierre Moerlen.",
+    "members_70s": [
+      "Daevid Allen",
+      "Gilli Smyth",
+      "Didier Malherbe",
+      "Pip Pyle",
+      "Steve Hillage",
+      "Mike Howlett",
+      "Tim Blake",
+      "Pierre Moerlen",
+      "Miquette Giraudy",
+      "Francis Moze",
+      "Mireille Bauer"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Magick Brother",
+        "year": 1970
+      },
+      {
+        "title": "Camembert Electrique",
+        "year": 1971
+      },
+      {
+        "title": "Flying Teapot",
+        "year": 1973
+      },
+      {
+        "title": "Angel's Egg",
+        "year": 1973
+      },
+      {
+        "title": "You",
+        "year": 1974
+      },
+      {
+        "title": "Shamal",
+        "year": 1976
+      },
+      {
+        "title": "Gazeuse!",
+        "year": 1976
+      },
+      {
+        "title": "Expresso II",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Master Builder",
+      "The Pot Head Pixies",
+      "Flying Teapot",
+      "Zero the Hero and the Witch's Spell",
+      "Isle of Everywhere",
+      "Shadowgram"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's elaborate mythology was inspired by a vision Daevid Allen had during a full moon in Majorca in 1966.",
+      "Actor Sherman Hemsley of The Jeffersons was such a fan that he reportedly had a darkened 'Flying Teapot' room in his house playing the album on continuous tape loops."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gong_(band)",
+    "youtube_search": "Gong Master Builder",
+    "tags": [
+      "prog-rock",
+      "canterbury-scene",
+      "space-rock"
+    ]
+  },
+  {
+    "id": "greenslade",
+    "name": "Greenslade",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, England, UK",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "British keyboard-driven quartet founded by former Colosseum organist Dave Greenslade and bassist Tony Reeves that built their sound around the interplay of two keyboard players. Their lush, orchestrated style drew comparisons to Emerson Lake and Palmer but leaned toward a more melodic and lyrical approach. They were noted for their striking Roger Dean-designed album artwork and sophisticated compositional structures.",
+    "members_70s": [
+      "Dave Greenslade",
+      "Dave Lawson",
+      "Tony Reeves",
+      "Andrew McCulloch"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Greenslade",
+        "year": 1973
+      },
+      {
+        "title": "Bedside Manners Are Extra",
+        "year": 1973
+      },
+      {
+        "title": "Spyglass Guest",
+        "year": 1974
+      },
+      {
+        "title": "Time and Tide",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Feathered Friends",
+      "Drowning Man",
+      "Temple Song",
+      "Red Light"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's album artwork for 'Spyglass Guest' was created by Roger Dean, the same artist responsible for the iconic Yes album covers of the same period.",
+      "Dave Greenslade had previously served as organist for Colosseum, one of the pioneering British jazz-rock groups, before forming Greenslade in 1972."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greenslade_(band)",
+    "youtube_search": "Greenslade Feathered Friends",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "gryphon",
+    "name": "Gryphon",
+    "genre": "prog-rock",
+    "subgenre": "folk-prog",
+    "origin": "London, England, UK",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Gryphon uniquely blended medieval and Renaissance music with contemporary rock, utilizing instruments like the crumhorn and bassoon. Their mid-70s sound expanded into complex symphonic territory, epitomized by the 18-minute title track of Midnight Mushrumps. They gained a major international breakthrough as the opening act for Yes during their 1974-75 tours.",
+    "members_70s": [
+      "Brian Gulland",
+      "Graeme Taylor",
+      "Dave Oberlé",
+      "Richard Harvey",
+      "Philip Nestor",
+      "Malcolm Bennett",
+      "Jonathan Davie",
+      "Alex Baird",
+      "Bob Foster"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Gryphon",
+        "year": 1973
+      },
+      {
+        "title": "Midnight Mushrumps",
+        "year": 1974
+      },
+      {
+        "title": "Red Queen to Gryphon Three",
+        "year": 1974
+      },
+      {
+        "title": "Raindance",
+        "year": 1975
+      },
+      {
+        "title": "Treason",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Midnight Mushrumps",
+      "Checkmate",
+      "Kemp's Jig",
+      "Opening Move",
+      "Spring Song",
+      "The Fall of the Leaf"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group was once described by their publicist as 'Henry VIII in a rock'n'roll band'.",
+      "Gryphon was the first rock band to perform a concert at the National Theatre's Old Vic venue in 1974."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gryphon_(band)",
+    "youtube_search": "Gryphon Midnight Mushrumps",
+    "tags": [
+      "prog-rock",
+      "medieval-prog",
+      "folk-prog"
+    ]
+  },
+  {
+    "id": "happy-the-man",
+    "name": "Happy the Man",
+    "genre": "prog-rock",
+    "subgenre": "eclectic-prog",
+    "origin": "Harrisonburg, Virginia, US",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Happy the Man developed a highly sophisticated instrumental-heavy sound featuring complex arrangements and unusual time signatures. Their 1970s work bridged the gap between symphonic rock and jazz fusion, attracting the attention of Peter Gabriel and producer Ken Scott. Though they released only two albums in the 70s, they are celebrated for their technical brilliance and technical compositions.",
+    "members_70s": [
+      "Stanley Whitaker",
+      "Rick Kennell",
+      "Mike Beck",
+      "Frank Wyatt",
+      "Kit Watkins",
+      "Cliff Fortney",
+      "Dan Owen",
+      "Ron Riddle",
+      "Coco Roussel"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Happy the Man",
+        "year": 1977
+      },
+      {
+        "title": "Crafty Hands",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Stumpy Meets the Firecracker in Stencil Forest",
+      "Knee Bitten Nymphs in Fog",
+      "Wind Up Doll Day Wind",
+      "Service with a Smile",
+      "Stepping Through Time",
+      "Ibby It Is"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band once auditioned to be Peter Gabriel's backing band after his departure from Genesis.",
+      "Guitarist Stanley Whitaker utilized early custom guitars from luthier Paul Reed Smith during the recording of Crafty Hands."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Happy_the_Man",
+    "youtube_search": "Happy the Man Service with a Smile",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "american-prog"
+    ]
+  },
+  {
+    "id": "hatfield-and-the-north",
+    "name": "Hatfield and the North",
+    "genre": "prog-rock",
+    "subgenre": "canterbury",
+    "origin": "Canterbury, England, UK",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Hatfield and the North was a central Canterbury scene band that evolved from blues-rock into complex pieces based on riffs in odd time signatures. Their sound featured Protracted melodies and collaborative experimentation with musicians from Gong, Caravan, and Matching Mole. They produced two highly influential albums in the mid-70s before members moved on to form National Health.",
+    "members_70s": [
+      "Phil Miller",
+      "Pip Pyle",
+      "Richard Sinclair",
+      "Dave Stewart",
+      "Steve Miller",
+      "Dave Sinclair"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Hatfield and the North",
+        "year": 1974
+      },
+      {
+        "title": "The Rotters' Club",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Share It",
+      "Lounging There Trying",
+      "Mumps",
+      "(Post-Acke) Amen",
+      "Let's Eat (Real Soon)",
+      "Fitter Stoke Has a Bath"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's name was inspired by road signage on the A1 motorway heading north from London.",
+      "Jonathan Coe's 2001 novel The Rotters' Club takes its title from the band's second album."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hatfield_and_the_North",
+    "youtube_search": "Hatfield and the North Share It",
+    "tags": [
+      "prog-rock",
+      "canterbury-scene",
+      "jazz-fusion"
+    ]
+  },
+  {
+    "id": "henry-cow",
+    "name": "Henry Cow",
+    "genre": "prog-rock",
+    "subgenre": "chamber-prog",
+    "origin": "Cambridge, England, UK",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Henry Cow was a fiercely anti-commercial collective at the heart of the Rock in Opposition movement, blending rock, jazz, and contemporary classical music. Their sound was defined by intricate, elaborately scored pieces and a commitment to 'flat-out free improvisation'. They challenged themselves with music scored beyond conventional instrument ranges, necessitating that they reinvent their playing techniques.",
+    "members_70s": [
+      "Fred Frith",
+      "Tim Hodgkinson",
+      "Chris Cutler",
+      "John Greaves",
+      "Geoff Leigh",
+      "Lindsay Cooper",
+      "Peter Blegvad",
+      "Anthony Moore",
+      "Dagmar Krause",
+      "Georgie Born",
+      "Annemarie Roelofs"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Legend",
+        "year": 1973
+      },
+      {
+        "title": "Unrest",
+        "year": 1974
+      },
+      {
+        "title": "Desperate Straights",
+        "year": 1975
+      },
+      {
+        "title": "In Praise of Learning",
+        "year": 1975
+      },
+      {
+        "title": "Western Culture",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Nine Funerals of the Citizen King",
+      "Living in the Heart of the Beast",
+      "Beautiful as the Moon – Terrible as an Army with Banners",
+      "War",
+      "Teenbeat",
+      "Ruins"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band members have repeatedly denied that their name was a tribute to 20th-century composer Henry Cowell.",
+      "They famously organized the first Rock in Opposition festival in 1978 to represent groups united in opposition to the music industry."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Cow",
+    "youtube_search": "Henry Cow Nine Funerals of the Citizen King",
+    "tags": [
+      "prog-rock",
+      "avant-prog",
+      "rock-in-opposition"
+    ]
+  },
+  {
+    "id": "jethro-tull",
+    "name": "Jethro Tull",
+    "genre": "prog-rock",
+    "subgenre": "folk-prog",
+    "origin": "Blackpool, Lancashire, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Led by Ian Anderson and his signature flute playing, Jethro Tull transitioned from blues-rock into a major progressive rock act in the 1970s. They reached a creative peak with conceptual masterpieces like Thick as a Brick, featuring complex suites and offbeat humor. By the late 1970s, the band’s sound shifted toward a distinctive folk rock trilogy.",
+    "members_70s": [
+      "Ian Anderson",
+      "Martin Barre",
+      "Clive Bunker",
+      "Glenn Cornick",
+      "John Evan",
+      "Jeffrey Hammond",
+      "Barriemore Barlow",
+      "John Glascock",
+      "Dee Palmer",
+      "Dave Pegg"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Benefit",
+        "year": 1970
+      },
+      {
+        "title": "Aqualung",
+        "year": 1971
+      },
+      {
+        "title": "Thick as a Brick",
+        "year": 1972
+      },
+      {
+        "title": "Living in the Past",
+        "year": 1972
+      },
+      {
+        "title": "A Passion Play",
+        "year": 1973
+      },
+      {
+        "title": "War Child",
+        "year": 1974
+      },
+      {
+        "title": "Minstrel in the Gallery",
+        "year": 1975
+      },
+      {
+        "title": "Too Old to Rock 'n' Roll: Too Young to Die!",
+        "year": 1976
+      },
+      {
+        "title": "Songs from the Wood",
+        "year": 1977
+      },
+      {
+        "title": "Heavy Horses",
+        "year": 1978
+      },
+      {
+        "title": "Stormwatch",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Aqualung",
+      "Locomotive Breath",
+      "Thick as a Brick",
+      "Bungle in the Jungle",
+      "Songs from the Wood"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band is named after an 18th-century British agriculturist who invented the seed drill.",
+      "They famously turned down an invitation to play at the Woodstock Festival.",
+      "Thick as a Brick was co-credited to a fictional schoolboy named Gerald Bostock."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jethro_Tull_(band)",
+    "youtube_search": "Jethro Tull Aqualung",
+    "tags": [
+      "prog-rock",
+      "folk-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "kayak",
+    "name": "Kayak",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Hilversum, Netherlands",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Kayak was the premiere Dutch progressive rock band of the 1970s, blending symphonic textures with art-rock sensibilities. Their mid-decade output was characterized by the high-pitched vocals of Max Werner before transitioning toward a more pop-oriented symphonic sound. They achieved significant chart success in the Netherlands, particularly with their 1978 hit 'Ruthless Queen'.",
+    "members_70s": [
+      "Ton Scherpenzeel",
+      "Max Werner",
+      "Johan Slager",
+      "Pim Koopman",
+      "Cees van Leeuwen",
+      "Bert Veldkamp",
+      "Theo de Jong",
+      "Edward Reekers",
+      "Charles Schouten",
+      "Peter Scherpenzeel"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "See See the Sun",
+        "year": 1973
+      },
+      {
+        "title": "Kayak",
+        "year": 1974
+      },
+      {
+        "title": "Royal Bed Bouncer",
+        "year": 1975
+      },
+      {
+        "title": "The Last Encore",
+        "year": 1976
+      },
+      {
+        "title": "Starlight Dancer",
+        "year": 1977
+      },
+      {
+        "title": "Phantom of the Night",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Ruthless Queen",
+      "See See the Sun",
+      "Lyrics",
+      "Starlight Dancer",
+      "Royal Bed Bouncer",
+      "Keep the Change"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Original bassist Cees van Leeuwen later became the Dutch State Secretary of Culture and Media.",
+      "The band's biggest hit, 'Ruthless Queen,' reached No. 6 on the Dutch charts in March 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kayak_(band)",
+    "youtube_search": "Kayak Ruthless Queen",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "dutch-prog"
+    ]
+  },
+  {
+    "id": "king-crimson",
+    "name": "King Crimson",
+    "genre": "prog-rock",
+    "subgenre": "eclectic-prog",
+    "origin": "London, England",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "King Crimson were a foundational force in progressive rock, constantly reinventing their sound throughout the 1970s. Following their landmark symphonic debut, they explored jazz-fusion and then a heavier, improvisational trio sound. Led by Robert Fripp, the band combined classical structures with heavy metal power and avant-garde experimentation.",
+    "members_70s": [
+      "Robert Fripp",
+      "Greg Lake",
+      "Michael Giles",
+      "Ian McDonald",
+      "Peter Sinfield",
+      "Mel Collins",
+      "Peter Giles",
+      "Gordon Haskell",
+      "Andy McCulloch",
+      "Boz Burrell",
+      "Ian Wallace",
+      "Bill Bruford",
+      "John Wetton",
+      "David Cross",
+      "Jamie Muir"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "In the Wake of Poseidon",
+        "year": 1970
+      },
+      {
+        "title": "Lizard",
+        "year": 1970
+      },
+      {
+        "title": "Islands",
+        "year": 1971
+      },
+      {
+        "title": "Larks' Tongues in Aspic",
+        "year": 1973
+      },
+      {
+        "title": "Starless and Bible Black",
+        "year": 1974
+      },
+      {
+        "title": "Red",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Cat Food",
+      "Islands",
+      "Larks' Tongues in Aspic",
+      "Starless",
+      "21st Century Schizoid Man"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Their breakthrough came at the 1969 Hyde Park free concert supporting the Rolling Stones.",
+      "To maintain 'quality control,' Robert Fripp once refused to play a composition by Mel Collins.",
+      "Bill Bruford left Yes at their commercial peak specifically to join the 'darker' King Crimson."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Crimson",
+    "youtube_search": "King Crimson 21st Century Schizoid Man",
+    "tags": [
+      "prog-rock",
+      "eclectic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "magma",
+    "name": "Magma",
+    "genre": "prog-rock",
+    "subgenre": "zeuhl",
+    "origin": "Paris, France",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Magma founded the 'Zeuhl' genre, a singular style of progressive rock defined by operatic choirs, martial percussion, and repetitive choral motifs. Their music in the 1970s was characterized by epic space operas detailing a mythology set on the planet Kobaïa. Led by drummer Christian Vander, they achieved international acclaim for their technical brilliance and highly innovative avant-garde arrangements.",
+    "members_70s": [
+      "Christian Vander",
+      "Stella Vander",
+      "Klaus Blasquiz",
+      "Francis Moze",
+      "Jannick Top",
+      "Bernard Paganotti",
+      "Didier Lockwood",
+      "Benoît Widemann",
+      "Teddy Lasry",
+      "Claude Engel",
+      "François Cahen"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Kobaïa",
+        "year": 1970
+      },
+      {
+        "title": "1001° Centigrades",
+        "year": 1971
+      },
+      {
+        "title": "Mëkanïk Dëstruktïẁ Kömmandöh",
+        "year": 1973
+      },
+      {
+        "title": "Ẁurdah Ïtah",
+        "year": 1974
+      },
+      {
+        "title": "Köhntarkösz",
+        "year": 1974
+      },
+      {
+        "title": "Üdü Ẁüdü",
+        "year": 1976
+      },
+      {
+        "title": "Attahk",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Mëkanïk Dëstruktïẁ Kömmandöh",
+      "De Futura",
+      "Ẁurdah Ïtah",
+      "Köhntarkösz",
+      "Kobaïa",
+      "Hhaï"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Magma's lyrics are sung almost exclusively in Kobaïan, a fictional language created by Christian Vander.",
+      "The band has several high-profile fans including Johnny Rotten, Steven Wilson, and professional snooker champion Steve Davis."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magma_(band)",
+    "youtube_search": "Magma Mëkanïk Dëstruktïẁ Kömmandöh",
+    "tags": [
+      "prog-rock",
+      "zeuhl",
+      "french-prog"
+    ]
+  },
+  {
+    "id": "mike-oldfield",
+    "name": "Mike Oldfield",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Reading, Berkshire, UK",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Mike Oldfield achieved unexpected global stardom with his 1973 debut album Tubular Bells, which helped launch the Virgin Records label. During the 1970s, his work was characterized by long, multi-instrumental suites predominantly played and produced by himself. His sound combined folk melodies, classical structures, and pioneering electronic experimentation.",
+    "key_albums_70s": [
+      {
+        "title": "Tubular Bells",
+        "year": 1973
+      },
+      {
+        "title": "Hergest Ridge",
+        "year": 1974
+      },
+      {
+        "title": "Ommadawn",
+        "year": 1975
+      },
+      {
+        "title": "Incantations",
+        "year": 1978
+      },
+      {
+        "title": "Platinum",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Tubular Bells",
+      "Ommadawn",
+      "Hergest Ridge",
+      "In Dulci Jubilo",
+      "Portsmouth"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Tubular Bells was famously featured in the 1973 film The Exorcist.",
+      "He was fired from a stage production of Hair after deciding to play his part in 7/8 time.",
+      "In 1981, he was awarded the Freedom of the City of London."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Oldfield",
+    "youtube_search": "Mike Oldfield Tubular Bells",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "electronic-prog"
+    ]
+  },
+  {
+    "id": "moody-blues",
+    "name": "The Moody Blues",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Birmingham, England",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "The Moody Blues were art rock pioneers who famously merged rock music with classical orchestration. Their 1970s recordings were among the most successful in the progressive genre, characterized by a lush symphonic sound and philosophical themes. The band made extensive use of the Mellotron to create atmospheric, orchestral textures.",
+    "members_70s": [
+      "Graeme Edge",
+      "Mike Pinder",
+      "Ray Thomas",
+      "Justin Hayward",
+      "John Lodge",
+      "Patrick Moraz"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "A Question of Balance",
+        "year": 1970
+      },
+      {
+        "title": "Every Good Boy Deserves Favour",
+        "year": 1971
+      },
+      {
+        "title": "Seventh Sojourn",
+        "year": 1972
+      },
+      {
+        "title": "Octave",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Question",
+      "The Story in Your Eyes",
+      "Isn't Life Strange",
+      "I'm Just a Singer (In a Rock and Roll Band)",
+      "Nights in White Satin",
+      "Steppin' in a Slide Zone"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Every Good Boy Deserves Favour is named after a mnemonic for remembering musical notes on a treble clef.",
+      "They were one of the first rock bands to start their own label, Threshold Records.",
+      "'Nights in White Satin' became a massive hit in 1972, five years after its original release."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Moody_Blues",
+    "youtube_search": "The Moody Blues Nights in White Satin",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "national-health",
+    "name": "National Health",
+    "genre": "prog-rock",
+    "subgenre": "canterbury",
+    "origin": "London, England, UK",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "British Canterbury scene collective assembled from the overlapping personnel of Hatfield and the North, Soft Machine, and Matching Mole that represented the peak of that scene's mathematical complexity. Their music pushed jazz-rock improvisation into demanding asymmetric time signatures and elaborately scored ensemble passages. Though they recorded only two studio albums, they remain among the most technically accomplished groups the Canterbury scene produced.",
+    "members_70s": [
+      "Alan Gowen",
+      "Phil Miller",
+      "Neil Murray",
+      "Bill Bruford",
+      "Pip Pyle",
+      "Amanda Parsons"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "National Health",
+        "year": 1977
+      },
+      {
+        "title": "Of Queues and Cures",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Borogoves",
+      "Elephants",
+      "Binoculars",
+      "Tenemos Roads"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was a sardonic reference to Britain's National Health Service, reflecting the dry humour characteristic of the Canterbury scene.",
+      "National Health drew members from nearly every significant Canterbury scene group, functioning as a kind of supergroup for the movement's most technically ambitious players."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/National_Health_(band)",
+    "youtube_search": "National Health Borogoves",
+    "tags": [
+      "prog-rock",
+      "canterbury",
+      "jazz-rock"
+    ]
+  },
+  {
+    "id": "nektar",
+    "name": "Nektar",
+    "genre": "prog-rock",
+    "subgenre": "space-rock",
+    "origin": "Hamburg, Germany / Brighton, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "British-born band based in Hamburg whose conceptual space-rock epics earned them an unlikely cult following in the United States despite minimal commercial support. Their sprawling concept albums blended psychedelic textures with progressive rock ambition and a flair for theatrical live performance involving elaborate light shows. Their 1973 double album 'Remember the Future' is regarded as their masterpiece and became a surprise US chart entry.",
+    "members_70s": [
+      "Roye Albrighton",
+      "Allan Freeman",
+      "Derek Moore",
+      "Ron Howden",
+      "Mick Brockett"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Journey to the Centre of the Eye",
+        "year": 1971
+      },
+      {
+        "title": "A Tab in the Ocean",
+        "year": 1972
+      },
+      {
+        "title": "...Sounds Like This",
+        "year": 1973
+      },
+      {
+        "title": "Remember the Future",
+        "year": 1973
+      },
+      {
+        "title": "Down to Earth",
+        "year": 1974
+      },
+      {
+        "title": "Recycled",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Remember the Future",
+      "A Tab in the Ocean",
+      "Recycled",
+      "Man",
+      "Drifting Away"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Despite being a British band, Nektar built their largest fanbase in the United States, where 'Remember the Future' entered the Billboard 200 without any conventional radio support.",
+      "Their live performances featured a dedicated lighting technician, Mick Brockett, whose elaborate light show was considered an integral fifth member of the band."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nektar_(band)",
+    "youtube_search": "Nektar Remember the Future",
+    "tags": [
+      "prog-rock",
+      "space-rock",
+      "concept-album"
+    ]
+  },
+  {
+    "id": "novalis",
+    "name": "Novalis",
+    "genre": "prog-rock",
+    "subgenre": "krautrock",
+    "origin": "Hamburg, Germany",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Novalis was a premiere German progressive rock band of the 1970s that initially sang in English before switching to German at their producer's suggestion. Their mid-to-late 70s sound was defined by symphonic textures and the incorporation of Romantic-era poetry into their lyrics. With the addition of Austrian vocalist Fred Mühlböck, the group achieved significant international recognition with albums like Brandung.",
+    "members_70s": [
+      "Lutz Rahn",
+      "Hartwig Biereichel",
+      "Heino Schünzel",
+      "Jürgen Wentzel",
+      "Carlo Karges",
+      "Detlef Job",
+      "Fred Mühlböck"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Banished Bridge",
+        "year": 1973
+      },
+      {
+        "title": "Novalis",
+        "year": 1975
+      },
+      {
+        "title": "Sommerabend",
+        "year": 1976
+      },
+      {
+        "title": "Konzerte",
+        "year": 1977
+      },
+      {
+        "title": "Brandung",
+        "year": 1977
+      },
+      {
+        "title": "Vielleicht bist du ein Clown?",
+        "year": 1978
+      },
+      {
+        "title": "Wer Schmetterlinge lachen hört",
+        "year": 1978
+      },
+      {
+        "title": "Sonnenwende",
+        "year": 1978
+      },
+      {
+        "title": "Flossenengel",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Sommerabend",
+      "Wer Schmetterlinge lachen hört",
+      "Brandung",
+      "Vielleicht bist du ein Clown?",
+      "Banished Bridge",
+      "Astralis"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band changed their name from Mosaik to Novalis shortly after forming in 1971.",
+      "Proceeds from their 1979 concept album Flossenengel, centered on whaling, were donated to the World Wildlife Fund."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Novalis_(band)",
+    "youtube_search": "Novalis Sommerabend",
+    "tags": [
+      "prog-rock",
+      "krautrock",
+      "german-prog"
+    ]
+  },
+  {
+    "id": "pavlovs-dog",
+    "name": "Pavlov's Dog",
+    "genre": "prog-rock",
+    "subgenre": "art-rock",
+    "origin": "St. Louis, Missouri, US",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Pavlov's Dog is best known for the unique, high-pitched warbling vocals of David Surkamp and their heavy use of Mellotron and violin. Their 1975 debut Pampered Menial is a cult classic of 70s progressive rock, blending art-rock complexity with melodic hooks. Despite guest contributions from members of Yes and Roxy Music on their second album, the band dissolved in 1977 following poor sales.",
+    "members_70s": [
+      "David Surkamp",
+      "Mike Safron",
+      "Doug Rayburn",
+      "Rick Stockton",
+      "David Hamilton",
+      "Siegfried Carver",
+      "Steve Scorfina",
+      "Tom Nickeson",
+      "Kirk Sarkisian"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Pampered Menial",
+        "year": 1975
+      },
+      {
+        "title": "At the Sound of the Bell",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Julia",
+      "Song Dance",
+      "Natchez Trace",
+      "Episode",
+      "Valkerie",
+      "Gold Sandwich"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "mid-70s"
+    ],
+    "trivia": [
+      "Their debut album Pampered Menial was released simultaneously by both ABC and Columbia Records due to a quick label transfer.",
+      "Bill Bruford of Yes and King Crimson played the drums on their second album, At the Sound of the Bell."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pavlov%27s_Dog_(band)",
+    "youtube_search": "Pavlov's Dog Julia",
+    "tags": [
+      "prog-rock",
+      "art-rock",
+      "american-prog"
+    ]
+  },
+  {
+    "id": "pink-floyd",
+    "name": "Pink Floyd",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, England",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Pink Floyd became a dominant force in 1970s rock, transitioning from underground psychedelia to massive conceptual albums. Led thematically by Roger Waters, they explored alienation and absence on global bestsellers like The Dark Side of the Moon. They were renowned for their elaborate live performances featuring advanced quadraphonic sound and lavish visual effects.",
+    "members_70s": [
+      "Roger Waters",
+      "David Gilmour",
+      "Richard Wright",
+      "Nick Mason"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Atom Heart Mother",
+        "year": 1970
+      },
+      {
+        "title": "Meddle",
+        "year": 1971
+      },
+      {
+        "title": "Obscured by Clouds",
+        "year": 1972
+      },
+      {
+        "title": "The Dark Side of the Moon",
+        "year": 1973
+      },
+      {
+        "title": "Wish You Were Here",
+        "year": 1975
+      },
+      {
+        "title": "Animals",
+        "year": 1977
+      },
+      {
+        "title": "The Wall",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Echoes",
+      "Money",
+      "Time",
+      "Shine On You Crazy Diamond",
+      "Wish You Were Here",
+      "Comfortably Numb",
+      "Another Brick in the Wall (Part 2)"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was derived from two blues musicians, Pink Anderson and Floyd Council.",
+      "They performed an instrumental piece called 'Moonhead' during the BBC's coverage of the Moon landing.",
+      "A 30-foot pig balloon broke free during a cover shoot and landed in Kent, frightening cows."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
+    "youtube_search": "Pink Floyd Comfortably Numb",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "premiata-forneria-marconi",
+    "name": "Premiata Forneria Marconi",
+    "genre": "prog-rock",
+    "subgenre": "italian-prog",
+    "origin": "Milan, Italy",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Premiata Forneria Marconi (PFM) was the first Italian rock band to achieve major international success, signing with the Manticore label in 1973. Their 1970s sound fused classical symphonic influences and traditional Italian melodies with sophisticated progressive rock and jazz fusion. They pioneered the use of synthesizers in the Italian music scene and achieved significant chart presence in both the UK and US.",
+    "members_70s": [
+      "Franz Di Cioccio",
+      "Franco Mussida",
+      "Flavio Premoli",
+      "Mauro Pagani",
+      "Giorgio Piazza",
+      "Patrick Djivas",
+      "Bernardo Lanzetti",
+      "Gregory Bloch"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Storia di un minuto",
+        "year": 1972
+      },
+      {
+        "title": "Per un amico",
+        "year": 1972
+      },
+      {
+        "title": "Photos of Ghosts",
+        "year": 1973
+      },
+      {
+        "title": "L'isola di niente",
+        "year": 1974
+      },
+      {
+        "title": "The World Became the World",
+        "year": 1974
+      },
+      {
+        "title": "Cook",
+        "year": 1974
+      },
+      {
+        "title": "Chocolate Kings",
+        "year": 1975
+      },
+      {
+        "title": "Jet Lag",
+        "year": 1977
+      },
+      {
+        "title": "Passpartù",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Celebration",
+      "Impressioni di settembre",
+      "La carrozza di Hans",
+      "Dove... Quando...",
+      "Four Holes in the Ground",
+      "Dolcissima Maria"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name, meaning 'Award-winning Marconi Bakery,' was inspired by a shop sign in the town of Chiari.",
+      "PFM reached their largest American audience when they performed 'Celebration' on NBC's The Midnight Special in 1975."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Premiata_Forneria_Marconi",
+    "youtube_search": "Premiata Forneria Marconi Celebration",
+    "tags": [
+      "prog-rock",
+      "italian-prog",
+      "symphonic-prog"
+    ]
+  },
+  {
+    "id": "procol-harum",
+    "name": "Procol Harum",
+    "genre": "prog-rock",
+    "subgenre": "art-rock",
+    "origin": "Southend-on-Sea, Essex, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Procol Harum were early pioneers of symphonic progressive rock, noted for their heavy baroque and classical influences. During the 1970s, they explored lush, orchestral soundscapes alongside a harder, R&B-inflected rock style. Their music consistently featured Gary Brooker’s soulful vocals and sophisticated arrangements of Keith Reid’s lyrics.",
+    "members_70s": [
+      "Gary Brooker",
+      "Keith Reid",
+      "David Knights",
+      "Matthew Fisher",
+      "B. J. Wilson",
+      "Robin Trower",
+      "Chris Copping",
+      "Dave Ball",
+      "Alan Cartwright",
+      "Mick Grabham",
+      "Pete Solley"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Home",
+        "year": 1970
+      },
+      {
+        "title": "Broken Barricades",
+        "year": 1971
+      },
+      {
+        "title": "Procol Harum Live: In Concert with the Edmonton Symphony Orchestra",
+        "year": 1972
+      },
+      {
+        "title": "Grand Hotel",
+        "year": 1973
+      },
+      {
+        "title": "Exotic Birds and Fruit",
+        "year": 1974
+      },
+      {
+        "title": "Procol's Ninth",
+        "year": 1975
+      },
+      {
+        "title": "Something Magic",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Conquistador",
+      "Pandora's Box",
+      "Simple Sister",
+      "A Salty Dog",
+      "Grand Hotel"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was named after a pedigree Burmese cat.",
+      "They were asked to perform at the Woodstock Festival but were unable to attend.",
+      "Their hit 'A Whiter Shade of Pale' was inducted into the Rock and Roll Hall of Fame in 2018."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Procol_Harum",
+    "youtube_search": "Procol Harum Conquistador",
+    "tags": [
+      "prog-rock",
+      "art-rock",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "renaissance",
+    "name": "Renaissance",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, United Kingdom",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Renaissance developed a unique sound in the 1970s, combining female lead vocals with a fusion of classical, folk, rock, and jazz influences. Characteristic elements were Annie Haslam's wide vocal range, prominent piano accompaniment, and elaborate orchestral arrangements. They achieved a significant cult following in the United States, famously selling out three consecutive nights at Carnegie Hall.",
+    "members_70s": [
+      "Annie Haslam",
+      "Michael Dunford",
+      "John Tout",
+      "Jon Camp",
+      "Terry Sullivan",
+      "Keith Relf",
+      "Jim McCarty",
+      "John Hawken",
+      "Louis Cennamo",
+      "Jane Relf"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Illusion",
+        "year": 1971
+      },
+      {
+        "title": "Prologue",
+        "year": 1972
+      },
+      {
+        "title": "Ashes Are Burning",
+        "year": 1973
+      },
+      {
+        "title": "Turn of the Cards",
+        "year": 1974
+      },
+      {
+        "title": "Scheherazade and Other Stories",
+        "year": 1975
+      },
+      {
+        "title": "Live at Carnegie Hall",
+        "year": 1976
+      },
+      {
+        "title": "Novella",
+        "year": 1977
+      },
+      {
+        "title": "A Song for All Seasons",
+        "year": 1978
+      },
+      {
+        "title": "Azure d'Or",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Northern Lights",
+      "Mother Russia",
+      "Ashes Are Burning",
+      "Carpet of the Sun",
+      "Song of Scheherazade"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was founded by former members of the Yardbirds who wanted a more poetic and classical direction.",
+      "Lyrics for most of their 1970s classics were written by Cornish poet Betty Thatcher-Newsinger.",
+      "They were the first British band to sell out three consecutive nights at Carnegie Hall."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_(band)",
+    "youtube_search": "Renaissance Northern Lights",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "rick-wakeman",
+    "name": "Rick Wakeman",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Perivale, Middlesex, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Rick Wakeman is a virtuoso keyboardist known for his flamboyant stage presence and trademark capes. His 1970s solo career was defined by massive concept albums featuring orchestras, choirs, and even ice pageants at Wembley Arena. Between his solo projects, he completed multiple landmark tenures as the keyboardist for Yes, contributing to their most influential progressive rock albums.",
+    "key_albums_70s": [
+      {
+        "title": "Piano Vibrations",
+        "year": 1971
+      },
+      {
+        "title": "The Six Wives of Henry VIII",
+        "year": 1973
+      },
+      {
+        "title": "Journey to the Centre of the Earth",
+        "year": 1974
+      },
+      {
+        "title": "The Myths and Legends of King Arthur and the Knights of the Round Table",
+        "year": 1975
+      },
+      {
+        "title": "Lisztomania",
+        "year": 1975
+      },
+      {
+        "title": "No Earthly Connection",
+        "year": 1976
+      },
+      {
+        "title": "White Rock",
+        "year": 1977
+      },
+      {
+        "title": "Rick Wakeman's Criminal Record",
+        "year": 1977
+      },
+      {
+        "title": "Rhapsodies",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Catherine Howard",
+      "The Journey",
+      "Arthur",
+      "Music Reincarnate",
+      "Birdman of Alcatraz",
+      "After the Ball"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Wakeman famously ate a takeaway curry on stage during a Yes concert in Manchester as a protest against the long setlist.",
+      "His 1974 chart-topper Journey to the Centre of the Earth was only recorded live because its production costs were too high for a studio recording."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Wakeman",
+    "youtube_search": "Rick Wakeman Catherine Howard",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "keyboard-wizard"
+    ]
+  },
+  {
+    "id": "soft-machine",
+    "name": "Soft Machine",
+    "genre": "prog-rock",
+    "subgenre": "canterbury",
+    "origin": "Canterbury, Kent, England",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Soft Machine were central to the Canterbury scene and helped pioneer both progressive and jazz-rock. In the early 1970s, they transitioned from a psychedelic group into a completely instrumental jazz-rock ensemble. Their complex sound was marked by interlocking rhythmic patterns and frequent personnel changes throughout the decade.",
+    "members_70s": [
+      "Mike Ratledge",
+      "Robert Wyatt",
+      "Hugh Hopper",
+      "Elton Dean",
+      "Lyn Dobson",
+      "Phil Howard",
+      "John Marshall",
+      "Karl Jenkins",
+      "Roy Babbington",
+      "Allan Holdsworth",
+      "John Etheridge",
+      "Alan Wakeman",
+      "Ray Warleigh",
+      "Ric Sanders",
+      "Percy Jones",
+      "Steve Cook"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Third",
+        "year": 1970
+      },
+      {
+        "title": "Fourth",
+        "year": 1971
+      },
+      {
+        "title": "Fifth",
+        "year": 1972
+      },
+      {
+        "title": "Six",
+        "year": 1973
+      },
+      {
+        "title": "Seven",
+        "year": 1973
+      },
+      {
+        "title": "Bundles",
+        "year": 1975
+      },
+      {
+        "title": "Softs",
+        "year": 1976
+      },
+      {
+        "title": "Alive & Well: Recorded in Paris",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Moon in June",
+      "Hazard Profile",
+      "Slightly All the Time",
+      "Out-Bloody-Rageous",
+      "Gesolreut"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was taken from a novel by William S.",
+      "Burroughs.",
+      "In 1970, they became the first rock band to be invited to play at London's Proms concert."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soft_Machine",
+    "youtube_search": "Soft Machine Hazard Profile",
+    "tags": [
+      "prog-rock",
+      "canterbury",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "starcastle",
+    "name": "Starcastle",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Champaign, Illinois, US",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Starcastle was a prominent American symphonic rock band characterized by technical complexity and lush vocal harmonies. Their 1976 debut achieved worldwide airplay and their sound was frequently compared to British progressive rock giants like Yes. Throughout the late 70s, they were a major touring act, opening for Jethro Tull, Gentle Giant, and Fleetwood Mac.",
+    "members_70s": [
+      "Terry Luttrell",
+      "Herb Schildt",
+      "Gary Strater",
+      "Matt Stewart",
+      "Steve Hagler",
+      "Steve Tassler"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Starcastle",
+        "year": 1976
+      },
+      {
+        "title": "Fountains of Light",
+        "year": 1977
+      },
+      {
+        "title": "Citadel",
+        "year": 1977
+      },
+      {
+        "title": "Real to Reel",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Lady of the Lake",
+      "Fountains",
+      "Diamond Song (Deep Is the Light)",
+      "Can't Think Twice",
+      "Citadel",
+      "Real to Reel"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lead singer Terry Luttrell was the original vocalist for REO Speedwagon before joining Starcastle.",
+      "Keyboardist Herb Schildt is a highly successful author of computing and programming books."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Starcastle",
+    "youtube_search": "Starcastle Lady of the Lake",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "american-prog"
+    ]
+  },
+  {
+    "id": "steve-hillage",
+    "name": "Steve Hillage",
+    "genre": "prog-rock",
+    "subgenre": "space-rock",
+    "origin": "Chingford, Essex, England, UK",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Steve Hillage is a premiere space-rock guitarist known for blending complex guitar textures with synthesizers and Canterbury scene whimsy. After his landmark tenure with Gong, he launched a successful solo career that integrated funk-infused rhythms into progressive rock. His 1970s output includes landmark works like L and the innovative beatless instrumental odyssey Rainbow Dome Musick.",
+    "key_albums_70s": [
+      {
+        "title": "Fish Rising",
+        "year": 1975
+      },
+      {
+        "title": "L",
+        "year": 1976
+      },
+      {
+        "title": "Motivation Radio",
+        "year": 1977
+      },
+      {
+        "title": "Green",
+        "year": 1978
+      },
+      {
+        "title": "Rainbow Dome Musick",
+        "year": 1979
+      },
+      {
+        "title": "Open",
+        "year": 1979
+      },
+      {
+        "title": "Live Herald",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Solar Musick Suite",
+      "Hurdy Gurdy Man",
+      "It's All Too Much",
+      "The Salmon Song",
+      "Motivation",
+      "Palm Trees (Love Guitar)"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Hillage was part of the first-ever live performance of Mike Oldfield's Tubular Bells at Queen Elizabeth Hall in 1973.",
+      "He and partner Miquette Giraudy recorded Rainbow Dome Musick as a commissioned piece for a Mind Body and Spirit festival in 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Hillage",
+    "youtube_search": "Steve Hillage Solar Musick Suite",
+    "tags": [
+      "prog-rock",
+      "space-rock",
+      "canterbury-scene"
+    ]
+  },
+  {
+    "id": "strawbs",
+    "name": "Strawbs",
+    "genre": "prog-rock",
+    "subgenre": "folk-prog",
+    "origin": "Strawberry Hill, London, England, UK",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "The Strawbs evolved from a bluegrass duo into one of Britain's most successful folk-progressive rock bands of the 1970s. Their early 70s peak featured the symphonic keyboard work of Rick Wakeman and hit anthems like 'Part of the Union'. They reached their progressive rock commercial peak mid-decade with albums like Hero and Heroine, shifting toward a compelllingly lush, Mellotron-dominated sound.",
+    "members_70s": [
+      "Dave Cousins",
+      "Tony Hooper",
+      "Rick Wakeman",
+      "John Ford",
+      "Richard Hudson",
+      "Blue Weaver",
+      "Dave Lambert",
+      "Chas Cronk",
+      "John Hawken",
+      "Rod Coombes",
+      "Tony Fernandez"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Dragonfly",
+        "year": 1970
+      },
+      {
+        "title": "Just a Collection of Antiques and Curios",
+        "year": 1970
+      },
+      {
+        "title": "From the Witchwood",
+        "year": 1971
+      },
+      {
+        "title": "Grave New World",
+        "year": 1972
+      },
+      {
+        "title": "Bursting at the Seams",
+        "year": 1973
+      },
+      {
+        "title": "Hero and Heroine",
+        "year": 1974
+      },
+      {
+        "title": "Ghosts",
+        "year": 1975
+      },
+      {
+        "title": "Nomadness",
+        "year": 1975
+      },
+      {
+        "title": "Deep Cuts",
+        "year": 1976
+      },
+      {
+        "title": "Burning for You",
+        "year": 1977
+      },
+      {
+        "title": "Deadlines",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Lay Down",
+      "Part of the Union",
+      "Benedictus",
+      "Hero and Heroine",
+      "Ghosts",
+      "Shine on Silver Sun"
+    ],
+    "mood": [
+      "melancholy",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1968, Strawbs became the first British group ever signed to the American label A&M Records.",
+      "Founder Dave Cousins wrote the track 'Benedictus' as a way to find peace following the departure of keyboardist Rick Wakeman."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strawbs",
+    "youtube_search": "Strawbs Lay Down",
+    "tags": [
+      "prog-rock",
+      "folk-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "supertramp",
+    "name": "Supertramp",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Supertramp blended progressive rock with pop sensibilities, defined by the distinct songwriting styles of Roger Hodgson and Rick Davies. Their 1970s breakthrough, Crime of the Century, showcased elaborate arrangements and a move toward a more melodic sound. The band reached its commercial zenith at the end of the decade with the worldwide success of Breakfast in America.",
+    "members_70s": [
+      "Rick Davies",
+      "Roger Hodgson",
+      "Richard Palmer",
+      "Robert Millar",
+      "Dave Winthrop",
+      "Kevin Currie",
+      "Frank Farrell",
+      "Dougie Thomson",
+      "Bob Siebenberg",
+      "John Helliwell"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Supertramp",
+        "year": 1970
+      },
+      {
+        "title": "Indelibly Stamped",
+        "year": 1971
+      },
+      {
+        "title": "Crime of the Century",
+        "year": 1974
+      },
+      {
+        "title": "Crisis? What Crisis?",
+        "year": 1975
+      },
+      {
+        "title": "Even in the Quietest Moments...",
+        "year": 1977
+      },
+      {
+        "title": "Breakfast in America",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Dreamer",
+      "The Logical Song",
+      "Goodbye Stranger",
+      "Take the Long Way Home",
+      "Give a Little Bit",
+      "School"
+    ],
+    "mood": [
+      "happy",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was initially funded by Dutch millionaire Stanley Miesegaes and was originally called 'Daddy.' Roger Hodgson wrote 'The Logical Song' after parking a camper outside the studio for two months to focus on mixing.",
+      "Rick Davies and Roger Hodgson were the band's primary songwriters despite radically different backgrounds."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Supertramp",
+    "youtube_search": "Supertramp The Logical Song",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "tangerine-dream",
+    "name": "Tangerine Dream",
+    "genre": "prog-rock",
+    "subgenre": "electronic-prog",
+    "origin": "West Berlin, Germany",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Tangerine Dream were pioneers of electronic progressive rock, evolving from surreal Krautrock into a revered electronic act. Their mid-1970s 'Virgin Years' defined the Berlin School sound through the extensive use of sequencers and synthesizers. They created haunting, eerie soundscapes on landmark albums like Phaedra and Rubycon.",
+    "members_70s": [
+      "Edgar Froese",
+      "Christopher Franke",
+      "Peter Baumann",
+      "Klaus Schulze",
+      "Conrad Schnitzler",
+      "Steve Schroyder",
+      "Steve Jolliffe",
+      "Klaus Krüger",
+      "Michael Hoenig",
+      "Johannes Schmoelling"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Electronic Meditation",
+        "year": 1970
+      },
+      {
+        "title": "Alpha Centauri",
+        "year": 1971
+      },
+      {
+        "title": "Zeit",
+        "year": 1972
+      },
+      {
+        "title": "Atem",
+        "year": 1973
+      },
+      {
+        "title": "Phaedra",
+        "year": 1974
+      },
+      {
+        "title": "Rubycon",
+        "year": 1975
+      },
+      {
+        "title": "Ricochet",
+        "year": 1975
+      },
+      {
+        "title": "Stratosfear",
+        "year": 1976
+      },
+      {
+        "title": "Sorcerer",
+        "year": 1977
+      },
+      {
+        "title": "Encore",
+        "year": 1977
+      },
+      {
+        "title": "Cyclone",
+        "year": 1978
+      },
+      {
+        "title": "Force Majeure",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Phaedra",
+      "Rubycon",
+      "Stratosfear",
+      "Ricochet",
+      "Force Majeure"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was inspired by a misheard line from the Beatles' song 'Lucy in the Sky with Diamonds.' Some of their early 1970s concerts were performed in complete darkness.",
+      "The synthesizer oscillators on the album Phaedra famously drifted out of tune due to temperature changes."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tangerine_Dream",
+    "youtube_search": "Tangerine Dream Phaedra",
+    "tags": [
+      "prog-rock",
+      "electronic-prog",
+      "german-prog"
+    ]
+  },
+  {
+    "id": "triumvirat",
+    "name": "Triumvirat",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "Cologne, West Germany",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Triumvirat was a key figure in German progressive rock, characterized by a technical, keyboard-driven symphonic sound. Often compared to Emerson, Lake & Palmer, the band highlighted the classical training and virtuosity of keyboardist Jürgen Fritz. They achieved significant chart success in America with their 1975 concept album Spartacus, a retelling of the story of the famed Roman gladiator.",
+    "members_70s": [
+      "Hans-Jürgen Fritz",
+      "Hans Bathelt",
+      "Werner Frangenberg",
+      "Hans-Georg Pape",
+      "Helmut Köllen",
+      "Barry Palmer",
+      "Dieter Petereit",
+      "Curt Cress",
+      "David Hanselmann",
+      "Werner Kopal",
+      "Matthias Holtmann"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mediterranean Tales",
+        "year": 1972
+      },
+      {
+        "title": "Illusions on a Double Dimple",
+        "year": 1974
+      },
+      {
+        "title": "Spartacus",
+        "year": 1975
+      },
+      {
+        "title": "Old Loves Die Hard",
+        "year": 1976
+      },
+      {
+        "title": "Pompeii",
+        "year": 1977
+      },
+      {
+        "title": "À la Carte",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Across the Waters",
+      "Illusions on a Double Dimple",
+      "Mister Ten Percent",
+      "The Capital of Power",
+      "Spartacus",
+      "Lucky Girl"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Bassist and vocalist Helmut Köllen died in 1977 at age 27 while listening to a solo demo tape in his garage, making him a member of the '27 Club'.",
+      "Their 1974 album Illusions on a Double Dimple was named one of the 50 greatest prog rock albums of all time by Rolling Stone."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Triumvirat",
+    "youtube_search": "Triumvirat The Capital of Power",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "german-prog"
+    ]
+  },
+  {
+    "id": "uk",
+    "name": "U.K.",
+    "genre": "prog-rock",
+    "subgenre": "art-rock",
+    "origin": "London, England, UK",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "U.K. was a high-profile progressive rock supergroup formed by former members of King Crimson, Roxy Music, and Yes. Their late-70s sound was distinguished by electric violin solos and the innovative sonorities of the Yamaha CS-80 synthesizer. Though they only existed for a few years, they achieved chart success by blending complex arrangements with more accessible jazz-fusion harmonies.",
+    "members_70s": [
+      "John Wetton",
+      "Bill Bruford",
+      "Eddie Jobson",
+      "Allan Holdsworth",
+      "Terry Bozzio"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "U.K.",
+        "year": 1978
+      },
+      {
+        "title": "Danger Money",
+        "year": 1979
+      },
+      {
+        "title": "Night After Night",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "In the Dead of Night",
+      "Nothing to Lose",
+      "Rendezvous 6:02",
+      "Night After Night",
+      "Mental Medication",
+      "Presto Vivace and Reprise"
+    ],
+    "mood": [
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed after Bill Bruford and John Wetton unsuccessfully attempted to reform King Crimson with Robert Fripp.",
+      "Before resolving to continue as a trio, the band unsuccessfully auditioned a then-unknown Steve Vai to join the group."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/U.K._(band)",
+    "youtube_search": "UK In the Dead of Night",
+    "tags": [
+      "prog-rock",
+      "supergroup",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "utopia",
+    "name": "Utopia",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "New York, USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "American progressive rock band led by Todd Rundgren that began as an ambitious vehicle for extended psychedelic and symphonic experimentation before evolving toward tightly crafted art-pop. Their early work featured lengthy, complex compositions while their later 1970s albums incorporated synthesizer textures and melodic accessibility without abandoning their progressive roots. They occupied a unique space in American prog, connecting the genre to the songwriting craft of the New York rock scene.",
+    "members_70s": [
+      "Todd Rundgren",
+      "Roger Powell",
+      "Kasim Sulton",
+      "John Wilcox"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Todd Rundgren's Utopia",
+        "year": 1973
+      },
+      {
+        "title": "Another Live",
+        "year": 1975
+      },
+      {
+        "title": "Ra",
+        "year": 1977
+      },
+      {
+        "title": "Oops! Wrong Planet",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Utopia Theme",
+      "Freak Parade",
+      "Hiroshima",
+      "Love in Action",
+      "The Martyr"
+    ],
+    "mood": [
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Todd Rundgren founded Utopia as a deliberate departure from his solo work, aiming to create a true band democracy rather than a vehicle for a single artist.",
+      "Keyboardist Roger Powell designed and built several of his own synthesizers used on Utopia's recordings, making the band pioneers in the use of custom electronic instruments."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Utopia_(Todd_Rundgren_band)",
+    "youtube_search": "Utopia Todd Rundgren Hiroshima",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "art-rock"
+    ]
+  },
+  {
+    "id": "van-der-graaf-generator",
+    "name": "Van der Graaf Generator",
+    "genre": "prog-rock",
+    "subgenre": "eclectic-prog",
+    "origin": "Manchester, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Van der Graaf Generator specialized in a darker, more intellectual style of progressive rock led by Peter Hammill’s intense vocals. Their 1970s sound emphasized classically influenced organ and multiple saxophones instead of traditional guitar solos. Lyrically, the group explored themes of mortality and science fiction, creating an atmosphere often described as intellectual and complex.",
+    "members_70s": [
+      "Peter Hammill",
+      "Hugh Banton",
+      "Guy Evans",
+      "David Jackson",
+      "Nic Potter",
+      "Graham Smith",
+      "Charles Dickie"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Least We Can Do Is Wave to Each Other",
+        "year": 1970
+      },
+      {
+        "title": "H to He, Who Am the Only One",
+        "year": 1970
+      },
+      {
+        "title": "Pawn Hearts",
+        "year": 1971
+      },
+      {
+        "title": "Godbluff",
+        "year": 1975
+      },
+      {
+        "title": "Still Life",
+        "year": 1976
+      },
+      {
+        "title": "World Record",
+        "year": 1976
+      },
+      {
+        "title": "The Quiet Zone/The Pleasure Dome",
+        "year": 1977
+      },
+      {
+        "title": "Vital",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Killer",
+      "A Plague of Lighthouse Keepers",
+      "La Rossa",
+      "Scorched Earth",
+      "House with No Door"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was named after an electrostatic generator, but the misspelling 'Graaf' was accidental.",
+      "Robert Fripp of King Crimson appeared as a guest guitarist on two of their albums.",
+      "They were immensely popular in Italy during the 1970s while remaining largely underground in the UK."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Van_der_Graaf_Generator",
+    "youtube_search": "Van der Graaf Generator Killer",
+    "tags": [
+      "prog-rock",
+      "eclectic-prog",
+      "british-prog"
+    ]
+  },
+  {
+    "id": "yes",
+    "name": "Yes",
+    "genre": "prog-rock",
+    "subgenre": "symphonic-prog",
+    "origin": "London, England",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Yes epitomized English symphonic progressive rock in the 1970s with their intricate structures and high-level musicianship. Their sound was defined by Jon Anderson’s distinctive vocals, Chris Squire’s driving bass, and expansive suites like 'Close to the Edge.' The band became famous for elaborate stage sets and surreal album covers designed by Roger Dean.",
+    "members_70s": [
+      "Jon Anderson",
+      "Chris Squire",
+      "Bill Bruford",
+      "Tony Kaye",
+      "Peter Banks",
+      "Steve Howe",
+      "Rick Wakeman",
+      "Alan White",
+      "Patrick Moraz"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Time and a Word",
+        "year": 1970
+      },
+      {
+        "title": "The Yes Album",
+        "year": 1971
+      },
+      {
+        "title": "Fragile",
+        "year": 1971
+      },
+      {
+        "title": "Close to the Edge",
+        "year": 1972
+      },
+      {
+        "title": "Yessongs",
+        "year": 1973
+      },
+      {
+        "title": "Tales from Topographic Oceans",
+        "year": 1973
+      },
+      {
+        "title": "Relayer",
+        "year": 1974
+      },
+      {
+        "title": "Going for the One",
+        "year": 1977
+      },
+      {
+        "title": "Tormato",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Roundabout",
+      "Close to the Edge",
+      "Starship Trooper",
+      "And You and I",
+      "The Gates of Delirium",
+      "Wonderous Stories"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band rehearsed in the basement of a London cafe called the Lucky Horseshoe before their first gig.",
+      "Minor planet (7707) Yes was named in honor of the band in 2003.",
+      "Rick Wakeman famously ate a curry on stage during the tour for Tales from Topographic Oceans."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yes_(band)",
+    "youtube_search": "Yes Close to the Edge",
+    "tags": [
+      "prog-rock",
+      "symphonic-prog",
+      "british-prog"
+    ]
+  }
+]

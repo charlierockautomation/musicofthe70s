@@ -1,0 +1,11 @@
+# Cloudflare Pages redirects — placeholder
+# Add redirect rules here when needed.
+# Format: /old-path  /new-path  301
+#
+# Example friendly URLs (optional — uncomment to enable):
+# /random-song        /pages/random-70s-song.html       301
+# /birthday           /pages/birthday-number-one.html   301
+# /mood               /pages/mood-song-matcher.html     301
+# /artist             /pages/random-artist-picker.html  301
+# /quiz               /pages/70s-trivia-quiz.html        301
+# /wheel              /pages/70s-decade-wheel.html       301

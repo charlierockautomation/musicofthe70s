@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What Was #1 The Week You Were Born? | 70s Birthday Song Finder</title>
+  <meta name="description" content="Enter your 1970s birthday and discover what song topped the Billboard Hot 100 the week you were born. Your personal piece of music history.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/birthday-number-one.html">
+
+  <meta property="og:title" content="What Was #1 The Week You Were Born? | 70s Birthday Song Finder">
+  <meta property="og:description" content="Enter your 1970s birthday and discover what song topped the Billboard Hot 100 the week you were born.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/birthday-number-one.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "70s Birthday #1 Song Finder",
+    "url": "https://musicofthe70s.net/pages/birthday-number-one.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "Find the Billboard Hot 100 number one song from the week you were born in the 1970s.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Birthday #1 Song Finder", "item": "https://musicofthe70s.net/pages/birthday-number-one.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › Birthday #1 Song Finder</nav>
+      <div class="page-intro">
+        <h1>What Was #1 The Week You Were Born?</h1>
+        <p>Pick your 1970s birthday and uncover the song that ruled the Billboard Hot 100 that very week.</p>
+      </div>
+
+      <div class="tool-stage">
+        <div id="loading">
+          <div class="spinner" role="status" aria-live="polite"></div>
+          <p class="loading-text">Loading chart history…</p>
+        </div>
+
+        <div id="error" class="error-text hidden"></div>
+
+        <div id="tool" class="hidden">
+          <div class="form-row">
+            <div>
+              <label for="monthSel">Month</label>
+              <select id="monthSel"></select>
+            </div>
+            <div>
+              <label for="daySel">Day</label>
+              <select id="daySel"></select>
+            </div>
+            <div>
+              <label for="yearSel">Year</label>
+              <select id="yearSel"></select>
+            </div>
+          </div>
+          <button id="findBtn" class="btn-primary">Find My #1 Song</button>
+
+          <div id="formError" class="error-text hidden" style="margin-top:1.5rem;"></div>
+
+          <div id="result" class="result hidden" aria-live="polite" style="margin-top:2rem;">
+            <p class="meta" id="rDate"></p>
+            <h2 class="song-title" id="rTitle"></h2>
+            <p class="artist-name" id="rArtist"></p>
+            <p class="meta" id="rContext"></p>
+            <p id="rFun" style="max-width:520px;margin:0.5rem auto;color:var(--text-primary);"></p>
+            <div class="actions">
+              <a id="rYouTube" class="btn-yt" target="_blank" rel="noopener noreferrer">▶ Search on YouTube</a>
+              <button id="shareBtn" class="btn-link">📋 Copy &amp; Share</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>The #1 Songs That Defined the 70s</h2>
+      <p>There's something magical about discovering the <strong>number one songs 70s</strong> radio was blasting the exact week you arrived in the world. The <strong>Billboard Hot 100 70s</strong> charts are a week-by-week diary of a decade in flux — and the song sitting at the top on any given Saturday says a lot about the cultural moment.</p>
+      <p>The decade's <strong>70s chart toppers</strong> read like a who's who of popular music. Early in the decade, soft rock and soul traded the top spot; by the middle, Elton John, Stevie Wonder and the rise of disco took hold; and by 1977–79 the Bee Gees and the <em>Saturday Night Fever</em> phenomenon turned the charts into one long dance party. Whatever week you were born, your #1 is a tiny time capsule of the <strong>music of the 70s</strong>.</p>
+      <p>Every result here is drawn from verified weekly Billboard Hot 100 number-one data covering all 522 weeks of the decade. Find yours, share it with friends born the same year, and see whose birthday song reigns supreme.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+  (function () {
+    const loadingEl = document.getElementById('loading');
+    const errorEl = document.getElementById('error');
+    const toolEl = document.getElementById('tool');
+    const formError = document.getElementById('formError');
+    const resultEl = document.getElementById('result');
+    const findBtn = document.getElementById('findBtn');
+    const shareBtn = document.getElementById('shareBtn');
+
+    const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    let weekly = null;
+    let current = null;
+
+    function populateSelectors() {
+      const m = document.getElementById('monthSel');
+      MONTHS.forEach((name, i) => {
+        const o = document.createElement('option'); o.value = String(i + 1); o.textContent = name; m.appendChild(o);
+      });
+      const d = document.getElementById('daySel');
+      for (let i = 1; i <= 31; i++) { const o = document.createElement('option'); o.value = String(i); o.textContent = String(i); d.appendChild(o); }
+      const y = document.getElementById('yearSel');
+      for (let i = 1970; i <= 1979; i++) { const o = document.createElement('option'); o.value = String(i); o.textContent = String(i); y.appendChild(o); }
+    }
+
+    // Find the weekly entry whose [week_start, week_end] contains the date.
+    function lookup(year, month, day) {
+      const entries = weekly[String(year)];
+      if (!entries) return null;
+      const target = new Date(Date.UTC(year, month - 1, day));
+      let best = null;
+      for (const e of entries) {
+        const start = new Date(e.week_start + 'T00:00:00Z');
+        const end = new Date(e.week_end + 'T23:59:59Z');
+        if (target >= start && target <= end) return e;
+      }
+      // Fallback: nearest week_start not after target (handles any gap)
+      for (const e of entries) {
+        const start = new Date(e.week_start + 'T00:00:00Z');
+        if (start <= target && (!best || start > new Date(best.week_start + 'T00:00:00Z'))) best = e;
+      }
+      return best || entries[0];
+    }
+
+    function isValidDate(year, month, day) {
+      const d = new Date(year, month - 1, day);
+      return d.getFullYear() === year && d.getMonth() === month - 1 && d.getDate() === day;
+    }
+
+    function find() {
+      formError.classList.add('hidden');
+      resultEl.classList.add('hidden');
+      const year = parseInt(document.getElementById('yearSel').value, 10);
+      const month = parseInt(document.getElementById('monthSel').value, 10);
+      const day = parseInt(document.getElementById('daySel').value, 10);
+
+      if (year < 1970 || year > 1979) {
+        formError.textContent = 'This tool covers 1970s birthdays only — try a year between 1970 and 1979.';
+        formError.classList.remove('hidden');
+        return;
+      }
+      if (!isValidDate(year, month, day)) {
+        formError.textContent = `${MONTHS[month - 1]} ${day}, ${year} isn't a real date — please pick a valid day.`;
+        formError.classList.remove('hidden');
+        return;
+      }
+      const entry = lookup(year, month, day);
+      if (!entry) {
+        formError.textContent = 'No chart data found for that week — please try another date.';
+        formError.classList.remove('hidden');
+        return;
+      }
+      current = { entry, year, month, day };
+      document.getElementById('rDate').textContent = `Week of ${MONTHS[month - 1]} ${day}, ${year}`;
+      document.getElementById('rTitle').textContent = entry.title;
+      document.getElementById('rArtist').textContent = `by ${entry.artist}`;
+      const w = entry.weeks_at_number_one;
+      document.getElementById('rContext').textContent =
+        w ? `This track spent ${w} week${w === 1 ? '' : 's'} at #1 in ${year}` : `#1 on the Billboard Hot 100 in ${year}`;
+      document.getElementById('rFun').textContent = entry.fun_fact || '';
+      document.getElementById('rYouTube').href = youtubeSearchURL(`${entry.title} ${entry.artist}`);
+      resultEl.classList.remove('result'); void resultEl.offsetWidth; resultEl.classList.add('result');
+      resultEl.classList.remove('hidden');
+    }
+
+    findBtn.addEventListener('click', find);
+
+    shareBtn.addEventListener('click', async () => {
+      if (!current) return;
+      const e = current.entry;
+      const text = `I was born when "${e.title}" by ${e.artist} was #1! Discover yours at musicofthe70s.net`;
+      const status = await shareOrCopy(
+        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/birthday-number-one.html' },
+        text
+      );
+      if (status === 'copied') { shareBtn.textContent = '✓ Copied!'; }
+      else if (status === 'shared') { shareBtn.textContent = '✓ Shared'; }
+      else if (status === 'failed') { shareBtn.textContent = 'Copy failed'; }
+      setTimeout(() => shareBtn.textContent = '📋 Copy & Share', 1800);
+    });
+
+    (async function init() {
+      try {
+        weekly = await loadJSON('/data/billboard/hot100_weekly.json');
+        populateSelectors();
+        loadingEl.classList.add('hidden');
+        toolEl.classList.remove('hidden');
+      } catch (err) {
+        console.error('Birthday tool failed to load data:', err);
+        loadingEl.classList.add('hidden');
+        errorEl.textContent = 'Sorry — we couldn\'t load the chart data right now. Please refresh the page to try again.';
+        errorEl.classList.remove('hidden');
+      }
+    })();
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random 70s Song Generator | Discover Classic 70s Music</title>
+  <meta name="description" content="Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link. Rock, disco, soul, country and more.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/random-70s-song.html">
+
+  <meta property="og:title" content="Random 70s Song Generator | Discover Classic 70s Music">
+  <meta property="og:description" content="Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/random-70s-song.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Random 70s Song Generator",
+    "url": "https://musicofthe70s.net/pages/random-70s-song.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "Spin and discover a random iconic 70s song with artist, year, genre and a YouTube search link.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Random 70s Song Generator", "item": "https://musicofthe70s.net/pages/random-70s-song.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › Random 70s Song Generator</nav>
+      <div class="page-intro">
+        <h1>Random 70s Song Generator</h1>
+        <p>Spin the record and let the decade surprise you. Every result is a real Billboard charting hit from 1970–1979.</p>
+      </div>
+
+      <div class="tool-stage">
+        <div id="loading">
+          <div class="spinner" role="status" aria-live="polite"></div>
+          <p class="loading-text">Loading a decade of hits…</p>
+        </div>
+
+        <div id="error" class="error-text hidden"></div>
+
+        <div id="tool" class="hidden">
+          <button id="spinBtn" class="vinyl-btn" aria-label="Spin a 70s song">Spin a 70s Song</button>
+
+          <div id="result" class="result hidden" aria-live="polite">
+            <h2 class="song-title" id="rTitle"></h2>
+            <p class="artist-name" id="rArtist"></p>
+            <p class="meta" id="rMeta"></p>
+            <div class="tag-row" id="rTags"></div>
+            <div class="actions">
+              <a id="rYouTube" class="btn-yt" target="_blank" rel="noopener noreferrer">▶ Search on YouTube</a>
+              <button id="shareBtn" class="btn-link">↗ Share</button>
+            </div>
+            <p class="counter" id="rCounter"></p>
+            <div style="margin-top:1.25rem;">
+              <button id="againBtn" class="btn-secondary">Spin Again</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>One Decade, Every Sound You Can Imagine</h2>
+      <p>The beauty of <strong>70s rock music</strong> — and 70s music in general — is how impossibly varied it was. Hit shuffle on the decade and you might land on a fist-pumping arena anthem, a velvet-smooth soul ballad, a four-on-the-floor disco burner or a twangy country crossover. That unpredictability is exactly what this generator celebrates. Every spin pulls from real Billboard Hot 100 chart data spanning all ten years, so everything you hear genuinely defined the era.</p>
+      <p>It's easy to forget just how much ground the <strong>music of the 70s</strong> covered. The same charts that crowned Led Zeppelin and the Rolling Stones also made room for Donna Summer, Stevie Wonder, the Eagles and Dolly Parton. <strong>70s songs</strong> crossed genre lines constantly — a funk record one week, a soft-rock weeper the next, then a punk single crashing the party. No algorithm dictated taste; radio, word of mouth and sheer quality did.</p>
+      <p>If you grew up on <strong>classic rock 70s</strong> radio, you'll recognise plenty here — but the real fun is in the deep cuts and one-hit wonders you'd forgotten existed. These are the <strong>70s rock and roll classics</strong> and crossover gems that still sound enormous today. Spin a few, follow the YouTube links, and build yourself a playlist the old-fashioned way: one great surprise at a time.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+  (function () {
+    const loadingEl = document.getElementById('loading');
+    const errorEl = document.getElementById('error');
+    const toolEl = document.getElementById('tool');
+    const spinBtn = document.getElementById('spinBtn');
+    const againBtn = document.getElementById('againBtn');
+    const shareBtn = document.getElementById('shareBtn');
+    const resultEl = document.getElementById('result');
+
+    let pool = [];
+    let idx = 0;
+    let current = null;
+    let discovered = parseInt(lsGet('songsDiscovered', '0'), 10) || 0;
+
+    function buildPool(files) {
+      const songs = [];
+      files.forEach((arr) => {
+        if (!Array.isArray(arr)) return;
+        arr.forEach((s) => {
+          // Quality filter: peak position 1–40
+          const peak = s.billboard_peak != null ? s.billboard_peak : s.rank;
+          if (peak != null && peak <= 40) songs.push(s);
+        });
+      });
+      return songs;
+    }
+
+    function nextSong() {
+      if (idx >= pool.length) { shuffle(pool); idx = 0; }
+      return pool[idx++];
+    }
+
+    function render(song) {
+      current = song;
+      document.getElementById('rTitle').textContent = song.title || 'Unknown Title';
+      document.getElementById('rArtist').textContent = song.artist || 'Unknown Artist';
+      document.getElementById('rMeta').textContent =
+        `${song.year || ''}`.trim();
+      const tags = document.getElementById('rTags');
+      const genre = song.genre || '';
+      tags.innerHTML =
+        (genre ? `<span class="badge badge-gold">${escapeHTML(genre)}</span>` : '') +
+        `<span class="badge">${escapeHTML(moodLineForGenre(genre))}</span>`;
+      const q = `${song.title || ''} ${song.artist || ''}`.trim();
+      document.getElementById('rYouTube').href = youtubeSearchURL(q);
+
+      discovered += 1;
+      lsSet('songsDiscovered', String(discovered));
+      document.getElementById('rCounter').textContent =
+        `You've discovered ${discovered} song${discovered === 1 ? '' : 's'} this session`;
+      resultEl.classList.remove('hidden');
+    }
+
+    function doSpin() {
+      if (!pool.length) return;
+      spinBtn.classList.add('spinning');
+      spinBtn.disabled = true;
+      const song = nextSong();
+      setTimeout(() => {
+        spinBtn.classList.remove('spinning');
+        spinBtn.disabled = false;
+        spinBtn.textContent = 'Spin Again';
+        // re-trigger fade animation
+        resultEl.classList.remove('result');
+        void resultEl.offsetWidth;
+        resultEl.classList.add('result');
+        render(song);
+      }, 600);
+    }
+
+    spinBtn.addEventListener('click', doSpin);
+    againBtn.addEventListener('click', doSpin);
+
+    shareBtn.addEventListener('click', async () => {
+      if (!current) return;
+      const text = `🎵 ${current.title} by ${current.artist} (${current.year || '70s'}) — discovered on Music of the 70s! musicofthe70s.net`;
+      const status = await shareOrCopy(
+        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/random-70s-song.html' },
+        text
+      );
+      if (status === 'copied') { shareBtn.textContent = '✓ Copied!'; setTimeout(() => shareBtn.textContent = '↗ Share', 1800); }
+      else if (status === 'shared') { shareBtn.textContent = '✓ Shared'; setTimeout(() => shareBtn.textContent = '↗ Share', 1800); }
+      else if (status === 'failed') { shareBtn.textContent = 'Copy failed'; setTimeout(() => shareBtn.textContent = '↗ Share', 1800); }
+    });
+
+    (async function init() {
+      try {
+        const data = await loadJSONMultiple(SONG_FILES);
+        pool = buildPool(data);
+        if (!pool.length) throw new Error('No songs available after filtering.');
+        shuffle(pool);
+        loadingEl.classList.add('hidden');
+        toolEl.classList.remove('hidden');
+      } catch (err) {
+        console.error('Random song generator failed to load data:', err);
+        loadingEl.classList.add('hidden');
+        errorEl.textContent = 'Sorry — we couldn\'t load the song data right now. Please refresh the page to try again.';
+        errorEl.classList.remove('hidden');
+      }
+    })();
+  })();
+  </script>
+</body>
+</html>

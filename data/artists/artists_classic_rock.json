@@ -1,0 +1,4743 @@
+[
+  {
+    "id": "38-special",
+    "name": "38 Special",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Jacksonville, Florida, US",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Formed in Jacksonville, 38 Special spent the late 1970s establishing themselves as a powerful force in the Southern rock scene. Led by Donnie Van Zant and Don Barnes, the group blended gritty boogie rock with a developing arena rock sensibility. Their initial 1970s output laid the groundwork for their transition into melodic rock success in the following decade.",
+    "members_70s": [
+      "Donnie Van Zant",
+      "Don Barnes",
+      "Jeff Carlisi",
+      "Jack Grondin",
+      "Steve Brookins",
+      "Ken Lyons"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "38 Special",
+        "year": 1977
+      },
+      {
+        "title": "Special Delivery",
+        "year": 1978
+      },
+      {
+        "title": "Rockin' into the Night",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Rockin' into the Night"
+    ],
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed by singer-guitarists Donnie Van Zant and Don Barnes in 1974.",
+      "Producer Rodney Mills, who worked with the band, previously graduated from being a sound man for Lynyrd Skynyrd."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/38_Special_(band)",
+    "youtube_search": "38 Special Rockin' into the Night",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "Jacksonville"
+    ]
+  },
+  {
+    "id": "america",
+    "name": "America",
+    "genre": "classic-rock",
+    "subgenre": "soft rock",
+    "origin": "London, England",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Formed in London by the sons of U.S. Air Force personnel, America became icons of 1970s folk and soft rock. Their sound was characterized by close three-part vocal harmonies and a light acoustic aesthetic reminiscent of contemporary folk-rock acts. They achieved significant popularity with a series of multi-platinum albums and hit singles that dominated pop and soft rock radio throughout the decade.",
+    "members_70s": [
+      "Dewey Bunnell",
+      "Dan Peek",
+      "Gerry Beckley"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "America",
+        "year": 1971
+      },
+      {
+        "title": "Homecoming",
+        "year": 1972
+      },
+      {
+        "title": "Hat Trick",
+        "year": 1973
+      },
+      {
+        "title": "Holiday",
+        "year": 1974
+      },
+      {
+        "title": "Hearts",
+        "year": 1975
+      },
+      {
+        "title": "Hideaway",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "A Horse with No Name",
+      "I Need You",
+      "Ventura Highway",
+      "Tin Man",
+      "Lonely People",
+      "Sister Golden Hair",
+      "Daisy Jane",
+      "Today's the Day"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The trio first met while attending London Central High School at Bushey Hall as sons of U.S. military personnel.",
+      "Their 1971 debut album included the transatlantic hits 'A Horse with No Name' and 'I Need You.'",
+      "Producer George Martin began working with the band starting with their 1974 album 'Holiday.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/America_(band)",
+    "youtube_search": "America A Horse with No Name",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "folk-rock"
+    ]
+  },
+  {
+    "id": "april-wine",
+    "name": "April Wine",
+    "genre": "classic-rock",
+    "subgenre": "hard rock",
+    "origin": "Waverley, Nova Scotia, Canada",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "April Wine is a cornerstone of Canadian hard rock, finding their first major successes in the early 1970s. Led by Myles Goodwyn, the band combined powerful guitar riffs with melodic songwriting, reaching the Canadian Top 40 frequently. By the late 70s, their influence expanded through consistent album releases and extensive touring, solidifying their status in the rock landscape.",
+    "members_70s": [
+      "Myles Goodwyn",
+      "Brian Greenway",
+      "Gary Moffet",
+      "Steve Lang",
+      "Jerry Mercer",
+      "Jim Clench"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "April Wine",
+        "year": 1971
+      },
+      {
+        "title": "On Record",
+        "year": 1972
+      },
+      {
+        "title": "Electric Jewels",
+        "year": 1973
+      },
+      {
+        "title": "Stand Back",
+        "year": 1975
+      },
+      {
+        "title": "The Whole World's Goin' Crazy",
+        "year": 1976
+      },
+      {
+        "title": "First Glance",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Fast Train",
+      "You Could Have Been a Lady",
+      "Bad Side of the Moon",
+      "Tonite Is a Wonderful Time to Fall in Love",
+      "Roller"
+    ],
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was led by singer-guitarist-songwriter Myles Goodwyn from its formation until his death in 2023.",
+      "Their second album, 'On Record' (1972), yielded a hit cover of Hot Chocolate's 'You Could Have Been a Lady.'",
+      "In 1976, April Wine became the first Canadian band to have a platinum-certified album and a million-dollar tour."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/April_Wine",
+    "youtube_search": "April Wine Roller",
+    "tags": [
+      "classic-rock",
+      "hard-rock",
+      "Canadian-rock"
+    ]
+  },
+  {
+    "id": "blackfoot",
+    "name": "Blackfoot",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Jacksonville, Florida, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Hailing from Jacksonville, Blackfoot integrated heavy metal intensity with traditional Southern rock throughout the 1970s. Led by Rickey Medlocke, the band developed a reputation for a hard-hitting, aggressive sound that set them apart from their more country-leaning peers. They reached a commercial peak at the end of the decade with their platinum-selling album 'Strikes.'",
+    "members_70s": [
+      "Rickey Medlocke",
+      "Charlie Hargrett",
+      "Greg T. Walker",
+      "Jakson Spires"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "No Reservations",
+        "year": 1975
+      },
+      {
+        "title": "Flyin' High",
+        "year": 1976
+      },
+      {
+        "title": "Strikes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Highway Song",
+      "Train, Train"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was originally formed in 1970 and was also known as Fresh Garbage and Hammer.",
+      "Frontman Rickey Medlocke had a brief stint as a drummer for Lynyrd Skynyrd in the early 70s before returning to lead Blackfoot.",
+      "Their 1979 album 'Strikes' was certified platinum by the RIAA."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blackfoot_(band)",
+    "youtube_search": "Blackfoot Highway Song",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "hard-rock"
+    ]
+  },
+  {
+    "id": "bob-dylan",
+    "name": "Bob Dylan",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "Duluth, Minnesota, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "In the 1970s, Dylan moved away from the country-inflected sound of the late 60s toward more emotionally raw and spiritually focused works. He achieved significant commercial and critical success with albums like 'Blood on the Tracks', which redefined the confessional singer-songwriter genre. The decade also saw him return to extensive touring with the high-profile Rolling Thunder Revue and a later transition toward Christian-themed music.",
+    "key_albums_70s": [
+      {
+        "title": "Self Portrait",
+        "year": 1970
+      },
+      {
+        "title": "New Morning",
+        "year": 1970
+      },
+      {
+        "title": "Planet Waves",
+        "year": 1974
+      },
+      {
+        "title": "Blood on the Tracks",
+        "year": 1975
+      },
+      {
+        "title": "Desire",
+        "year": 1976
+      },
+      {
+        "title": "Slow Train Coming",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Knockin' on Heaven's Door",
+      "Tangled Up in Blue",
+      "Hurricane",
+      "Forever Young",
+      "Shelter from the Storm",
+      "Simple Twist of Fate"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Dylan's 1975 album 'Blood on the Tracks' is often cited as a masterpiece of the confessional singer-songwriter era.",
+      "He embarked on the influential Rolling Thunder Revue tour in 1975, featuring a rotating cast of folk and rock musicians.",
+      "In 1979, he released 'Slow Train Coming', which marked his public conversion to Christianity and a shift in his lyrical themes."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+    "youtube_search": "Bob Dylan Tangled Up in Blue",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "legendary"
+    ]
+  },
+  {
+    "id": "bob-seger",
+    "name": "Bob Seger",
+    "genre": "classic-rock",
+    "subgenre": "heartland rock",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Bob Seger became a definitive voice of heartland rock in the 1970s, known for his raspy, powerful vocals and blue-collar themes. After years of regional success in Detroit, he broke through nationally in the mid-70s with his Silver Bullet Band and the landmark 'Live Bullet' album. His soulful songwriting and driving roots rock sound captured the spirit of the American experience, resulting in a series of iconic multi-platinum records.",
+    "key_albums_70s": [
+      {
+        "title": "Smokin' O.P.'s",
+        "year": 1972
+      },
+      {
+        "title": "Back in '72",
+        "year": 1972
+      },
+      {
+        "title": "Seven",
+        "year": 1974
+      },
+      {
+        "title": "Beautiful Loser",
+        "year": 1975
+      },
+      {
+        "title": "Live Bullet",
+        "year": 1976
+      },
+      {
+        "title": "Night Moves",
+        "year": 1976
+      },
+      {
+        "title": "Stranger in Town",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Turn the Page",
+      "Beautiful Loser",
+      "Night Moves",
+      "Mainstreet",
+      "Rock and Roll Never Forgets",
+      "Still the Same",
+      "Hollywood Nights",
+      "Old Time Rock and Roll"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Seger co-wrote the Eagles' number-one hit 'Heartache Tonight.'",
+      "The landmark live album 'Live Bullet' (1976) was recorded over two nights at Cobo Hall in Detroit.",
+      "His recording of 'Old Time Rock and Roll' was named one of the Songs of the Century in 2001."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Seger",
+    "youtube_search": "Bob Seger Night Moves",
+    "tags": [
+      "classic-rock",
+      "heartland-rock",
+      "Detroit"
+    ]
+  },
+  {
+    "id": "bruce-springsteen",
+    "name": "Bruce Springsteen",
+    "genre": "classic-rock",
+    "subgenre": "heartland rock",
+    "origin": "Long Branch, New Jersey, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Bruce Springsteen rose to legendary status in the 1970s as a powerful chronicler of working-class life. Backed by the E Street Band, his early albums showcased a blend of rock, folk, and R&B that reached a critical and commercial apex with 1975's 'Born to Run.' Known for his epic, high-energy live performances, Springsteen's 1970s work redefined heartland rock with its cinematic scope and poetic lyricism.",
+    "key_albums_70s": [
+      {
+        "title": "Greetings from Asbury Park, N.J.",
+        "year": 1973
+      },
+      {
+        "title": "The Wild, the Innocent & the E Street Shuffle",
+        "year": 1973
+      },
+      {
+        "title": "Born to Run",
+        "year": 1975
+      },
+      {
+        "title": "Darkness on the Edge of Town",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Blinded by the Light",
+      "Spirit in the Night",
+      "Rosalita (Come Out Tonight)",
+      "Thunder Road",
+      "Tenth Avenue Freeze-Out",
+      "Born to Run",
+      "Badlands",
+      "The Promised Land"
+    ],
+    "mood": [
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1975, Springsteen was featured on the covers of both Time and Newsweek in the same week.",
+      "His iconic 1950s Fender Esquire guitar has been played in almost every club, theater, and stadium of his career.",
+      "The 1978 album 'Darkness on the Edge of Town' followed a long legal battle with his former manager, Mike Appel."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+    "youtube_search": "Bruce Springsteen Born to Run",
+    "tags": [
+      "classic-rock",
+      "heartland-rock",
+      "E-Street-Band"
+    ]
+  },
+  {
+    "id": "charlie-daniels",
+    "name": "Charlie Daniels",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Wilmington, North Carolina, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Charlie Daniels was a pioneering force in Southern rock, famously blending country fiddle with hard-driving rock energy. After years as a respected session musician, he found solo success in the 1970s with the Charlie Daniels Band. His eclectic style reached a commercial peak in 1979 with the crossover smash 'The Devil Went Down to Georgia,' solidifying his place as a versatile multi-instrumentalist and cultural figurehead.",
+    "key_albums_70s": [
+      {
+        "title": "Charlie Daniels",
+        "year": 1971
+      },
+      {
+        "title": "Way Down Yonder",
+        "year": 1974
+      },
+      {
+        "title": "Fire on the Mountain",
+        "year": 1974
+      },
+      {
+        "title": "Nightrider",
+        "year": 1975
+      },
+      {
+        "title": "Saddle Tramp",
+        "year": 1976
+      },
+      {
+        "title": "Million Mile Reflections",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Uneasy Rider",
+      "The South's Gonna Do It",
+      "Long Haired Country Boy",
+      "Texas",
+      "Saddle Tramp",
+      "The Devil Went Down to Georgia"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Daniels co-wrote the song 'It Hurts Me,' which was recorded by Elvis Presley in 1964.",
+      "He played fiddle on three albums by Bob Dylan, including 'Nashville Skyline.'",
+      "His signature hit 'The Devil Went Down to Georgia' is considered one of the earliest examples of country-rap."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Daniels",
+    "youtube_search": "Charlie Daniels The Devil Went Down to Georgia",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "fiddle"
+    ]
+  },
+  {
+    "id": "chicago",
+    "name": "Chicago",
+    "genre": "classic-rock",
+    "subgenre": "jazz rock",
+    "origin": "Chicago, Illinois, United States",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Chicago was a dominant force in 1970s rock, pioneering a unique sound that integrated a powerful horn section into a jazz-rock framework. Throughout the decade, they released a series of chart-topping albums and iconic singles that blended rock intensity with complex arrangements. Their 1970s era was defined by the innovative guitar work of Terry Kath and a transition toward the melodic soft rock that would ensure their lasting longevity.",
+    "members_70s": [
+      "Robert Lamm",
+      "Lee Loughnane",
+      "James Pankow",
+      "Walter Parazaider",
+      "Terry Kath",
+      "Danny Seraphine",
+      "Peter Cetera",
+      "Laudir de Oliveira"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Chicago (Chicago II)",
+        "year": 1970
+      },
+      {
+        "title": "Chicago III",
+        "year": 1971
+      },
+      {
+        "title": "Chicago V",
+        "year": 1972
+      },
+      {
+        "title": "Chicago VI",
+        "year": 1973
+      },
+      {
+        "title": "Chicago VII",
+        "year": 1974
+      },
+      {
+        "title": "Chicago XI",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "25 or 6 to 4",
+      "Make Me Smile",
+      "Saturday in the Park",
+      "Feelin' Stronger Every Day",
+      "Wishing You Were Here",
+      "Old Days",
+      "If You Leave Me Now",
+      "Baby, What a Big Surprise"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1971, Chicago became the first rock act to sell out Carnegie Hall for an entire week.",
+      "The band was originally called The Chicago Transit Authority but shortened their name to Chicago in 1969.",
+      "Founder Terry Kath accidentally died from a self-inflicted gunshot wound in January 1978."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago_(band)",
+    "youtube_search": "Chicago 25 or 6 to 4",
+    "tags": [
+      "classic-rock",
+      "jazz-rock",
+      "horn-section"
+    ]
+  },
+  {
+    "id": "commander-cody-and-his-lost-planet-airmen",
+    "name": "Commander Cody and His Lost Planet Airmen",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Ann Arbor, Michigan, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "This group was a leading force in the country-rock and roots-rock movements of the early 1970s, blending country, rockabilly, and western swing. They were renowned for their high-energy marathon live shows and a sound that provided a counter-cultural twist to traditional country music. Their eclectic style reached a broad audience with hits that showcased their unique musical chemistry and diverse influences.",
+    "members_70s": [
+      "George Frayne",
+      "Billy C. Farlow",
+      "Bill Kirchen",
+      "John Tichy",
+      "Andy Stein",
+      "Bruce Barlow",
+      "Lance Dickerson",
+      "Bobby Black"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Lost in the Ozone",
+        "year": 1971
+      },
+      {
+        "title": "Hot Licks, Cold Steel & Truckers Favorites",
+        "year": 1972
+      },
+      {
+        "title": "Country Casanova",
+        "year": 1973
+      },
+      {
+        "title": "Live from Deep in the Heart of Texas",
+        "year": 1974
+      },
+      {
+        "title": "Commander Cody and His Lost Planet Airmen",
+        "year": 1975
+      },
+      {
+        "title": "Tales from the Ozone",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Hot Rod Lincoln",
+      "Beat Me Daddy Eight to the Bar",
+      "Smoke! Smoke! Smoke! (That Cigarette)",
+      "Mama Hated Diesels",
+      "Lost in the Ozone",
+      "Don't Let Go"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's biggest hit, a cover of 'Hot Rod Lincoln', reached the Top 10 on the Billboard Hot 100 in 1972.",
+      "Leader George Frayne performed under the stage name Commander Cody and was known for his boogie-woogie piano style.",
+      "Their sound was described as a alchemic concoction made up of equal parts country, western, blues, and big band jazz."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Commander_Cody_and_His_Lost_Planet_Airmen",
+    "youtube_search": "Commander Cody Hot Rod Lincoln",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "rockabilly"
+    ]
+  },
+  {
+    "id": "creedence-clearwater-revival",
+    "name": "Creedence Clearwater Revival",
+    "genre": "classic-rock",
+    "subgenre": "roots rock",
+    "origin": "El Cerrito, California, U.S.",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "Though they disbanded in 1972, Creedence Clearwater Revival's early 1970s work represents the pinnacle of roots and swamp rock. Led by John Fogerty's songwriting and gravelly vocals, the band produced an extraordinary string of hits that prioritized basic, gritty rock over the prevailing psychedelic trends. Their unapologetic throwback to the golden era of rock and roll remains culturally and historically significant.",
+    "members_70s": [
+      "John Fogerty",
+      "Tom Fogerty",
+      "Stu Cook",
+      "Doug Clifford"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Cosmo's Factory",
+        "year": 1970
+      },
+      {
+        "title": "Pendulum",
+        "year": 1970
+      },
+      {
+        "title": "Mardi Gras",
+        "year": 1972
+      }
+    ],
+    "key_songs_70s": [
+      "Travelin' Band",
+      "Up Around the Bend",
+      "Lookin' out My Back Door",
+      "Have You Ever Seen the Rain?",
+      "Sweet Hitch-Hiker",
+      "Someday Never Comes"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band performed at the 1969 Woodstock festival and was the first major act signed to appear there.",
+      "Between 1969 and 1971, they produced 14 consecutive top-10 singles in the United States.",
+      "Before settling on Creedence Clearwater Revival in 1967, the members played together as the Blue Velvets and the Golliwogs."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival",
+    "youtube_search": "Creedence Clearwater Revival Have You Ever Seen the Rain?",
+    "tags": [
+      "classic-rock",
+      "roots-rock",
+      "swamp-rock"
+    ]
+  },
+  {
+    "id": "crosby-stills-nash-young",
+    "name": "Crosby, Stills, Nash & Young",
+    "genre": "classic-rock",
+    "subgenre": "folk rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Crosby, Stills, Nash & Young (and the core CSN trio) were the standard bearers for 1970s folk rock, defined by their intricate vocal harmonies and political activism. Straddling genres from country rock to confessional ballads, the supergroup was a major counterculture force in the early years of the decade. Their 1970s output, though sporadic due to internal turmoil, remains influential for its songwriting depth and lasting impact on American culture.",
+    "members_70s": [
+      "David Crosby",
+      "Stephen Stills",
+      "Graham Nash",
+      "Neil Young"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Déjà Vu",
+        "year": 1970
+      },
+      {
+        "title": "4 Way Street",
+        "year": 1971
+      },
+      {
+        "title": "CSN",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Teach Your Children",
+      "Our House",
+      "Ohio",
+      "Find the Cost of Freedom",
+      "Just a Song Before I Go",
+      "Fair Game"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was sometimes referred to as 'The American Beatles' by promoter Bill Graham in 1970.",
+      "The song 'Ohio' was written by Neil Young in response to the 1970 Kent State shootings.",
+      "David Crosby and Graham Nash also recorded and toured as a duo during the mid-70s hiatus of the full group."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crosby,Stills,%26_Young",
+    "youtube_search": "Crosby Stills Nash & Young Teach Your Children",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "supergroup"
+    ]
+  },
+  {
+    "id": "dan-fogelberg",
+    "name": "Dan Fogelberg",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Peoria, Illinois, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Fogelberg became a defining voice of the 1970s soft rock era with his melodic and introspective compositions. His sound successfully blended folk, pop, and country rock, often featuring lush arrangements and highly personal lyrics. He achieved widespread commercial popularity with a series of albums that resonated with the decade's focus on sensitive, acoustic-driven songwriting.",
+    "key_albums_70s": [
+      {
+        "title": "Home Free",
+        "year": 1972
+      },
+      {
+        "title": "Souvenirs",
+        "year": 1974
+      },
+      {
+        "title": "Captured Angel",
+        "year": 1975
+      },
+      {
+        "title": "Nether Lands",
+        "year": 1977
+      },
+      {
+        "title": "Twin Sons of Different Mothers",
+        "year": 1978
+      },
+      {
+        "title": "Phoenix",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "To the Morning",
+      "Part of the Plan",
+      "The Power of Gold",
+      "Longer",
+      "Heart Hotels",
+      "Same Old Lang Syne"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1974 album 'Souvenirs' was produced by Joe Walsh and served as his major commercial breakthrough.",
+      "Fogelberg was a talented multi-instrumentalist who frequently played many of the instruments on his own studio recordings.",
+      "The song 'Longer' became one of his most enduring hits, reaching number two on the Billboard Hot 100 in late 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Fogelberg",
+    "youtube_search": "Dan Fogelberg Longer",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "dr-hook",
+    "name": "Dr. Hook",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Union City, New Jersey, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Originally known as Dr. Hook & the Medicine Show, the band transitioned from performing humorous and satirical songs to achieving massive soft rock success in the mid-to-late 1970s. Their 70s sound was defined by catchy pop melodies and the distinct vocals of Dennis Locorriere and Ray Sawyer. They became one of the decade's most versatile chart acts, securing hits ranging from novelty rockers to sentimental ballads.",
+    "members_70s": [
+      "Dennis Locorriere",
+      "Ray Sawyer",
+      "Billy Francis",
+      "George Cummings",
+      "Jay David",
+      "Jance Garfat",
+      "Rik Elswit"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Doctor Hook",
+        "year": 1972
+      },
+      {
+        "title": "Sloppy Seconds",
+        "year": 1972
+      },
+      {
+        "title": "Belly Up!",
+        "year": 1973
+      },
+      {
+        "title": "Bankrupt",
+        "year": 1975
+      },
+      {
+        "title": "A Little Bit More",
+        "year": 1976
+      },
+      {
+        "title": "Pleasure and Pain",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Sylvia's Mother",
+      "The Cover of 'Rolling Stone'",
+      "Only Sixteen",
+      "A Little Bit More",
+      "Walk Right In",
+      "Sharing the Night Together"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's satirical hit 'The Cover of Rolling Stone' actually resulted in the group appearing on the magazine's cover in 1973.",
+      "Much of their early success was driven by songs written by the noted poet and songwriter Shel Silverstein.",
+      "The band was famous for their wild live shows and their transition into the 'yacht rock' sound of the late 70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dr.Hook%26_the_Medicine_Show",
+    "youtube_search": "Dr Hook The Cover of Rolling Stone",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "eagles",
+    "name": "Eagles",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Formed in Los Angeles in 1971, the Eagles became one of the most successful musical acts of the 1970s. Initially known for their country-rock sound and high-flying vocal harmonies, they transitioned into a more rock-oriented aesthetic by mid-decade with the addition of Joe Walsh. Their masterpiece 'Hotel California' (1976) defined the era's sophisticated production and remains one of the best-selling records of all time.",
+    "members_70s": [
+      "Don Henley",
+      "Glenn Frey",
+      "Joe Walsh",
+      "Don Felder",
+      "Timothy B. Schmit",
+      "Bernie Leadon",
+      "Randy Meisner"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Eagles",
+        "year": 1972
+      },
+      {
+        "title": "Desperado",
+        "year": 1973
+      },
+      {
+        "title": "On the Border",
+        "year": 1974
+      },
+      {
+        "title": "One of These Nights",
+        "year": 1975
+      },
+      {
+        "title": "Hotel California",
+        "year": 1976
+      },
+      {
+        "title": "The Long Run",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Take It Easy",
+      "Witchy Woman",
+      "Best of My Love",
+      "One of These Nights",
+      "Lyin' Eyes",
+      "Take It to the Limit",
+      "Hotel California",
+      "Heartache Tonight"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The founding members were all originally recruited as band members for Linda Ronstadt's summer tour in 1971.",
+      "The compilation 'Their Greatest Hits (1971–1975)' was honored as the Best Selling Album of the Century by the RIAA in 1999.",
+      "Before choosing a name, the band performed their first show under the moniker 'Teen King and the Emergencies' in Aspen, Colorado."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eagles(band)",
+    "youtube_search": "Eagles Hotel California",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "edgar-winter",
+    "name": "Edgar Winter",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "Beaumont, Texas, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Edgar Winter is an American multi-instrumentalist whose career reached a commercial peak in the early 1970s. Working across rock, jazz, and blues, he formed the Edgar Winter Group, which produced iconic classic rock staples like 'Frankenstein' and 'Free Ride.' His unique style of genre-blending musicianship and high-energy performances made him a standout figure of the decade's rock scene.",
+    "key_albums_70s": [
+      {
+        "title": "Entrance",
+        "year": 1970
+      },
+      {
+        "title": "Edgar Winter's White Trash",
+        "year": 1971
+      },
+      {
+        "title": "Roadwork",
+        "year": 1972
+      },
+      {
+        "title": "They Only Come Out at Night",
+        "year": 1972
+      },
+      {
+        "title": "Shock Treatment",
+        "year": 1974
+      },
+      {
+        "title": "Jasmine Nightdreams",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Tobacco Road",
+      "Keep Playin' That Rock 'n' Roll",
+      "Frankenstein",
+      "Free Ride",
+      "River's Risin'"
+    ],
+    "mood": [
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Edgar and his elder brother, blues guitarist Johnny Winter, were both born with albinism.",
+      "The instrumental hit 'Frankenstein' reached number one on the Billboard Hot 100 in 1973.",
+      "Winter is a skilled multi-instrumentalist who plays keyboards, saxophone, and percussion."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edgar_Winter",
+    "youtube_search": "Edgar Winter Frankenstein",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "multi-instrumentalist"
+    ]
+  },
+  {
+    "id": "elvin-bishop",
+    "name": "Elvin Bishop",
+    "genre": "classic-rock",
+    "subgenre": "southern-rock",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "After a stint with the Paul Butterfield Blues Band, Bishop launched a successful solo career in the 1970s centered on blues-infused Southern rock. His 70s sound was characterized by relaxed, groovy guitar work and a sense of lighthearted humor. He achieved major mainstream success in the middle of the decade, showcasing a more melodic side of his musical persona that blended blues roots with pop-rock sensibilities.",
+    "key_albums_70s": [
+      {
+        "title": "Let It Flow",
+        "year": 1974
+      },
+      {
+        "title": "Juke Joint Jump",
+        "year": 1975
+      },
+      {
+        "title": "Struttin' My Stuff",
+        "year": 1975
+      },
+      {
+        "title": "Hometown Boy Makes Good!",
+        "year": 1976
+      },
+      {
+        "title": "Raisin' Hell",
+        "year": 1977
+      },
+      {
+        "title": "Hog Heaven",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Fooled Around and Fell in Love",
+      "Travelin' Shoes",
+      "Sure Feels Good",
+      "Struttin' My Stuff",
+      "Spend Some Time",
+      "Don't Let the Bossman Get You Down"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His biggest commercial success, 'Fooled Around and Fell in Love', featured future Jefferson Starship singer Mickey Thomas on lead vocals.",
+      "Bishop was an original member of the Paul Butterfield Blues Band before launching his solo career in the late 1960s.",
+      "He was a leading figure in the Southern rock scene associated with the Capricorn Records label during the 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elvin_Bishop",
+    "youtube_search": "Elvin Bishop Fooled Around and Fell in Love",
+    "tags": [
+      "classic-rock",
+      "southern-rock",
+      "blues-rock"
+    ]
+  },
+  {
+    "id": "england-dan-john-ford-coley",
+    "name": "England Dan & John Ford Coley",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Dallas, Texas, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "This Texas duo was a staple of the 1970s soft rock scene, known for their precise vocal harmonies and acoustic melodies. They reached the peak of their commercial success during the middle of the decade with a series of gentle pop-rock hits. Their sound perfectly encapsulated the era's focus on melodic, highly accessible arrangements that bridged the gap between folk and mainstream pop.",
+    "members_70s": [
+      "Dan Seals",
+      "John Ford Coley"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "England Dan & John Ford Coley",
+        "year": 1971
+      },
+      {
+        "title": "Fables",
+        "year": 1972
+      },
+      {
+        "title": "I Hear Music",
+        "year": 1976
+      },
+      {
+        "title": "Nights Are Forever",
+        "year": 1976
+      },
+      {
+        "title": "Dowdy Ferry Road",
+        "year": 1977
+      },
+      {
+        "title": "Some Things Don't Come Easy",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I'd Really Love to See You Tonight",
+      "Nights Are Forever Without You",
+      "It's Sad to Belong",
+      "We'll Never Have to Say Goodbye Again",
+      "Love Is the Answer",
+      "Gone Too Far"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The duo's most famous hit, 'I'd Really Love to See You Tonight', reached number two on the Billboard Hot 100 in 1976.",
+      "Dan Seals, known as England Dan, was the younger brother of Jim Seals of the duo Seals & Crofts.",
+      "Following the duo's split in 1980, Dan Seals launched a highly successful second career as a country music artist."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/England_Dan_%26_John_Ford_Coley",
+    "youtube_search": "England Dan & John Ford Coley I'd Really Love to See You Tonight",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "eric-clapton",
+    "name": "Eric Clapton",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "Ripley, Surrey, England",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "In the 1970s, Eric Clapton transitioned from his role in major rock bands to a highly successful solo career. His decade was marked by both profound personal struggle and musical triumph, beginning with the blues-rock masterpiece 'Layla' as part of Derek and the Dominos. Re-emerging in 1974 with '461 Ocean Boulevard,' he embraced a more laid-back, melodic approach that produced a string of multi-platinum hits and solidified his legacy as a preeminent rock guitarist.",
+    "key_albums_70s": [
+      {
+        "title": "Eric Clapton",
+        "year": 1970
+      },
+      {
+        "title": "Layla and Other Assorted Love Songs",
+        "year": 1970
+      },
+      {
+        "title": "461 Ocean Boulevard",
+        "year": 1974
+      },
+      {
+        "title": "There's One in Every Crowd",
+        "year": 1975
+      },
+      {
+        "title": "Slowhand",
+        "year": 1977
+      },
+      {
+        "title": "Backless",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "After Midnight",
+      "Let It Rain",
+      "Layla",
+      "Bell Bottom Blues",
+      "I Shot the Sheriff",
+      "Lay Down Sally",
+      "Cocaine",
+      "Wonderful Tonight"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The landmark song 'Layla' was inspired by the classical Persian love story of Layla and Majnun.",
+      "His 1974 cover of Bob Marley's 'I Shot the Sheriff' reached number one on the Billboard Hot 100.",
+      "Clapton is the only three-time inductee into the Rock and Roll Hall of Fame: once as a solo artist and twice as a member of the Yardbirds and Cream."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Clapton",
+    "youtube_search": "Eric Clapton Cocaine",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "guitar-legend"
+    ]
+  },
+  {
+    "id": "faces",
+    "name": "Faces",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "London, England",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Faces were one of the premier English rock bands of the early 1970s, known for their loose, high-spirited, and blues-infused sound. Formed from the remaining members of Small Faces and newcomers Rod Stewart and Ronnie Wood, the band became famous for their shambolic yet soulful live performances. Their music combined gritty rock with sentimental ballads, capturing a distinctively boozy and authentic rock 'n' roll energy before disbanding in 1975.",
+    "members_70s": [
+      "Kenney Jones",
+      "Ronnie Wood",
+      "Rod Stewart",
+      "Ian McLagan",
+      "Ronnie Lane",
+      "Tetsu Yamauchi"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "First Step",
+        "year": 1970
+      },
+      {
+        "title": "Long Player",
+        "year": 1971
+      },
+      {
+        "title": "A Nod Is As Good As a Wink... to a Blind Horse",
+        "year": 1971
+      },
+      {
+        "title": "Ooh La La",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Stay with Me",
+      "Cindy Incidentally",
+      "Pool Hall Richard",
+      "Ooh La La",
+      "You Can Make Me Dance, Sing or Anything"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band formed after Steve Marriott left Small Faces to form Humble Pie.",
+      "Both Rod Stewart and Ronnie Wood joined the band after previously playing in the Jeff Beck Group.",
+      "The band was inducted into the Rock and Roll Hall of Fame in 2012."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Faces_(band)",
+    "youtube_search": "Faces Stay with Me",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "supergroup"
+    ]
+  },
+  {
+    "id": "firefall",
+    "name": "Firefall",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Boulder, Colorado, U.S.",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Firefall was a prominent soft rock band that emerged in the mid-1970s, blending country-rock foundations with melodic pop sensibilities. Founded by former members of the Flying Burrito Brothers and Zephyr, the group was known for their smooth harmonies and polished songwriting. They achieved significant crossover success during the late 70s, securing several gold and platinum albums while becoming a staple of FM radio airwaves.",
+    "members_70s": [
+      "Rick Roberts",
+      "Jock Bartley",
+      "Larry Burnett",
+      "Mark Andes",
+      "Michael Clarke",
+      "David Muse"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Firefall",
+        "year": 1976
+      },
+      {
+        "title": "Luna Sea",
+        "year": 1977
+      },
+      {
+        "title": "Élan",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "You Are the Woman",
+      "Just Remember I Love You",
+      "Runaway Love",
+      "Strange Way",
+      "Cinderella",
+      "Goodbye I Love You"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was founded by Rick Roberts, who had previously achieved success as a member of the Flying Burrito Brothers.",
+      "Their self-titled debut album was certified gold by the RIAA within months of its 1976 release.",
+      "The group featured a strong pedigree of classic rock veterans, including former members of The Byrds and Spirit."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Firefall",
+    "youtube_search": "Firefall You Are the Woman",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "country-rock"
+    ]
+  },
+  {
+    "id": "fleetwood-mac",
+    "name": "Fleetwood Mac",
+    "genre": "classic-rock",
+    "subgenre": "pop rock",
+    "origin": "London, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Fleetwood Mac underwent a dramatic transformation in the 1970s, evolving from a British blues outfit into global pop-rock superstars. The addition of Lindsey Buckingham and Stevie Nicks in 1974 brought a melodic, California-rock sound that resulted in the massive success of their self-titled 1975 album and the landmark 'Rumours' (1977). Their music during this period explored complex interpersonal dynamics through sophisticated production and era-defining songwriting.",
+    "members_70s": [
+      "Mick Fleetwood",
+      "John McVie",
+      "Christine McVie",
+      "Lindsey Buckingham",
+      "Stevie Nicks",
+      "Danny Kirwan",
+      "Bob Welch",
+      "Bob Weston",
+      "Dave Walker"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Kiln House",
+        "year": 1970
+      },
+      {
+        "title": "Bare Trees",
+        "year": 1972
+      },
+      {
+        "title": "Mystery to Me",
+        "year": 1973
+      },
+      {
+        "title": "Fleetwood Mac",
+        "year": 1975
+      },
+      {
+        "title": "Rumours",
+        "year": 1977
+      },
+      {
+        "title": "Tusk",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Hypnotized",
+      "Over My Head",
+      "Rhiannon",
+      "Go Your Own Way",
+      "Dreams",
+      "Don't Stop",
+      "The Chain",
+      "Tusk"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The landmark album 'Rumours' (1977) won the Grammy Award for Album of the Year in 1978.",
+      "The band relocated to the United States in 1974 shortly before recruiting Lindsey Buckingham and Stevie Nicks.",
+      "The surnames of drummer Mick Fleetwood and bassist John McVie were combined to create the band's name."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+    "youtube_search": "Fleetwood Mac Go Your Own Way",
+    "tags": [
+      "classic-rock",
+      "pop-rock",
+      "soft-rock"
+    ]
+  },
+  {
+    "id": "gordon-lightfoot",
+    "name": "Gordon Lightfoot",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "Orillia, Ontario, Canada",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Lightfoot was a towering figure in the 1970s singer-songwriter movement, known for his masterful narrative songwriting and rich baritone voice. His 70s sound evolved from acoustic folk into a polished folk-rock style that garnered major international acclaim. He helped define the decade's acoustic-driven pop with songs that explored themes of love, loneliness, and significant historical events, establishing him as one of Canada's greatest musical exports.",
+    "key_albums_70s": [
+      {
+        "title": "Sit Down Young Stranger",
+        "year": 1970
+      },
+      {
+        "title": "Summer Side of Life",
+        "year": 1971
+      },
+      {
+        "title": "Don Quixote",
+        "year": 1972
+      },
+      {
+        "title": "Sundown",
+        "year": 1974
+      },
+      {
+        "title": "Cold on the Shoulder",
+        "year": 1975
+      },
+      {
+        "title": "Summertime Dream",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "If You Could Read My Mind",
+      "Sundown",
+      "Carefree Highway",
+      "Rainy Day People",
+      "The Wreck of the Edmund Fitzgerald",
+      "Beautiful"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1974 album 'Sundown' reached number one on the Billboard 200, marking his commercial peak in the United States.",
+      "The song 'The Wreck of the Edmund Fitzgerald' was written after Lightfoot read a Newsweek article about the actual sinking of a bulk carrier in Lake Superior.",
+      "He received a Grammy Lifetime Achievement Award in recognition of his profound influence on the singer-songwriter genre."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gordon_Lightfoot",
+    "youtube_search": "Gordon Lightfoot Sundown",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "grateful-dead",
+    "name": "Grateful Dead",
+    "genre": "classic-rock",
+    "subgenre": "jam-rock",
+    "origin": "Palo Alto, California, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "In the 1970s, the Grateful Dead moved away from their heavy psychedelic roots toward a more laid-back, Americana-infused sound. Albums like 'Workingman's Dead' and 'American Beauty' highlighted their focus on acoustic musicianship and traditional song structures while maintaining an improvisational heart. The decade solidified their status as the pioneering godfathers of the jam band scene, supported by an intensely devoted cult following known as 'Deadheads'.",
+    "members_70s": [
+      "Jerry Garcia",
+      "Bob Weir",
+      "Phil Lesh",
+      "Bill Kreutzmann",
+      "Mickey Hart",
+      "Keith Godchaux",
+      "Donna Jean Godchaux",
+      "Ron 'Pigpen' McKernan"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Workingman's Dead",
+        "year": 1970
+      },
+      {
+        "title": "American Beauty",
+        "year": 1970
+      },
+      {
+        "title": "Europe '72",
+        "year": 1972
+      },
+      {
+        "title": "Wake of the Flood",
+        "year": 1973
+      },
+      {
+        "title": "Blues for Allah",
+        "year": 1975
+      },
+      {
+        "title": "Terrapin Station",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Uncle John's Band",
+      "Casey Jones",
+      "Truckin'",
+      "Sugar Magnolia",
+      "Ripple",
+      "Friend of the Devil"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1970 hit 'Truckin' was inspired by a real-life drug raid on their hotel during a tour stop in New Orleans.",
+      "A recording of their May 8, 1977, performance at Cornell University was added to the National Recording Registry for its historical significance.",
+      "They were known for their innovative 'Wall of Sound' concert PA system, which was one of the largest and most complex ever built at the time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grateful_Dead",
+    "youtube_search": "Grateful Dead Truckin",
+    "tags": [
+      "classic-rock",
+      "jam-band",
+      "americana"
+    ]
+  },
+  {
+    "id": "hall-oates",
+    "name": "Hall & Oates",
+    "genre": "classic-rock",
+    "subgenre": "soul-rock",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Daryl Hall and John Oates spent the 1970s developing their signature 'blue-eyed soul' sound, which blended R&B, rock, and pop. Their work in this period transitioned from more experimental and folk-leaning early albums to massive commercial success during the middle of the decade. They became one of the most successful duos in rock history, celebrated for their polished vocal arrangements and seamless fusion of soulful melodies with a rock foundation.",
+    "members_70s": [
+      "Daryl Hall",
+      "John Oates"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Whole Oats",
+        "year": 1972
+      },
+      {
+        "title": "Abandoned Luncheonette",
+        "year": 1973
+      },
+      {
+        "title": "Daryl Hall & John Oates",
+        "year": 1975
+      },
+      {
+        "title": "Bigger Than Both of Us",
+        "year": 1976
+      },
+      {
+        "title": "Beauty on a Back Street",
+        "year": 1977
+      },
+      {
+        "title": "Along the Red Ledge",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "She's Gone",
+      "Sara Smile",
+      "Rich Girl",
+      "Wait for Me",
+      "Alone Too Long",
+      "It's a Laugh"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The duo's hit 'Rich Girl' reached number one on the Billboard Hot 100 in 1977, marking their first major chart-topper.",
+      "Before finding fame together, Hall and Oates were both in separate bands that happened to share an elevator while escaping a gang fight in Philadelphia.",
+      "The song 'She's Gone' became a significant success after being re-released following the duo's commercial breakthrough in the mid-70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hall_%26_Oates",
+    "youtube_search": "Hall & Oates Rich Girl",
+    "tags": [
+      "classic-rock",
+      "blue-eyed-soul",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "harry-chapin",
+    "name": "Harry Chapin",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "New York City, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Chapin was a central figure in the 1970s folk-rock movement, known for his narrative-driven and emotionally resonant 'story songs'. His 70s sound featured acoustic instrumentation and explored complex themes of the human condition and social justice. He achieved widespread commercial success throughout the decade, creating a unique storytelling format that allowed him to connect deeply with a large mainstream audience.",
+    "key_albums_70s": [
+      {
+        "title": "Heads & Tales",
+        "year": 1972
+      },
+      {
+        "title": "Sniper and Other Love Songs",
+        "year": 1972
+      },
+      {
+        "title": "Short Stories",
+        "year": 1973
+      },
+      {
+        "title": "Verities & Balderdash",
+        "year": 1974
+      },
+      {
+        "title": "Portrait Gallery",
+        "year": 1975
+      },
+      {
+        "title": "On the Road to Kingdom Come",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Taxi",
+      "Cat's in the Cradle",
+      "W.O.L.D.",
+      "A Better Place to Be",
+      "Sunday Morning Sunshine",
+      "Flowers Are Red"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His most famous hit, 'Cat's in the Cradle', reached number one on the Billboard Hot 100 in 1974.",
+      "Before finding musical fame, Chapin worked as a mail carrier, a period of his life that later inspired some of his narrative songwriting.",
+      "He was a dedicated humanitarian who donated about half of his concert proceeds to charities fighting world hunger and poverty."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Chapin",
+    "youtube_search": "Harry Chapin Cat's in the Cradle",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "jackson-browne",
+    "name": "Jackson Browne",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Browne emerged in the early 1970s as a defining voice of the Southern California singer-songwriter scene, characterized by his literate and introspective lyrics. His sound blended folk and soft rock into a sophisticated musical style that explored deep emotional and social themes. Throughout the decade, he released a series of highly influential and critically acclaimed albums that established him as a key figure in the confessional rock movement.",
+    "key_albums_70s": [
+      {
+        "title": "Jackson Browne",
+        "year": 1972
+      },
+      {
+        "title": "For Everyman",
+        "year": 1973
+      },
+      {
+        "title": "Late for the Sky",
+        "year": 1974
+      },
+      {
+        "title": "The Pretender",
+        "year": 1976
+      },
+      {
+        "title": "Running on Empty",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Doctor My Eyes",
+      "Rock Me on the Water",
+      "The Pretender",
+      "Running on Empty",
+      "The Load-Out/Stay",
+      "Here Come Those Tears Again"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Browne co-wrote the Eagles' first major hit single, 'Take It Easy', with Glenn Frey.",
+      "His 1977 album 'Running on Empty' was a unique concept record that was recorded entirely while on the road, including live on stage and on the tour bus.",
+      "He was a leading figure in the anti-nuclear power movement and co-organized the 1979 No Nukes concerts in New York City."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Browne",
+    "youtube_search": "Jackson Browne Running on Empty",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "jefferson-airplane",
+    "name": "Jefferson Airplane",
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "origin": "San Francisco, California, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "In the early 1970s, Jefferson Airplane's sound evolved into a more experimental and politically aggressive acid-rock style before the band eventually splintered. Their work during this period reflected the shift in the counterculture movement and showcased a move toward more cynical and socially conscious themes. They remained a crucial bridge between the hippie era and the polished arena rock that many of their members would transition to later in the decade.",
+    "members_70s": [
+      "Grace Slick",
+      "Paul Kantner",
+      "Jorma Kaukonen",
+      "Jack Casady",
+      "Marty Balin",
+      "Spencer Dryden",
+      "Joey Covington",
+      "Papa John Creach"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Bark",
+        "year": 1971
+      },
+      {
+        "title": "Long John Silver",
+        "year": 1972
+      },
+      {
+        "title": "Thirty Seconds Over Winterland",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Volunteers",
+      "Wooden Ships",
+      "Mexico",
+      "Have You Seen the Saucers?",
+      "Pretty as You Feel",
+      "Long John Silver"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "The band's 1970 single 'Mexico' was a direct attack on President Richard Nixon's Operation Intercept policies regarding marijuana.",
+      "Following the band's dissolution in 1972, several members formed the highly successful spinoff group Jefferson Starship.",
+      "They were the first San Francisco Bay Area band to achieve major international commercial success and a gold-certified record."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Airplane",
+    "youtube_search": "Jefferson Airplane Volunteers",
+    "tags": [
+      "classic-rock",
+      "psychedelic-rock",
+      "acid-rock"
+    ]
+  },
+  {
+    "id": "jefferson-starship",
+    "name": "Jefferson Starship",
+    "genre": "classic-rock",
+    "subgenre": "arena-rock",
+    "origin": "San Francisco, California, U.S.",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Emerging from the remnants of Jefferson Airplane, Jefferson Starship defined the mid-1970s transition into the arena rock and soft rock genres. Their sound featured soaring vocal arrangements and melodic, often science-fiction-inspired themes that appealed to a massive mainstream audience. They became one of the most successful commercial acts of the decade, securing a series of gold and platinum-selling albums through the late 70s.",
+    "members_70s": [
+      "Paul Kantner",
+      "Grace Slick",
+      "Marty Balin",
+      "David Freiberg",
+      "Craig Chaquico",
+      "Pete Sears",
+      "John Barbata"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Dragon Fly",
+        "year": 1974
+      },
+      {
+        "title": "Red Octopus",
+        "year": 1975
+      },
+      {
+        "title": "Spitfire",
+        "year": 1976
+      },
+      {
+        "title": "Earth",
+        "year": 1978
+      },
+      {
+        "title": "Freedom at Point Zero",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Miracles",
+      "Play on Love",
+      "With Your Love",
+      "Count On Me",
+      "Runaway",
+      "Jane"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their 1975 album 'Red Octopus' reached number one on the Billboard 200 and was eventually certified double-platinum.",
+      "Lead singer Marty Balin's return to the group in 1975 signaled a major shift toward a more commercially successful pop-rock direction.",
+      "Guitarist Craig Chaquico was only a teenager when he first began recording and performing with the band's original classic lineup."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Starship",
+    "youtube_search": "Jefferson Starship Miracles",
+    "tags": [
+      "classic-rock",
+      "arena-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "jim-croce",
+    "name": "Jim Croce",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Croce was a defining figure of the early 1970s singer-songwriter movement, celebrated for his warm baritone and narrative-driven pop melodies. His 70s sound successfully blended acoustic ballads with upbeat, humorous character sketches that became ubiquitous radio hits. Despite a tragically short career, he left an enduring mark on the decade with a string of chart-topping songs that highlighted his unique observational wit.",
+    "key_albums_70s": [
+      {
+        "title": "You Don't Mess Around with Jim",
+        "year": 1972
+      },
+      {
+        "title": "Life and Times",
+        "year": 1973
+      },
+      {
+        "title": "I Got a Name",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "You Don't Mess Around with Jim",
+      "Operator (That's Not the Way It Feels)",
+      "Bad Bad Leroy Brown",
+      "Time in a Bottle",
+      "I Got a Name",
+      "I'll Have to Say I Love You in a Song"
+    ],
+    "mood": [
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s"
+    ],
+    "trivia": [
+      "His song 'Time in a Bottle' reached number one posthumously in 1973 after being featured in the television movie 'She Lives!'.",
+      "Croce worked various manual labor jobs before his music career took off, which inspired many of his blue-collar themed songs.",
+      "He was tragically killed in a plane crash in late 1973 while at the height of his commercial success."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Croce",
+    "youtube_search": "Jim Croce Time in a Bottle",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "jimi-hendrix",
+    "name": "Jimi Hendrix",
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "origin": "Seattle, Washington, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Although Hendrix died in late 1970, his musical presence remained a significant force throughout the 1970s through a series of influential posthumous releases. His 70s sound, compiled from extensive unfinished studio sessions, showcased a move toward funk-rock and soulful musical explorations. These albums solidified his legacy as the most revolutionary electric guitarist in rock history and continued to inspire new generations of rock musicians throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "The Cry of Love",
+        "year": 1971
+      },
+      {
+        "title": "Rainbow Bridge",
+        "year": 1971
+      },
+      {
+        "title": "War Heroes",
+        "year": 1972
+      },
+      {
+        "title": "Loose Ends",
+        "year": 1974
+      },
+      {
+        "title": "Crash Landing",
+        "year": 1975
+      },
+      {
+        "title": "Midnight Lightning",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Freedom",
+      "Angel",
+      "Dolly Dagger",
+      "Ezy Ryder",
+      "Night Bird Flying",
+      "Stepping Stone"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Much of his 70s output was recorded at his state-of-the-art Electric Lady Studios in New York City shortly before his death.",
+      "The 1971 album 'The Cry of Love' reached number three on the Billboard album chart, showcasing his enduring popularity after his passing.",
+      "He is described by the Rock and Roll Hall of Fame as arguably the greatest instrumentalist in the history of rock music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+    "youtube_search": "Jimi Hendrix Freedom",
+    "tags": [
+      "classic-rock",
+      "psychedelic-rock",
+      "guitar-hero"
+    ]
+  },
+  {
+    "id": "joe-cocker",
+    "name": "Joe Cocker",
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "origin": "Sheffield, England",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Cocker was one of the most distinctive vocalists of 1970s rock, famous for his soulful, gritty interpretations and dynamic stage presence. His 70s sound was initially defined by the massive 'Mad Dogs & Englishmen' project, which featured an expansive band and a gospel-infused rock style. Throughout the decade, he remained a powerful presence on the charts, blending blues, R&B, and pop with his unmistakable vocal intensity.",
+    "key_albums_70s": [
+      {
+        "title": "Mad Dogs & Englishmen",
+        "year": 1970
+      },
+      {
+        "title": "Joe Cocker",
+        "year": 1972
+      },
+      {
+        "title": "I Can Stand a Little Rain",
+        "year": 1974
+      },
+      {
+        "title": "Jamaica Say You Will",
+        "year": 1975
+      },
+      {
+        "title": "Stingray",
+        "year": 1976
+      },
+      {
+        "title": "Luxury You Can Afford",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "The Letter",
+      "Cry Me a River",
+      "Feelin' Alright",
+      "You Are So Beautiful",
+      "High Time We Went",
+      "Midnight Rider"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1970 'Mad Dogs & Englishmen' tour was a logistical massive undertaking organized by Leon Russell, featuring a band of over 30 people.",
+      "The song 'You Are So Beautiful' became his biggest hit of the decade and one of his most iconic and enduring performances.",
+      "Cocker was renowned for his unique physical movements while singing, which became a trademark of his highly expressive live shows."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Cocker",
+    "youtube_search": "Joe Cocker You Are So Beautiful",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "soul-rock"
+    ]
+  },
+  {
+    "id": "joe-walsh",
+    "name": "Joe Walsh",
+    "genre": "classic-rock",
+    "subgenre": "hard rock",
+    "origin": "Wichita, Kansas, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Joe Walsh established himself as a premier rock guitarist and quirky personality in the 1970s, through his work with the James Gang, Barnstorm, and eventually the Eagles. His signature slide guitar playing and creative songwriting reached a critical peak with solo albums like 'The Smoker You Drink, the Player You Get.' In 1975, he joined the Eagles, adding a harder rock edge that proved instrumental in the success of the 'Hotel California' era.",
+    "key_albums_70s": [
+      {
+        "title": "James Gang Rides Again",
+        "year": 1970
+      },
+      {
+        "title": "Barnstorm",
+        "year": 1972
+      },
+      {
+        "title": "The Smoker You Drink, the Player You Get",
+        "year": 1973
+      },
+      {
+        "title": "So What",
+        "year": 1974
+      },
+      {
+        "title": "You Can't Argue with a Sick Mind",
+        "year": 1976
+      },
+      {
+        "title": "But Seriously, Folks...",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Funk #49",
+      "Walk Away",
+      "Rocky Mountain Way",
+      "Turn to Stone",
+      "Life's Been Good",
+      "Pretty Maids All in a Row",
+      "Life in the Fast Lane"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Walsh joined the Eagles in 1975 as founding member Bernie Leadon's replacement.",
+      "His 1978 hit 'Life's Been Good' reached number 12 on the Billboard Hot 100.",
+      "In 1998, a readers' poll in Guitarist magazine named Walsh's and Don Felder's solos on 'Hotel California' the best guitar solos ever."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Walsh",
+    "youtube_search": "Joe Walsh Rocky Mountain Way",
+    "tags": [
+      "classic-rock",
+      "hard-rock",
+      "guitarist"
+    ]
+  },
+  {
+    "id": "john-prine",
+    "name": "John Prine",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Prine emerged in the early 1970s as a master of the folk-rock story-song, blending sharp observational wit with deep emotional insight. His 70s sound featured simple acoustic arrangements that highlighted his unique lyrical perspective on ordinary lives. He became a highly respected 'songwriter's songwriter' during the decade, earning consistent critical acclaim for his ability to find humor and pathos in the human condition.",
+    "key_albums_70s": [
+      {
+        "title": "John Prine",
+        "year": 1971
+      },
+      {
+        "title": "Diamonds in the Rough",
+        "year": 1972
+      },
+      {
+        "title": "Sweet Revenge",
+        "year": 1973
+      },
+      {
+        "title": "Common Sense",
+        "year": 1975
+      },
+      {
+        "title": "Bruised Orange",
+        "year": 1978
+      },
+      {
+        "title": "Pink Cadillac",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Angel from Montgomery",
+      "Hello in There",
+      "Sam Stone",
+      "Illegal Smile",
+      "Souvenirs",
+      "Grandpa Was a Carpenter"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Before his music career began, Prine worked as a mail carrier in Chicago, which later earned him the nickname 'The Singing Mailman'.",
+      "His 1971 debut album is widely regarded as one of the most impressive debuts in the history of folk and rock music.",
+      "Prine's songwriting has been compared to that of Mark Twain for its wit and profound understanding of American life."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Prine",
+    "youtube_search": "John Prine Angel from Montgomery",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "johnny-winter",
+    "name": "Johnny Winter",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "Beaumont, Texas, U.S.",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "Johnny Winter was a legendary figure in 1970s blues-rock, known for his high-energy slide guitar playing and powerful vocals. Throughout the decade, he released a string of influential albums that blended traditional blues with aggressive rock and roll energy. His legacy was further solidified by his work producing award-winning albums for his idol Muddy Waters, which revitalized the elder bluesman's career in the late 70s.",
+    "key_albums_70s": [
+      {
+        "title": "Johnny Winter And",
+        "year": 1970
+      },
+      {
+        "title": "Still Alive and Well",
+        "year": 1973
+      },
+      {
+        "title": "Saints & Sinners",
+        "year": 1974
+      },
+      {
+        "title": "John Dawson Winter III",
+        "year": 1974
+      },
+      {
+        "title": "Nothin' but the Blues",
+        "year": 1977
+      },
+      {
+        "title": "White, Hot and Blue",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Rock and Roll, Hoochie Koo",
+      "Jumpin' Jack Flash",
+      "Johnny B. Goode",
+      "Boney Moroney",
+      "Silver Train"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Winter produced three Grammy Award-winning albums for blues legend Muddy Waters.",
+      "In 1988, he was inducted into the Blues Foundation Hall of Fame.",
+      "His 1970 project 'Johnny Winter And' featured guitarist Rick Derringer."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johnny_Winter",
+    "youtube_search": "Johnny Winter Rock and Roll, Hoochie Koo",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "slide-guitar"
+    ]
+  },
+  {
+    "id": "leon-russell",
+    "name": "Leon Russell",
+    "genre": "classic-rock",
+    "subgenre": "southern-rock",
+    "origin": "Lawton, Oklahoma, U.S.",
+    "formed": 1956,
+    "active_70s": true,
+    "description": "Russell was a multi-faceted musician and producer who became a towering figure in 1970s rock, often blending rock, blues, gospel, and country. Known as the 'Master of Space and Time', his sound was defined by his distinctive gravelly voice and soulful piano playing. During the decade, he achieved superstar status both as a solo artist and as a major collaborative force with some of the biggest names in music.",
+    "key_albums_70s": [
+      {
+        "title": "Leon Russell",
+        "year": 1970
+      },
+      {
+        "title": "Leon Russell and the Shelter People",
+        "year": 1971
+      },
+      {
+        "title": "Carney",
+        "year": 1972
+      },
+      {
+        "title": "Leon Live",
+        "year": 1973
+      },
+      {
+        "title": "Hank Wilson's Back Vol. I",
+        "year": 1973
+      },
+      {
+        "title": "Will O' the Wisp",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "A Song for You",
+      "Tight Rope",
+      "This Masquerade",
+      "Delta Lady",
+      "Lady Blue",
+      "Back to the Island"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1973, Billboard named Russell the 'Top Concert Attraction in the World' at the height of his popularity.",
+      "He played a central role in George Harrison's 1971 'Concert for Bangladesh', performing as part of the all-star band.",
+      "His song 'A Song for You' was inducted into the Grammy Hall of Fame in 2018 in recognition of its historical importance."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Russell",
+    "youtube_search": "Leon Russell Tight Rope",
+    "tags": [
+      "classic-rock",
+      "southern-rock",
+      "blues-rock"
+    ]
+  },
+  {
+    "id": "little-feat",
+    "name": "Little Feat",
+    "genre": "classic-rock",
+    "subgenre": "southern-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Little Feat was one of the most musically sophisticated bands of the 1970s, blending Southern rock, blues, and swamp rock with an idiosyncratic twist. Their 70s sound featured complex rhythms, funk-inflected grooves, and the soulful slide guitar work of leader Lowell George. They gained a passionate following for their tight live performances and a unique musical synthesis that set them apart from their contemporaries.",
+    "members_70s": [
+      "Lowell George",
+      "Bill Payne",
+      "Richie Hayward",
+      "Paul Barrere",
+      "Kenny Gradney",
+      "Sam Clayton"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Little Feat",
+        "year": 1971
+      },
+      {
+        "title": "Sailin' Shoes",
+        "year": 1972
+      },
+      {
+        "title": "Dixie Chicken",
+        "year": 1973
+      },
+      {
+        "title": "Feats Don't Fail Me Now",
+        "year": 1974
+      },
+      {
+        "title": "The Last Record Album",
+        "year": 1975
+      },
+      {
+        "title": "Time Loves a Hero",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Willin'",
+      "Dixie Chicken",
+      "Fat Man in the Bathtub",
+      "Oh Atlanta",
+      "Spanish Moon",
+      "Rocket in My Pocket"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Founder Lowell George was a former member of Frank Zappa's band The Mothers of Invention before forming Little Feat.",
+      "Their 1978 live album 'Waiting for Columbus' is widely considered to be one of the greatest live rock recordings ever produced.",
+      "The band's signature track 'Willin' became an anthem of the country-rock genre and has been covered by numerous artists."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Little_Feat",
+    "youtube_search": "Little Feat Dixie Chicken",
+    "tags": [
+      "classic-rock",
+      "southern-rock",
+      "swamp-rock"
+    ]
+  },
+  {
+    "id": "loggins-and-messina",
+    "name": "Loggins and Messina",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "United States",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "This duo was one of the most successful soft rock acts of the early-to-mid 1970s, blending pop-rock with country and folk influences. Their sound was characterized by bright melodies and tight vocal harmonies that achieved major mainstream commercial success. Throughout their five-year career, they became a staple of the decade's radio airwaves, selling millions of records before separating in 1976.",
+    "members_70s": [
+      "Kenny Loggins",
+      "Jim Messina"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Sittin' In",
+        "year": 1971
+      },
+      {
+        "title": "Loggins and Messina",
+        "year": 1972
+      },
+      {
+        "title": "Full Sail",
+        "year": 1973
+      },
+      {
+        "title": "On Stage",
+        "year": 1974
+      },
+      {
+        "title": "Mother Lode",
+        "year": 1974
+      },
+      {
+        "title": "So Fine",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Danny's Song",
+      "House at Pooh Corner",
+      "Your Mama Don't Dance",
+      "Thinking of You",
+      "My Music",
+      "Angry Eyes"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Jim Messina had previously been a member of the influential rock bands Buffalo Springfield and Poco before forming the duo.",
+      "Their hit 'Your Mama Don't Dance' reached number four on the Billboard Hot 100 and became their most iconic signature song.",
+      "The duo sold more than 16 million records during their active years in the 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loggins_and_Messina",
+    "youtube_search": "Loggins and Messina Your Mama Don't Dance",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "lynyrd-skynyrd",
+    "name": "Lynyrd Skynyrd",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Jacksonville, Florida, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Lynyrd Skynyrd popularized the Southern rock genre during their 1970s peak with a distinct three-guitar attack and Ronnie Van Zant's authentic songwriting. Their debut album in 1973 launched them into national fame, followed by a string of iconic hits like 'Sweet Home Alabama' and 'Free Bird.' The band's career was tragically halted in 1977 when a plane crash killed key members, cementing their legacy as definitive voices of American rock.",
+    "members_70s": [
+      "Ronnie Van Zant",
+      "Gary Rossington",
+      "Allen Collins",
+      "Leon Wilkeson",
+      "Billy Powell",
+      "Artimus Pyle",
+      "Ed King",
+      "Steve Gaines"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+        "year": 1973
+      },
+      {
+        "title": "Second Helping",
+        "year": 1974
+      },
+      {
+        "title": "Nuthin' Fancy",
+        "year": 1975
+      },
+      {
+        "title": "Gimme Back My Bullets",
+        "year": 1976
+      },
+      {
+        "title": "One More from the Road",
+        "year": 1976
+      },
+      {
+        "title": "Street Survivors",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Free Bird",
+      "Sweet Home Alabama",
+      "Simple Man",
+      "Saturday Night Special",
+      "Gimme Back My Bullets",
+      "That Smell",
+      "What's Your Name"
+    ],
+    "mood": [
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band name was a tongue-in-cheek reference to their high school gym teacher, Leonard Skinner.",
+      "They spent four years touring small venues under various names before deciding on 'Lynyrd Skynyrd' in 1968.",
+      "The 1977 plane crash in Mississippi occurred just days after the release of their fifth studio album 'Street Survivors.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+    "youtube_search": "Lynyrd Skynyrd Free Bird",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "molly-hatchet",
+    "name": "Molly Hatchet",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Jacksonville, Florida, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Hailing from Jacksonville, Molly Hatchet emerged in the late 1970s as a major commercial force in Southern and hard rock. Influenced by their hometown peers Lynyrd Skynyrd, the band combined aggressive guitar work with heavy metal intensity. They reached multi-platinum status at the end of the decade with hit records that remains staple tracks in the Southern rock community.",
+    "members_70s": [
+      "Danny Joe Brown",
+      "Dave Hlubek",
+      "Duane Roland",
+      "Steve Holland",
+      "Banner Thomas",
+      "Bruce Crump"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Molly Hatchet",
+        "year": 1978
+      },
+      {
+        "title": "Flirtin' with Disaster",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Flirtin' with Disaster",
+      "Whiskey Man"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was founded by guitarist Dave Hlubek in 1971 in Jacksonville, Florida.",
+      "Their 1979 album 'Flirtin' with Disaster' reached platinum status and became their most successful release.",
+      "The band shares influences with their more well-known Jacksonville contemporaries, Lynyrd Skynyrd."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Molly_Hatchet",
+    "youtube_search": "Molly Hatchet Flirtin' with Disaster",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "hard-rock"
+    ]
+  },
+  {
+    "id": "mott-the-hoople",
+    "name": "Mott the Hoople",
+    "genre": "classic-rock",
+    "subgenre": "glam rock",
+    "origin": "Hereford, Herefordshire, England",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Mott the Hoople were a foundational English glam rock band of the early 1970s. After struggling to find success, they were revitalized by David Bowie, who provided them with their signature anthem 'All the Young Dudes.' Led by Ian Hunter, the band developed a sophisticated hard rock sound that balanced street-wise energy with theatricality, significantly influencing the burgeoning glam and punk movements.",
+    "members_70s": [
+      "Ian Hunter",
+      "Pete Overend Watts",
+      "Dale Griffin",
+      "Mick Ralphs",
+      "Verden Allen",
+      "Ariel Bender",
+      "Morgan Fisher"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mad Shadows",
+        "year": 1970
+      },
+      {
+        "title": "Wildlife",
+        "year": 1971
+      },
+      {
+        "title": "Brain Capers",
+        "year": 1971
+      },
+      {
+        "title": "All the Young Dudes",
+        "year": 1972
+      },
+      {
+        "title": "Mott",
+        "year": 1973
+      },
+      {
+        "title": "The Hoople",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "All the Young Dudes",
+      "One of the Boys",
+      "Sweet Jane",
+      "Honaloochie Boogie",
+      "All the Way from Memphis",
+      "Roll Away the Stone",
+      "The Golden Age of Rock 'n' Roll"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "David Bowie encouraged the band to stay together when they were on the verge of breaking up in 1972.",
+      "The group was originally named the Doc Thomas Group before signing with Island Records in 1969.",
+      "Mick Ralphs left the band in 1973 to form the supergroup Bad Company."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mott_the_Hoople",
+    "youtube_search": "Mott the Hoople All the Young Dudes",
+    "tags": [
+      "classic-rock",
+      "glam-rock",
+      "Ian-Hunter"
+    ]
+  },
+  {
+    "id": "neil-young",
+    "name": "Neil Young",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "Winnipeg, Manitoba, Canada",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Young was a restless and deeply influential figure in 1970s rock, constantly alternating between acoustic folk and heavy, distorted rock. His 70s output spanned from the polished mainstream success of 'Harvest' to the raw, dark intensity of his 'Ditch Trilogy' albums. Known as the 'Godfather of Grunge', his unmistakable voice and raw guitar playing defined a peripatetic musical journey that significantly impacted the decade's rock landscape.",
+    "key_albums_70s": [
+      {
+        "title": "After the Gold Rush",
+        "year": 1970
+      },
+      {
+        "title": "Harvest",
+        "year": 1972
+      },
+      {
+        "title": "On the Beach",
+        "year": 1974
+      },
+      {
+        "title": "Tonight's the Night",
+        "year": 1975
+      },
+      {
+        "title": "Zuma",
+        "year": 1975
+      },
+      {
+        "title": "Rust Never Sleeps",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Heart of Gold",
+      "Old Man",
+      "The Needle and the Damage Done",
+      "Ohio",
+      "After the Gold Rush",
+      "Southern Man"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1972 album 'Harvest' was the best-selling album in the United States and featured the number one hit 'Heart of Gold'.",
+      "The song 'Ohio' was written immediately following the Kent State massacre and released as a single with CSNY in 1970.",
+      "Young's primary electric guitar throughout his career has been a customized 1953 Gibson Les Paul named 'Old Black'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neil_Young",
+    "youtube_search": "Neil Young Heart of Gold",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "orleans",
+    "name": "Orleans",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Woodstock, New York, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Orleans was a leading soft rock band of the mid-1970s, known for their polished pop-rock sound and smooth vocal harmonies. Emerging from the Woodstock music scene, their sound was inspired by R&B and Louisiana artists, creating a soulful edge to their melodic rock. They achieved major mainstream success with several infectious hits that became defining anthems of the decade's soft-rock landscape.",
+    "members_70s": [
+      "John Hall",
+      "Larry Hoppen",
+      "Wells Kelly",
+      "Lance Hoppen",
+      "Jerry Marotta"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Orleans",
+        "year": 1973
+      },
+      {
+        "title": "Orleans II",
+        "year": 1974
+      },
+      {
+        "title": "Let There Be Music",
+        "year": 1975
+      },
+      {
+        "title": "Waking and Dreaming",
+        "year": 1976
+      },
+      {
+        "title": "Forever",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Dance with Me",
+      "Still the One",
+      "Let There Be Music",
+      "Love Takes Time",
+      "Reach",
+      "Forever"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'Still the One' reached number five on the Billboard Hot 100 and became one of the decade's most enduring pop-rock anthems.",
+      "Founder John Hall later pursued a successful career in politics, serving in the U.S. House of Representatives for New York.",
+      "Rolling Stone once referred to them as 'the best unrecorded band in America' before they signed their first major record deal."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orleans_(band)",
+    "youtube_search": "Orleans Still the One",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "paul-mccartney-and-wings",
+    "name": "Paul McCartney and Wings",
+    "genre": "classic-rock",
+    "subgenre": "soft rock",
+    "origin": "London, England",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Wings, often billed as Paul McCartney and Wings, were one of the most successful rock bands of the 1970s. Formed by former Beatle Paul McCartney, the group was noted for its musical eclecticism, blending rock, pop, and soft rock into a series of massive hits. Throughout the decade, they released several number-one albums and singles, cementing McCartney's status as a dominant creative force in the post-Beatles rock era.",
+    "members_70s": [
+      "Paul McCartney",
+      "Linda McCartney",
+      "Denny Laine",
+      "Denny Seiwell",
+      "Henry McCullough",
+      "Jimmy McCulloch",
+      "Geoff Britton",
+      "Joe English",
+      "Steve Holley",
+      "Laurence Juber"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wild Life",
+        "year": 1971
+      },
+      {
+        "title": "Red Rose Speedway",
+        "year": 1973
+      },
+      {
+        "title": "Band on the Run",
+        "year": 1973
+      },
+      {
+        "title": "Venus and Mars",
+        "year": 1975
+      },
+      {
+        "title": "Wings at the Speed of Sound",
+        "year": 1976
+      },
+      {
+        "title": "London Town",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Live and Let Die",
+      "My Love",
+      "Band on the Run",
+      "Jet",
+      "Listen to What the Man Said",
+      "Silly Love Songs",
+      "Let 'Em In",
+      "Mull of Kintyre"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The core trio of Paul and Linda McCartney along with Denny Laine remained intact throughout the band's existence.",
+      "The 1977 single 'Mull of Kintyre' became one of the best-selling singles in UK history.",
+      "The band went through three different lead guitarists and four drummers during their ten-year career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_McCartney_and_Wings",
+    "youtube_search": "Wings Silly Love Songs",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "Paul-McCartney"
+    ]
+  },
+  {
+    "id": "peter-frampton",
+    "name": "Peter Frampton",
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "origin": "Beckenham, Kent, England",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Peter Frampton reached superstar status in the 1970s, culminating in the massive cultural impact of his 1976 live album 'Frampton Comes Alive!' Known for his melodic guitar work and pioneering use of the talk box, he transitioned from success in bands like Humble Pie into a dominant solo career. His work in the mid-70s defined the decade's guitar-driven pop-rock success, making him one of the most recognizable figures in rock music.",
+    "key_albums_70s": [
+      {
+        "title": "Wind of Change",
+        "year": 1972
+      },
+      {
+        "title": "Frampton's Camel",
+        "year": 1973
+      },
+      {
+        "title": "Frampton",
+        "year": 1975
+      },
+      {
+        "title": "Frampton Comes Alive!",
+        "year": 1976
+      },
+      {
+        "title": "I'm in You",
+        "year": 1977
+      },
+      {
+        "title": "Where I Should Be",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Show Me the Way",
+      "Baby, I Love Your Way",
+      "Do You Feel Like We Do",
+      "I'm in You",
+      "Signed, Sealed, Delivered I'm Yours",
+      "Tried to Love"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "rock-out",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1976 album 'Frampton Comes Alive!' was one of the first live albums to top the Billboard 200 chart and was a massive global hit.",
+      "Frampton was a founding member of the hard rock band Humble Pie before embarking on his solo career in 1971.",
+      "He is widely recognized for his innovative use of the talk box guitar effect, most notably on the hit 'Do You Feel Like We Do.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Frampton",
+    "youtube_search": "Peter Frampton Show Me the Way",
+    "tags": [
+      "classic-rock",
+      "talk-box",
+      "guitarist"
+    ]
+  },
+  {
+    "id": "poco",
+    "name": "Poco",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Poco was a pioneering band that helped establish the Southern California country-rock sound throughout the 1970s. Formed from the ashes of Buffalo Springfield, their 70s sound featured a blend of country instrumentation and rock vocal harmonies. Despite numerous lineup changes, they remained a significant influence on the decade's rock scene, eventually achieving major commercial success toward the late 70s.",
+    "members_70s": [
+      "Rusty Young",
+      "George Grantham",
+      "Richie Furay",
+      "Jim Messina",
+      "Randy Meisner",
+      "Timothy B. Schmit",
+      "Paul Cotton"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Poco",
+        "year": 1970
+      },
+      {
+        "title": "From the Inside",
+        "year": 1971
+      },
+      {
+        "title": "A Good Feelin' to Know",
+        "year": 1972
+      },
+      {
+        "title": "Seven",
+        "year": 1974
+      },
+      {
+        "title": "Rose of Cimarron",
+        "year": 1976
+      },
+      {
+        "title": "Legend",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Pickin' Up the Pieces",
+      "A Good Feelin' to Know",
+      "Rose of Cimarron",
+      "Crazy Love",
+      "Heart of the Night",
+      "Indian Summer"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Three members of the band were later inducted into the Rock and Roll Hall of Fame as members of other groups like Buffalo Springfield and the Eagles.",
+      "Their 1978 album 'Legend' became their most successful work, featuring the number one Adult Contemporary hit 'Crazy Love'.",
+      "Multi-instrumentalist Rusty Young was the only constant member throughout the band's entire history until his death."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poco_(band)",
+    "youtube_search": "Poco Crazy Love",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "soft-rock"
+    ]
+  },
+  {
+    "id": "pure-prairie-league",
+    "name": "Pure Prairie League",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Waverly, Ohio, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Pure Prairie League was a major force in the 1970s country-rock movement, known for blending rock energy with traditional country credibility. Their signature sound featured melodic songwriting, skilled pedal steel guitar work, and strong vocal harmonies. Throughout the decade, they achieved consistent commercial success and produced some of the era's most enduring hits that bridged the gap between acoustic folk and mainstream rock.",
+    "members_70s": [
+      "Craig Fuller",
+      "John David Call",
+      "George Ed Powell",
+      "Michael Reilly",
+      "Michael Connor",
+      "Larry Goshorn",
+      "Vince Gill"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Pure Prairie League",
+        "year": 1972
+      },
+      {
+        "title": "Bustin' Out",
+        "year": 1972
+      },
+      {
+        "title": "Two Lane Highway",
+        "year": 1975
+      },
+      {
+        "title": "If the Shoe Fits",
+        "year": 1976
+      },
+      {
+        "title": "Dance",
+        "year": 1976
+      },
+      {
+        "title": "Just Fly",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Amie",
+      "Two Lane Highway",
+      "That'll Be the Day",
+      "Let Me Love You Tonight",
+      "Still Right Here in My Heart",
+      "Early Morning Riser"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's iconic hit 'Amie' was originally released in 1972 but didn't become a major commercial success until it was re-released in 1975.",
+      "The group was named after a fictional temperance union featured in the 1939 Errol Flynn film 'Dodge City'.",
+      "Vince Gill, who joined the band in the late 70s, later became a major country music superstar and joined the Eagles."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pure_Prairie_League",
+    "youtube_search": "Pure Prairie League Amie",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "soft-rock"
+    ]
+  },
+  {
+    "id": "rod-stewart",
+    "name": "Rod Stewart",
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "origin": "Highgate, London, England",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Rod Stewart established himself as one of rock's most versatile and successful vocalists in the 1970s. Initially balancing a solo career with his role in the band Faces, he transitioned into a full-time solo superstar by mid-decade. Known for his raspy voice and charismatic stage presence, Stewart successfully explored genres from folk-rock to disco, resulting in a string of number-one albums and legendary hit singles throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Gasoline Alley",
+        "year": 1970
+      },
+      {
+        "title": "Every Picture Tells a Story",
+        "year": 1971
+      },
+      {
+        "title": "Never a Dull Moment",
+        "year": 1972
+      },
+      {
+        "title": "Smiler",
+        "year": 1974
+      },
+      {
+        "title": "Atlantic Crossing",
+        "year": 1975
+      },
+      {
+        "title": "A Night on the Town",
+        "year": 1976
+      },
+      {
+        "title": "Foot Loose & Fancy Free",
+        "year": 1977
+      },
+      {
+        "title": "Blondes Have More Fun",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Maggie May",
+      "You Wear It Well",
+      "Sailing",
+      "Tonight's the Night (Gonna Be Alright)",
+      "The First Cut Is the Deepest",
+      "You're in My Heart (The Final Acclaim)",
+      "Hot Legs",
+      "Da Ya Think I'm Sexy?"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His signature hit 'Maggie May' (1971) topped the charts in both the U.S. and the UK simultaneously.",
+      "Stewart's nickname 'Rod the Mod' came from his stylish image during his early career in the 1960s.",
+      "He was a founding member of the Jeff Beck Group and later joined the Faces before his solo career took full focus."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rod_Stewart",
+    "youtube_search": "Rod Stewart Maggie May",
+    "tags": [
+      "classic-rock",
+      "British-rock",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "santana",
+    "name": "Santana",
+    "genre": "classic-rock",
+    "subgenre": "Latin rock",
+    "origin": "San Francisco, California, United States",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Santana pioneered Latin rock in the 1970s, blending blues, rock, and jazz with explosive Afro-Cuban percussion. Following a breakthrough at Woodstock, the band's early 70s albums reached major commercial heights and were critical landmarks. Throughout the decade, Carlos Santana led the group through experimental jazz fusion and more accessible rock sounds, maintaining a distinctive musical identity defined by his melodic, fluid guitar work.",
+    "members_70s": [
+      "Carlos Santana",
+      "Gregg Rolie",
+      "Neal Schon",
+      "Michael Shrieve",
+      "Michael Carabello",
+      "David Brown",
+      "José 'Chepito' Areas",
+      "Tom Coster"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Abraxas",
+        "year": 1970
+      },
+      {
+        "title": "Santana III",
+        "year": 1971
+      },
+      {
+        "title": "Caravanserai",
+        "year": 1972
+      },
+      {
+        "title": "Welcome",
+        "year": 1973
+      },
+      {
+        "title": "Borboletta",
+        "year": 1974
+      },
+      {
+        "title": "Amigos",
+        "year": 1976
+      },
+      {
+        "title": "Moonflower",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Evil Ways",
+      "Black Magic Woman",
+      "Oye Cómo Va",
+      "No One to Depend On",
+      "Samba Pa Ti",
+      "Europa (Earth's Cry Heaven's Smile)",
+      "She's Not There",
+      "You Know That I Love You"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's performance at the 1969 Woodstock Festival significantly increased their profile before their debut album was released.",
+      "Carlos Santana has been the only consistent member throughout the band's various lineups.",
+      "The 1970 album 'Abraxas' was certified quadruple platinum and included the iconic cover of 'Black Magic Woman.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Santana_(band)",
+    "youtube_search": "Santana Black Magic Woman",
+    "tags": [
+      "classic-rock",
+      "Latin-rock",
+      "guitarist"
+    ]
+  },
+  {
+    "id": "seals-crofts",
+    "name": "Seals & Crofts",
+    "genre": "classic-rock",
+    "subgenre": "soft-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Seals & Crofts was a definitive soft-rock duo of the mid-1970s, celebrated for their melodic acoustic sound and intricate vocal harmonies. Their 70s output combined folk and pop with subtle soulful influences, creating a series of massive hits that defined the decade's light rock sound. They were also notable for being publicly outspoken advocates for their spiritual beliefs, which frequently infused their lyrics throughout their commercially successful years.",
+    "members_70s": [
+      "Jim Seals",
+      "Dash Crofts"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Year of Sunday",
+        "year": 1971
+      },
+      {
+        "title": "Summer Breeze",
+        "year": 1972
+      },
+      {
+        "title": "Diamond Girl",
+        "year": 1973
+      },
+      {
+        "title": "Unborn Child",
+        "year": 1974
+      },
+      {
+        "title": "I'll Play for You",
+        "year": 1975
+      },
+      {
+        "title": "Get Closer",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Summer Breeze",
+      "Hummingbird",
+      "Diamond Girl",
+      "We May Never Pass This Way (Again)",
+      "Get Closer",
+      "You're the Love"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Both Jim Seals and Dash Crofts were previously members of the band The Champs, famous for the hit 'Tequila'.",
+      "Their 1972 hit 'Summer Breeze' has been certified 2x Platinum and is considered a quintessential 70s classic.",
+      "The duo performed at the massive 1974 California Jam festival alongside rock legends like Deep Purple and Black Sabbath."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seals_%26_Crofts",
+    "youtube_search": "Seals & Crofts Summer Breeze",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "steve-miller-band",
+    "name": "Steve Miller Band",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "San Francisco, California, U.S.",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "The Steve Miller Band was a major presence on 1970s rock radio, transitioning from early psychedelic blues into a highly successful melodic rock sound. Led by Steve Miller, the group achieved peak popularity in the mid-70s with a string of infectious, radio-friendly hits like 'The Joker' and 'Fly Like an Eagle.' Their blend of blues-rock riffs and polished pop sensibilities resulted in multi-platinum records that remain definitive staples of the classic rock era.",
+    "members_70s": [
+      "Steve Miller",
+      "Lonnie Turner",
+      "Gary Mallaber",
+      "David Denny",
+      "Norton Buffalo",
+      "Greg Douglass",
+      "Byron Allred"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Number 5",
+        "year": 1970
+      },
+      {
+        "title": "The Joker",
+        "year": 1973
+      },
+      {
+        "title": "Fly Like an Eagle",
+        "year": 1976
+      },
+      {
+        "title": "Book of Dreams",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The Joker",
+      "Take the Money and Run",
+      "Rock'n Me",
+      "Fly Like an Eagle",
+      "Jet Airliner",
+      "Jungle Love",
+      "Swingtown"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1978 'Greatest Hits 1974–78' compilation has sold over 13 million copies.",
+      "Steve Miller shortened the group's name from the Steve Miller Blues Band after signing with Capitol Records in 1967.",
+      "Boz Scaggs was a founding member of the group before embarking on his own successful solo career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Miller_Band",
+    "youtube_search": "Steve Miller Band The Joker",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "San-Francisco"
+    ]
+  },
+  {
+    "id": "the-allman-brothers-band",
+    "name": "The Allman Brothers Band",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Jacksonville, Florida, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "The Allman Brothers Band were the primary architects of Southern rock, defined by their sophisticated blend of blues, jazz, and country. Based in Macon, Georgia, the group became famous for their jam-band style improvisation and the twin lead guitar work of Duane Allman and Dickey Betts. Despite tragic losses and internal turmoil, their early 70s albums and legendary live shows at the Fillmore East established them as one of the most influential rock bands of the decade.",
+    "members_70s": [
+      "Duane Allman",
+      "Gregg Allman",
+      "Dickey Betts",
+      "Berry Oakley",
+      "Butch Trucks",
+      "Jaimoe",
+      "Chuck Leavell",
+      "Lamar Williams"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Idlewild South",
+        "year": 1970
+      },
+      {
+        "title": "At Fillmore East",
+        "year": 1971
+      },
+      {
+        "title": "Eat a Peach",
+        "year": 1972
+      },
+      {
+        "title": "Brothers and Sisters",
+        "year": 1973
+      },
+      {
+        "title": "Win, Lose or Draw",
+        "year": 1975
+      },
+      {
+        "title": "Enlightened Rogues",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "In Memory of Elizabeth Reed",
+      "Statesboro Blues",
+      "Midnight Rider",
+      "Melissa",
+      "Ain't Wastin' Time No More",
+      "Ramblin' Man",
+      "Jessica"
+    ],
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band lived and worked together at 'The Big House' in Macon, Georgia, during their early 1970s peak.",
+      "Duane Allman and bassist Berry Oakley both died in motorcycle accidents in the same neighborhood within a year of each other.",
+      "The 1973 album 'Brothers and Sisters' was their most commercially successful, reaching number one on the Billboard charts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Allman_Brothers_Band",
+    "youtube_search": "The Allman Brothers Band Ramblin' Man",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "blues-rock"
+    ]
+  },
+  {
+    "id": "the-band",
+    "name": "The Band",
+    "genre": "classic-rock",
+    "subgenre": "americana",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "The Band was a foundational force in the creation of the 1970s roots-rock and Americana genres, blending country, blues, and folk into a mature sound. After gaining recognition as Bob Dylan's backing group, they achieved significant critical and commercial success with albums that celebrated traditional musical heritage. Their 70s output, culminating in a high-profile farewell concert, solidified their legacy as one of the era's most musically talented and respected groups.",
+    "members_70s": [
+      "Rick Danko",
+      "Levon Helm",
+      "Garth Hudson",
+      "Richard Manuel",
+      "Robbie Robertson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Stage Fright",
+        "year": 1970
+      },
+      {
+        "title": "Cahoots",
+        "year": 1971
+      },
+      {
+        "title": "Rock of Ages",
+        "year": 1972
+      },
+      {
+        "title": "Moondog Matinee",
+        "year": 1973
+      },
+      {
+        "title": "Northern Lights – Southern Cross",
+        "year": 1975
+      },
+      {
+        "title": "Islands",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The Weight",
+      "The Night They Drove Old Dixie Down",
+      "Up on Cripple Creek",
+      "Life Is a Carnival",
+      "It Makes No Difference",
+      "Ophelia"
+    ],
+    "mood": [
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their final 1976 concert, 'The Last Waltz', was filmed by Martin Scorsese and is considered one of the greatest concert films ever made.",
+      "The Band was the first rock group to ever appear on the cover of Time magazine in 1970.",
+      "In 2008, the group received a Grammy Lifetime Achievement Award in recognition of their profound influence on American music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Band",
+    "youtube_search": "The Band The Weight",
+    "tags": [
+      "classic-rock",
+      "roots-rock",
+      "americana"
+    ]
+  },
+  {
+    "id": "the-doobie-brothers",
+    "name": "The Doobie Brothers",
+    "genre": "classic-rock",
+    "subgenre": "soft rock",
+    "origin": "San Jose, California, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "The Doobie Brothers were a dominant force in 1970s rock, famous for their versatility across genres and their lush vocal harmonies. Initially known for a bluesy, driving rock sound led by Tom Johnston, the band underwent a major stylistic shift mid-decade with the addition of Michael McDonald. This transition toward sophisticated, soul-influenced soft rock produced a series of massive hits and multi-platinum albums that defined the late-70s rock sound.",
+    "members_70s": [
+      "Tom Johnston",
+      "Patrick Simmons",
+      "Michael McDonald",
+      "Jeff 'Skunk' Baxter",
+      "Tiran Porter",
+      "John Hartman",
+      "Michael Hossack",
+      "Keith Knudsen"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Toulouse Street",
+        "year": 1972
+      },
+      {
+        "title": "The Captain and Me",
+        "year": 1973
+      },
+      {
+        "title": "What Were Once Vices Are Now Habits",
+        "year": 1974
+      },
+      {
+        "title": "Stampede",
+        "year": 1975
+      },
+      {
+        "title": "Takin' It to the Streets",
+        "year": 1976
+      },
+      {
+        "title": "Minute by Minute",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Listen to the Music",
+      "Long Train Runnin'",
+      "China Grove",
+      "Black Water",
+      "Takin' It to the Streets",
+      "What a Fool Believes",
+      "Minute by Minute"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's 1974 hit 'Black Water' features the group's first number-one single and showcases their signature vocal harmonies.",
+      "The group found their start playing at Chateau Liberté, a legendary biker bar in the Santa Cruz Mountains.",
+      "Michael McDonald joined the band in 1975 to fill in for an ill Tom Johnston and eventually led the group toward a soul-rock sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Doobie_Brothers",
+    "youtube_search": "The Doobie Brothers Listen to the Music",
+    "tags": [
+      "classic-rock",
+      "soft-rock",
+      "blue-eyed-soul"
+    ]
+  },
+  {
+    "id": "the-flying-burrito-brothers",
+    "name": "The Flying Burrito Brothers",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "The Flying Burrito Brothers were instrumental in pioneering the country-rock genre in the early 1970s. Their 70s sound blended traditional country and gospel with rock and soul, exploring a sophisticated style that became known as 'Cosmic American Music'. Despite frequent personnel changes following the departure of founder Gram Parsons, the group remained a consistent and influential force on the decade's country-rock landscape.",
+    "members_70s": [
+      "Chris Hillman",
+      "Sneaky Pete Kleinow",
+      "Rick Roberts",
+      "Bernie Leadon",
+      "Michael Clarke",
+      "Chris Ethridge",
+      "Skip Battin",
+      "Gib Guilbeau"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Burrito Deluxe",
+        "year": 1970
+      },
+      {
+        "title": "The Flying Burrito Bros",
+        "year": 1971
+      },
+      {
+        "title": "Last of the Red Hot Burritos",
+        "year": 1972
+      },
+      {
+        "title": "Flying Again",
+        "year": 1975
+      },
+      {
+        "title": "Sin City",
+        "year": 1976
+      },
+      {
+        "title": "Airborne",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Wild Horses",
+      "Sin City",
+      "Dark End of the Street",
+      "Hot Burrito No. 1",
+      "Colorado",
+      "Building Fires"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Member Bernie Leadon left the group in 1971 and later went on to become a founding member of the Eagles.",
+      "Their 1975 album 'Flying Again' became the band's most commercially successful effort, reaching number 138 on the Billboard chart.",
+      "Original band member Sneaky Pete Kleinow was also a successful special effects artist who worked on 'The Empire Strikes Back'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Flying_Burrito_Brothers",
+    "youtube_search": "Flying Burrito Brothers Wild Horses",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "cosmic-american-music"
+    ]
+  },
+  {
+    "id": "the-guess-who",
+    "name": "The Guess Who",
+    "genre": "classic-rock",
+    "subgenre": "hard rock",
+    "origin": "Winnipeg, Manitoba, Canada",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "The Guess Who were Canada's first rock supergroup, reaching their critical and commercial apex in the early 1970s. Led by Burton Cummings and Randy Bachman, they produced a string of international hits that balanced hard rock power with pop melodicism. Their mid-70s output continued to find success through frequent lineup changes, solidifying their reputation as sophisticated songwriters and versatile performers before their 1975 disbandment.",
+    "members_70s": [
+      "Burton Cummings",
+      "Randy Bachman",
+      "Jim Kale",
+      "Garry Peterson",
+      "Kurt Winter",
+      "Greg Leskiw",
+      "Don McDougall",
+      "Bill Wallace",
+      "Domenic Troiano"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "American Woman",
+        "year": 1970
+      },
+      {
+        "title": "Share the Land",
+        "year": 1970
+      },
+      {
+        "title": "So Long, Bannatyne",
+        "year": 1971
+      },
+      {
+        "title": "Rockin'",
+        "year": 1972
+      },
+      {
+        "title": "Road Food",
+        "year": 1974
+      },
+      {
+        "title": "Power in the Music",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "American Woman",
+      "No Sugar Tonight",
+      "Share the Land",
+      "Albert Flasher",
+      "Rain Dance",
+      "Clap for the Wolfman"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's 1970 hit 'American Woman' was the first song by a Canadian band to reach number one on the Billboard Hot 100.",
+      "The group's name 'The Guess Who?' was initially a publicity stunt intended to mislead fans into thinking the band was a more famous British act.",
+      "Randy Bachman left the band in 1970 at the height of their success and later formed Bachman-Turner Overdrive."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Guess_Who",
+    "youtube_search": "The Guess Who American Woman",
+    "tags": [
+      "classic-rock",
+      "hard-rock",
+      "Canadian-rock"
+    ]
+  },
+  {
+    "id": "the-j-geils-band",
+    "name": "The J. Geils Band",
+    "genre": "classic-rock",
+    "subgenre": "blues rock",
+    "origin": "Worcester, Massachusetts, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "The J. Geils Band was one of the premier American live rock acts of the 1970s, famous for their high-energy, R&B-influenced blues rock. Led by flamboyant vocalist Peter Wolf and harmonica virtuoso Magic Dick, the group developed a massive following through consistent touring and soulful studio releases. Their 1970s sound emphasized tight musicianship and a celebration of rock's roots before they transitioned to more mainstream pop success in the early 1980s.",
+    "members_70s": [
+      "J. Geils",
+      "Peter Wolf",
+      "Magic Dick",
+      "Seth Justman",
+      "Danny Klein",
+      "Stephen Jo Bladd"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The J. Geils Band",
+        "year": 1970
+      },
+      {
+        "title": "The Morning After",
+        "year": 1971
+      },
+      {
+        "title": "Bloodshot",
+        "year": 1973
+      },
+      {
+        "title": "Ladies Invited",
+        "year": 1973
+      },
+      {
+        "title": "Hotline",
+        "year": 1975
+      },
+      {
+        "title": "Sanctuary",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Cruisin' for a Love",
+      "Lookin' for a Love",
+      "Give It to Me",
+      "Must of Got Lost",
+      "One Last Kiss"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band often considered Detroit their 'second home' due to the city's early and enthusiastic embrace of their music.",
+      "The band was nominated for induction into the Rock and Roll Hall of Fame five separate times between 2005 and 2018.",
+      "Lead singer Peter Wolf and keyboardist Seth Justman served as the band's principal songwriters throughout their peak."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_J.Geils_Band",
+    "youtube_search": "The J. Geils Band Must of Got Lost",
+    "tags": [
+      "classic-rock",
+      "blues-rock",
+      "R&B"
+    ]
+  },
+  {
+    "id": "the-marshall-tucker-band",
+    "name": "The Marshall Tucker Band",
+    "genre": "classic-rock",
+    "subgenre": "Southern rock",
+    "origin": "Spartanburg, South Carolina, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "The Marshall Tucker Band was instrumental in establishing the Southern rock genre in the early 1970s, incorporating blues, country, rock, and jazz into an eclectic sound. Based in South Carolina, the group found critical and commercial success through their multi-platinum albums and a flexible musicality that defied easy categorization. Their mid-70s peak was defined by their melodic songwriting and the innovative use of flute and saxophone in a rock context.",
+    "members_70s": [
+      "Doug Gray",
+      "Toy Caldwell",
+      "George McCorkle",
+      "Paul Riddle",
+      "Tommy Caldwell",
+      "Jerry Eubanks"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Marshall Tucker Band",
+        "year": 1973
+      },
+      {
+        "title": "A New Life",
+        "year": 1974
+      },
+      {
+        "title": "Searchin' for a Rainbow",
+        "year": 1975
+      },
+      {
+        "title": "Long Hard Ride",
+        "year": 1976
+      },
+      {
+        "title": "Carolina Dreams",
+        "year": 1977
+      },
+      {
+        "title": "Together Forever",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Can't You See",
+      "Take the Highway",
+      "Fire on the Mountain",
+      "Heard It in a Love Song",
+      "24 Hours at a Time"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was taken from a blind piano tuner from Columbia, South Carolina, whose name was found on a warehouse key.",
+      "Lead vocalist Doug Gray described the band's eclectic sound as being like a 'bowl of soup' where everything in the refrigerator was thrown in.",
+      "The 1977 album 'Carolina Dreams' became their most commercially successful, reaching platinum status and featuring the hit 'Heard It in a Love Song.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Marshall_Tucker_Band",
+    "youtube_search": "The Marshall Tucker Band Can't You See",
+    "tags": [
+      "classic-rock",
+      "Southern-rock",
+      "country-rock"
+    ]
+  },
+  {
+    "id": "the-ozark-mountain-daredevils",
+    "name": "The Ozark Mountain Daredevils",
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "origin": "Springfield, Missouri, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "This Missouri band became a prominent force in 1970s country-rock, known for their eclectic songwriting and polished pop-rock melodies. Their sound successfully blended acoustic folk-rock with mainstream rock energy, earning them major Top 40 success during the middle of the decade. They were celebrated for their creative maturity and the ability to produce infectious crossover hits that appealed to a wide mainstream audience.",
+    "members_70s": [
+      "John Dillon",
+      "Mike 'Supe' Granda",
+      "Steve Cash",
+      "Randle Chowning",
+      "Buddy Brayfield",
+      "Larry Lee"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Ozark Mountain Daredevils",
+        "year": 1973
+      },
+      {
+        "title": "It'll Shine When It Shines",
+        "year": 1974
+      },
+      {
+        "title": "The Car Over the Lake Album",
+        "year": 1975
+      },
+      {
+        "title": "Men from Earth",
+        "year": 1976
+      },
+      {
+        "title": "Don't Look Down",
+        "year": 1977
+      },
+      {
+        "title": "It's Alive",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "If You Wanna Get to Heaven",
+      "Jackie Blue",
+      "Look Away",
+      "You Know Like I Know",
+      "Chicken Train Stomp",
+      "Country Girl"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit single 'Jackie Blue' reached number three on the Billboard Hot 100 in 1975 and remains an iconic 70s classic.",
+      "The band was originally named 'Cosmic Corn Cob & His Amazing Ozark Mountain Daredevils' before shortening the moniker.",
+      "The group was signed to A&M Records after an unplugged performance by candlelight impressed the Eagles' producer Glyn Johns."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ozark_Mountain_Daredevils",
+    "youtube_search": "Ozark Mountain Daredevils Jackie Blue",
+    "tags": [
+      "classic-rock",
+      "country-rock",
+      "southern-rock"
+    ]
+  },
+  {
+    "id": "the-rolling-stones",
+    "name": "The Rolling Stones",
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "origin": "London, England",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "The Rolling Stones achieved their commercial and creative peak in the 1970s, solidifying their reputation as the 'World's Greatest Rock and Roll Band.' After the departure of Brian Jones, the addition of Mick Taylor brought a sophisticated blues-rock virtuosity to landmark albums like 'Sticky Fingers' and 'Exile on Main St.' The band defined 1970s rock decadence with record-breaking arena tours and a string of iconic hits that prioritized grit, rhythm, and raw energy.",
+    "members_70s": [
+      "Mick Jagger",
+      "Keith Richards",
+      "Mick Taylor",
+      "Ronnie Wood",
+      "Charlie Watts",
+      "Bill Wyman"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Sticky Fingers",
+        "year": 1971
+      },
+      {
+        "title": "Exile on Main St.",
+        "year": 1972
+      },
+      {
+        "title": "Goats Head Soup",
+        "year": 1973
+      },
+      {
+        "title": "It's Only Rock 'n Roll",
+        "year": 1974
+      },
+      {
+        "title": "Black and Blue",
+        "year": 1976
+      },
+      {
+        "title": "Some Girls",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Brown Sugar",
+      "Wild Horses",
+      "Tumbling Dice",
+      "Angie",
+      "It's Only Rock 'n Roll (But I Like It)",
+      "Miss You",
+      "Beast of Burden",
+      "Shattered"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's iconic tongue and lips logo first appeared on the inner sleeve of the 1971 album 'Sticky Fingers.'",
+      "The Rolling Stones Mobile Studio was used by other major bands of the era, including Led Zeppelin and Fleetwood Mac.",
+      "The 1978 album 'Some Girls' was the band's response to the burgeoning punk and disco movements."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+    "youtube_search": "The Rolling Stones Brown Sugar",
+    "tags": [
+      "classic-rock",
+      "British-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "the-who",
+    "name": "The Who",
+    "genre": "classic-rock",
+    "subgenre": "hard rock",
+    "origin": "London, England",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "The Who were one of the most influential rock bands of the 1970s, known for their ambitious rock operas and explosive live performances. Throughout the decade, Pete Townshend's innovative use of synthesisers and power chords redefined the hard rock landscape. Their classic lineup produced several of the decade's most significant records, balanced by Roger Daltrey's powerful vocals and the legendary rhythmic intensity of Keith Moon and John Entwistle.",
+    "members_70s": [
+      "Roger Daltrey",
+      "Pete Townshend",
+      "John Entwistle",
+      "Keith Moon",
+      "Kenney Jones"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Live at Leeds",
+        "year": 1970
+      },
+      {
+        "title": "Who's Next",
+        "year": 1971
+      },
+      {
+        "title": "Quadrophenia",
+        "year": 1973
+      },
+      {
+        "title": "The Who by Numbers",
+        "year": 1975
+      },
+      {
+        "title": "Who Are You",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Won't Get Fooled Again",
+      "Baba O'Riley",
+      "Behind Blue Eyes",
+      "The Real Me",
+      "Love, Reign o'er Me",
+      "Squeeze Box",
+      "Who Are You"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The 1970 album 'Live at Leeds' is widely considered one of the best live rock albums of all time.",
+      "The band's classic lineup was abruptly halted by the death of drummer Keith Moon in September 1978.",
+      "The Who are credited with being among the first bands to use synthesisers as a core component of a hard rock sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Who",
+    "youtube_search": "The Who Won't Get Fooled Again",
+    "tags": [
+      "classic-rock",
+      "hard-rock",
+      "rock-opera"
+    ]
+  },
+  {
+    "id": "three-dog-night",
+    "name": "Three Dog Night",
+    "genre": "classic-rock",
+    "subgenre": "pop rock",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Three Dog Night was a dominant force on the 1970s pop-rock charts, achieving an extraordinary string of 21 top-40 hits between 1969 and 1975. Famous for their distinctive three-lead-vocalist lineup, the band excelled at interpreting songs from then-emerging songwriters like Harry Nilsson and Randy Newman. Their music blended rock, soul, and pop into a series of massive commercial hits that became defining sounds of the early to mid-70s.",
+    "members_70s": [
+      "Chuck Negron",
+      "Cory Wells",
+      "Danny Hutton",
+      "Jimmy Greenspoon",
+      "Joe Schermie",
+      "Michael Allsup",
+      "Floyd Sneed",
+      "Jack Ryland",
+      "Skip Konte"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "It Ain't Easy",
+        "year": 1970
+      },
+      {
+        "title": "Naturally",
+        "year": 1970
+      },
+      {
+        "title": "Harmony",
+        "year": 1971
+      },
+      {
+        "title": "Seven Separate Fools",
+        "year": 1972
+      },
+      {
+        "title": "Cyan",
+        "year": 1973
+      },
+      {
+        "title": "Hard Labor",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Mama Told Me (Not to Come)",
+      "Joy to the World",
+      "Liar",
+      "An Old Fashioned Love Song",
+      "Never Been to Spain",
+      "Black and White",
+      "Shambala",
+      "The Show Must Go On"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band helped introduce mainstream audiences to major songwriters like Harry Nilsson, Randy Newman, and Laura Nyro.",
+      "The group's name was inspired by an indigenous Australian expression about the coldness of a night being measured by how many dogs one needs to sleep with for warmth.",
+      "Their 1971 hit 'Joy to the World' was their second number-one single and remains one of their most iconic songs."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Dog_Night",
+    "youtube_search": "Three Dog Night Joy to the World",
+    "tags": [
+      "classic-rock",
+      "pop-rock",
+      "vocal-harmonies"
+    ]
+  },
+  {
+    "id": "tom-petty-and-the-heartbreakers",
+    "name": "Tom Petty and the Heartbreakers",
+    "genre": "classic-rock",
+    "subgenre": "heartland rock",
+    "origin": "Gainesville, Florida, U.S.",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Tom Petty and the Heartbreakers emerged in the late 1970s as a quintessential heartland rock band, blending 60s rock influences with a fresh, gritty energy. Their 1976 debut introduced their signature melodic rock sound, followed by the multi-platinum success of 1979's 'Damn the Torpedoes.' Led by Petty's distinctive vocals and Mike Campbell's guitar work, the band quickly established themselves as leading figures in the American rock scene.",
+    "members_70s": [
+      "Tom Petty",
+      "Mike Campbell",
+      "Benmont Tench",
+      "Ron Blair",
+      "Stan Lynch"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Tom Petty and the Heartbreakers",
+        "year": 1976
+      },
+      {
+        "title": "You're Gonna Get It!",
+        "year": 1978
+      },
+      {
+        "title": "Damn the Torpedoes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Breakdown",
+      "American Girl",
+      "Anything That's Rock 'n' Roll",
+      "I Need to Know",
+      "Listen to Her Heart",
+      "Refugee",
+      "Don't Do Me Like That",
+      "Here Comes My Girl"
+    ],
+    "mood": [
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed from the remains of Tom Petty's earlier group, Mudcrutch.",
+      "The 1979 album 'Damn the Torpedoes' reached number two on the Billboard 200 and was certified triple platinum.",
+      "The Heartbreakers performed for the first time since Petty's death at a benefit concert in April 2018."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Petty_and_the_Heartbreakers",
+    "youtube_search": "Tom Petty and the Heartbreakers American Girl",
+    "tags": [
+      "classic-rock",
+      "heartland-rock",
+      "Tom-Petty"
+    ]
+  },
+  {
+    "id": "traffic",
+    "name": "Traffic",
+    "genre": "classic-rock",
+    "subgenre": "progressive-rock",
+    "origin": "Birmingham, England",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Traffic spent the early 1970s evolving into a sophisticated progressive and jazz-rock force centered on the multifaceted talents of Steve Winwood. Their 70s sound featured complex arrangements and extensive improvisation, blending folk, rock, and jazz elements. During this period, the band released several highly influential albums that helped define the experimental and technical peaks of the classic rock era.",
+    "members_70s": [
+      "Steve Winwood",
+      "Jim Capaldi",
+      "Chris Wood",
+      "Ric Grech",
+      "Jim Gordon",
+      "Rebop Kwaku Baah",
+      "Roger Hawkins",
+      "David Hood"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "John Barleycorn Must Die",
+        "year": 1970
+      },
+      {
+        "title": "Welcome to the Canteen",
+        "year": 1971
+      },
+      {
+        "title": "The Low Spark of High Heeled Boys",
+        "year": 1971
+      },
+      {
+        "title": "Shoot Out at the Fantasy Factory",
+        "year": 1973
+      },
+      {
+        "title": "When the Eagle Flies",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Glad",
+      "Freedom Rider",
+      "John Barleycorn",
+      "The Low Spark of High Heeled Boys",
+      "Light Up or Leave Me Alone",
+      "Empty Pages"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The title track of their 1971 album 'The Low Spark of High Heeled Boys' is a nearly 12-minute jazz-rock epic that became a staple of rock radio.",
+      "The 1970 reunion album 'John Barleycorn Must Die' was originally intended to be Steve Winwood's first solo record.",
+      "The band was inducted into the Rock and Roll Hall of Fame in 2004 for their significant contributions to progressive and rock music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Traffic(band)",
+    "youtube_search": "Traffic The Low Spark of High Heeled Boys",
+    "tags": [
+      "classic-rock",
+      "progressive-rock",
+      "jazz-rock"
+    ]
+  },
+  {
+    "id": "van-morrison",
+    "name": "Van Morrison",
+    "genre": "classic-rock",
+    "subgenre": "soul-rock",
+    "origin": "Belfast, Northern Ireland",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "In the 1970s, Van Morrison solidified his reputation as one of rock's most soulful vocalists, blending R&B, Celtic folk, and jazz. His sound in this period evolved from pastoral folk-rock to more spiritually exploratory and expansive musical styles. Throughout the decade, he remained a critically acclaimed and commercially successful figure, known for intense, unpredictable performances and deeply personal songwriting.",
+    "key_albums_70s": [
+      {
+        "title": "Moondance",
+        "year": 1970
+      },
+      {
+        "title": "His Band and the Street Choir",
+        "year": 1970
+      },
+      {
+        "title": "Tupelo Honey",
+        "year": 1971
+      },
+      {
+        "title": "Saint Dominic's Preview",
+        "year": 1972
+      },
+      {
+        "title": "Hard Nose the Highway",
+        "year": 1973
+      },
+      {
+        "title": "Veedon Fleece",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Moondance",
+      "Domino",
+      "Wild Night",
+      "Tupelo Honey",
+      "Jackie Wilson Said (I'm in Heaven When You Smile)",
+      "Wavelength"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1970 album 'Moondance' was his first to be certified platinum and is widely considered one of the greatest rock albums of all time.",
+      "Morrison has frequently referred to 'Caledonia', the ancient name for Scotland, in his lyrics and production companies throughout his career.",
+      "He was inducted into the Rock and Roll Hall of Fame in 1993 but famously chose not to attend the ceremony."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Van_Morrison",
+    "youtube_search": "Van Morrison Moondance",
+    "tags": [
+      "classic-rock",
+      "soul-rock",
+      "folk-rock"
+    ]
+  },
+  {
+    "id": "warren-zevon",
+    "name": "Warren Zevon",
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Zevon emerged in the late 1970s with a dark, cynical wit and a sound that successfully blended folk-rock with hard rock edges. His lyrics were often terse and action-packed, sketching complex characters with a unique gallows humor. He achieved major critical and commercial success toward the end of the decade, becoming one of the most distinctive and respected new voices in rock music during the 70s classic rock era.",
+    "key_albums_70s": [
+      {
+        "title": "Wanted Dead or Alive",
+        "year": 1970
+      },
+      {
+        "title": "Warren Zevon",
+        "year": 1976
+      },
+      {
+        "title": "Excitable Boy",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Werewolves of London",
+      "Lawyers Guns and Money",
+      "Roland the Headless Thompson Gunner",
+      "Poor Poor Pitiful Me",
+      "Mohammed's Radio",
+      "Carmelita"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1978 hit 'Werewolves of London' featured the rhythm section of Fleetwood Mac—Mick Fleetwood and John McVie—on drums and bass.",
+      "Zevon lived in Spain in 1975, where he co-wrote 'Roland the Headless Thompson Gunner' with a mercenary tavern owner.",
+      "He was posthumously inducted into the Rock and Roll Hall of Fame in 2025 in the Musical Influence category."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Zevon",
+    "youtube_search": "Warren Zevon Werewolves of London",
+    "tags": [
+      "classic-rock",
+      "folk-rock",
+      "singer-songwriter"
+    ]
+  }
+]

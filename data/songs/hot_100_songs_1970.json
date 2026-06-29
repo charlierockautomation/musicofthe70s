@@ -1,0 +1,2802 @@
+[
+  {
+    "rank": 1,
+    "id": "bridge-over-troubled-water",
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "artistId": "simon-and-garfunkel",
+    "year": 1970,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 1,
+    "trivia": [
+      "Simon & Garfunkel had two songs on the Year-End Hot 100, including Bridge Over Troubled Water."
+    ],
+    "youtube_search": "Simon Garfunkel Bridge Over Troubled Water",
+    "tags": [
+      "iconic",
+      "number-one"
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "they-long-to-be-close-to-you",
+    "title": "(They Long to Be) Close to You",
+    "artist": "The Carpenters",
+    "artistId": "the-carpenters",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 2,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Carpenters They Long to Be Close to You",
+    "tags": [
+      "soft-rock",
+      "classic"
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "american-woman",
+    "title": "American Woman",
+    "artist": "The Guess Who",
+    "artistId": "the-guess-who",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 3,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Guess Who American Woman",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "raindrops-keep-fallin-on-my-head",
+    "title": "Raindrops Keep Fallin' on My Head",
+    "artist": "B.J. Thomas",
+    "artistId": "bj-thomas",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 4,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "BJ Thomas Raindrops Keep Fallin on My Head",
+    "tags": [
+      "classic",
+      "pop"
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "war",
+    "title": "War",
+    "artist": "Edwin Starr",
+    "artistId": "edwin-starr",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "psychedelic-soul",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 5,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Edwin Starr War",
+    "tags": [
+      "soul",
+      "protest"
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "aint-no-mountain-high-enough",
+    "title": "Ain't No Mountain High Enough",
+    "artist": "Diana Ross",
+    "artistId": "diana-ross",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 6,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Diana Ross Ain't No Mountain High Enough",
+    "tags": [
+      "motown",
+      "classic"
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "ill-be-there",
+    "title": "I'll Be There",
+    "artist": "The Jackson 5",
+    "artistId": "the-jackson-5",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 7,
+    "trivia": [
+      "The Jackson 5 had four songs on the Year-End Hot 100, the most of any artist in 1970."
+    ],
+    "youtube_search": "The Jackson 5 I'll Be There",
+    "tags": [
+      "motown",
+      "number-one"
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "get-ready",
+    "title": "Get Ready",
+    "artist": "Rare Earth",
+    "artistId": "rare-earth",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 8,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Rare Earth Get Ready",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "let-it-be",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "artistId": "the-beatles",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 9,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Beatles Let It Be",
+    "tags": [
+      "legendary",
+      "ballad"
+    ]
+  },
+  {
+    "rank": 10,
+    "id": "band-of-gold",
+    "title": "Band of Gold",
+    "artist": "Freda Payne",
+    "artistId": "freda-payne",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 10,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Freda Payne Band of Gold",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "mama-told-me-not-to-come",
+    "title": "Mama Told Me (Not to Come)",
+    "artist": "Three Dog Night",
+    "artistId": "three-dog-night",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 11,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Three Dog Night Mama Told Me Not to Come",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "everything-is-beautiful",
+    "title": "Everything Is Beautiful",
+    "artist": "Ray Stevens",
+    "artistId": "ray-stevens",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 12,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Ray Stevens Everything Is Beautiful",
+    "tags": [
+      "pop",
+      "feel-good"
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "make-it-with-you",
+    "title": "Make It with You",
+    "artist": "Bread",
+    "artistId": "bread",
+    "year": 1970,
+    "genre": "soft-rock",
+    "subgenre": "pop",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 13,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Bread Make It with You",
+    "tags": [
+      "soft-rock",
+      "ballad"
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "hitchin-a-ride",
+    "title": "Hitchin' a Ride",
+    "artist": "Vanity Fare",
+    "artistId": "vanity-fare",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 14,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Vanity Fare Hitchin a Ride",
+    "tags": [
+      "pop",
+      "sunny"
+    ]
+  },
+  {
+    "rank": 15,
+    "id": "abc",
+    "title": "ABC",
+    "artist": "The Jackson 5",
+    "artistId": "the-jackson-5",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 15,
+    "trivia": [
+      "The Jackson 5 had four songs on the Year-End Hot 100, the most of any artist in 1970."
+    ],
+    "youtube_search": "The Jackson 5 ABC",
+    "tags": [
+      "classic",
+      "bubblegum-soul"
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "the-love-you-save",
+    "title": "The Love You Save",
+    "artist": "The Jackson 5",
+    "artistId": "the-jackson-5",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 16,
+    "trivia": [
+      "The Jackson 5 had four songs on the Year-End Hot 100, the most of any artist in 1970."
+    ],
+    "youtube_search": "The Jackson 5 The Love You Save",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  },
+  {
+    "rank": 17,
+    "id": "cracklin-rosie",
+    "title": "Cracklin' Rosie",
+    "artist": "Neil Diamond",
+    "artistId": "neil-diamond",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 17,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Neil Diamond Cracklin Rosie",
+    "tags": [
+      "pop",
+      "classic"
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "candida",
+    "title": "Candida",
+    "artist": "Dawn",
+    "artistId": "dawn",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 18,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Dawn Candida",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 19,
+    "id": "thank-you-falettinme-be-mice-elf-agin",
+    "title": "Thank You (Falettinme Be Mice Elf Agin)",
+    "artist": "Sly & the Family Stone",
+    "artistId": "sly-and-the-family-stone",
+    "year": 1970,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 19,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Sly and the Family Stone Thank You Falettinme Be Mice Elf Agin",
+    "tags": [
+      "funk",
+      "classic"
+    ]
+  },
+  {
+    "rank": 20,
+    "id": "spill-the-wine",
+    "title": "Spill the Wine",
+    "artist": "Eric Burdon & War",
+    "artistId": "eric-burdon-and-war",
+    "year": 1970,
+    "genre": "funk",
+    "subgenre": "rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 20,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Eric Burdon War Spill the Wine",
+    "tags": [
+      "funk",
+      "hit"
+    ]
+  },
+  {
+    "rank": 21,
+    "id": "o-o-h-child",
+    "title": "O-o-h Child",
+    "artist": "Five Stairsteps",
+    "artistId": "five-stairsteps",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 21,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Five Stairsteps O-o-h Child",
+    "tags": [
+      "soul",
+      "hopeful"
+    ]
+  },
+  {
+    "rank": 22,
+    "id": "spirit-in-the-sky",
+    "title": "Spirit in the Sky",
+    "artist": "Norman Greenbaum",
+    "artistId": "norman-greenbaum",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 22,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Norman Greenbaum Spirit in the Sky",
+    "tags": [
+      "rock",
+      "classic"
+    ]
+  },
+  {
+    "rank": 23,
+    "id": "lay-down-candles-in-the-rain",
+    "title": "Lay Down (Candles in the Rain)",
+    "artist": "Melanie",
+    "artistId": "melanie",
+    "year": 1970,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 23,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Melanie Lay Down Candles in the Rain",
+    "tags": [
+      "folk",
+      "hit"
+    ]
+  },
+  {
+    "rank": 24,
+    "id": "ball-of-confusion-thats-what-the-world-is-today",
+    "title": "Ball of Confusion (That's What the World Is Today)",
+    "artist": "The Temptations",
+    "artistId": "the-temptations",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "psychedelic-soul",
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 24,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Temptations Ball of Confusion",
+    "tags": [
+      "motown",
+      "social-commentary"
+    ]
+  },
+  {
+    "rank": 25,
+    "id": "love-on-a-two-way-street",
+    "title": "Love on a Two-Way Street",
+    "artist": "The Moments",
+    "artistId": "the-moments",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 25,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Moments Love on a Two Way Street",
+    "tags": [
+      "soul",
+      "ballad"
+    ]
+  },
+  {
+    "rank": 26,
+    "id": "which-way-you-goin-billy",
+    "title": "Which Way You Goin' Billy?",
+    "artist": "The Poppy Family",
+    "artistId": "the-poppy-family",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 26,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Poppy Family Which Way You Goin Billy",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 27,
+    "id": "all-right-now",
+    "title": "All Right Now",
+    "artist": "Free",
+    "artistId": "free",
+    "year": 1970,
+    "genre": "hard-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 27,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Free All Right Now",
+    "tags": [
+      "rock",
+      "anthem"
+    ]
+  },
+  {
+    "rank": 28,
+    "id": "i-want-you-back",
+    "title": "I Want You Back",
+    "artist": "The Jackson 5",
+    "artistId": "the-jackson-5",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 28,
+    "trivia": [
+      "The Jackson 5 had four songs on the Year-End Hot 100, the most of any artist in 1970."
+    ],
+    "youtube_search": "The Jackson 5 I Want You Back",
+    "tags": [
+      "motown",
+      "classic"
+    ]
+  },
+  {
+    "rank": 29,
+    "id": "julie-do-ya-love-me",
+    "title": "Julie, Do Ya Love Me",
+    "artist": "Bobby Sherman",
+    "artistId": "bobby-sherman",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 29,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Bobby Sherman Julie Do Ya Love Me",
+    "tags": [
+      "teen-idol",
+      "pop"
+    ]
+  },
+  {
+    "rank": 30,
+    "id": "green-eyed-lady",
+    "title": "Green-Eyed Lady",
+    "artist": "Sugarloaf",
+    "artistId": "sugarloaf",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "mood": [
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 30,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Sugarloaf Green Eyed Lady",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 31,
+    "id": "signed-sealed-delivered-im-yours",
+    "title": "Signed, Sealed, Delivered I'm Yours",
+    "artist": "Stevie Wonder",
+    "artistId": "stevie-wonder",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 31,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Stevie Wonder Signed Sealed Delivered I'm Yours",
+    "tags": [
+      "motown",
+      "legendary"
+    ]
+  },
+  {
+    "rank": 32,
+    "id": "ride-captain-ride",
+    "title": "Ride Captain Ride",
+    "artist": "Blues Image",
+    "artistId": "blues-image",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 32,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Blues Image Ride Captain Ride",
+    "tags": [
+      "rock",
+      "classic"
+    ]
+  },
+  {
+    "rank": 33,
+    "id": "venus",
+    "title": "Venus",
+    "artist": "Shocking Blue",
+    "artistId": "shocking-blue",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 33,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Shocking Blue Venus",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 34,
+    "id": "instant-karma",
+    "title": "Instant Karma!",
+    "artist": "John Lennon",
+    "artistId": "john-lennon",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 34,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "John Lennon Instant Karma",
+    "tags": [
+      "solo",
+      "hit"
+    ]
+  },
+  {
+    "rank": 35,
+    "id": "patches",
+    "title": "Patches",
+    "artist": "Clarence Carter",
+    "artistId": "clarence-carter",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 35,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Clarence Carter Patches",
+    "tags": [
+      "soul",
+      "story-song"
+    ]
+  },
+  {
+    "rank": 36,
+    "id": "lookin-out-my-back-door",
+    "title": "Lookin' out My Back Door",
+    "artist": "Creedence Clearwater Revival",
+    "artistId": "creedence-clearwater-revival",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 36,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "CCR Lookin out My Back Door",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 37,
+    "id": "rainy-night-in-georgia",
+    "title": "Rainy Night in Georgia",
+    "artist": "Brook Benton",
+    "artistId": "brook-benton",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 37,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Brook Benton Rainy Night in Georgia",
+    "tags": [
+      "soul",
+      "classic"
+    ]
+  },
+  {
+    "rank": 38,
+    "id": "somethings-burning",
+    "title": "Something's Burning",
+    "artist": "Kenny Rogers & The First Edition",
+    "artistId": "kenny-rogers-and-the-first-edition",
+    "year": 1970,
+    "genre": "country",
+    "subgenre": "rock",
+    "mood": [
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 38,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Kenny Rogers Something's Burning",
+    "tags": [
+      "country",
+      "rock"
+    ]
+  },
+  {
+    "rank": 39,
+    "id": "give-me-just-a-little-more-time",
+    "title": "Give Me Just a Little More Time",
+    "artist": "Chairmen of the Board",
+    "artistId": "chairmen-of-the-board",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 39,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Chairmen of the Board Give Me Just a Little More Time",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  },
+  {
+    "rank": 40,
+    "id": "love-grows-where-my-rosemary-goes",
+    "title": "Love Grows (Where My Rosemary Goes)",
+    "artist": "Edison Lighthouse",
+    "artistId": "edison-lighthouse",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 40,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Edison Lighthouse Love Grows",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 41,
+    "id": "the-long-and-winding-road",
+    "title": "The Long and Winding Road",
+    "artist": "The Beatles",
+    "artistId": "the-beatles",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "ballad",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 41,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Beatles The Long and Winding Road",
+    "tags": [
+      "legendary",
+      "number-one"
+    ]
+  },
+  {
+    "rank": 42,
+    "id": "snowbird",
+    "title": "Snowbird",
+    "artist": "Anne Murray",
+    "artistId": "anne-murray",
+    "year": 1970,
+    "genre": "country",
+    "subgenre": "pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 42,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Anne Murray Snowbird",
+    "tags": [
+      "country",
+      "pop"
+    ]
+  },
+  {
+    "rank": 43,
+    "id": "reflections-of-my-life",
+    "title": "Reflections of My Life",
+    "artist": "Marmalade",
+    "artistId": "marmalade",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 43,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Marmalade Reflections of My Life",
+    "tags": [
+      "pop",
+      "rock"
+    ]
+  },
+  {
+    "rank": 44,
+    "id": "hey-there-lonely-girl",
+    "title": "Hey There Lonely Girl",
+    "artist": "Eddie Holman",
+    "artistId": "eddie-holman",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 44,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Eddie Holman Hey There Lonely Girl",
+    "tags": [
+      "soul",
+      "falsetto"
+    ]
+  },
+  {
+    "rank": 45,
+    "id": "the-rapper",
+    "title": "The Rapper",
+    "artist": "The Jaggerz",
+    "artistId": "the-jaggerz",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "pop",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 45,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Jaggerz The Rapper",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 46,
+    "id": "he-aint-heavy-hes-my-brother",
+    "title": "He Ain't Heavy, He's My Brother",
+    "artist": "The Hollies",
+    "artistId": "the-hollies",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 46,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Hollies He Ain't Heavy He's My Brother",
+    "tags": [
+      "classic",
+      "ballad"
+    ]
+  },
+  {
+    "rank": 47,
+    "id": "tighter-tighter",
+    "title": "Tighter, Tighter",
+    "artist": "Alive N Kickin'",
+    "artistId": "alive-n-kickin",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 47,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Alive N Kickin Tighter Tighter",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 48,
+    "id": "come-and-get-it",
+    "title": "Come and Get It",
+    "artist": "Badfinger",
+    "artistId": "badfinger",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "power-pop",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 48,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Badfinger Come and Get It",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 49,
+    "id": "cecilia",
+    "title": "Cecilia",
+    "artist": "Simon & Garfunkel",
+    "artistId": "simon-and-garfunkel",
+    "year": 1970,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 49,
+    "trivia": [
+      "Simon & Garfunkel had two songs on the Year-End Hot 100, including Bridge Over Troubled Water."
+    ],
+    "youtube_search": "Simon Garfunkel Cecilia",
+    "tags": [
+      "folk",
+      "classic"
+    ]
+  },
+  {
+    "rank": 50,
+    "id": "love-land",
+    "title": "Love Land",
+    "artist": "Charles Wright & the Watts 103rd Street Rhythm Band",
+    "artistId": "charles-wright-and-the-watts-103rd-street-rhythm-band",
+    "year": 1970,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 50,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Charles Wright Love Land",
+    "tags": [
+      "funk",
+      "soul"
+    ]
+  },
+  {
+    "rank": 51,
+    "id": "turn-back-the-hands-of-time",
+    "title": "Turn Back the Hands of Time",
+    "artist": "Tyrone Davis",
+    "artistId": "tyrone-davis",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 51,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Tyrone Davis Turn Back the Hands of Time",
+    "tags": [
+      "soul",
+      "classic"
+    ]
+  },
+  {
+    "rank": 52,
+    "id": "lola",
+    "title": "Lola",
+    "artist": "The Kinks",
+    "artistId": "the-kinks",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 52,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Kinks Lola",
+    "tags": [
+      "rock",
+      "story-song"
+    ]
+  },
+  {
+    "rank": 53,
+    "id": "in-the-summertime",
+    "title": "In the Summertime",
+    "artist": "Mungo Jerry",
+    "artistId": "mungo-jerry",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 53,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Mungo Jerry In the Summertime",
+    "tags": [
+      "pop",
+      "seasonal"
+    ]
+  },
+  {
+    "rank": 54,
+    "id": "indiana-wants-me",
+    "title": "Indiana Wants Me",
+    "artist": "R. Dean Taylor",
+    "artistId": "r-dean-taylor",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "pumped-up",
+      "melancholy"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 54,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "R Dean Taylor Indiana Wants Me",
+    "tags": [
+      "pop",
+      "story-song"
+    ]
+  },
+  {
+    "rank": 55,
+    "id": "i-know-im-losing-you",
+    "title": "(I Know) I'm Losing You",
+    "artist": "Rare Earth",
+    "artistId": "rare-earth",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "psychedelic-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 55,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Rare Earth I Know I'm Losing You",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 56,
+    "id": "easy-come-easy-go",
+    "title": "Easy Come, Easy Go",
+    "artist": "Bobby Sherman",
+    "artistId": "bobby-sherman",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 56,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Bobby Sherman Easy Come Easy Go",
+    "tags": [
+      "teen-idol",
+      "pop"
+    ]
+  },
+  {
+    "rank": 57,
+    "id": "express-yourself",
+    "title": "Express Yourself",
+    "artist": "Charles Wright & the Watts 103rd Street Rhythm Band",
+    "artistId": "charles-wright-and-the-watts-103rd-street-rhythm-band",
+    "year": 1970,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 57,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Charles Wright Express Yourself",
+    "tags": [
+      "funk",
+      "classic"
+    ]
+  },
+  {
+    "rank": 58,
+    "id": "still-water-love",
+    "title": "Still Water (Love)",
+    "artist": "The Four Tops",
+    "artistId": "the-four-tops",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 58,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Four Tops Still Water Love",
+    "tags": [
+      "soul",
+      "motown"
+    ]
+  },
+  {
+    "rank": 59,
+    "id": "make-me-smile",
+    "title": "Make Me Smile",
+    "artist": "Chicago",
+    "artistId": "chicago",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "jazz-rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 59,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Chicago Make Me Smile",
+    "tags": [
+      "rock",
+      "horns"
+    ]
+  },
+  {
+    "rank": 60,
+    "id": "the-house-of-the-rising-sun",
+    "title": "The House of the Rising Sun",
+    "artist": "Frijid Pink",
+    "artistId": "frijid-pink",
+    "year": 1970,
+    "genre": "hard-rock",
+    "subgenre": "psychedelic-rock",
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 60,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Frijid Pink The House of the Rising Sun",
+    "tags": [
+      "rock",
+      "cover"
+    ]
+  },
+  {
+    "rank": 61,
+    "id": "25-or-6-to-4",
+    "title": "25 or 6 to 4",
+    "artist": "Chicago",
+    "artistId": "chicago",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "jazz-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 61,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Chicago 25 or 6 to 4",
+    "tags": [
+      "rock",
+      "classic"
+    ]
+  },
+  {
+    "rank": 62,
+    "id": "my-baby-loves-lovin",
+    "title": "My Baby Loves Lovin'",
+    "artist": "White Plains",
+    "artistId": "white-plains",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "bubblegum",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 62,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "White Plains My Baby Loves Lovin",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 63,
+    "id": "love-or-let-me-be-lonely",
+    "title": "Love or Let Me Be Lonely",
+    "artist": "The Friends of Distinction",
+    "artistId": "the-friends-of-distinction",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 63,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Friends of Distinction Love or Let Me Be Lonely",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  },
+  {
+    "rank": 64,
+    "id": "united-we-stand",
+    "title": "United We Stand",
+    "artist": "The Brotherhood of Man",
+    "artistId": "the-brotherhood-of-man",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 64,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Brotherhood of Man United We Stand",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 65,
+    "id": "weve-only-just-begun",
+    "title": "We've Only Just Begun",
+    "artist": "The Carpenters",
+    "artistId": "the-carpenters",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 65,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Carpenters We've Only Just Begun",
+    "tags": [
+      "soft-rock",
+      "wedding"
+    ]
+  },
+  {
+    "rank": 66,
+    "id": "arizona",
+    "title": "Arizona",
+    "artist": "Mark Lindsay",
+    "artistId": "mark-lindsay",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 66,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Mark Lindsay Arizona",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 67,
+    "id": "fire-and-rain",
+    "title": "Fire and Rain",
+    "artist": "James Taylor",
+    "artistId": "james-taylor",
+    "year": 1970,
+    "genre": "soft-rock",
+    "subgenre": "folk",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 67,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "James Taylor Fire and Rain",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "rank": 68,
+    "id": "groovy-situation",
+    "title": "Groovy Situation",
+    "artist": "Gene Chandler",
+    "artistId": "gene-chandler",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 68,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Gene Chandler Groovy Situation",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  },
+  {
+    "rank": 69,
+    "id": "evil-ways",
+    "title": "Evil Ways",
+    "artist": "Santana",
+    "artistId": "santana",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "latin-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 69,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Santana Evil Ways",
+    "tags": [
+      "rock",
+      "latin"
+    ]
+  },
+  {
+    "rank": 70,
+    "id": "no-time",
+    "title": "No Time",
+    "artist": "The Guess Who",
+    "artistId": "the-guess-who",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 70,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Guess Who No Time",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 71,
+    "id": "didnt-i-blow-your-mind-this-time",
+    "title": "Didn't I (Blow Your Mind This Time)",
+    "artist": "The Delfonics",
+    "artistId": "the-delfonics",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 71,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Delfonics Didn't I Blow Your Mind This Time",
+    "tags": [
+      "soul",
+      "classic"
+    ]
+  },
+  {
+    "rank": 72,
+    "id": "the-wonder-of-you",
+    "title": "The Wonder of You",
+    "artist": "Elvis Presley",
+    "artistId": "elvis-presley",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 72,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Elvis Presley The Wonder of You",
+    "tags": [
+      "legendary",
+      "ballad"
+    ]
+  },
+  {
+    "rank": 73,
+    "id": "up-around-the-bend",
+    "title": "Up Around the Bend",
+    "artist": "Creedence Clearwater Revival",
+    "artistId": "creedence-clearwater-revival",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "country-rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 73,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "CCR Up Around the Bend",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 74,
+    "id": "if-you-let-me-make-love-to-you-then-why-cant-i-touch-you",
+    "title": "(If You Let Me Make Love To You Then) Why Can't I Touch You?",
+    "artist": "Ronnie Dyson",
+    "artistId": "ronnie-dyson",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 74,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Ronnie Dyson Why Can't I Touch You",
+    "tags": [
+      "soul",
+      "vocal"
+    ]
+  },
+  {
+    "rank": 75,
+    "id": "i-just-cant-help-believing",
+    "title": "I Just Can't Help Believing",
+    "artist": "B.J. Thomas",
+    "artistId": "bj-thomas",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 75,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "BJ Thomas I Just Can't Help Believing",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 76,
+    "id": "its-a-shame",
+    "title": "It's a Shame",
+    "artist": "The Spinners",
+    "artistId": "the-spinners",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 76,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Spinners It's a Shame",
+    "tags": [
+      "motown",
+      "soul"
+    ]
+  },
+  {
+    "rank": 77,
+    "id": "for-the-love-of-him",
+    "title": "For the Love of Him",
+    "artist": "Bobbi Martin",
+    "artistId": "bobbi-martin",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 77,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Bobbi Martin For the Love of Him",
+    "tags": [
+      "pop",
+      "vocal"
+    ]
+  },
+  {
+    "rank": 78,
+    "id": "mississippi-queen",
+    "title": "Mississippi Queen",
+    "artist": "Mountain",
+    "artistId": "mountain",
+    "year": 1970,
+    "genre": "hard-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 78,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Mountain Mississippi Queen",
+    "tags": [
+      "rock",
+      "hard-rock"
+    ]
+  },
+  {
+    "rank": 79,
+    "id": "i-want-to-take-you-higher",
+    "title": "I Want to Take You Higher",
+    "artist": "Ike & Tina Turner",
+    "artistId": "ike-and-tina-turner",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "funk",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 79,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Ike and Tina Turner I Want to Take You Higher",
+    "tags": [
+      "soul",
+      "funk"
+    ]
+  },
+  {
+    "rank": 80,
+    "id": "the-letter",
+    "title": "The Letter",
+    "artist": "Joe Cocker",
+    "artistId": "joe-cocker",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 80,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Joe Cocker The Letter",
+    "tags": [
+      "rock",
+      "cover"
+    ]
+  },
+  {
+    "rank": 81,
+    "id": "ma-belle-amie",
+    "title": "Ma Belle Amie",
+    "artist": "Tee-Set",
+    "artistId": "tee-set",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 81,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Tee-Set Ma Belle Amie",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 82,
+    "id": "the-bells",
+    "title": "The Bells",
+    "artist": "The Originals",
+    "artistId": "the-originals",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 82,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Originals The Bells",
+    "tags": [
+      "soul",
+      "motown"
+    ]
+  },
+  {
+    "rank": 83,
+    "id": "yellow-river",
+    "title": "Yellow River",
+    "artist": "Christie",
+    "artistId": "christie",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 83,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Christie Yellow River",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 84,
+    "id": "somebodys-been-sleeping",
+    "title": "Somebody's Been Sleeping",
+    "artist": "100 Proof (Aged in Soul)",
+    "artistId": "100-proof-aged-in-soul",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "funk",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 84,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "100 Proof Somebody's Been Sleeping",
+    "tags": [
+      "soul",
+      "funk"
+    ]
+  },
+  {
+    "rank": 85,
+    "id": "vehicle",
+    "title": "Vehicle",
+    "artist": "The Ides of March",
+    "artistId": "the-ides-of-march",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "jazz-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 85,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Ides of March Vehicle",
+    "tags": [
+      "rock",
+      "horns"
+    ]
+  },
+  {
+    "rank": 86,
+    "id": "gimme-dat-ding",
+    "title": "Gimme Dat Ding",
+    "artist": "The Pipkins",
+    "artistId": "the-pipkins",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "novelty",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 86,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Pipkins Gimme Dat Ding",
+    "tags": [
+      "novelty",
+      "pop"
+    ]
+  },
+  {
+    "rank": 87,
+    "id": "lay-a-little-lovin-on-me",
+    "title": "Lay a Little Lovin' on Me",
+    "artist": "Robin McNamara",
+    "artistId": "robin-mcnamara",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 87,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Robin McNamara Lay a Little Lovin on Me",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 88,
+    "id": "up-the-ladder-to-the-roof",
+    "title": "Up the Ladder to the Roof",
+    "artist": "The Supremes",
+    "artistId": "the-supremes",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 88,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Supremes Up the Ladder to the Roof",
+    "tags": [
+      "soul",
+      "motown"
+    ]
+  },
+  {
+    "rank": 89,
+    "id": "travelin-band",
+    "title": "Travelin' Band",
+    "artist": "Creedence Clearwater Revival",
+    "artistId": "creedence-clearwater-revival",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "rock-and-roll",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 89,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "CCR Travelin Band",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 90,
+    "id": "come-saturday-morning",
+    "title": "Come Saturday Morning",
+    "artist": "The Sandpipers",
+    "artistId": "the-sandpipers",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 90,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Sandpipers Come Saturday Morning",
+    "tags": [
+      "pop",
+      "vocal"
+    ]
+  },
+  {
+    "rank": 91,
+    "id": "psychedelic-shack",
+    "title": "Psychedelic Shack",
+    "artist": "The Temptations",
+    "artistId": "the-temptations",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "psychedelic-soul",
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 91,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The Temptations Psychedelic Shack",
+    "tags": [
+      "motown",
+      "soul"
+    ]
+  },
+  {
+    "rank": 92,
+    "id": "without-love-there-is-nothing",
+    "title": "Without Love (There Is Nothing)",
+    "artist": "Tom Jones",
+    "artistId": "tom-jones",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "vocal",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 92,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Tom Jones Without Love There Is Nothing",
+    "tags": [
+      "pop",
+      "vocal"
+    ]
+  },
+  {
+    "rank": 93,
+    "id": "are-you-ready",
+    "title": "Are You Ready?",
+    "artist": "Pacific Gas & Electric",
+    "artistId": "pacific-gas-and-electric",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 93,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Pacific Gas and Electric Are You Ready",
+    "tags": [
+      "rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 94,
+    "id": "woodstock",
+    "title": "Woodstock",
+    "artist": "Crosby, Stills, Nash & Young",
+    "artistId": "crosby-stills-nash-and-young",
+    "year": 1970,
+    "genre": "classic-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "rock-out"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 94,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "CSNY Woodstock",
+    "tags": [
+      "folk-rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 95,
+    "id": "ill-never-fall-in-love-again",
+    "title": "I'll Never Fall in Love Again",
+    "artist": "Dionne Warwick",
+    "artistId": "dionne-warwick",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 95,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Dionne Warwick I'll Never Fall in Love Again",
+    "tags": [
+      "pop",
+      "vocal"
+    ]
+  },
+  {
+    "rank": 96,
+    "id": "look-what-theyve-done-to-my-song-ma",
+    "title": "Look What They've Done to My Song Ma",
+    "artist": "The New Seekers",
+    "artistId": "the-new-seekers",
+    "year": 1970,
+    "genre": "pop",
+    "subgenre": "folk-pop",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 96,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "The New Seekers Look What They've Done to My Song Ma",
+    "tags": [
+      "pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 97,
+    "id": "walk-a-mile-in-my-shoes",
+    "title": "Walk A Mile In My Shoes",
+    "artist": "Joe South",
+    "artistId": "joe-south",
+    "year": 1970,
+    "genre": "country",
+    "subgenre": "rock",
+    "mood": [
+      "nostalgic",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 97,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Joe South Walk a Mile in My Shoes",
+    "tags": [
+      "country-rock",
+      "hit"
+    ]
+  },
+  {
+    "rank": 98,
+    "id": "the-thrill-is-gone",
+    "title": "The Thrill Is Gone",
+    "artist": "B.B. King",
+    "artistId": "bb-king",
+    "year": 1970,
+    "genre": "rnb",
+    "subgenre": "blues",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 98,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "BB King The Thrill Is Gone",
+    "tags": [
+      "blues",
+      "classic"
+    ]
+  },
+  {
+    "rank": 99,
+    "id": "its-only-make-believe",
+    "title": "It's Only Make Believe",
+    "artist": "Glen Campbell",
+    "artistId": "glen-campbell",
+    "year": 1970,
+    "genre": "country",
+    "subgenre": "pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 99,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Glen Campbell It's Only Make Believe",
+    "tags": [
+      "country-pop",
+      "hit"
+    ]
+  },
+  {
+    "rank": 100,
+    "id": "call-me",
+    "title": "Call Me",
+    "artist": "Aretha Franklin",
+    "artistId": "aretha-franklin",
+    "year": 1970,
+    "genre": "soul",
+    "subgenre": "rnb",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "early-70s",
+    "billboard_peak": 100,
+    "trivia": [
+      "The Billboard Year-End Hot 100 list for 1970 covers songs from January 3 to November 28."
+    ],
+    "youtube_search": "Aretha Franklin Call Me",
+    "tags": [
+      "soul",
+      "hit"
+    ]
+  }
+]

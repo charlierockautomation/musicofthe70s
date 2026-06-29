@@ -1,0 +1,2703 @@
+[
+  {
+    "rank": 1,
+    "id": "shadow-dancing",
+    "title": "Shadow Dancing",
+    "artist": "Andy Gibb",
+    "artistId": "andy-gibb",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 1,
+    "trivia": [
+      "Andy Gibb had three songs on the Year-End Hot 100, including 'Shadow Dancing', the number one hit of the year."
+    ],
+    "youtube_search": "Andy Gibb Shadow Dancing",
+    "tags": [
+      "iconic",
+      "number-one"
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "night-fever",
+    "title": "Night Fever",
+    "artist": "Bee Gees",
+    "artistId": "bee-gees",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "disco-pop",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 2,
+    "trivia": [
+      "The Bee Gees had three songs on the Year-End Hot 100, including 'Night Fever' at number 2."
+    ],
+    "youtube_search": "Bee Gees Night Fever",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "you-light-up-my-life",
+    "title": "You Light Up My Life",
+    "artist": "Debby Boone",
+    "artistId": "debby-boone",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 3,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Debby Boone You Light Up My Life",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "stayin-alive",
+    "title": "Stayin' Alive",
+    "artist": "Bee Gees",
+    "artistId": "bee-gees",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "disco-funk",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 4,
+    "trivia": [
+      "The Bee Gees had three songs on the Year-End Hot 100, including 'Stayin' Alive' at number 4."
+    ],
+    "youtube_search": "Bee Gees Stayin Alive",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "kiss-you-all-over",
+    "title": "Kiss You All Over",
+    "artist": "Exile",
+    "artistId": "exile",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 5,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Exile Kiss You All Over",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "how-deep-is-your-love",
+    "title": "How Deep Is Your Love",
+    "artist": "Bee Gees",
+    "artistId": "bee-gees",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "blue-eyed-soul",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 6,
+    "trivia": [
+      "The Bee Gees had three songs on the Year-End Hot 100, including 'How Deep is Your Love' at number 6."
+    ],
+    "youtube_search": "Bee Gees How Deep Is Your Love",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "baby-come-back",
+    "title": "Baby Come Back",
+    "artist": "Player",
+    "artistId": "player",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 7,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Player Baby Come Back",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "love-is-thicker-than-water",
+    "title": "(Love Is) Thicker Than Water",
+    "artist": "Andy Gibb",
+    "artistId": "andy-gibb",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 8,
+    "trivia": [
+      "Andy Gibb had three songs on the Year-End Hot 100, including '(Love Is) Thicker Than Water'."
+    ],
+    "youtube_search": "Andy Gibb Love Is Thicker Than Water",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "boogie-oogie-oogie",
+    "title": "Boogie Oogie Oogie",
+    "artist": "A Taste of Honey",
+    "artistId": "a-taste-of-honey",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 9,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "A Taste of Honey Boogie Oogie Oogie",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 10,
+    "id": "three-times-a-lady",
+    "title": "Three Times a Lady",
+    "artist": "Commodores",
+    "artistId": "commodores",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 10,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Commodores Three Times a Lady",
+    "tags": [
+      "top-ten"
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "grease",
+    "title": "Grease",
+    "artist": "Frankie Valli",
+    "artistId": "frankie-valli",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 11,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Frankie Valli Grease",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "i-go-crazy",
+    "title": "I Go Crazy",
+    "artist": "Paul Davis",
+    "artistId": "paul-davis",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 12,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Paul Davis I Go Crazy",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "youre-the-one-that-i-want",
+    "title": "You're the One That I Want",
+    "artist": "John Travolta & Olivia Newton-John",
+    "artistId": "john-travolta-olivia-newton-john",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "show-tune",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 13,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "John Travolta Olivia Newton-John Youre the One That I Want",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "emotion",
+    "title": "Emotion",
+    "artist": "Samantha Sang",
+    "artistId": "samantha-sang",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 14,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Samantha Sang Emotion",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 15,
+    "id": "lay-down-sally",
+    "title": "Lay Down Sally",
+    "artist": "Eric Clapton",
+    "artistId": "eric-clapton",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "blues-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 15,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Eric Clapton Lay Down Sally",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "miss-you",
+    "title": "Miss You",
+    "artist": "The Rolling Stones",
+    "artistId": "the-rolling-stones",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "disco-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 16,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "The Rolling Stones Miss You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 17,
+    "id": "just-the-way-you-are",
+    "title": "Just the Way You Are",
+    "artist": "Billy Joel",
+    "artistId": "billy-joel",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "jazz-pop",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 17,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Billy Joel Just the Way You Are",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "with-a-little-luck",
+    "title": "With a Little Luck",
+    "artist": "Wings",
+    "artistId": "wings",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 18,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Wings With a Little Luck",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 19,
+    "id": "if-i-cant-have-you",
+    "title": "If I Can't Have You",
+    "artist": "Yvonne Elliman",
+    "artistId": "yvonne-elliman",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 19,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Yvonne Elliman If I Cant Have You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 20,
+    "id": "dance-dance-dance-yowsah-yowsah-yowsah",
+    "title": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+    "artist": "Chic",
+    "artistId": "chic",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 20,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Chic Dance Dance Dance Yowsah Yowsah Yowsah",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 21,
+    "id": "feels-so-good",
+    "title": "Feels So Good",
+    "artist": "Chuck Mangione",
+    "artistId": "chuck-mangione",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "smooth-jazz",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 21,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Chuck Mangione Feels So Good",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 22,
+    "id": "hot-child-in-the-city",
+    "title": "Hot Child in the City",
+    "artist": "Nick Gilder",
+    "artistId": "nick-gilder",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "glam-rock",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 22,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Nick Gilder Hot Child in the City",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 23,
+    "id": "love-is-like-oxygen",
+    "title": "Love Is Like Oxygen",
+    "artist": "Sweet",
+    "artistId": "sweet",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "art-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 23,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Sweet Love Is Like Oxygen",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 24,
+    "id": "its-a-heartache",
+    "title": "It's a Heartache",
+    "artist": "Bonnie Tyler",
+    "artistId": "bonnie-tyler",
+    "year": 1978,
+    "genre": "country",
+    "subgenre": "country-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 24,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Bonnie Tyler Its a Heartache",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 25,
+    "id": "we-will-rock-you-we-are-the-champions",
+    "title": "We Will Rock You / We Are the Champions",
+    "artist": "Queen",
+    "artistId": "queen",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "arena-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 25,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Queen We Will Rock You We Are the Champions",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 26,
+    "id": "baker-street",
+    "title": "Baker Street",
+    "artist": "Gerry Rafferty",
+    "artistId": "gerry-rafferty",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 26,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Gerry Rafferty Baker Street",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 27,
+    "id": "cant-smile-without-you",
+    "title": "Can't Smile Without You",
+    "artist": "Barry Manilow",
+    "artistId": "barry-manilow",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 27,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Barry Manilow Cant Smile Without You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 28,
+    "id": "too-much-too-little-too-late",
+    "title": "Too Much, Too Little, Too Late",
+    "artist": "Johnny Mathis & Deniece Williams",
+    "artistId": "johnny-mathis-deniece-williams",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "r-n-b-ballad",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 28,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Johnny Mathis Deniece Williams Too Much Too Little Too Late",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 29,
+    "id": "dance-with-me",
+    "title": "Dance With Me",
+    "artist": "Peter Brown",
+    "artistId": "peter-brown",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 29,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Peter Brown Dance With Me",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 30,
+    "id": "two-out-of-three-aint-bad",
+    "title": "Two Out of Three Ain't Bad",
+    "artist": "Meat Loaf",
+    "artistId": "meat-loaf",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "operatic-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 30,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Meat Loaf Two Out of Three Aint Bad",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 31,
+    "id": "jack-and-jill",
+    "title": "Jack And Jill",
+    "artist": "Raydio",
+    "artistId": "raydio",
+    "year": 1978,
+    "genre": "rnb",
+    "subgenre": "funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 31,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Raydio Jack And Jill",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 32,
+    "id": "take-a-chance-on-me",
+    "title": "Take a Chance on Me",
+    "artist": "ABBA",
+    "artistId": "abba",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "europop",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 32,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "ABBA Take a Chance on Me",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 33,
+    "id": "sometimes-when-we-touch",
+    "title": "Sometimes When We Touch",
+    "artist": "Dan Hill",
+    "artistId": "dan-hill",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 33,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Dan Hill Sometimes When We Touch",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 34,
+    "id": "last-dance",
+    "title": "Last Dance",
+    "artist": "Donna Summer",
+    "artistId": "donna-summer",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 34,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Donna Summer Last Dance",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 35,
+    "id": "hopelessly-devoted-to-you",
+    "title": "Hopelessly Devoted to You",
+    "artist": "Olivia Newton-John",
+    "artistId": "olivia-newton-john",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 35,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Olivia Newton-John Hopelessly Devoted to You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 36,
+    "id": "hot-blooded",
+    "title": "Hot Blooded",
+    "artist": "Foreigner",
+    "artistId": "foreigner",
+    "year": 1978,
+    "genre": "hard-rock",
+    "subgenre": "arena-rock",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 36,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Foreigner Hot Blooded",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 37,
+    "id": "youre-in-my-heart-the-final-acclaim",
+    "title": "You're in My Heart (The Final Acclaim)",
+    "artist": "Rod Stewart",
+    "artistId": "rod-stewart",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 37,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Rod Stewart Youre in My Heart The Final Acclaim",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 38,
+    "id": "the-closer-i-get-to-you",
+    "title": "The Closer I Get to You",
+    "artist": "Roberta Flack & Donny Hathaway",
+    "artistId": "roberta-flack-donny-hathaway",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "quiet-storm",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 38,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Roberta Flack Donny Hathaway The Closer I Get to You",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 39,
+    "id": "dust-in-the-wind",
+    "title": "Dust in the Wind",
+    "artist": "Kansas",
+    "artistId": "kansas",
+    "year": 1978,
+    "genre": "prog-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 39,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Kansas Dust in the Wind",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 40,
+    "id": "magnet-and-steel",
+    "title": "Magnet and Steel",
+    "artist": "Walter Egan",
+    "artistId": "walter-egan",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 40,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Walter Egan Magnet and Steel",
+    "tags": [
+      "top-forty"
+    ]
+  },
+  {
+    "rank": 41,
+    "id": "short-people",
+    "title": "Short People",
+    "artist": "Randy Newman",
+    "artistId": "randy-newman",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "satire",
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 41,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Randy Newman Short People",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 42,
+    "id": "use-ta-be-my-girl",
+    "title": "Use ta Be My Girl",
+    "artist": "The O'Jays",
+    "artistId": "the-ojays",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "philly-soul",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 42,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "The OJays Use ta Be My Girl",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 43,
+    "id": "our-love",
+    "title": "Our Love",
+    "artist": "Natalie Cole",
+    "artistId": "natalie-cole",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "r-n-b",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 43,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Natalie Cole Our Love",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 44,
+    "id": "love-will-find-a-way",
+    "title": "Love Will Find a Way",
+    "artist": "Pablo Cruise",
+    "artistId": "pablo-cruise",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 44,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Pablo Cruise Love Will Find a Way",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 45,
+    "id": "an-everlasting-love",
+    "title": "An Everlasting Love",
+    "artist": "Andy Gibb",
+    "artistId": "andy-gibb",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "pop-disco",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 45,
+    "trivia": [
+      "Andy Gibb had three songs on the Year-End Hot 100, including 'An Everlasting Love'."
+    ],
+    "youtube_search": "Andy Gibb An Everlasting Love",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 46,
+    "id": "love-is-in-the-air",
+    "title": "Love Is in the Air",
+    "artist": "John Paul Young",
+    "artistId": "john-paul-young",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 46,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "John Paul Young Love Is in the Air",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 47,
+    "id": "goodbye-girl",
+    "title": "Goodbye Girl",
+    "artist": "David Gates",
+    "artistId": "david-gates",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 47,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "David Gates Goodbye Girl",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 48,
+    "id": "slip-slidin-away",
+    "title": "Slip Slidin' Away",
+    "artist": "Paul Simon",
+    "artistId": "paul-simon",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "folk-pop",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 48,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Paul Simon Slip Slidin Away",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 49,
+    "id": "the-groove-line",
+    "title": "The Groove Line",
+    "artist": "Heatwave",
+    "artistId": "heatwave",
+    "year": 1978,
+    "genre": "funk",
+    "subgenre": "disco-funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 49,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Heatwave The Groove Line",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 50,
+    "id": "thunder-island",
+    "title": "Thunder Island",
+    "artist": "Jay Ferguson",
+    "artistId": "jay-ferguson",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 50,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Jay Ferguson Thunder Island",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 51,
+    "id": "imaginary-lover",
+    "title": "Imaginary Lover",
+    "artist": "Atlanta Rhythm Section",
+    "artistId": "atlanta-rhythm-section",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "southern-rock",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 51,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Atlanta Rhythm Section Imaginary Lover",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 52,
+    "id": "still-the-same",
+    "title": "Still the Same",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "artistId": "bob-seger-the-silver-bullet-band",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "heartland-rock",
+    "mood": [
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 52,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Bob Seger Still the Same",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 53,
+    "id": "my-angel-baby",
+    "title": "My Angel Baby",
+    "artist": "Toby Beau",
+    "artistId": "toby-beau",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 53,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Toby Beau My Angel Baby",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 54,
+    "id": "disco-inferno",
+    "title": "Disco Inferno",
+    "artist": "The Trammps",
+    "artistId": "the-trammps",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "soul-disco",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 54,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "The Trammps Disco Inferno",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 55,
+    "id": "on-broadway",
+    "title": "On Broadway",
+    "artist": "George Benson",
+    "artistId": "george-benson",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "jazz-funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 55,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "George Benson On Broadway",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 56,
+    "id": "come-sail-away",
+    "title": "Come Sail Away",
+    "artist": "Styx",
+    "artistId": "styx",
+    "year": 1978,
+    "genre": "prog-rock",
+    "subgenre": "arena-rock",
+    "mood": [
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 56,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Styx Come Sail Away",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 57,
+    "id": "back-in-love-again",
+    "title": "(Every Time I Turn Around) Back in Love Again",
+    "artist": "L.T.D.",
+    "artistId": "ltd",
+    "year": 1978,
+    "genre": "funk",
+    "subgenre": "soul",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 57,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "LTD Every Time I Turn Around Back in Love Again",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 58,
+    "id": "this-time-im-in-it-for-love",
+    "title": "This Time I'm in It for Love",
+    "artist": "Player",
+    "artistId": "player",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 58,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Player This Time Im in It for Love",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 59,
+    "id": "you-belong-to-me",
+    "title": "You Belong to Me",
+    "artist": "Carly Simon",
+    "artistId": "carly-simon",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 59,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Carly Simon You Belong to Me",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 60,
+    "id": "here-you-come-again",
+    "title": "Here You Come Again",
+    "artist": "Dolly Parton",
+    "artistId": "dolly-parton",
+    "year": 1978,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 60,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Dolly Parton Here You Come Again",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 61,
+    "id": "blue-bayou",
+    "title": "Blue Bayou",
+    "artist": "Linda Ronstadt",
+    "artistId": "linda-ronstadt",
+    "year": 1978,
+    "genre": "country",
+    "subgenre": "pop-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 61,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Linda Ronstadt Blue Bayou",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 62,
+    "id": "peg",
+    "title": "Peg",
+    "artist": "Steely Dan",
+    "artistId": "steely-dan",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "jazz-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 62,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Steely Dan Peg",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 63,
+    "id": "you-needed-me",
+    "title": "You Needed Me",
+    "artist": "Anne Murray",
+    "artistId": "anne-murray",
+    "year": 1978,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 63,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Anne Murray You Needed Me",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 64,
+    "id": "shame",
+    "title": "Shame",
+    "artist": "Evelyn \"Champagne\" King",
+    "artistId": "evelyn-champagne-king",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "r-n-b",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 64,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Evelyn Champagne King Shame",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 65,
+    "id": "reminiscing",
+    "title": "Reminiscing",
+    "artist": "Little River Band",
+    "artistId": "little-river-band",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "yacht-rock",
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 65,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Little River Band Reminiscing",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 66,
+    "id": "count-on-me",
+    "title": "Count On Me",
+    "artist": "Jefferson Starship",
+    "artistId": "jefferson-starship",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 66,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Jefferson Starship Count On Me",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 67,
+    "id": "baby-hold-on",
+    "title": "Baby Hold On",
+    "artist": "Eddie Money",
+    "artistId": "eddie-money",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 67,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Eddie Money Baby Hold On",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 68,
+    "id": "hey-deanie",
+    "title": "Hey Deanie",
+    "artist": "Shaun Cassidy",
+    "artistId": "shaun-cassidy",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "power-pop",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 68,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Shaun Cassidy Hey Deanie",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 69,
+    "id": "summer-nights",
+    "title": "Summer Nights",
+    "artist": "John Travolta & Olivia Newton-John",
+    "artistId": "john-travolta-olivia-newton-john",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "show-tune",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 69,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "John Travolta Olivia Newton-John Summer Nights",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 70,
+    "id": "whats-your-name",
+    "title": "What's Your Name",
+    "artist": "Lynyrd Skynyrd",
+    "artistId": "lynyrd-skynyrd",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "southern-rock",
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 70,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Lynyrd Skynyrd Whats Your Name",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 71,
+    "id": "dont-it-make-my-brown-eyes-blue",
+    "title": "Don't It Make My Brown Eyes Blue",
+    "artist": "Crystal Gayle",
+    "artistId": "crystal-gayle",
+    "year": 1978,
+    "genre": "country",
+    "subgenre": "country-pop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 71,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Crystal Gayle Dont It Make My Brown Eyes Blue",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 72,
+    "id": "because-the-night",
+    "title": "Because the Night",
+    "artist": "Patti Smith Group",
+    "artistId": "patti-smith-group",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "punk-rock",
+    "mood": [
+      "rebellious",
+      "romantic"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 72,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Patti Smith Group Because the Night",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 73,
+    "id": "every-kinda-people",
+    "title": "Every Kinda People",
+    "artist": "Robert Palmer",
+    "artistId": "robert-palmer",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 73,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Robert Palmer Every Kinda People",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 74,
+    "id": "copacabana",
+    "title": "Copacabana",
+    "artist": "Barry Manilow",
+    "artistId": "barry-manilow",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 74,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Barry Manilow Copacabana",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 75,
+    "id": "always-and-forever",
+    "title": "Always and Forever",
+    "artist": "Heatwave",
+    "artistId": "heatwave",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "ballad",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 75,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Heatwave Always and Forever",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 76,
+    "id": "you-and-i",
+    "title": "You and I",
+    "artist": "Rick James",
+    "artistId": "rick-james",
+    "year": 1978,
+    "genre": "funk",
+    "subgenre": "r-n-b",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 76,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Rick James You and I",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 77,
+    "id": "serpentine-fire",
+    "title": "Serpentine Fire",
+    "artist": "Earth, Wind & Fire",
+    "artistId": "earth-wind-fire",
+    "year": 1978,
+    "genre": "funk",
+    "subgenre": "r-n-b",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 77,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Earth Wind Fire Serpentine Fire",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 78,
+    "id": "sentimental-lady",
+    "title": "Sentimental Lady",
+    "artist": "Bob Welch",
+    "artistId": "bob-welch",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 78,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Bob Welch Sentimental Lady",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 79,
+    "id": "falling",
+    "title": "Falling",
+    "artist": "LeBlanc & Carr",
+    "artistId": "leblanc-carr",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "folk-rock",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 79,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "LeBlanc Carr Falling",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 80,
+    "id": "dont-let-me-be-misunderstood",
+    "title": "Don't Let Me Be Misunderstood",
+    "artist": "Santa Esmeralda",
+    "artistId": "santa-esmeralda",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "latin-disco",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 80,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Santa Esmeralda Dont Let Me Be Misunderstood",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 81,
+    "id": "bluer-than-blue",
+    "title": "Bluer Than Blue",
+    "artist": "Michael Johnson",
+    "artistId": "michael-johnson",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 81,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Michael Johnson Bluer Than Blue",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 82,
+    "id": "running-on-empty",
+    "title": "Running on Empty",
+    "artist": "Jackson Browne",
+    "artistId": "jackson-browne",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "heartland-rock",
+    "mood": [
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 82,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Jackson Browne Running on Empty",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 83,
+    "id": "whenever-i-call-you-friend",
+    "title": "Whenever I Call You 'Friend'",
+    "artist": "Kenny Loggins & Stevie Nicks",
+    "artistId": "kenny-loggins-stevie-nicks",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 83,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Kenny Loggins Stevie Nicks Whenever I Call You Friend",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 84,
+    "id": "fool-if-you-think-its-over",
+    "title": "Fool (If You Think It's Over)",
+    "artist": "Chris Rea",
+    "artistId": "chris-rea",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "blue-eyed-soul",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 84,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Chris Rea Fool If You Think Its Over",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 85,
+    "id": "get-off",
+    "title": "Get Off",
+    "artist": "Foxy",
+    "artistId": "foxy",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "funk",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 85,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Foxy Get Off",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 86,
+    "id": "sweet-talkin-woman",
+    "title": "Sweet Talkin' Woman",
+    "artist": "Electric Light Orchestra",
+    "artistId": "electric-light-orchestra",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "symphonic-rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 86,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Electric Light Orchestra Sweet Talkin Woman",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 87,
+    "id": "lifes-been-good",
+    "title": "Life's Been Good",
+    "artist": "Joe Walsh",
+    "artistId": "joe-walsh",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "hard-rock",
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 87,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Joe Walsh Lifes Been Good",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 88,
+    "id": "i-love-the-nightlife",
+    "title": "I Love the Nightlife",
+    "artist": "Alicia Bridges",
+    "artistId": "alicia-bridges",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "pop-disco",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 88,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Alicia Bridges I Love the Nightlife",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 89,
+    "id": "you-cant-turn-me-off-in-the-middle-of-turning-me-on",
+    "title": "You Can't Turn Me Off (In The Middle Of Turning Me On)",
+    "artist": "High Inergy",
+    "artistId": "high-inergy",
+    "year": 1978,
+    "genre": "soul",
+    "subgenre": "r-n-b",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 89,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "High Inergy You Cant Turn Me Off In The Middle Of Turning Me On",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 90,
+    "id": "its-so-easy",
+    "title": "It's So Easy",
+    "artist": "Linda Ronstadt",
+    "artistId": "linda-ronstadt",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 90,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Linda Ronstadt Its So Easy",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 91,
+    "id": "native-new-yorker",
+    "title": "Native New Yorker",
+    "artist": "Odyssey",
+    "artistId": "odyssey",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "soul-disco",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 91,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Odyssey Native New Yorker",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 92,
+    "id": "flash-light",
+    "title": "Flash Light",
+    "artist": "Parliament",
+    "artistId": "parliament",
+    "year": 1978,
+    "genre": "funk",
+    "subgenre": "p-funk",
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 92,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Parliament Flash Light",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 93,
+    "id": "dont-look-back",
+    "title": "Don't Look Back",
+    "artist": "Boston",
+    "artistId": "boston",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "arena-rock",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 93,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Boston Dont Look Back",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 94,
+    "id": "turn-to-stone",
+    "title": "Turn to Stone",
+    "artist": "Electric Light Orchestra",
+    "artistId": "electric-light-orchestra",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "symphonic-rock",
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "drive",
+      "dance"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 94,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Electric Light Orchestra Turn to Stone",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 95,
+    "id": "i-cant-stand-the-rain",
+    "title": "I Can't Stand the Rain",
+    "artist": "Eruption",
+    "artistId": "eruption",
+    "year": 1978,
+    "genre": "disco",
+    "subgenre": "soul-disco",
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 95,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Eruption I Cant Stand the Rain",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 96,
+    "id": "ebony-eyes",
+    "title": "Ebony Eyes",
+    "artist": "Bob Welch",
+    "artistId": "bob-welch",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "pop-rock",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 96,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Bob Welch Ebony Eyes",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 97,
+    "id": "the-name-of-the-game",
+    "title": "The Name of the Game",
+    "artist": "ABBA",
+    "artistId": "abba",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "europop",
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 97,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "ABBA The Name of the Game",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 98,
+    "id": "were-all-alone",
+    "title": "We're All Alone",
+    "artist": "Rita Coolidge",
+    "artistId": "rita-coolidge",
+    "year": 1978,
+    "genre": "pop",
+    "subgenre": "soft-rock",
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 98,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Rita Coolidge Were All Alone",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 99,
+    "id": "hollywood-nights",
+    "title": "Hollywood Nights",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "artistId": "bob-seger-the-silver-bullet-band",
+    "year": 1978,
+    "genre": "classic-rock",
+    "subgenre": "heartland-rock",
+    "mood": [
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "rock-out"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 99,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Bob Seger Hollywood Nights",
+    "tags": [
+      "year-end"
+    ]
+  },
+  {
+    "rank": 100,
+    "id": "deacon-blues",
+    "title": "Deacon Blues",
+    "artist": "Steely Dan",
+    "artistId": "steely-dan",
+    "year": 1978,
+    "genre": "soft-rock",
+    "subgenre": "jazz-rock",
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": "late-70s",
+    "billboard_peak": 100,
+    "trivia": [
+      "This song was revealed as one of the Top Hot 100 songs of 1978 in the year-end edition of Billboard dated December 23, 1978."
+    ],
+    "youtube_search": "Steely Dan Deacon Blues",
+    "tags": [
+      "year-end"
+    ]
+  }
+]

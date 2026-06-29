@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>70s Mood Song Matcher | Find Your Perfect 70s Song</title>
+  <meta name="description" content="Answer 3 quick questions and get matched with the perfect 70s song for your mood. Rock, disco, soul, country — there's a 70s song for every feeling.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/mood-song-matcher.html">
+
+  <meta property="og:title" content="70s Mood Song Matcher | Find Your Perfect 70s Song">
+  <meta property="og:description" content="Answer 3 quick questions and get matched with the perfect 70s song for your mood.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/mood-song-matcher.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "70s Mood Song Matcher",
+    "url": "https://musicofthe70s.net/pages/mood-song-matcher.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "Answer three quick questions and get matched with the perfect 70s songs for your mood.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Mood Song Matcher", "item": "https://musicofthe70s.net/pages/mood-song-matcher.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › Mood Song Matcher</nav>
+      <div class="page-intro">
+        <h1>Find Your Perfect 70s Song</h1>
+        <p>Three quick questions. One perfect 70s soundtrack for exactly how you feel right now.</p>
+      </div>
+
+      <div class="tool-stage">
+        <div id="loading">
+          <div class="spinner" role="status" aria-live="polite"></div>
+          <p class="loading-text">Loading 600+ artists…</p>
+        </div>
+
+        <div id="error" class="error-text hidden"></div>
+
+        <div id="tool" class="hidden">
+          <!-- Step 1 -->
+          <div id="step1" class="step">
+            <h2>How are you feeling right now?</h2>
+            <div class="option-grid" data-step="mood">
+              <button class="option-btn" data-value="happy">Happy</button>
+              <button class="option-btn" data-value="melancholy">Melancholy</button>
+              <button class="option-btn" data-value="pumped-up">Pumped Up</button>
+              <button class="option-btn" data-value="romantic">Romantic</button>
+              <button class="option-btn" data-value="nostalgic">Nostalgic</button>
+              <button class="option-btn" data-value="rebellious">Rebellious</button>
+            </div>
+          </div>
+
+          <!-- Step 2 -->
+          <div id="step2" class="step hidden">
+            <h2>Pick your vibe</h2>
+            <div class="option-grid" data-step="vibe">
+              <button class="option-btn" data-value="rock-out">Rock Out</button>
+              <button class="option-btn" data-value="dance">Dance</button>
+              <button class="option-btn" data-value="chill">Chill</button>
+              <button class="option-btn" data-value="drive">Drive</button>
+              <button class="option-btn" data-value="party">Party</button>
+              <button class="option-btn" data-value="reflect">Reflect</button>
+            </div>
+            <button class="btn-secondary" data-back="1" style="margin-top:1rem;">← Back</button>
+          </div>
+
+          <!-- Step 3 -->
+          <div id="step3" class="step hidden">
+            <h2>Pick your era</h2>
+            <div class="option-grid" data-step="era">
+              <button class="option-btn" data-value="early-70s">Early 70s (1970–73)</button>
+              <button class="option-btn" data-value="mid-70s">Mid 70s (1974–76)</button>
+              <button class="option-btn" data-value="late-70s">Late 70s (1977–79)</button>
+            </div>
+            <button class="btn-secondary" data-back="2" style="margin-top:1rem;">← Back</button>
+          </div>
+
+          <!-- Results -->
+          <div id="results" class="hidden">
+            <h2>Your 70s Matches</h2>
+            <p id="matchNote" class="progress-label"></p>
+            <div id="matchCards" class="tool-grid" style="margin-top:1.5rem; text-align:left;"></div>
+            <button id="resetBtn" class="btn-primary" style="margin-top:2rem;">Try a Different Mood</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>Every Feeling Has a 70s Song</h2>
+      <p>One of the quiet superpowers of the <strong>music of the 70s</strong> is its emotional range. Feeling restless and rebellious? There's a hard-rock anthem with your name on it. Craving something tender? The decade's soul and soft-rock balladeers wrote the book on heartbreak and devotion. Want to move? Disco and funk are standing by. The best <strong>70s songs</strong> meet you exactly where you are.</p>
+      <p>This matcher works off real artist data — moods, vibes and eras tagged across 600+ verified acts — so your recommendations come from genuine 70s catalogues, not a generic playlist. Whether you lean toward <strong>70s rock music</strong>, smooth soul, or sun-faded country, the goal is the same: connect you with a track that fits the moment.</p>
+      <p>Think of it as a friend with an enormous record collection and impeccable instincts. Pick a mood, choose a vibe, set the era, and let some of the <strong>best 70s songs</strong> ever recorded find their way to you.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script>
+  (function () {
+    const loadingEl = document.getElementById('loading');
+    const errorEl = document.getElementById('error');
+    const toolEl = document.getElementById('tool');
+
+    let artists = [];
+    const choice = { mood: null, vibe: null, era: null };
+
+    const steps = {
+      1: document.getElementById('step1'),
+      2: document.getElementById('step2'),
+      3: document.getElementById('step3')
+    };
+    const resultsEl = document.getElementById('results');
+
+    function showStep(n) {
+      [1, 2, 3].forEach((i) => steps[i].classList.toggle('hidden', i !== n));
+      resultsEl.classList.add('hidden');
+    }
+
+    // Selection handlers
+    document.querySelectorAll('.option-grid').forEach((grid) => {
+      const key = grid.getAttribute('data-step');
+      grid.querySelectorAll('.option-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          grid.querySelectorAll('.option-btn').forEach((b) => b.classList.remove('selected'));
+          btn.classList.add('selected');
+          choice[key] = btn.getAttribute('data-value');
+          if (key === 'mood') showStep(2);
+          else if (key === 'vibe') showStep(3);
+          else if (key === 'era') runMatch();
+        });
+      });
+    });
+
+    document.querySelectorAll('[data-back]').forEach((b) =>
+      b.addEventListener('click', () => showStep(parseInt(b.getAttribute('data-back'), 10)))
+    );
+
+    document.getElementById('resetBtn').addEventListener('click', () => {
+      choice.mood = choice.vibe = choice.era = null;
+      document.querySelectorAll('.option-btn').forEach((b) => b.classList.remove('selected'));
+      showStep(1);
+    });
+
+    function yearForArtist(a) {
+      if (Array.isArray(a.key_albums_70s) && a.key_albums_70s.length && a.key_albums_70s[0].year) {
+        return a.key_albums_70s[0].year;
+      }
+      const eraYear = { 'early-70s': '1970–73', 'mid-70s': '1974–76', 'late-70s': '1977–79' };
+      const e = Array.isArray(a.era) && a.era.length ? a.era[0] : null;
+      return e ? eraYear[e] : '70s';
+    }
+
+    function filterArtists(useEra, useVibe) {
+      return artists.filter((a) => {
+        const mood = Array.isArray(a.mood) ? a.mood : [];
+        const vibe = Array.isArray(a.vibe) ? a.vibe : [];
+        const era = Array.isArray(a.era) ? a.era : [];
+        if (!mood.includes(choice.mood)) return false;
+        if (useVibe && !vibe.includes(choice.vibe)) return false;
+        if (useEra && !era.includes(choice.era)) return false;
+        return true;
+      });
+    }
+
+    function runMatch() {
+      let note = '';
+      let matched = filterArtists(true, true);
+      if (matched.length < 3) { matched = filterArtists(false, true); note = 'We broadened the era to find more matches.'; }
+      if (matched.length < 3) { matched = filterArtists(false, false); note = 'We matched on your mood to find the best fits.'; }
+
+      shuffle(matched);
+      const picks = matched.slice(0, 3);
+      const cards = document.getElementById('matchCards');
+      cards.innerHTML = '';
+
+      if (!picks.length) {
+        cards.innerHTML = '<p class="error-text">No matches found — try a different combination.</p>';
+      } else {
+        picks.forEach((a) => {
+          const song = (Array.isArray(a.key_songs_70s) && a.key_songs_70s.length) ? a.key_songs_70s[0] : a.name;
+          const year = yearForArtist(a);
+          const reason = `A ${escapeHTML(a.genre || '70s')} pick that fits a ${escapeHTML(choice.mood)} mood.`;
+          const yt = youtubeSearchURL(`${song} ${a.name}`);
+          const card = document.createElement('div');
+          card.className = 'card tool-card';
+          card.innerHTML =
+            `<h3 style="color:var(--accent-gold)">${escapeHTML(song)}</h3>` +
+            `<p class="artist-name">${escapeHTML(a.name)}</p>` +
+            `<p class="meta">${escapeHTML(String(year))} · <span class="badge">${escapeHTML(a.genre || '')}</span></p>` +
+            `<p>${reason}</p>` +
+            `<a class="btn-yt" target="_blank" rel="noopener noreferrer" href="${yt}">▶ Search on YouTube</a>`;
+          cards.appendChild(card);
+        });
+      }
+      document.getElementById('matchNote').textContent = note;
+      [1, 2, 3].forEach((i) => steps[i].classList.add('hidden'));
+      resultsEl.classList.remove('hidden');
+    }
+
+    (async function init() {
+      try {
+        const data = await loadJSONMultiple(ARTIST_FILES);
+        data.forEach((arr) => { if (Array.isArray(arr)) artists = artists.concat(arr); });
+        if (!artists.length) throw new Error('No artist data loaded.');
+        loadingEl.classList.add('hidden');
+        toolEl.classList.remove('hidden');
+        showStep(1);
+      } catch (err) {
+        console.error('Mood matcher failed to load data:', err);
+        loadingEl.classList.add('hidden');
+        errorEl.textContent = 'Sorry — we couldn\'t load the artist data right now. Please refresh the page to try again.';
+        errorEl.classList.remove('hidden');
+      }
+    })();
+  })();
+  </script>
+</body>
+</html>

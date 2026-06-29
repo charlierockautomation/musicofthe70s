@@ -1,0 +1,4438 @@
+[
+  {
+    "id": "al-green",
+    "name": "Al Green",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Forrest City, Arkansas, U.S.",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "During the early 1970s, Al Green achieved massive commercial success recording a string of hit singles and albums for Hi Records in Memphis. His sound was defined by smooth, falsetto-laden vocals and a sophisticated blend of Southern soul and R&B produced by Willie Mitchell. This classic period established him as one of the most gifted purveyors of soul music before he transitioned to gospel later in the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Al Green Gets Next to You",
+        "year": 1971
+      },
+      {
+        "title": "Let's Stay Together",
+        "year": 1972
+      },
+      {
+        "title": "Call Me",
+        "year": 1973
+      },
+      {
+        "title": "Al Green Explores Your Mind",
+        "year": 1974
+      },
+      {
+        "title": "The Belle Album",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Tired of Being Alone",
+      "Let's Stay Together",
+      "I'm Still in Love with You",
+      "Love and Happiness",
+      "Take Me to the River",
+      "L-O-V-E (Love)"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1974, a domestic incident involving scalding grits led Green to deepen his religious faith and eventually become an ordained pastor.",
+      "His signature song 'Let's Stay Together' reached number one on the Billboard Hot 100 in 1972.",
+      "He self-produced the 1977 project 'The Belle Album', which marked his final major secular success of the era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Green",
+    "youtube_search": "Al Green Let's Stay Together",
+    "tags": [
+      "soul",
+      "southern-soul",
+      "hi-records",
+      "icon"
+    ]
+  },
+  {
+    "id": "al-jarreau",
+    "name": "Al Jarreau",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Milwaukee, Wisconsin, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Al Jarreau established his solo career in the mid-1970s with a distinctive blend of jazz-fusion and R&B. After being spotted by Warner Bros. Records in 1975, he released the critically acclaimed debut album We Got By. His early work showcased his signature scat singing and vocal percussion styles. He earned his first Grammy Award in 1978 for the album Look to the Rainbow.",
+    "key_albums_70s": [
+      {
+        "title": "We Got By",
+        "year": 1975
+      },
+      {
+        "title": "Glow",
+        "year": 1976
+      },
+      {
+        "title": "Look to the Rainbow",
+        "year": 1977
+      },
+      {
+        "title": "All Fly Home",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "We Got By",
+      "Somebody's Watching You",
+      "Take Five",
+      "Teach Me Tonight"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He was spotted by Warner Bros. Records in 1975 while working with pianist Tom Canning.",
+      "On Valentine's Day 1976, he performed on the 13th episode of NBC's Saturday Night Live.",
+      "He won the 1978 Grammy Award for Best Jazz Vocal Performance for Look to the Rainbow."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Jarreau",
+    "youtube_search": "Al Jarreau We Got By",
+    "tags": [
+      "soul",
+      "r&b",
+      "jazz",
+      "crossover"
+    ]
+  },
+  {
+    "id": "al-wilson",
+    "name": "Al Wilson",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Meridian, Mississippi, U.S.",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Al Wilson was a prominent soul singer known for his smooth vocal delivery and crossing over into the adult contemporary market. His 1970s output was characterized by romantic ballads and polished R&B production. He remains a significant figure in the evolution of soulful pop during the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Weighing In",
+        "year": 1973
+      },
+      {
+        "title": "Show and Tell",
+        "year": 1973
+      },
+      {
+        "title": "La La Peace Song",
+        "year": 1974
+      },
+      {
+        "title": "I've Got a Feeling",
+        "year": 1976
+      },
+      {
+        "title": "Count the Days",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Show and Tell",
+      "Touch and Go",
+      "La La Peace Song",
+      "I Won't Last a Day Without You",
+      "I've Got a Feeling (We'll Be Seeing Each Other Again)"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1973 single 'Show and Tell' was a million-selling number one hit on the Billboard Hot 100.",
+      "Wilson worked as a mail carrier and janitor in California before his musical career took off.",
+      "He developed a stand-up comedy routine as a backup plan in case he did not succeed as a singer."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Wilson_(singer)",
+    "youtube_search": "Al Wilson Show and Tell",
+    "tags": [
+      "soul",
+      "r&b",
+      "balladeer",
+      "smooth"
+    ]
+  },
+  {
+    "id": "ann-peebles",
+    "name": "Ann Peebles",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "St. Louis, Missouri, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Ann Peebles was a powerful presence in 1970s Southern soul, recording most of her classic material for Hi Records. Her sound was gritty yet polished, often dealing with themes of heartbreak and resilience. She is recognized for bringing a distinctive female perspective to the Memphis soul scene dominated by male artists.",
+    "key_albums_70s": [
+      {
+        "title": "Part Time Love",
+        "year": 1971
+      },
+      {
+        "title": "Straight from the Heart",
+        "year": 1971
+      },
+      {
+        "title": "I Can't Stand the Rain",
+        "year": 1974
+      },
+      {
+        "title": "Tellin' It",
+        "year": 1975
+      },
+      {
+        "title": "If This Is Heaven",
+        "year": 1977
+      },
+      {
+        "title": "The Handwriting Is on the Wall",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Part Time Love",
+      "I Can't Stand the Rain",
+      "(You Keep Me) Hangin' On",
+      "Beware",
+      "Come to Mama"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1973 hit 'I Can't Stand the Rain' was later described by John Lennon as one of the best songs ever.",
+      "Peebles was a key artist for the Memphis-based Hi Records, working alongside producer Willie Mitchell.",
+      "She began her professional career singing with her family's gospel choir in St. Louis."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ann_Peebles",
+    "youtube_search": "Ann Peebles I Can't Stand the Rain",
+    "tags": [
+      "soul",
+      "southern-soul",
+      "hi-records",
+      "memphis"
+    ]
+  },
+  {
+    "id": "aretha-franklin",
+    "name": "Aretha Franklin",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "In the 1970s, Aretha Franklin continued her reign as the 'Queen of Soul' with a sophisticated blend of gospel-infused soul and R&B. Her work during this decade included landmark live recordings and experimental collaborations that expanded her musical reach. Despite internal struggles at Atlantic Records toward the end of the decade, her vocal power and cultural significance remained unmatched.",
+    "key_albums_70s": [
+      {
+        "title": "This Girl's in Love with You",
+        "year": 1970
+      },
+      {
+        "title": "Young, Gifted and Black",
+        "year": 1972
+      },
+      {
+        "title": "Amazing Grace",
+        "year": 1972
+      },
+      {
+        "title": "Let Me in Your Life",
+        "year": 1974
+      },
+      {
+        "title": "Sparkle",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Don't Play That Song",
+      "Spanish Harlem",
+      "Rock Steady",
+      "Day Dreaming",
+      "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "Something He Can Feel"
+    ],
+    "mood": [
+      "romantic",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "reflect",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1972 live album 'Amazing Grace' became the best-selling gospel album of all time.",
+      "Franklin won eight consecutive Grammy Awards for Best Female R&B Vocal Performance between 1968 and 1975.",
+      "In 1972, she released 'Young, Gifted and Black', an album that reflected the social and political consciousness of the era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+    "youtube_search": "Aretha Franklin Rock Steady",
+    "tags": [
+      "soul",
+      "r&b",
+      "gospel",
+      "queen"
+    ]
+  },
+  {
+    "id": "barry-white",
+    "name": "Barry White",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Galveston, Texas, U.S.",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Barry White became a major solo star in the 1970s, defined by his deep bass voice and lush, orchestral soul arrangements. His music was a cornerstone of the romantic soul and early disco movements, often featuring spoken-word introductions and a focus on sensuality. As a producer and bandleader for the Love Unlimited Orchestra, he was a dominant force on the pop and R&B charts.",
+    "key_albums_70s": [
+      {
+        "title": "I've Got So Much to Give",
+        "year": 1973
+      },
+      {
+        "title": "Can't Get Enough",
+        "year": 1974
+      },
+      {
+        "title": "Just Another Way to Say I Love You",
+        "year": 1975
+      },
+      {
+        "title": "Let the Music Play",
+        "year": 1976
+      },
+      {
+        "title": "Barry White Sings for Someone You Love",
+        "year": 1977
+      },
+      {
+        "title": "The Man",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I'm Gonna Love You Just a Little More Baby",
+      "Never, Never Gonna Give Ya Up",
+      "Can't Get Enough of Your Love, Babe",
+      "You're the First, the Last, My Everything",
+      "It's Ecstasy When You Lay Down Next to Me"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "White spent four months in prison at age 16 for stealing $30,000 worth of tires, an experience that led him to pursue a music career.",
+      "He wrote and produced the #1 hit 'Love's Theme' for the Love Unlimited Orchestra in 1973.",
+      "His deep voice and romantic image earned him the nickname 'The Walrus of Love' later in his career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_White",
+    "youtube_search": "Barry White Can't Get Enough of Your Love Babe",
+    "tags": [
+      "soul",
+      "r&b",
+      "disco",
+      "romantic"
+    ]
+  },
+  {
+    "id": "betty-wright",
+    "name": "Betty Wright",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Miami, Florida, U.S.",
+    "formed": 1956,
+    "active_70s": true,
+    "description": "Betty Wright was a powerhouse of 1970s Miami soul, known for her incredible vocal range and whistle register. Her sound incorporated elements of R&B, funk, and early disco, often featuring direct and assertive lyrics. She remained a consistent hitmaker and an influential figure for future generations of R&B singers.",
+    "key_albums_70s": [
+      {
+        "title": "I Love the Way You Love",
+        "year": 1972
+      },
+      {
+        "title": "Hard to Stop",
+        "year": 1973
+      },
+      {
+        "title": "Danger High Voltage",
+        "year": 1974
+      },
+      {
+        "title": "Explosion",
+        "year": 1976
+      },
+      {
+        "title": "Betty Wright Live",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Clean Up Woman",
+      "Baby Sitter",
+      "Let Me Be Your Lovemaker",
+      "Shoorah! Shoorah!",
+      "Tonight Is the Night",
+      "Where Is the Love?"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her signature hit 'Clean Up Woman' reached number six on the Billboard Hot 100 in 1972 and was certified gold.",
+      "She won a Grammy Award for Best R&B Song for writing 'Where Is the Love' in 1976.",
+      "Wright began her career at age two singing in her family's gospel group, the Echoes of Joy."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Betty_Wright",
+    "youtube_search": "Betty Wright Clean Up Woman",
+    "tags": [
+      "soul",
+      "r&b",
+      "miami-soul",
+      "icon"
+    ]
+  },
+  {
+    "id": "bill-withers",
+    "name": "Bill Withers",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Slab Fork, West Virginia, U.S.",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Bill Withers was a defining voice of the 1970s with a sound that blended soul, folk, and R&B. His honest and relatable songwriting made him a standout artist of the era, focusing on human connection and everyday life. Despite his relatively short recording career, his influence on the genre remains profound and lasting.",
+    "key_albums_70s": [
+      {
+        "title": "Just as I Am",
+        "year": 1971
+      },
+      {
+        "title": "Still Bill",
+        "year": 1972
+      },
+      {
+        "title": "Live at Carnegie Hall",
+        "year": 1973
+      },
+      {
+        "title": "+'Justments",
+        "year": 1974
+      },
+      {
+        "title": "Making Music",
+        "year": 1975
+      },
+      {
+        "title": "Menagerie",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Ain't No Sunshine",
+      "Grandma's Hands",
+      "Lean on Me",
+      "Use Me",
+      "The Same Love That Made Me Laugh",
+      "Lovely Day"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He wrote his first hit 'Ain't No Sunshine' while working at a factory making toilet seats for airplanes.",
+      "His 1977 hit 'Lovely Day' is famous for the sustained 18-second note he sings toward the end.",
+      "Withers largely walked away from the music industry in the mid-1980s, citing conflicts with record company executives."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Withers",
+    "youtube_search": "Bill Withers Lean on Me",
+    "tags": [
+      "soul",
+      "r&b",
+      "folk-soul",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "billy-ocean",
+    "name": "Billy Ocean",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Romford, East London, England",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Billy Ocean emerged in the mid-1970s as a versatile soul and pop artist with British and Caribbean influences. His early sound was a mix of disco-friendly R&B and smooth soul ballads. This period laid the groundwork for his massive international stardom in the following decade.",
+    "key_albums_70s": [
+      {
+        "title": "Billy Ocean",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Love Really Hurts Without You",
+      "L.O.D. (Love on Delivery)",
+      "Stop Me (If You've Heard it All Before)",
+      "Red Light Spells Danger"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1976 breakthrough single 'Love Really Hurts Without You' reached number two in the UK and number 22 in the US.",
+      "Born in Trinidad, he moved to London at age seven and later worked as a tailor in Savile Row.",
+      "He was awarded an MBE for services to music in the 2020 New Year Honours."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Ocean",
+    "youtube_search": "Billy Ocean Love Really Hurts Without You",
+    "tags": [
+      "soul",
+      "r&b",
+      "pop-soul",
+      "british"
+    ]
+  },
+  {
+    "id": "billy-paul",
+    "name": "Billy Paul",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "North Philadelphia, Pennsylvania, U.S.",
+    "formed": 1952,
+    "active_70s": true,
+    "description": "Billy Paul was a cornerstone of the Philadelphia soul sound during the 1970s, signed to the legendary Philadelphia International Records. His diverse vocal style ranged from mellow and soulful to raspy, and his music often included socially conscious themes. He achieved global fame during this decade with some of the era's most iconic soul recordings.",
+    "key_albums_70s": [
+      {
+        "title": "360 Degrees of Billy Paul",
+        "year": 1972
+      },
+      {
+        "title": "War of the Gods",
+        "year": 1973
+      },
+      {
+        "title": "Got My Head on Straight",
+        "year": 1975
+      },
+      {
+        "title": "When Love is New",
+        "year": 1975
+      },
+      {
+        "title": "Let 'em In",
+        "year": 1976
+      },
+      {
+        "title": "Only the Strong Survive",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Me and Mrs. Jones",
+      "Am I Black Enough for You?",
+      "Thanks for Saving My Life",
+      "Let's Make a Baby",
+      "Let 'em In",
+      "Only the Strong Survive"
+    ],
+    "mood": [
+      "romantic",
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1972 signature hit 'Me and Mrs. Jones' was a number-one smash and won a Grammy Award for Best Male R&B Vocal Performance.",
+      "The follow-up single 'Am I Black Enough for You?' was considered controversial at the time and hindered his crossover success.",
+      "Questlove has described him as one of the 'criminally unmentioned proprietors' of socially conscious civil rights music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Billy_Paul",
+    "youtube_search": "Billy Paul Me and Mrs. Jones",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "pir",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "bobby-womack",
+    "name": "Bobby Womack",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Cleveland, Ohio, U.S.",
+    "formed": 1952,
+    "active_70s": true,
+    "description": "Bobby Womack was a prolific singer-songwriter and guitarist who flourished in the 1970s with a gritty and emotional brand of soul. His sound blended gospel, blues, and R&B, and he was highly regarded for his distinctive guitar playing as well as his vocals. During this era, he established himself as a 'soul survivor' with a series of influential hits and albums.",
+    "key_albums_70s": [
+      {
+        "title": "Communication",
+        "year": 1971
+      },
+      {
+        "title": "Understanding",
+        "year": 1972
+      },
+      {
+        "title": "Facts of Life",
+        "year": 1973
+      },
+      {
+        "title": "Lookin' for a Love Again",
+        "year": 1974
+      },
+      {
+        "title": "Safety Zone",
+        "year": 1975
+      },
+      {
+        "title": "Roads of Life",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "That's the Way I Feel About Cha",
+      "Woman's Gotta Have It",
+      "Harry Hippie",
+      "Across 110th Street",
+      "Lookin' for a Love",
+      "Daylight"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Womack wrote and originally recorded 'It's All Over Now', which became the Rolling Stones' first UK number one hit.",
+      "He began his career as a protege of Sam Cooke and sang lead for his family group, the Valentinos.",
+      "In the early 1970s, he recorded 'Across 110th Street', the iconic title track for the film of the same name."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bobby_Womack",
+    "youtube_search": "Bobby Womack Across 110th Street",
+    "tags": [
+      "soul",
+      "r&b",
+      "guitarist",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "candi-staton",
+    "name": "Candi Staton",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Hanceville, Alabama, U.S.",
+    "formed": 1953,
+    "active_70s": true,
+    "description": "Candi Staton was a major soul and disco artist in the 1970s, transitioning from gritty Southern soul to high-energy dance music. Her versatile voice and emotional delivery allowed her to navigate multiple genres successfully. She remains celebrated for her ability to infuse pop and dance tracks with genuine soulful depth.",
+    "key_albums_70s": [
+      {
+        "title": "Candi Staton",
+        "year": 1972
+      },
+      {
+        "title": "Candi",
+        "year": 1974
+      },
+      {
+        "title": "Young Hearts Run Free",
+        "year": 1976
+      },
+      {
+        "title": "Music Speaks Louder Than Words",
+        "year": 1977
+      },
+      {
+        "title": "House of Love",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Stand by Your Man",
+      "In the Ghetto",
+      "Young Hearts Run Free",
+      "Victim",
+      "Nights on Broadway"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1976 disco anthem 'Young Hearts Run Free' was a massive international hit and reached number one on the US R&B charts.",
+      "She was married to fellow soul singer Clarence Carter in the early 1970s.",
+      "Staton began her career in gospel, touring with the Jewel Gospel Trio as a teenager."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Candi_Staton",
+    "youtube_search": "Candi Staton Young Hearts Run Free",
+    "tags": [
+      "soul",
+      "r&b",
+      "disco",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "chaka-khan",
+    "name": "Chaka Khan",
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Known as the 'Queen of Funk', Chaka Khan rose to prominence in the early 1970s as the lead vocalist for the band Rufus. Her sound was a high-energy mix of funk, soul, and R&B, driven by her extraordinary vocal range and charisma. By the late 1970s, she established a highly successful solo career, further cementing her status as a soul icon.",
+    "key_albums_70s": [
+      {
+        "title": "Rufus",
+        "year": 1973
+      },
+      {
+        "title": "Rags to Rufus",
+        "year": 1974
+      },
+      {
+        "title": "Rufusized",
+        "year": 1974
+      },
+      {
+        "title": "Ask Rufus",
+        "year": 1977
+      },
+      {
+        "title": "Chaka",
+        "year": 1978
+      },
+      {
+        "title": "Masterjam",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Tell Me Something Good",
+      "You Got the Love",
+      "Once You Get Started",
+      "Sweet Thing",
+      "I'm Every Woman",
+      "Do You Love What You Feel"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1978 debut solo single 'I'm Every Woman' reached number one on the R&B charts.",
+      "Khan was a member of the Black Panther Party in her teens before focusing on music.",
+      "She was given the name 'Chaka' by a Yoruba priest when she was 13 years old."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chaka_Khan",
+    "youtube_search": "Chaka Khan I'm Every Woman",
+    "tags": [
+      "soul",
+      "funk",
+      "r&b",
+      "queen"
+    ]
+  },
+  {
+    "id": "clarence-carter",
+    "name": "Clarence Carter",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Montgomery, Alabama, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Clarence Carter was a key figure in 1970s Southern soul, known for his deep, booming voice and storytelling ability. His sound was rooted in R&B and blues, often featuring humorous or poignant lyrics about domestic life. He remained a steady presence on the soul charts during the early part of the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Patches",
+        "year": 1970
+      },
+      {
+        "title": "Sixty Minutes with Clarence Carter",
+        "year": 1973
+      },
+      {
+        "title": "Real",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Patches",
+      "Slipping Away",
+      "Back Door Santa",
+      "I'm the One",
+      "The Feeling Is Right"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "His 1970 hit 'Patches' won a Grammy Award for Best Rhythm & Blues Song.",
+      "Carter is blind and earned a music degree from Alabama State University in 1960.",
+      "He was once married to soul singer Candi Staton during the peak of his career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clarence_Carter",
+    "youtube_search": "Clarence Carter Patches",
+    "tags": [
+      "soul",
+      "southern-soul",
+      "r&b",
+      "storyteller"
+    ]
+  },
+  {
+    "id": "commodores",
+    "name": "Commodores",
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "origin": "Tuskegee, Alabama, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "The Commodores were a powerhouse of 1970s funk and soul, rising from their roots in Alabama to become one of Motown's biggest acts. Their sound successfully evolved from gritty, horn-heavy funk to polished soul ballads fronted by Lionel Richie. This versatility allowed them to dominate both the R&B and pop charts throughout the mid-to-late 1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Machine Gun",
+        "year": 1974
+      },
+      {
+        "title": "Caught in the Act",
+        "year": 1975
+      },
+      {
+        "title": "Movin' On",
+        "year": 1975
+      },
+      {
+        "title": "Hot on the Tracks",
+        "year": 1976
+      },
+      {
+        "title": "Commodores",
+        "year": 1977
+      },
+      {
+        "title": "Natural High",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Machine Gun",
+      "Slippery When Wet",
+      "Sweet Love",
+      "Easy",
+      "Brick House",
+      "Three Times a Lady"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Lionel Richie",
+      "William King",
+      "Thomas McClary",
+      "Milan Williams",
+      "Ronald LaPread",
+      "Walter Orange"
+    ],
+    "trivia": [
+      "The group originally met while they were all students at Tuskegee Institute in Alabama.",
+      "Their 1978 ballad 'Three Times a Lady' was a global number-one smash and remains one of Motown's biggest hits.",
+      "Before their breakthrough, they spent two years as the opening act for the Jackson 5 on tour."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Commodores",
+    "youtube_search": "Commodores Brick House",
+    "tags": [
+      "soul",
+      "funk",
+      "motown",
+      "group"
+    ]
+  },
+  {
+    "id": "curtis-mayfield",
+    "name": "Curtis Mayfield",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1956,
+    "active_70s": true,
+    "description": "Curtis Mayfield was a revolutionary force in 1970s soul, pioneering a sound that blended progressive soul, funk, and psychedelic influences. His work during this decade was highly socially conscious, focusing on themes of African-American identity and inner-city struggles. As a producer and solo artist, he defined the 'Gentle Genius' persona with his distinct falsetto and cinematic musical vision.",
+    "key_albums_70s": [
+      {
+        "title": "Curtis",
+        "year": 1970
+      },
+      {
+        "title": "Roots",
+        "year": 1971
+      },
+      {
+        "title": "Super Fly",
+        "year": 1972
+      },
+      {
+        "title": "Back to the World",
+        "year": 1973
+      },
+      {
+        "title": "There's No Place Like America Today",
+        "year": 1975
+      },
+      {
+        "title": "Short Eyes",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Move On Up",
+      "Get Down",
+      "Freddie's Dead",
+      "Superfly",
+      "Future Shock",
+      "Kung Fu"
+    ],
+    "mood": [
+      "rebellious",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "reflect",
+      "drive",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His soundtrack for the 1972 film 'Super Fly' is considered a masterpiece of socially conscious funk and soul.",
+      "Mayfield was a central figure in the Chicago soul scene and founded his own label, Curtom Records, in 1970.",
+      "He was inducted into the Rock and Roll Hall of Fame twice: once as a member of the Impressions and again as a solo artist."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curtis_Mayfield",
+    "youtube_search": "Curtis Mayfield Move On Up",
+    "tags": [
+      "soul",
+      "funk",
+      "chicago-soul",
+      "activist"
+    ]
+  },
+  {
+    "id": "david-ruffin",
+    "name": "David Ruffin",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Whynot, Mississippi, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "David Ruffin rose to fame as the powerful lead voice of The Temptations before launching a solo career in the early 1970s. His gritty, gospel-tinged tenor was one of the most distinctive sounds in Motown history. His 1975 solo hit Walk Away from Love demonstrated that his voice remained a commanding force outside the group context.",
+    "key_albums_70s": [
+      {
+        "title": "David Ruffin",
+        "year": 1973
+      },
+      {
+        "title": "Me 'N Rock 'N Roll Are Here to Stay",
+        "year": 1974
+      },
+      {
+        "title": "Who I Am",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Walk Away from Love",
+      "Everything's Coming Up Love",
+      "Heavy Love"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Walk Away from Love reached number nine on the Billboard Hot 100 in 1975, his biggest solo hit.",
+      "Ruffin was inducted into the Rock and Roll Hall of Fame as a member of The Temptations in 1989."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Ruffin",
+    "youtube_search": "David Ruffin Walk Away from Love",
+    "tags": [
+      "soul",
+      "motown",
+      "r&b"
+    ]
+  },
+  {
+    "id": "diana-ross",
+    "name": "Diana Ross",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "In the 1970s, Diana Ross successfully transitioned from being the lead singer of the Supremes to becoming a massive solo superstar. Her sound evolved from Motown soul to sophisticated pop and eventually pioneered the disco movement. Throughout the decade, she was a dominant force on the charts, in film, and as a global cultural icon.",
+    "key_albums_70s": [
+      {
+        "title": "Diana Ross",
+        "year": 1970
+      },
+      {
+        "title": "Everything Is Everything",
+        "year": 1970
+      },
+      {
+        "title": "Touch Me in the Morning",
+        "year": 1973
+      },
+      {
+        "title": "Mahogany",
+        "year": 1975
+      },
+      {
+        "title": "Diana Ross",
+        "year": 1976
+      },
+      {
+        "title": "The Boss",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Ain't No Mountain High Enough",
+      "Touch Me in the Morning",
+      "Theme from Mahogany (Do You Know Where You're Going To)",
+      "Love Hangover",
+      "The Boss",
+      "Upside Down"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her debut solo single 'Ain't No Mountain High Enough' reached number one on the Billboard Hot 100 in 1970.",
+      "She received an Academy Award nomination for Best Actress for her portrayal of Billie Holiday in 'Lady Sings the Blues' (1972).",
+      "Ross was awarded the Presidential Medal of Freedom in 2016 for her contributions to music and culture."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_Ross",
+    "youtube_search": "Diana Ross Love Hangover",
+    "tags": [
+      "soul",
+      "motown",
+      "pop",
+      "icon"
+    ]
+  },
+  {
+    "id": "dionne-warwick",
+    "name": "Dionne Warwick",
+    "genre": "soul",
+    "subgenre": "pop-soul",
+    "origin": "East Orange, New Jersey, USA",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "Dionne Warwick was one of the most successful female vocalists of the 1970s, known for her elegant phrasing and sophisticated pop-soul style. Her collaborations with Burt Bacharach and Hal David defined an era of lush orchestral soul in the early part of the decade. She found renewed commercial success in the late 70s with the Arista label under Clive Davis.",
+    "key_albums_70s": [
+      {
+        "title": "Then Came You",
+        "year": 1975
+      },
+      {
+        "title": "Track of the Cat",
+        "year": 1975
+      },
+      {
+        "title": "Dionne",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Then Came You",
+      "I'll Never Love This Way Again",
+      "Deja Vu",
+      "You're My Best Friend"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Then Came You, a duet with Spinners, became her first number one pop hit in 1974.",
+      "I'll Never Love This Way Again won her the Grammy Award for Best Female Pop Vocal Performance in 1980."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dionne_Warwick",
+    "youtube_search": "Dionne Warwick Then Came You",
+    "tags": [
+      "soul",
+      "pop-soul",
+      "iconic"
+    ]
+  },
+  {
+    "id": "donny-hathaway",
+    "name": "Donny Hathaway",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Donny Hathaway was one of the most influential soul artists of the 1970s, known for his velvet-smooth voice and exceptional skill as a keyboardist and arranger. His sound blended R&B, gospel, and jazz into a cohesive and deeply emotional style. He is particularly remembered for his landmark solo work and his highly successful duets with Roberta Flack.",
+    "key_albums_70s": [
+      {
+        "title": "Everything Is Everything",
+        "year": 1970
+      },
+      {
+        "title": "Donny Hathaway",
+        "year": 1971
+      },
+      {
+        "title": "Live",
+        "year": 1972
+      },
+      {
+        "title": "Roberta Flack & Donny Hathaway",
+        "year": 1972
+      },
+      {
+        "title": "Extension of a Man",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "The Ghetto",
+      "This Christmas",
+      "A Song for You",
+      "Where Is the Love",
+      "I Love You More Than You'll Ever Know",
+      "The Closer I Get to You"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1970 song 'This Christmas' has become a modern holiday standard and is one of the most performed Christmas songs by African-American artists.",
+      "Hathaway was posthumously honored with a Grammy Lifetime Achievement Award in 2019.",
+      "He began singing gospel as a child prodigy and was known by the stage name 'Donny Pitts' during his early years."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donny_Hathaway",
+    "youtube_search": "Donny Hathaway A Song for You",
+    "tags": [
+      "soul",
+      "r&b",
+      "vocalist",
+      "arranger"
+    ]
+  },
+  {
+    "id": "eddie-kendricks",
+    "name": "Eddie Kendricks",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Union Springs, Alabama, USA",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Eddie Kendricks brought his silky falsetto from The Temptations into a successful solo career throughout the 1970s. His 1973 smash Keep On Truckin became one of the defining funk-soul records of the early decade. His smooth vocal style bridged classic Motown soul with the emerging disco and funk sounds of the mid-70s.",
+    "key_albums_70s": [
+      {
+        "title": "People Hold On",
+        "year": 1972
+      },
+      {
+        "title": "Eddie Kendricks",
+        "year": 1973
+      },
+      {
+        "title": "Boogie Down",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Keep On Truckin",
+      "Boogie Down",
+      "Shoeshine Boy",
+      "Girl You Need a Change of Mind"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Keep On Truckin reached number one on both the pop and R&B charts in 1973.",
+      "Boogie Down gave Kendricks a second number one pop hit in 1974, cementing his solo stardom."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eddie_Kendricks",
+    "youtube_search": "Eddie Kendricks Keep On Truckin",
+    "tags": [
+      "soul",
+      "motown",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "etta-james",
+    "name": "Etta James",
+    "genre": "soul",
+    "subgenre": "blues-soul",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1955,
+    "active_70s": true,
+    "description": "Etta James brought decades of raw emotional power into the 1970s, recording for Chess Records and later Warner Bros with a voice that straddled blues, soul, and gospel. Her 1970s work showed a grittier, more introspective side compared to her earlier pop hits. She remained a commanding live performer and a touchstone of authentic American soul throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Losers Weepers",
+        "year": 1970
+      },
+      {
+        "title": "Etta James",
+        "year": 1973
+      },
+      {
+        "title": "Deep in the Night",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I Found a Love",
+      "All the Way Down",
+      "Take It to the Limit",
+      "Piece of My Heart"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Deep in the Night, produced by Jerry Wexler and Allen Toussaint in 1978, is widely regarded as one of her finest albums.",
+      "James was inducted into the Rock and Roll Hall of Fame in 1993, recognized as one of the greatest voices in American music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Etta_James",
+    "youtube_search": "Etta James I'd Rather Go Blind",
+    "tags": [
+      "soul",
+      "blues-soul",
+      "iconic"
+    ]
+  },
+  {
+    "id": "four-tops",
+    "name": "Four Tops",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1953,
+    "active_70s": true,
+    "description": "The Four Tops continued their success into the 1970s, moving from their peak Motown era to significant hits at ABC/Dunhill Records. Their sound remained centered on the powerful baritone lead of Levi Stubbs and tight vocal harmonies. This decade saw them branch out into more experimental soul and disco-influenced R&B while maintaining their status as one of the definitive Motown-rooted vocal groups.",
+    "key_albums_70s": [
+      {
+        "title": "Still Waters Run Deep",
+        "year": 1970
+      },
+      {
+        "title": "Changing Times",
+        "year": 1970
+      },
+      {
+        "title": "Nature Planned It",
+        "year": 1972
+      },
+      {
+        "title": "Keeper of the Castle",
+        "year": 1972
+      },
+      {
+        "title": "Main Street People",
+        "year": 1973
+      },
+      {
+        "title": "Catfish",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "It's All in the Game",
+      "Still Water (Love)",
+      "A Simple Game",
+      "Keeper of the Castle",
+      "Ain't No Woman (Like the One I've Got)",
+      "Are You Man Enough"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Levi Stubbs",
+      "Abdul 'Duke' Fakir",
+      "Renaldo 'Obie' Benson",
+      "Lawrence Payton"
+    ],
+    "trivia": [
+      "The group performed for over four decades, from 1953 until 1997, without a single change in their original lineup.",
+      "Their 1973 hit 'Ain't No Woman (Like the One I've Got)' was a million-seller and reached number four on the Billboard Hot 100.",
+      "They were notable at Motown for being fronted by a baritone lead, Levi Stubbs, while most other male groups used tenors."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Four_Tops",
+    "youtube_search": "Four Tops Ain't No Woman (Like the One I've Got)",
+    "tags": [
+      "soul",
+      "motown",
+      "vocal-group",
+      "icon"
+    ]
+  },
+  {
+    "id": "gene-chandler",
+    "name": "Gene Chandler",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "Gene Chandler was a veteran of the Chicago soul scene whose career experienced a significant commercial revival in the 1970s. Signing with Chi-Sound Records, he scored a string of dance floor hits that blended classic soul sensibility with the emerging disco sound. His polished vocal style and sharp production made him a consistent presence on the R&B charts throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Get Down",
+        "year": 1978
+      },
+      {
+        "title": "When You're Number 1",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Get Down",
+      "When You're Number 1",
+      "Does She Have a Friend",
+      "Rainbow 70s"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Get Down reached number one on the R&B charts in 1978, marking a major comeback nearly two decades into his career.",
+      "Chandler had originally scored his biggest hit with Duke of Earl in 1962, making his 70s comeback all the more remarkable."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gene_Chandler",
+    "youtube_search": "Gene Chandler Get Down",
+    "tags": [
+      "soul",
+      "chicago-soul",
+      "r&b"
+    ]
+  },
+  {
+    "id": "gladys-knight-the-pips",
+    "name": "Gladys Knight & the Pips",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Atlanta, Georgia, U.S.",
+    "formed": 1952,
+    "active_70s": true,
+    "description": "Gladys Knight & the Pips reached their commercial and artistic peak in the 1970s, particularly after moving from Motown to Buddah Records in 1973. Their sound during this era featured powerful, gospel-inflected vocals from Knight and sophisticated vocal arrangements from the Pips. They dominated the charts with a mix of driving soul-funk and poignant, orchestral soul ballads.",
+    "key_albums_70s": [
+      {
+        "title": "If I Were Your Woman",
+        "year": 1971
+      },
+      {
+        "title": "Neither One of Us",
+        "year": 1973
+      },
+      {
+        "title": "Imagination",
+        "year": 1973
+      },
+      {
+        "title": "Claudine",
+        "year": 1974
+      },
+      {
+        "title": "I Feel a Song",
+        "year": 1974
+      },
+      {
+        "title": "The One and Only",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "If I Were Your Woman",
+      "Neither One of Us (Wants to Be the First to Say Goodbye)",
+      "Where Peaceful Waters Flow",
+      "Midnight Train to Georgia",
+      "I've Got to Use My Imagination",
+      "Best Thing That Ever Happened to Me"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Gladys Knight",
+      "Merald 'Bubba' Knight",
+      "William Guest",
+      "Edward Patten"
+    ],
+    "trivia": [
+      "Their signature song 'Midnight Train to Georgia' was a number-one smash and won the 1974 Grammy for Best R&B Vocal Performance by a Duo, Group or Chorus.",
+      "The group began their career in 1952 when siblings and cousins formed a group at a family birthday party.",
+      "Gladys Knight later became known as the 'Empress of Soul' following her decades-long influence and success in the genre."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips",
+    "youtube_search": "Gladys Knight Midnight Train to Georgia",
+    "tags": [
+      "soul",
+      "r&b",
+      "motown",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "grover-washington-jr",
+    "name": "Grover Washington Jr.",
+    "genre": "soul",
+    "subgenre": "jazz-soul",
+    "origin": "Buffalo, New York, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Grover Washington Jr. was the defining voice of soul jazz and smooth R&B saxophone in the 1970s, blending jazz improvisation with soul and funk grooves. His Kudu Records albums were enormously influential in shaping the quiet storm radio format. His rich, warm saxophone tone made him one of the best-selling instrumental artists of the entire decade.",
+    "key_albums_70s": [
+      {
+        "title": "Inner City Blues",
+        "year": 1971
+      },
+      {
+        "title": "Mister Magic",
+        "year": 1975
+      },
+      {
+        "title": "Feels So Good",
+        "year": 1975
+      },
+      {
+        "title": "A Secret Place",
+        "year": 1976
+      },
+      {
+        "title": "Live at the Bijou",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Mister Magic",
+      "Inner City Blues",
+      "Black Frost",
+      "Let It Flow",
+      "Reed Seed"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Mister Magic reached number one on the R&B charts in 1975 and became one of the best-selling jazz albums of the decade.",
+      "Washington helped pioneer the quiet storm radio format that would dominate R&B airplay throughout the late 1970s and 1980s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grover_Washington_Jr.",
+    "youtube_search": "Grover Washington Jr Mister Magic",
+    "tags": [
+      "soul",
+      "jazz-soul",
+      "quiet-storm",
+      "iconic"
+    ]
+  },
+  {
+    "id": "harold-melvin-the-blue-notes",
+    "name": "Harold Melvin & the Blue Notes",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "Harold Melvin & the Blue Notes were one of the most successful Philadelphia soul groups of the 1970s, defined by the powerful lead vocals of Teddy Pendergrass. Their sound was a sophisticated mix of soulful R&B, gospel emotion, and emerging disco rhythms, all polished by Gamble and Huff's production. They became a definitive voice of the Philadelphia International Records era.",
+    "key_albums_70s": [
+      {
+        "title": "I Miss You",
+        "year": 1972
+      },
+      {
+        "title": "Black & Blue",
+        "year": 1973
+      },
+      {
+        "title": "To Be True",
+        "year": 1975
+      },
+      {
+        "title": "Wake Up Everybody",
+        "year": 1975
+      },
+      {
+        "title": "Reaching for the World",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "If You Don't Know Me by Now",
+      "The Love I Lost",
+      "Bad Luck",
+      "Hope That We Can Be Together Soon",
+      "Wake Up Everybody",
+      "Don't Leave Me This Way"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Harold Melvin",
+      "Teddy Pendergrass",
+      "Lawrence Brown",
+      "Bernard Wilson",
+      "Lloyd Parks"
+    ],
+    "trivia": [
+      "Despite Harold Melvin's top billing, the group's massive success in the 1970s was largely due to lead singer Teddy Pendergrass.",
+      "The group began as a doo-wop group called 'The Charlemagnes' in the middle of the 1950s.",
+      "Their 1975 hit 'Wake Up Everybody' became a defining socially conscious soul anthem of the decade."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Melvin_%26_the_Blue_Notes",
+    "youtube_search": "Harold Melvin & the Blue Notes Wake Up Everybody",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "pir",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "ike-and-tina-turner",
+    "name": "Ike & Tina Turner",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Nutbush, Tennessee, USA",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "Ike and Tina Turner were one of the most electrifying live acts of the early 1970s, combining raw blues-influenced R&B with Tina's explosive stage presence. Their 1971 recording of Proud Mary became their biggest pop crossover hit, introducing them to a massive new mainstream audience. The duo continued to record and tour heavily until their split in 1976.",
+    "members_70s": [
+      "Ike Turner",
+      "Tina Turner"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Workin Together",
+        "year": 1971
+      },
+      {
+        "title": "Feel Good",
+        "year": 1972
+      },
+      {
+        "title": "Nutbush City Limits",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Proud Mary",
+      "Nutbush City Limits",
+      "I Want to Take You Higher",
+      "Ooh Poo Pah Doo"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "rock-out",
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Their live version of Proud Mary reached number four on the Billboard Hot 100 in 1971 and won a Grammy for Best R&B Vocal Performance.",
+      "Nutbush City Limits, written by Tina Turner, became one of their signature songs and a staple of rock radio worldwide."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner",
+    "youtube_search": "Ike Tina Turner Proud Mary",
+    "tags": [
+      "soul",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "isaac-hayes",
+    "name": "Isaac Hayes",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Covington, Tennessee, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Isaac Hayes was a dominant force in 1970s soul, known for his deep baritone voice and grandiose, symphonic soul arrangements. His work during this decade pioneered the 'progressive soul' movement and was instrumental in bringing cinematic scores to R&B music. He remains an iconic figure of the era, recognized for his revolutionary approach to album production and orchestration.",
+    "key_albums_70s": [
+      {
+        "title": "The Isaac Hayes Movement",
+        "year": 1970
+      },
+      {
+        "title": "...To Be Continued",
+        "year": 1970
+      },
+      {
+        "title": "Shaft",
+        "year": 1971
+      },
+      {
+        "title": "Black Moses",
+        "year": 1971
+      },
+      {
+        "title": "Joy",
+        "year": 1973
+      },
+      {
+        "title": "Chocolate Chip",
+        "year": 1975
+      }
+    ],
+    "key_songs_70s": [
+      "Walk On By",
+      "Never Can Say Goodbye",
+      "Theme from Shaft",
+      "Do Your Thing",
+      "Joy",
+      "Let's Stay Together"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1971 'Theme from Shaft' won an Academy Award for Best Original Song, making him the first African American to win a non-acting Oscar.",
+      "Hayes was a key creative force at Stax Records before his massive solo success, writing hits for Sam & Dave.",
+      "His 1971 album 'Black Moses' featured unique fold-out packaging that could be arranged as a poster of Hayes."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Hayes",
+    "youtube_search": "Isaac Hayes Theme from Shaft",
+    "tags": [
+      "soul",
+      "funk",
+      "stax",
+      "icon"
+    ]
+  },
+  {
+    "id": "james-brown",
+    "name": "James Brown",
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "origin": "Barnwell, South Carolina, U.S.",
+    "formed": 1953,
+    "active_70s": true,
+    "description": "James Brown was a central figure of 20th-century music, and in the 1970s, he pioneered the funk sound that would revolutionize R&B. His sound during this decade was characterized by percussive rhythms, tight horn arrangements, and a focus on 'the one' (the first beat of a measure). Known as the 'Godfather of Soul', his energy and innovation during the 70s established a template for modern dance music and hip-hop.",
+    "key_albums_70s": [
+      {
+        "title": "Sex Machine",
+        "year": 1970
+      },
+      {
+        "title": "Hot Pants",
+        "year": 1971
+      },
+      {
+        "title": "Get on the Good Foot",
+        "year": 1972
+      },
+      {
+        "title": "The Payback",
+        "year": 1973
+      },
+      {
+        "title": "Hell",
+        "year": 1974
+      },
+      {
+        "title": "Get Up Offa That Thing",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Get Up (I Feel Like Being a) Sex Machine",
+      "Super Bad",
+      "Hot Pants",
+      "Get on the Good Foot",
+      "The Payback",
+      "Get Up Offa That Thing"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1973 album 'The Payback' was originally recorded as a soundtrack for a film but was rejected, eventually becoming one of his most successful solo albums.",
+      "Brown was credited with helping to prevent a riot in Boston following the 1968 assassination of Martin Luther King Jr. by performing a televised concert.",
+      "He was one of the first ten inductees into the Rock and Roll Hall of Fame in 1986."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Brown",
+    "youtube_search": "James Brown Get Up (I Feel Like Being a) Sex Machine",
+    "tags": [
+      "soul",
+      "funk",
+      "godfather",
+      "icon"
+    ]
+  },
+  {
+    "id": "jerry-butler",
+    "name": "Jerry Butler",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Sunflower, Mississippi, USA",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Jerry Butler, known as the Iceman for his cool and controlled vocal delivery, was a major force in Philadelphia soul throughout the 1970s. Working with producers Kenny Gamble and Leon Huff, he helped shape the lush orchestral sound that defined the Philadelphia International Records style. His sophisticated ballads made him one of the most consistently charting R&B artists of the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Ice on Ice",
+        "year": 1975
+      },
+      {
+        "title": "Suite for the Single Girl",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Never Give You Up",
+      "Hey Western Union Man",
+      "Only the Strong Survive",
+      "Moody Woman",
+      "What's the Use of Breaking Up"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Butler recorded a series of critically acclaimed albums with producers Gamble and Huff that helped establish the Philadelphia soul sound.",
+      "He earned the nickname the Iceman for his smooth, emotionally controlled vocal style that contrasted with more explosive soul singers of the era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Butler",
+    "youtube_search": "Jerry Butler Only the Strong Survive",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "johnnie-taylor",
+    "name": "Johnnie Taylor",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Crawfordsville, Arkansas, U.S.",
+    "formed": 1953,
+    "active_70s": true,
+    "description": "Johnnie Taylor was a major force in 1970s soul and R&B, known as the 'Philosopher of Soul' for his relatable storytelling. His sound evolved from the gritty Southern soul of Stax Records to a polished, disco-inflected style at Columbia Records. He remained a dominant presence on the charts throughout the decade, culminating in one of the biggest hits of the era.",
+    "key_albums_70s": [
+      {
+        "title": "One Step Beyond",
+        "year": 1971
+      },
+      {
+        "title": "Taylored in Silk",
+        "year": 1973
+      },
+      {
+        "title": "Super Taylor",
+        "year": 1974
+      },
+      {
+        "title": "Eargasm",
+        "year": 1976
+      },
+      {
+        "title": "Rated Extraordinaire",
+        "year": 1977
+      },
+      {
+        "title": "Ever Ready",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Jody's Got Your Girl and Gone",
+      "I Believe in You (You Believe in Me)",
+      "Cheaper to Keep Her",
+      "Disco Lady",
+      "Somebody's Gettin' It",
+      "Love Is Better in the A.M."
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1976 smash 'Disco Lady' was the first single ever to be certified platinum by the RIAA.",
+      "Taylor began his career replacing Sam Cooke in the gospel group the Soul Stirrers in 1957.",
+      "He recorded many of his biggest 1970s hits for the legendary Stax Records before moving to Columbia Records."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johnnie_Taylor",
+    "youtube_search": "Johnnie Taylor Disco Lady",
+    "tags": [
+      "soul",
+      "r&b",
+      "southern-soul",
+      "stax"
+    ]
+  },
+  {
+    "id": "junior-walker",
+    "name": "Junior Walker",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Blytheville, Arkansas, U.S.",
+    "formed": 1945,
+    "active_70s": true,
+    "description": "Junior Walker was a unique Motown artist, combining soulful vocals with his iconic, driving tenor saxophone playing. In the 1970s, he continued to release gritty and danceable soul-funk, maintaining the distinctive sound that made him a standout during Motown's peak years. His work remained highly influential for its infectious grooves and raw energy.",
+    "key_albums_70s": [
+      {
+        "title": "A Gassssssssss!",
+        "year": 1970
+      },
+      {
+        "title": "Rainbow Funk",
+        "year": 1971
+      },
+      {
+        "title": "Moody Jr.",
+        "year": 1971
+      },
+      {
+        "title": "Peace and Understanding Is Hard to Find",
+        "year": 1973
+      },
+      {
+        "title": "Hot Shot",
+        "year": 1976
+      },
+      {
+        "title": "Smooth",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Do You See My Love (For You Growing)",
+      "Holly Holy",
+      "Take Me Girl, I'm Ready",
+      "Way Back Home",
+      "Walk in the Night",
+      "Wishing on a Star"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Walker was known for playing the saxophone on many of his records, a rarity for lead singers of the era.",
+      "He and his band, the All Stars, were one of the first acts signed to Motown's 'Soul' subsidiary label.",
+      "Later in his career, he famously performed the saxophone solo on Foreigner's 1981 hit 'Urgent'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_Walker",
+    "youtube_search": "Junior Walker Walk in the Night",
+    "tags": [
+      "soul",
+      "motown",
+      "saxophonist",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "lou-rawls",
+    "name": "Lou Rawls",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1933,
+    "active_70s": true,
+    "description": "Lou Rawls experienced a career resurgence in the mid-1970s after signing with Philadelphia International Records. His sound was a sophisticated blend of soul, jazz, and pop, defined by his unmistakable baritone voice and the polished 'Philly Soul' production. This period established him as a premier balladeer and R&B star of the decade.",
+    "key_albums_70s": [
+      {
+        "title": "All Things in Time",
+        "year": 1976
+      },
+      {
+        "title": "Unmistakably Lou",
+        "year": 1977
+      },
+      {
+        "title": "When You Hear Lou, You've Heard It All",
+        "year": 1977
+      },
+      {
+        "title": "Let Me Be Good to You",
+        "year": 1979
+      },
+      {
+        "title": "Sit Down and Talk to Me",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "A Natural Man",
+      "You'll Never Find Another Love Like Mine",
+      "Groovy People",
+      "See You When I Git There",
+      "Lady Love",
+      "Let Me Be Good to You"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1976 hit 'You'll Never Find Another Love Like Mine' was a million-seller and his biggest crossover success.",
+      "Rawls was a childhood friend of Sam Cooke and the two performed together in gospel groups in Chicago.",
+      "He won three Grammy Awards during his career and was famously the face of the United Negro College Fund telethons."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lou_Rawls",
+    "youtube_search": "Lou Rawls You'll Never Find Another Love Like Mine",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "vocalist",
+      "pir"
+    ]
+  },
+  {
+    "id": "major-lance",
+    "name": "Major Lance",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Winterville, Mississippi, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Major Lance was a Chicago soul veteran whose smooth vocal style had made him a star in the 1960s, and he continued recording through the 1970s for a variety of labels. Though his greatest commercial successes predated the decade, his early 70s recordings for Curtom and other labels kept him visible on the R&B circuit. He was particularly popular in the UK Northern Soul scene throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Now Arriving",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Follow the Leader",
+      "Stay Away from Me",
+      "Come On Have Yourself a Good Time"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Lance was a key figure in the Northern Soul movement in Britain, where his 1960s recordings remained enormously popular throughout the 1970s.",
+      "He recorded for Curtis Mayfield's Curtom Records in the early 1970s, releasing material that aligned with the socially conscious soul of the era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Major_Lance",
+    "youtube_search": "Major Lance Um Um Um Um Um Um",
+    "tags": [
+      "soul",
+      "chicago-soul",
+      "r&b",
+      "northern-soul"
+    ]
+  },
+  {
+    "id": "marvin-gaye",
+    "name": "Marvin Gaye",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Washington, D.C., U.S.",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "Marvin Gaye was a transformational figure in 1970s soul, leading the shift toward the 'album era' with deeply personal and socially conscious statements. His sound during this decade ranged from the trenchant social commentary of 'What's Going On' to the intense sensuality of 'Let's Get It On'. By the late 1970s, his work became increasingly experimental and introspective, redefining the boundaries of Motown and R&B music.",
+    "key_albums_70s": [
+      {
+        "title": "What's Going On",
+        "year": 1971
+      },
+      {
+        "title": "Trouble Man",
+        "year": 1972
+      },
+      {
+        "title": "Let's Get It On",
+        "year": 1973
+      },
+      {
+        "title": "I Want You",
+        "year": 1976
+      },
+      {
+        "title": "Here, My Dear",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "What's Going On",
+      "Mercy Mercy Me (The Ecology)",
+      "Inner City Blues (Make Me Wanna Holler)",
+      "Let's Get It On",
+      "I Want You",
+      "Got to Give It Up"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1971 album 'What's Going On' is often cited as one of the greatest albums in the history of popular music.",
+      "Gaye's 1978 album 'Here, My Dear' was famously recorded to fulfill a divorce settlement agreement with his first wife, Anna Gordy.",
+      "He successfully petitioned Motown to allow him to produce his own work, becoming one of the first artists on the label to gain creative control."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+    "youtube_search": "Marvin Gaye What's Going On",
+    "tags": [
+      "soul",
+      "motown",
+      "icon",
+      "activist"
+    ]
+  },
+  {
+    "id": "mavis-staples",
+    "name": "Mavis Staples",
+    "genre": "soul",
+    "subgenre": "gospel-soul",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1950,
+    "active_70s": true,
+    "description": "Mavis Staples was one of the most powerful voices in gospel-influenced soul, both as lead singer of The Staple Singers and as a solo artist throughout the 1970s. Her deep, commanding contralto carried messages of social justice and spiritual uplift with unmatched conviction. Her Stax and Curtom recordings in the early 70s produced some of the most emotionally resonant soul music of the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Only for the Lonely",
+        "year": 1970
+      },
+      {
+        "title": "A Piece of the Action",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "I Have Learned to Do Without You",
+      "Oh What a Feeling",
+      "A Piece of the Action"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Staples recorded solo material for Stax Records in the early 1970s while continuing to perform with The Staple Singers.",
+      "Her voice was described by Bob Dylan as one of the most extraordinary in American music, and he repeatedly sought her collaboration."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mavis_Staples",
+    "youtube_search": "Mavis Staples I'll Take You There",
+    "tags": [
+      "soul",
+      "gospel-soul",
+      "iconic"
+    ]
+  },
+  {
+    "id": "michael-jackson",
+    "name": "Michael Jackson",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Gary, Indiana, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "In the 1970s, Michael Jackson navigated a successful transition from a child prodigy to a mature solo artist while continuing to lead the Jackson 5. His sound evolved from bubblegum soul to sophisticated R&B and disco, culminating in the landmark 'Off the Wall' at the end of the decade. This period established his incredible vocal technique and global appeal before he became the 'King of Pop'.",
+    "key_albums_70s": [
+      {
+        "title": "Got to Be There",
+        "year": 1972
+      },
+      {
+        "title": "Ben",
+        "year": 1972
+      },
+      {
+        "title": "Music & Me",
+        "year": 1973
+      },
+      {
+        "title": "Forever, Michael",
+        "year": 1975
+      },
+      {
+        "title": "Off the Wall",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Got to Be There",
+      "Rockin' Robin",
+      "Ben",
+      "One Day in Your Life",
+      "Don't Stop 'Til You Get Enough",
+      "Rock with You"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1972 single 'Ben' was a number-one hit and won a Golden Globe for Best Original Song.",
+      "At age 13, he became the youngest solo artist ever to top the Billboard Hot 100 with 'Ben'.",
+      "His 1979 album 'Off the Wall' was the first solo album by an artist to generate four top-ten hits on the Billboard Hot 100."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "youtube_search": "Michael Jackson Don't Stop 'Til You Get Enough",
+    "tags": [
+      "soul",
+      "motown",
+      "pop",
+      "icon"
+    ]
+  },
+  {
+    "id": "millie-jackson",
+    "name": "Millie Jackson",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Thomson, Georgia, U.S.",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Millie Jackson was a unique and influential voice in 1970s soul, known for her sexually explicit and humorous spoken-word 'raps' integrated into her songs. Her sound was a mix of gritty Southern soul and polished R&B production. She redefined the 'soul singer' persona with her assertive and often controversial themes of love and heartbreak.",
+    "key_albums_70s": [
+      {
+        "title": "Millie Jackson",
+        "year": 1972
+      },
+      {
+        "title": "It Hurts So Good",
+        "year": 1973
+      },
+      {
+        "title": "Caught Up",
+        "year": 1974
+      },
+      {
+        "title": "Still Caught Up",
+        "year": 1975
+      },
+      {
+        "title": "Feelin' Bitchy",
+        "year": 1977
+      },
+      {
+        "title": "Get It Out'cha System",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Ask Me What You Want",
+      "It Hurts So Good",
+      "The Rap",
+      "If Loving You Is Wrong (I Don't Want to Be Right)",
+      "If You're Not Back in Love By Monday"
+    ],
+    "mood": [
+      "romantic",
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1974 concept album 'Caught Up' is considered a landmark in soul music for its narrative structure.",
+      "Jackson is often referred to as the 'Mother of Hip-Hop' due to her extensive use of spoken-word sections.",
+      "Three of her 1970s albums were certified gold by the RIAA for sales over 500,000 copies."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Millie_Jackson",
+    "youtube_search": "Millie Jackson It Hurts So Good",
+    "tags": [
+      "soul",
+      "r&b",
+      "southern-soul",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "minnie-riperton",
+    "name": "Minnie Riperton",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Minnie Riperton was a unique talent in 1970s soul, best known for her stunning five-octave vocal range and her use of the whistle register. Her sound blended R&B, soul, and pop with subtle jazz and psychedelic influences. Her life and career were tragically cut short, but her musical legacy as the 'operatic angel' of soul remains influential.",
+    "key_albums_70s": [
+      {
+        "title": "Come to My Garden",
+        "year": 1970
+      },
+      {
+        "title": "Perfect Angel",
+        "year": 1974
+      },
+      {
+        "title": "Adventures in Paradise",
+        "year": 1975
+      },
+      {
+        "title": "Stay in Love",
+        "year": 1977
+      },
+      {
+        "title": "Minnie",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Les Fleurs",
+      "Lovin' You",
+      "Reasons",
+      "Inside My Love",
+      "Simple Things",
+      "Memory Lane"
+    ],
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1975 single 'Lovin' You' was a global number-one smash and is famous for her bird-like high notes.",
+      "Before her solo fame, she was the lead singer for the psychedelic soul band Rotary Connection.",
+      "She was one of the first public figures to speak openly about her diagnosis and treatment for breast cancer."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Minnie_Riperton",
+    "youtube_search": "Minnie Riperton Lovin' You",
+    "tags": [
+      "soul",
+      "r&b",
+      "vocalist",
+      "high-notes"
+    ]
+  },
+  {
+    "id": "natalie-cole",
+    "name": "Natalie Cole",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Natalie Cole emerged in the mid-1970s as one of the most exciting new voices in soul and R&B, quickly establishing herself as a hitmaker independent of her famous father Nat King Cole. Her debut single This Will Be became an immediate classic, earning her two Grammy Awards in 1976. Throughout the late 70s she delivered a string of polished, energetic R&B albums that made her one of Capitol Records' biggest stars.",
+    "key_albums_70s": [
+      {
+        "title": "Inseparable",
+        "year": 1975
+      },
+      {
+        "title": "Natalie",
+        "year": 1976
+      },
+      {
+        "title": "Unpredictable",
+        "year": 1977
+      },
+      {
+        "title": "Thankful",
+        "year": 1977
+      },
+      {
+        "title": "I Love You So",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "This Will Be",
+      "Inseparable",
+      "Sophisticated Lady",
+      "I've Got Love on My Mind",
+      "Our Love"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "This Will Be won Grammy Awards for Best New Artist and Best R&B Vocal Performance at the 1976 ceremony.",
+      "She scored five consecutive top ten R&B albums between 1975 and 1979, making her one of the decade's most consistent soul hitmakers."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natalie_Cole",
+    "youtube_search": "Natalie Cole This Will Be",
+    "tags": [
+      "soul",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "nina-simone",
+    "name": "Nina Simone",
+    "genre": "soul",
+    "subgenre": "jazz-soul",
+    "origin": "Tryon, North Carolina, USA",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "Nina Simone was a singular artist who defied categorization, blending jazz, soul, gospel, blues, and classical music into a deeply personal artistic statement throughout the 1970s. Her 1970s recordings showed an increasingly bold political consciousness alongside extraordinary musical sophistication. Though she relocated to Liberia and later Barbados during the decade, her recordings and live performances remained landmark events in Black American music.",
+    "key_albums_70s": [
+      {
+        "title": "Black Gold",
+        "year": 1970
+      },
+      {
+        "title": "Here Comes the Sun",
+        "year": 1971
+      },
+      {
+        "title": "It Is Finished",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "To Be Young Gifted and Black",
+      "Here Comes the Sun",
+      "Mr Bojangles",
+      "Baltimore"
+    ],
+    "mood": [
+      "melancholy",
+      "rebellious",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "To Be Young Gifted and Black became an anthem of the Black Power movement and one of the most celebrated protest songs of the era.",
+      "Simone's eclectic musical range and uncompromising political stance made her one of the most distinctive and influential artists of her generation."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nina_Simone",
+    "youtube_search": "Nina Simone Feeling Good",
+    "tags": [
+      "soul",
+      "jazz-soul",
+      "iconic"
+    ]
+  },
+  {
+    "id": "patti-labelle",
+    "name": "Patti LaBelle",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "After leading the groundbreaking funk-soul trio Labelle, Patti LaBelle launched a highly successful solo career in the late 1970s. Her sound was defined by her immense vocal power and high-octane stage presence, blending soul, R&B, and rock influences. She established herself as a premiere diva of the era, known for her incredible vocal range and emotional intensity.",
+    "key_albums_70s": [
+      {
+        "title": "Patti LaBelle",
+        "year": 1977
+      },
+      {
+        "title": "Tasty",
+        "year": 1978
+      },
+      {
+        "title": "It's Alright with Me",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Lady Marmalade (with Labelle)",
+      "Joy to Have Your Love",
+      "You Are My Friend",
+      "It's Alright with Me",
+      "Music Is My Way of Life"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "As a member of Labelle, she scored the massive 1974 number-one hit 'Lady Marmalade'.",
+      "Her 1977 debut solo album featured the classic R&B ballad 'You Are My Friend'.",
+      "She is known as the 'Godmother of Soul' for her decades-long influence and success in the genre."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patti_LaBelle",
+    "youtube_search": "Patti LaBelle You Are My Friend",
+    "tags": [
+      "soul",
+      "r&b",
+      "diva",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "peabo-bryson",
+    "name": "Peabo Bryson",
+    "genre": "soul",
+    "subgenre": "quiet-storm",
+    "origin": "Greenville, South Carolina, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Peabo Bryson emerged in the late 1970s as one of the smoothest and most romantic voices in R&B, becoming a fixture on the quiet storm radio format with his velvet baritone. He signed with Capitol Records and released a string of polished soul albums that established him as a premier balladeer. His gift for sophisticated love songs made him one of the most sought-after voices in adult contemporary R&B.",
+    "key_albums_70s": [
+      {
+        "title": "Peabo",
+        "year": 1976
+      },
+      {
+        "title": "Reaching for the Sky",
+        "year": 1977
+      },
+      {
+        "title": "Crosswinds",
+        "year": 1978
+      },
+      {
+        "title": "We're the Best of Friends",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Reaching for the Sky",
+      "Feel the Fire",
+      "I Can Make It Better",
+      "Crosswinds"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Reaching for the Sky reached number one on the R&B charts in 1977, establishing Bryson as a major force in the quiet storm soul movement.",
+      "He became known for his romantic duets, a style he developed through his late 70s recordings that would define his career for decades."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peabo_Bryson",
+    "youtube_search": "Peabo Bryson Reaching for the Sky",
+    "tags": [
+      "soul",
+      "quiet-storm",
+      "r&b"
+    ]
+  },
+  {
+    "id": "phyllis-hyman",
+    "name": "Phyllis Hyman",
+    "genre": "soul",
+    "subgenre": "quiet-storm",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Phyllis Hyman emerged in the late 1970s as a sophisticated voice in the soul and jazz scenes. Her sound was a foundational part of the 'quiet storm' genre, characterized by romantic ballads and smooth, orchestral production. She was highly regarded for her elegant vocal style and became a favorite of soul music aficionados during this period.",
+    "key_albums_70s": [
+      {
+        "title": "Phyllis Hyman",
+        "year": 1977
+      },
+      {
+        "title": "Sing a Song",
+        "year": 1978
+      },
+      {
+        "title": "Somewhere in My Lifetime",
+        "year": 1979
+      },
+      {
+        "title": "You Know How to Love Me",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Betcha by Golly Wow",
+      "The Loving's for You",
+      "Somewhere in My Lifetime",
+      "You Know How to Love Me",
+      "Under Your Spell"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1979 hit 'You Know How to Love Me' became a definitive late-70s dance-soul classic.",
+      "Before her recording career, she worked as a successful fashion model in New York.",
+      "She was a classically trained singer and attended the Pittsburgh Music Strategy program."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phyllis_Hyman",
+    "youtube_search": "Phyllis Hyman You Know How to Love Me",
+    "tags": [
+      "soul",
+      "r&b",
+      "quiet-storm",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "rufus",
+    "name": "Rufus",
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Rufus was a definitive funk and soul band of the 1970s, fronted by the extraordinary vocals of Chaka Khan. Their sound was characterized by tight, syncopated rhythms, sophisticated musicianship, and a seamless blend of R&B and rock. Throughout the decade, they remained a top-tier act on both the charts and the live circuit, defining the funk-soul aesthetic of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Rufus",
+        "year": 1973
+      },
+      {
+        "title": "Rags to Rufus",
+        "year": 1974
+      },
+      {
+        "title": "Rufusized",
+        "year": 1974
+      },
+      {
+        "title": "Rufus featuring Chaka Khan",
+        "year": 1975
+      },
+      {
+        "title": "Ask Rufus",
+        "year": 1977
+      },
+      {
+        "title": "Street Player",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Tell Me Something Good",
+      "You Got the Love",
+      "Once You Get Started",
+      "Sweet Thing",
+      "At Midnight (My Love Will Lift You Up)",
+      "Do You Love What You Feel"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Chaka Khan",
+      "Kevin Murphy",
+      "Tony Maiden",
+      "Bobby Watson",
+      "Dave Wolinski",
+      "Andre Fischer"
+    ],
+    "trivia": [
+      "Their hit 'Tell Me Something Good' was written for them by Stevie Wonder and became a signature track of the funk era.",
+      "The band was originally created from two Philadelphia groups but relocated to Chicago where they achieved stardom.",
+      "The group earned a total of two Grammy Awards during their peak years in the 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rufus_(band)",
+    "youtube_search": "Rufus Tell Me Something Good",
+    "tags": [
+      "soul",
+      "funk",
+      "r&b",
+      "group"
+    ]
+  },
+  {
+    "id": "smokey-robinson",
+    "name": "Smokey Robinson",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1955,
+    "active_70s": true,
+    "description": "After retiring from the Miracles in 1972, Smokey Robinson launched a highly successful solo career in the mid-1970s. His sound during this era was defined by elegant, sophisticated soul and he became a pioneer of the 'quiet storm' radio format. As Motown's vice president and a premier songwriter, he remained a central figure in the evolution of soulful pop throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Smokey",
+        "year": 1973
+      },
+      {
+        "title": "Pure Smokey",
+        "year": 1974
+      },
+      {
+        "title": "A Quiet Storm",
+        "year": 1975
+      },
+      {
+        "title": "Smokey's Family Robinson",
+        "year": 1976
+      },
+      {
+        "title": "Where There's Smoke...",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Baby That's Backatcha",
+      "Quiet Storm",
+      "Cruisin'",
+      "The Agony and the Ecstasy",
+      "Open"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1975 album 'A Quiet Storm' gave its name to a popular and enduring format of soul music radio.",
+      "Robinson was the first solo artist to receive a Hollywood Walk of Fame star as both a solo act and as a group member.",
+      "He wrote many of Motown's biggest hits for other artists, including the Temptations and Mary Wells."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smokey_Robinson",
+    "youtube_search": "Smokey Robinson Cruisin'",
+    "tags": [
+      "soul",
+      "motown",
+      "quiet-storm",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "stevie-wonder",
+    "name": "Stevie Wonder",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Saginaw, Michigan, U.S.",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "The 1970s are considered Stevie Wonder's 'classic period,' during which he released a series of groundbreaking and highly influential albums. His sound during this era was defined by his masterful use of synthesizers and multi-instrumental skill, creating cohesive and socially conscious artistic statements. He successfully broke away from the traditional Motown production model to achieve complete creative freedom and critical acclaim.",
+    "key_albums_70s": [
+      {
+        "title": "Music of My Mind",
+        "year": 1972
+      },
+      {
+        "title": "Talking Book",
+        "year": 1972
+      },
+      {
+        "title": "Innervisions",
+        "year": 1973
+      },
+      {
+        "title": "Fulfillingness' First Finale",
+        "year": 1974
+      },
+      {
+        "title": "Songs in the Key of Life",
+        "year": 1976
+      },
+      {
+        "title": "Journey Through 'The Secret Life of Plants'",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Superstition",
+      "You Are the Sunshine of My Life",
+      "Higher Ground",
+      "Living for the City",
+      "Sir Duke",
+      "Isn't She Lovely"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Wonder won the Grammy for Album of the Year for three consecutive album releases in the 1970s.",
+      "He was a child prodigy known as 'Little Stevie Wonder' and had his first number-one hit at age 13.",
+      "His 1976 double album 'Songs in the Key of Life' was the first by an American artist to debut at number one on the Billboard charts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+    "youtube_search": "Stevie Wonder Superstition",
+    "tags": [
+      "soul",
+      "motown",
+      "icon",
+      "multi-instrumentalist"
+    ]
+  },
+  {
+    "id": "teddy-pendergrass",
+    "name": "Teddy Pendergrass",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "After achieving fame as the lead singer of Harold Melvin & the Blue Notes, Teddy Pendergrass launched a massive solo career in the late 1970s. His sound was the quintessence of romantic Philadelphia soul, characterized by his powerful baritone and masculine vulnerability. He became one of the biggest sex symbols and R&B stars of the decade, known for his sold-out 'women only' concerts.",
+    "key_albums_70s": [
+      {
+        "title": "Teddy Pendergrass",
+        "year": 1977
+      },
+      {
+        "title": "Life Is a Song Worth Singing",
+        "year": 1978
+      },
+      {
+        "title": "Teddy",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "The Love I Lost (with Blue Notes)",
+      "Wake Up Everybody (with Blue Notes)",
+      "I Don't Love You Anymore",
+      "Close the Door",
+      "Turn Off the Lights",
+      "Come Go with Me"
+    ],
+    "mood": [
+      "romantic",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His first four solo albums were all certified platinum, a record-breaking feat for an R&B artist at the time.",
+      "Pendergrass began his musical career as a drummer for the Blue Notes before Harold Melvin moved him to lead vocals.",
+      "He was the first soul artist to hold highly successful 'women-only' midnight concerts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Pendergrass",
+    "youtube_search": "Teddy Pendergrass Close the Door",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "vocalist",
+      "pir"
+    ]
+  },
+  {
+    "id": "the-chi-lites",
+    "name": "The Chi-Lites",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "The Chi-Lites were a leading vocal group of the 1970s Chicago soul scene, known for their lush harmonies and romantic ballads. Their sound, often written and produced by lead singer Eugene Record, combined smooth vocal arrangements with orchestral production. They achieved significant crossover success on both the R&B and pop charts during the early to mid-1970s.",
+    "key_albums_70s": [
+      {
+        "title": "(For God's Sake) Give More Power to the People",
+        "year": 1971
+      },
+      {
+        "title": "A Lonely Man",
+        "year": 1972
+      },
+      {
+        "title": "A Letter to Myself",
+        "year": 1973
+      },
+      {
+        "title": "Chi-Lites",
+        "year": 1973
+      },
+      {
+        "title": "Toby",
+        "year": 1974
+      },
+      {
+        "title": "Happy Being Lonely",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "(For God's Sake) Give More Power to the People",
+      "Have You Seen Her",
+      "Oh Girl",
+      "The Coldest Days of My Life",
+      "A Letter to Myself",
+      "It's Time for Love"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Marshall Thompson",
+      "Robert 'Squirrel' Lester",
+      "Eugene Record",
+      "Creadel 'Red' Jones"
+    ],
+    "trivia": [
+      "Their 1972 hit 'Oh Girl' reached number one on the Billboard Hot 100.",
+      "The group formed at Chicago's Hyde Park High School in 1959.",
+      "Lead singer Eugene Record was also a successful songwriter and producer for the group and other artists."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chi-Lites",
+    "youtube_search": "The Chi-Lites Oh Girl",
+    "tags": [
+      "soul",
+      "chicago-soul",
+      "r&b",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-delfonics",
+    "name": "The Delfonics",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "The Delfonics were pioneers of the 1970s Philadelphia soul sound, known for their smooth vocal harmonies and high-pitched falsetto leads. Their sound was defined by the sophisticated production of Thom Bell, featuring lush orchestration and romantic themes. They were one of the most successful vocal groups of the early 1970s, setting a template for the Philly soul aesthetic.",
+    "key_albums_70s": [
+      {
+        "title": "The Delfonics",
+        "year": 1970
+      },
+      {
+        "title": "Tell Me This Is a Dream",
+        "year": 1972
+      },
+      {
+        "title": "Alive & Kicking",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Didn't I (Blow Your Mind This Time)",
+      "When You Get Right Down to It",
+      "Over and Over",
+      "Hey! Love",
+      "Tell Me This Is a Dream"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "members_70s": [
+      "William Hart",
+      "Wilbert Hart",
+      "Randy Cain",
+      "Major Harris"
+    ],
+    "trivia": [
+      "Their 1970 classic 'Didn't I (Blow Your Mind This Time)' won a Grammy Award for Best R&B Performance by a Duo or Group.",
+      "The group's sound was a direct precursor to the success of the Philadelphia International Records label.",
+      "Lead singer William Hart's distinct falsetto was a hallmark of the group's sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Delfonics",
+    "youtube_search": "The Delfonics Didn't I (Blow Your Mind This Time)",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "vocal-group",
+      "classic"
+    ]
+  },
+  {
+    "id": "the-dells",
+    "name": "The Dells",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Harvey, Illinois, USA",
+    "formed": 1952,
+    "active_70s": true,
+    "description": "The Dells were one of the most enduring vocal groups in soul music, reinventing themselves in the late 1960s with producer Charles Stepney and carrying that success deep into the 1970s. Their rich blend of bass and falsetto voices produced some of the most emotionally complex soul records of the era. Their Cadet Records recordings set a standard for sophisticated group soul that influenced countless acts throughout the decade.",
+    "members_70s": [
+      "Marvin Junior",
+      "Johnny Funches",
+      "Verne Allison",
+      "Michael McGill",
+      "Chuck Barksdale"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Freedom Means",
+        "year": 1971
+      },
+      {
+        "title": "Give Your Baby a Standing Ovation",
+        "year": 1973
+      },
+      {
+        "title": "The Dells",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Give Your Baby a Standing Ovation",
+      "My Pretending Days Are Over",
+      "Learning to Love You Was Easy",
+      "We Got to Get Our Thing Together"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Give Your Baby a Standing Ovation reached number four on the R&B charts in 1973, one of their biggest hits of the decade.",
+      "The Dells remained together with almost no lineup changes for over four decades, one of the most stable group configurations in soul music history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dells",
+    "youtube_search": "The Dells Give Your Baby a Standing Ovation",
+    "tags": [
+      "soul",
+      "chicago-soul",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "the-emotions",
+    "name": "The Emotions",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "The Emotions were a premier female vocal group of the 1970s, known for their intricate harmonies and upbeat soul sound. After starting at Stax Records, they achieved massive success in the late 1970s after collaborating with Maurice White of Earth, Wind & Fire. Their sound during this peak period blended soul, disco, and R&B into a series of massive international hits.",
+    "key_albums_70s": [
+      {
+        "title": "Untouched",
+        "year": 1972
+      },
+      {
+        "title": "Flowers",
+        "year": 1976
+      },
+      {
+        "title": "Rejoice",
+        "year": 1977
+      },
+      {
+        "title": "Sunbeam",
+        "year": 1978
+      },
+      {
+        "title": "Come into Our World",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Show Me How",
+      "Flowers",
+      "I Don't Wanna Lose Your Love",
+      "Best of My Love",
+      "Don't Ask My Neighbors",
+      "Boogie Wonderland (with Earth, Wind & Fire)"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Wanda Hutchinson",
+      "Sheila Hutchinson",
+      "Jeanette Hutchinson",
+      "Pamela Hutchinson"
+    ],
+    "trivia": [
+      "Their 1977 smash 'Best of My Love' reached number one on the Billboard Hot 100 and won a Grammy Award.",
+      "The group began their career as a gospel group called 'The Hutchinson Sunbeams' in the late 1950s.",
+      "They collaborated with Earth, Wind & Fire on the 1979 classic 'Boogie Wonderland'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Emotions",
+    "youtube_search": "The Emotions Best of My Love",
+    "tags": [
+      "soul",
+      "r&b",
+      "disco",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-isley-brothers",
+    "name": "The Isley Brothers",
+    "genre": "soul",
+    "subgenre": "funk-soul",
+    "origin": "Cincinnati, Ohio, U.S.",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "The Isley Brothers reinvented themselves in the 1970s as a high-energy funk-rock and soul unit, expanding to a sextet known as '3 + 3'. Their sound was a powerful blend of soulful vocals, driving funk rhythms, and searing rock guitar work. This era was the group's most successful, with a series of multi-platinum albums that redefined their legacy for a new generation.",
+    "key_albums_70s": [
+      {
+        "title": "Givin' It Back",
+        "year": 1971
+      },
+      {
+        "title": "3 + 3",
+        "year": 1973
+      },
+      {
+        "title": "The Heat Is On",
+        "year": 1975
+      },
+      {
+        "title": "Harvest for the World",
+        "year": 1976
+      },
+      {
+        "title": "Go for Your Guns",
+        "year": 1977
+      },
+      {
+        "title": "Winner Takes All",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "That Lady",
+      "Summer Breeze",
+      "Fight the Power",
+      "For the Love of You",
+      "Harvest for the World",
+      "The Pride"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Ronald Isley",
+      "Rudolph Isley",
+      "O'Kelly Isley Jr.",
+      "Ernie Isley",
+      "Marvin Isley",
+      "Chris Jasper"
+    ],
+    "trivia": [
+      "The group's move to a self-contained band in 1973 led to their greatest commercial peak with the album '3 + 3'.",
+      "Their 1975 anthem 'Fight the Power' reached number one on the R&B charts and reflected the social tensions of the decade.",
+      "They were inducted into the Rock and Roll Hall of Fame in 1992."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Isley_Brothers",
+    "youtube_search": "The Isley Brothers That Lady",
+    "tags": [
+      "soul",
+      "funk",
+      "rock-soul",
+      "group"
+    ]
+  },
+  {
+    "id": "the-jackson-5",
+    "name": "The Jackson 5",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Gary, Indiana, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "The Jackson 5 were a global phenomenon in the early 1970s, defining the 'bubblegum soul' sound for Motown Records. Their music was characterized by high-energy R&B, tight vocal harmonies, and the extraordinary lead vocals of a young Michael Jackson. By the mid-1970s, they transitioned to CBS Records as 'The Jacksons', evolving into a more mature funk and disco-oriented group.",
+    "key_albums_70s": [
+      {
+        "title": "ABC",
+        "year": 1970
+      },
+      {
+        "title": "Third Album",
+        "year": 1970
+      },
+      {
+        "title": "Maybe Tomorrow",
+        "year": 1971
+      },
+      {
+        "title": "Dancing Machine",
+        "year": 1974
+      },
+      {
+        "title": "The Jacksons",
+        "year": 1976
+      },
+      {
+        "title": "Destiny",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "ABC",
+      "The Love You Save",
+      "I'll Be There",
+      "Never Can Say Goodbye",
+      "Dancing Machine",
+      "Shake Your Body (Down to the Ground)"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Michael Jackson",
+      "Jermaine Jackson",
+      "Jackie Jackson",
+      "Tito Jackson",
+      "Marlon Jackson",
+      "Randy Jackson"
+    ],
+    "trivia": [
+      "The group was discovered by Motown artist Bobby Taylor in 1968 and became the first act to have their first four singles reach number one.",
+      "They popularized the 'Robot' dance move with their 1974 hit 'Dancing Machine'.",
+      "In 1976, they signed with Epic Records and were renamed 'The Jacksons' due to a legal dispute with Motown."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jackson_5",
+    "youtube_search": "The Jackson 5 ABC",
+    "tags": [
+      "soul",
+      "motown",
+      "bubblegum-soul",
+      "group"
+    ]
+  },
+  {
+    "id": "the-manhattans",
+    "name": "The Manhattans",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Jersey City, New Jersey, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "The Manhattans achieved their greatest fame in the 1970s as masters of the smooth soul ballad. Their sound was characterized by polished vocal harmonies and emotional storytelling, often featuring spoken-word sections by Winfred 'Blue' Lovett. They remained consistent hitmakers on the R&B charts, delivering one of the decade's biggest international smashes.",
+    "key_albums_70s": [
+      {
+        "title": "With These Hands",
+        "year": 1970
+      },
+      {
+        "title": "A Million to One",
+        "year": 1972
+      },
+      {
+        "title": "There's No Me Without You",
+        "year": 1973
+      },
+      {
+        "title": "That's How Much I Love You",
+        "year": 1974
+      },
+      {
+        "title": "The Manhattans",
+        "year": 1976
+      },
+      {
+        "title": "It Feels So Good",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "One Life to Live",
+      "There's No Me Without You",
+      "Don't Take Your Love",
+      "Hurt",
+      "Kiss and Say Goodbye",
+      "It Feels So Good"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Gerald Alston",
+      "Winfred 'Blue' Lovett",
+      "Edward 'Sonny' Bivins",
+      "Kenneth 'Wally' Kelly",
+      "Richard 'Ricky' Taylor"
+    ],
+    "trivia": [
+      "Their 1976 signature hit 'Kiss and Say Goodbye' was only the second single in history to be certified platinum by the RIAA.",
+      "Lead singer Gerald Alston, who joined in 1970, was the nephew of Shirley Alston Reeves of the Shirelles.",
+      "The group was inducted into the Atlantic City Walk of Fame in September 2024."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Manhattans",
+    "youtube_search": "The Manhattans Kiss and Say Goodbye",
+    "tags": [
+      "soul",
+      "r&b",
+      "ballads",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-miracles",
+    "name": "The Miracles",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1955,
+    "active_70s": true,
+    "description": "After Smokey Robinson's departure in 1972, The Miracles successfully reinvented themselves with new lead singer Billy Griffin. Their 1970s sound transitioned from classic Motown soul to upbeat, disco-influenced R&B. They remained a significant force on the charts, achieving one of the biggest dance hits of the mid-1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Renaissance",
+        "year": 1973
+      },
+      {
+        "title": "Do It Baby",
+        "year": 1974
+      },
+      {
+        "title": "Don't Cha Love It",
+        "year": 1975
+      },
+      {
+        "title": "City of Angels",
+        "year": 1975
+      },
+      {
+        "title": "The Power of Music",
+        "year": 1976
+      },
+      {
+        "title": "Love Crazy",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The Tears of a Clown",
+      "I Don't Blame You at All",
+      "Do It Baby",
+      "Don't Cha Love It",
+      "Love Machine",
+      "Spy for Brotherhood"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Billy Griffin",
+      "Ronnie White",
+      "Bobby Rogers",
+      "Pete Moore",
+      "Smokey Robinson",
+      "Claudette Rogers Robinson"
+    ],
+    "trivia": [
+      "Their 1975 hit 'Love Machine' reached number one on the Billboard Hot 100 and became a multi-million seller.",
+      "The group was Motown's first successful vocal group and were once known as 'The Matadors'.",
+      "They were inducted into the Rock and Roll Hall of Fame in 2012 as a group after Smokey Robinson had been inducted as a solo artist in 1987."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Miracles",
+    "youtube_search": "The Miracles Love Machine",
+    "tags": [
+      "soul",
+      "motown",
+      "r&b",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-o-jays",
+    "name": "The O'Jays",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Canton, Ohio, U.S.",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "The O'Jays were at the forefront of the Philadelphia soul movement in the 1970s, recording for Philadelphia International Records. Their sound featured high-energy vocal performances and sophisticated production by Gamble & Huff, often incorporating socially conscious and political themes. They became one of the most successful and respected vocal groups of the era, dominating both the R&B and pop charts.",
+    "key_albums_70s": [
+      {
+        "title": "Back Stabbers",
+        "year": 1972
+      },
+      {
+        "title": "Ship Ahoy",
+        "year": 1973
+      },
+      {
+        "title": "The O'Jays Live in London",
+        "year": 1974
+      },
+      {
+        "title": "Survival",
+        "year": 1975
+      },
+      {
+        "title": "Family Reunion",
+        "year": 1975
+      },
+      {
+        "title": "Identify Yourself",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Back Stabbers",
+      "Love Train",
+      "For the Love of Money",
+      "Sunshine",
+      "Give the People What They Want",
+      "I Love Music"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Eddie Levert",
+      "Walter Williams",
+      "William Powell",
+      "Sammy Strain"
+    ],
+    "trivia": [
+      "Their 1973 hit 'Love Train' reached number one on both the Billboard R&B and Pop charts.",
+      "The group originally formed in 1958 and went through several name changes, including 'The Triumphs' and 'The Mascots'.",
+      "They were inducted into the Rock and Roll Hall of Fame in 2005."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_O%27Jays",
+    "youtube_search": "The O'Jays Love Train",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "pir",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-spinners",
+    "name": "The Spinners",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1954,
+    "active_70s": true,
+    "description": "The Spinners achieved massive commercial success in the 1970s after moving to Atlantic Records and collaborating with producer Thom Bell. Their sound became a definitive example of polished Philadelphia soul, characterized by tight vocal harmonies and smooth arrangements. Throughout the decade, they remained a dominant force on the charts with a series of major international hits.",
+    "key_albums_70s": [
+      {
+        "title": "Spinners",
+        "year": 1973
+      },
+      {
+        "title": "Mighty Love",
+        "year": 1974
+      },
+      {
+        "title": "New and Improved",
+        "year": 1974
+      },
+      {
+        "title": "Pick of the Litter",
+        "year": 1975
+      },
+      {
+        "title": "Happiness Is Being With the Spinners",
+        "year": 1976
+      },
+      {
+        "title": "Yesterday, Today & Tomorrow",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "I'll Be Around",
+      "Could It Be I'm Falling in Love",
+      "One of a Kind (Love Affair)",
+      "Mighty Love",
+      "Then Came You (with Dionne Warwick)",
+      "The Rubberband Man"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "chill",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Philippé Wynne",
+      "Bobby Smith",
+      "Henry Fambrough",
+      "Pervis Jackson",
+      "Billy Henderson",
+      "G. C. Cameron",
+      "John Edwards"
+    ],
+    "trivia": [
+      "In the UK, they were often billed as the 'Detroit Spinners' to avoid confusion with a British folk group.",
+      "The group received a star on the Hollywood Walk of Fame on June 30, 1976.",
+      "They were inducted into the Rock and Roll Hall of Fame in 2023."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Spinners_(American_group)",
+    "youtube_search": "The Spinners I'll Be Around",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "r&b",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-staple-singers",
+    "name": "The Staple Singers",
+    "genre": "soul",
+    "subgenre": "gospel-soul",
+    "origin": "Chicago, Illinois, U.S.",
+    "formed": 1948,
+    "active_70s": true,
+    "description": "The Staple Singers achieved their greatest commercial peak in the 1970s by blending their gospel roots with soul and funk production at Stax Records. Their sound during this era was defined by powerful, socially conscious lyrics and Mavis Staples' distinctive lead vocals. They became a definitive voice of the era, successfully bridging the gap between spiritual and secular music.",
+    "key_albums_70s": [
+      {
+        "title": "The Staple Swingers",
+        "year": 1971
+      },
+      {
+        "title": "Be Altitude: Respect Yourself",
+        "year": 1972
+      },
+      {
+        "title": "Be What You Are",
+        "year": 1973
+      },
+      {
+        "title": "City in the Sky",
+        "year": 1974
+      },
+      {
+        "title": "Let's Do It Again",
+        "year": 1975
+      },
+      {
+        "title": "Pass It On",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Heavy Makes You Happy (Sha-Na-Boom Boom)",
+      "Respect Yourself",
+      "I'll Take You There",
+      "If You're Ready (Come Go with Me)",
+      "Touch a Hand, Make a Friend",
+      "Let's Do It Again"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Roebuck 'Pops' Staples",
+      "Mavis Staples",
+      "Cleotha Staples",
+      "Yvonne Staples",
+      "Pervis Staples"
+    ],
+    "trivia": [
+      "Their 1972 hit 'I'll Take You There' reached number one on both the Billboard R&B and Pop charts.",
+      "The group originally formed as a gospel unit in 1948, with 'Pops' Staples performing with his children.",
+      "They were featured prominently in the 1972 documentary film 'Wattstax' and the accompanying live album."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Staple_Singers",
+    "youtube_search": "The Staple Singers I'll Take You There",
+    "tags": [
+      "soul",
+      "gospel",
+      "stax",
+      "activism"
+    ]
+  },
+  {
+    "id": "the-stylistics",
+    "name": "The Stylistics",
+    "genre": "soul",
+    "subgenre": "philadelphia-soul",
+    "origin": "Philadelphia, Pennsylvania, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "The Stylistics were a definitive Philadelphia soul group of the 1970s, known for their smooth vocal harmonies and Russell Thompkins Jr.'s distinctive falsetto lead. Their sound was characterized by lush, romantic ballads and the sophisticated production of Thom Bell and Linda Creed. During the early to mid-1970s, they achieved a string of twelve consecutive R&B top ten hits, making them one of the most successful vocal groups of the era.",
+    "key_albums_70s": [
+      {
+        "title": "The Stylistics",
+        "year": 1971
+      },
+      {
+        "title": "Round 2",
+        "year": 1972
+      },
+      {
+        "title": "Rockin' Roll Baby",
+        "year": 1973
+      },
+      {
+        "title": "Let's Put It All Together",
+        "year": 1974
+      },
+      {
+        "title": "Thank You Baby",
+        "year": 1975
+      },
+      {
+        "title": "Sun & Soul",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Stop, Look, Listen (To Your Heart)",
+      "You Are Everything",
+      "Betcha by Golly, Wow",
+      "I'm Stone in Love with You",
+      "Break Up to Make Up",
+      "You Make Me Feel Brand New"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Russell Thompkins Jr.",
+      "Airrion Love",
+      "Herb Murrell",
+      "James Smith",
+      "James Dunn"
+    ],
+    "trivia": [
+      "The group had five gold singles and three gold albums certified by the RIAA.",
+      "In 1975, 'The Best of The Stylistics' was the best-selling album of the year in the United Kingdom.",
+      "They were inducted into the Vocal Group Hall of Fame in 2004."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Stylistics",
+    "youtube_search": "The Stylistics You Make Me Feel Brand New",
+    "tags": [
+      "soul",
+      "philadelphia-soul",
+      "vocal-group",
+      "ballads"
+    ]
+  },
+  {
+    "id": "the-temptations",
+    "name": "The Temptations",
+    "genre": "soul",
+    "subgenre": "motown",
+    "origin": "Detroit, Michigan, U.S.",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "In the 1970s, The Temptations transitioned from their psychedelic soul period to a harder-edged funk sound while remaining a dominant force at Motown. Their music during this era featured complex vocal arrangements and socially relevant lyrics produced by Norman Whitfield. Despite several lineup changes, they continued to influence the genre with their innovative sound and precise choreography.",
+    "key_albums_70s": [
+      {
+        "title": "Sky's the Limit",
+        "year": 1971
+      },
+      {
+        "title": "Solid Rock",
+        "year": 1972
+      },
+      {
+        "title": "All Directions",
+        "year": 1972
+      },
+      {
+        "title": "Masterpiece",
+        "year": 1973
+      },
+      {
+        "title": "A Song for You",
+        "year": 1975
+      },
+      {
+        "title": "Wings of Love",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Just My Imagination (Running Away with Me)",
+      "Superstar (Remember How You Got Where You Are)",
+      "Papa Was a Rollin' Stone",
+      "Masterpiece",
+      "Let Your Hair Down",
+      "Shakey Ground"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "reflect",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "members_70s": [
+      "Otis Williams",
+      "Melvin Franklin",
+      "Eddie Kendricks",
+      "Dennis Edwards",
+      "Richard Street",
+      "Damon Harris"
+    ],
+    "trivia": [
+      "Their 1972 classic 'Papa Was a Rollin' Stone' won three Grammy Awards and was a number-one hit on the Billboard Hot 100.",
+      "The group was originally formed as 'The Elgins' before signing with Motown.",
+      "In 2013, they were honored with the Grammy Lifetime Achievement Award."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Temptations",
+    "youtube_search": "The Temptations Papa Was a Rollin' Stone",
+    "tags": [
+      "soul",
+      "motown",
+      "funk",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "tina-turner",
+    "name": "Tina Turner",
+    "genre": "soul",
+    "subgenre": "r&b",
+    "origin": "Nutbush, Tennessee, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Following her split from Ike Turner in 1976, Tina Turner embarked on a solo career that began modestly but showcased the full raw power of one of rock and soul's greatest live performers. Her late 1970s solo recordings demonstrated her ability to hold her own across soul, rock, and disco genres. Though her massive commercial comeback would come in the 1980s, her groundwork in the late 70s established her independent identity as an artist.",
+    "key_albums_70s": [
+      {
+        "title": "Rough",
+        "year": 1978
+      },
+      {
+        "title": "Love Explosion",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Earthquake and Hurricane",
+      "Root Toot Undisputable Rock and Roller",
+      "The Bitch Is Back"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "rock-out",
+      "dance"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Turner left Ike Turner in July 1976 with only 36 cents and a Mobil credit card, beginning her solo career from scratch.",
+      "Her late 70s solo albums were produced in a rock and disco crossover style that foreshadowed her massive 1980s comeback."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tina_Turner",
+    "youtube_search": "Tina Turner Proud Mary",
+    "tags": [
+      "soul",
+      "r&b",
+      "iconic"
+    ]
+  },
+  {
+    "id": "tyrone-davis",
+    "name": "Tyrone Davis",
+    "genre": "soul",
+    "subgenre": "chicago-soul",
+    "origin": "Greenville, Mississippi, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Tyrone Davis was a significant figure in 1970s Chicago soul, known for his smooth, slightly husky vocal delivery. His sound blended bluesy soul with polished R&B production, making him a consistent favorite on the soul charts. Throughout the decade, he established himself as a premier balladeer with a series of influential and relatable hits.",
+    "key_albums_70s": [
+      {
+        "title": "Turn Back the Hands of Time",
+        "year": 1970
+      },
+      {
+        "title": "I Had It All the Time",
+        "year": 1972
+      },
+      {
+        "title": "Without You in My Life",
+        "year": 1973
+      },
+      {
+        "title": "Turning Point!",
+        "year": 1976
+      },
+      {
+        "title": "Love and Touch",
+        "year": 1976
+      },
+      {
+        "title": "In the Mood with Tyrone Davis",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Turn Back the Hands of Time",
+      "Is It Something You've Got",
+      "I Had It All the Time",
+      "Without You in My Life",
+      "There It Is",
+      "Turning Point"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1970 single 'Turn Back the Hands of Time' reached number three on the Billboard Hot 100.",
+      "Davis worked as a driver for fellow soul singer Freddie King before his own career took off.",
+      "He was known by the nickname 'TD' among his fans and fellow musicians."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrone_Davis",
+    "youtube_search": "Tyrone Davis Turn Back the Hands of Time",
+    "tags": [
+      "soul",
+      "chicago-soul",
+      "r&b",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "william-bell",
+    "name": "William Bell",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Memphis, Tennessee, USA",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "William Bell was a foundational figure in the Memphis soul sound, having written and recorded for Stax Records since its earliest days. His warm, understated vocal style and gift for emotional songwriting made him one of the most respected artists in Southern soul throughout the 1970s. His Mercury Records recordings in the mid-70s continued the classic Memphis soul tradition with contemporary production.",
+    "key_albums_70s": [
+      {
+        "title": "Relating",
+        "year": 1973
+      },
+      {
+        "title": "Coming Back for More",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Trying to Love Two",
+      "Easy Coming Out",
+      "Tryin to Love Two Women"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Trying to Love Two reached number one on the R&B charts in 1977, his biggest chart success as a solo artist.",
+      "Bell co-wrote the Stax classic You Don't Miss Your Water, one of the most influential songs in the Southern soul canon."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Bell_(musician)",
+    "youtube_search": "William Bell Trying to Love Two",
+    "tags": [
+      "soul",
+      "southern-soul",
+      "memphis-soul",
+      "r&b"
+    ]
+  },
+  {
+    "id": "wilson-pickett",
+    "name": "Wilson Pickett",
+    "genre": "soul",
+    "subgenre": "southern-soul",
+    "origin": "Prattville, Alabama, U.S.",
+    "formed": 1955,
+    "active_70s": true,
+    "description": "The 'Wicked Pickett' continued to release powerful soul and funk records into the early 1970s, notably working with Gamble & Huff in Philadelphia. His sound during this era remained raw and energetic, characterized by his gravelly vocals and driving rhythms. While his greatest commercial peak was in the 1960s, his 1970s output solidified his reputation as a definitive soul shouter.",
+    "key_albums_70s": [
+      {
+        "title": "Right On",
+        "year": 1970
+      },
+      {
+        "title": "Wilson Pickett in Philadelphia",
+        "year": 1970
+      },
+      {
+        "title": "Don't Knock My Love",
+        "year": 1971
+      },
+      {
+        "title": "Mr. Magic Man",
+        "year": 1973
+      },
+      {
+        "title": "Miz Lena's Boy",
+        "year": 1973
+      },
+      {
+        "title": "Funky Situation",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Sugar, Sugar",
+      "Engine No. 9",
+      "Don't Let the Green Grass Fool You",
+      "Don't Knock My Love",
+      "Fire and Water",
+      "Funk Factory"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1971 single 'Don't Let the Green Grass Fool You' was a million-seller and certified gold by the RIAA.",
+      "Pickett began his career singing in the gospel group The Violinares before joining the Falcons.",
+      "He was inducted into the Rock and Roll Hall of Fame in 1991."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wilson_Pickett",
+    "youtube_search": "Wilson Pickett Engine No. 9",
+    "tags": [
+      "soul",
+      "southern-soul",
+      "funk",
+      "icon"
+    ]
+  }
+]

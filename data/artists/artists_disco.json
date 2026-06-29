@@ -1,0 +1,3837 @@
+[
+  {
+    "id": "a-taste-of-honey",
+    "name": "A Taste of Honey",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Los Angeles-based group led by guitarist Hazel Payne and keyboardist Janice Marie Johnson who became the first new artist to win the Grammy Award for Best New Artist in 1979. Their funk-infused disco sound was driven by Payne's accomplished guitar work, unusual for the genre. Their debut single 'Boogie Oogie Oogie' became one of the biggest-selling disco singles of 1978, topping the Billboard Hot 100 for three weeks.",
+    "members_70s": [
+      "Hazel Payne",
+      "Janice Marie Johnson",
+      "Perry Kibble",
+      "Donald Johnson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "A Taste of Honey",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Boogie Oogie Oogie",
+      "Sky High",
+      "Disco Dancin'"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'Boogie Oogie Oogie' was number one on the Billboard Hot 100 for three weeks in 1978.",
+      "The group became the first new artist to win a Grammy Award for Best New Artist in 1979.",
+      "Hazel Payne was one of the few prominent female electric guitarists in the disco era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Taste_of_Honey_(group)",
+    "youtube_search": "A Taste of Honey Boogie Oogie Oogie",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "funk"
+    ]
+  },
+  {
+    "id": "al-hudson",
+    "name": "Al Hudson & the Partners",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Detroit, Michigan, USA",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Detroit-based funk and disco outfit led by vocalist and songwriter Al Hudson that scored a string of dance floor hits in the late 1970s. Their sound blended smooth soul vocals with driving disco rhythms and tight funk arrangements. They recorded for ABC/MCA Records and reached the top of the R&B charts with their biggest hit.",
+    "members_70s": [
+      "Al Hudson",
+      "One Way (backing group)"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Happy Feet",
+        "year": 1978
+      },
+      {
+        "title": "Spreading Love",
+        "year": 1978
+      },
+      {
+        "title": "You Can Do It",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Happy Feet",
+      "Music",
+      "You Can Do It",
+      "Spread Love"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "The group later evolved into One Way, which continued recording into the 1980s.",
+      "'You Can Do It' reached number one on the Billboard R&B chart in 1979.",
+      "Al Hudson's productions were known for their propulsive basslines and layered vocal harmonies."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Hudson_%26_the_Partners",
+    "youtube_search": "Al Hudson You Can Do It",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "amanda-lear",
+    "name": "Amanda Lear",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Saigon, French Indochina",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Million-album-selling French disco star known for her deep, recitative vocals and characteristic 'Franglais' accent. Produced largely by Anthony Monn in Munich, her music combined lush disco orchestration with kitsch and camp elements. She became a major figure in the continental European and Scandinavian disco scenes.",
+    "key_albums_70s": [
+      {
+        "title": "I Am a Photograph",
+        "year": 1977
+      },
+      {
+        "title": "Sweet Revenge",
+        "year": 1978
+      },
+      {
+        "title": "Never Trust a Pretty Face",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Blood and Honey",
+      "Tomorrow",
+      "Queen of Chinatown",
+      "Follow Me",
+      "Gold",
+      "Enigma (Give a Bit of Mmh to Me)",
+      "Fashion Pack (Studio 54)"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Lear was a close friend and muse to surrealist painter Salvador Dalí for almost 20 years.",
+      "Her album 'Sweet Revenge' was a concept medley based on a Faustian fairy tale of a girl selling her soul for fame.",
+      "She first came into the public eye as the cover model for Roxy Music's album 'For Your Pleasure' in 1973."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amanda_Lear",
+    "youtube_search": "Amanda Lear Follow Me",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "camp"
+    ]
+  },
+  {
+    "id": "amii-stewart",
+    "name": "Amii Stewart",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Washington, D.C., USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "American disco and soul singer who gained fame for her energetic vocal delivery and powerhouse dance tracks. Her 1979 cover of 'Knock on Wood' became a quintessential disco classic, reaching number one in the United States. She successfully blended soulful R&B foundations with the high-energy demands of the late 70s dance floors.",
+    "key_albums_70s": [
+      {
+        "title": "Knock on Wood",
+        "year": 1979
+      },
+      {
+        "title": "Paradise Bird",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Knock on Wood",
+      "Light My Fire/137 Disco Heaven",
+      "Paradise Bird",
+      "Step into the Love Line",
+      "Jealousy"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Her disco cover of 'Knock on Wood' earned her a platinum record and a Grammy Award nomination in 1979.",
+      "Stewart is the stepsister of singer Miquel Brown and the aunt of singer Sinitta.",
+      "She released a successful medley in 1979 that combined The Doors' 'Light My Fire' with '137 Disco Heaven.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amii_Stewart",
+    "youtube_search": "Amii Stewart Knock on Wood",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "soul"
+    ]
+  },
+  {
+    "id": "andrea-true-connection",
+    "name": "Andrea True Connection",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Nashville, Tennessee, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Disco singer who achieved major stardom with the project Andrea True Connection. Her sound was defined by catchy, rhythmic tracks designed for the New York club circuit. Her signature hit 'More, More, More' became one of the most recognizable anthems of the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "More, More, More",
+        "year": 1976
+      },
+      {
+        "title": "White Witch",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "More, More, More",
+      "Party Line",
+      "N.Y., You Got Me Dancing",
+      "What's Your Name, What's Your Number",
+      "Fill Me Up (Heart to Heart)"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "She played around 300 shows within a single year starting in June 1976 during the height of her musical career.",
+      "The instrumental break from her hit 'More, More, More' was famously sampled by the group Len for their 1999 single 'Steal My Sunshine.'",
+      "Her single 'N.Y., You Got Me Dancing' reached number four on the Billboard disco chart in 1977."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrea_True",
+    "youtube_search": "Andrea True Connection More More More",
+    "tags": [
+      "disco",
+      "club-disco",
+      "pop"
+    ]
+  },
+  {
+    "id": "bee-gees",
+    "name": "Bee Gees",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Isle of Man / Manchester, UK / Australia",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Dominant musical group of the late 1970s known for their tight three-part harmonies and Barry Gibb's signature R&B falsetto. They successfully transitioned from soft rock to disco, driving the genre to massive mainstream popularity. Their work on the 'Saturday Night Fever' soundtrack created a global cultural phenomenon.",
+    "members_70s": [
+      "Barry Gibb",
+      "Robin Gibb",
+      "Maurice Gibb",
+      "Alan Kendall",
+      "Dennis Bryon",
+      "Blue Weaver"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Main Course",
+        "year": 1975
+      },
+      {
+        "title": "Children of the World",
+        "year": 1976
+      },
+      {
+        "title": "Saturday Night Fever",
+        "year": 1977
+      },
+      {
+        "title": "Spirits Having Flown",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Jive Talkin'",
+      "Nights on Broadway",
+      "You Should Be Dancing",
+      "How Deep Is Your Love",
+      "Stayin' Alive",
+      "Night Fever",
+      "More Than a Woman",
+      "Tragedy"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group won five Grammy Awards for the 'Saturday Night Fever' soundtrack, including Album of the Year.",
+      "They were named honorary citizens of the state of Florida in 1978 following their massive chart success.",
+      "John Lennon once defended the group in an interview, stating they did a 'damn good job' and were the only significant thing happening in the mid-70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bee_Gees",
+    "youtube_search": "Bee Gees Stayin Alive",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "bionic-boogie",
+    "name": "Bionic Boogie",
+    "genre": "disco",
+    "subgenre": "electro-disco",
+    "origin": "New York, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Studio project conceived by producer and arranger Gregg Diamond that blended electronic instrumentation with high-energy disco rhythms. The project featured a rotating cast of session musicians and vocalists assembled specifically for dance floor impact. Their sound anticipated the electronic club sounds of the early 1980s.",
+    "key_albums_70s": [
+      {
+        "title": "Bionic Boogie",
+        "year": 1977
+      },
+      {
+        "title": "Hot Butterfly",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Hot Butterfly",
+      "Risky Changes",
+      "Cream (Always Rises to the Top)"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Bionic Boogie was a studio creation of producer Gregg Diamond, who assembled different session players for each recording.",
+      "Their track 'Hot Butterfly' became a significant club hit in 1977 and 1978.",
+      "The project reflected the era's trend of producer-led disco projects assembled for maximum danceability."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bionic_Boogie",
+    "youtube_search": "Bionic Boogie Hot Butterfly",
+    "tags": [
+      "disco",
+      "electro-disco",
+      "studio-project"
+    ]
+  },
+  {
+    "id": "boney-m",
+    "name": "Boney M.",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "West Germany",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "German disco group created by producer Frank Farian that became a global commercial juggernaut in the late 1970s. Their sound combined heavy disco beats with reggae and funk influences, featuring catchy, often historically-themed lyrics. They sold over 100 million records during their peak years.",
+    "members_70s": [
+      "Liz Mitchell",
+      "Marcia Barrett",
+      "Maizie Williams",
+      "Bobby Farrell"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Take the Heat off Me",
+        "year": 1976
+      },
+      {
+        "title": "Love for Sale",
+        "year": 1977
+      },
+      {
+        "title": "Nightflight to Venus",
+        "year": 1978
+      },
+      {
+        "title": "Oceans of Fantasy",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Daddy Cool",
+      "Sunny",
+      "Ma Baker",
+      "Belfast",
+      "Rivers of Babylon",
+      "Brown Girl in the Ring",
+      "Rasputin",
+      "Mary's Boy Child / Oh My Lord"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Producer Frank Farian created the name 'Boney M.' after watching the Australian TV detective series 'Boney.'",
+      "They achieved eight number one singles in West Germany and two all-time bestsellers in the United Kingdom.",
+      "Their 1978 hit 'Rivers of Babylon' remains one of the top-selling singles in UK history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boney_M.",
+    "youtube_search": "Boney M Rasputin",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "reggae"
+    ]
+  },
+  {
+    "id": "celi-bee",
+    "name": "Celi Bee and the Buzzy Bunch",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "New York, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Miami-influenced disco act fronted by singer Celi Bee whose soaring vocals became a fixture of late-1970s dance floors. The group recorded for TK Records and delivered a string of high-energy dance tracks that combined Miami funk with European-influenced production. Their recordings were notable for their driving percussion and lush orchestration.",
+    "key_albums_70s": [
+      {
+        "title": "Superman",
+        "year": 1977
+      },
+      {
+        "title": "Fly Me on the Wings of Love",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Superman",
+      "Fly Me on the Wings of Love",
+      "Easy as A, B, C"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Celi Bee's vocals on 'Superman' were compared favorably to the high-energy style of Gloria Gaynor.",
+      "The group recorded for TK Records, the same Miami label that launched KC and the Sunshine Band.",
+      "Their recordings helped define the Miami disco sound that competed with the New York and Philadelphia styles."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Celi_Bee_and_the_Buzzy_Bunch",
+    "youtube_search": "Celi Bee Superman",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "miami-disco"
+    ]
+  },
+  {
+    "id": "cerrone",
+    "name": "Cerrone",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Vitry-sur-Seine, France",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "French disco drummer and producer who pioneered the fusion of symphonic orchestration with synthesizers. Known for provocative album covers and long-form dance tracks, his 1977 album 'Supernature' became a landmark of electronic disco. He was a dominant force in the Euro-disco movement, selling over 30 million albums worldwide.",
+    "key_albums_70s": [
+      {
+        "title": "Love in C Minor",
+        "year": 1976
+      },
+      {
+        "title": "Cerrone's Paradise",
+        "year": 1977
+      },
+      {
+        "title": "Supernature",
+        "year": 1977
+      },
+      {
+        "title": "The Golden Touch",
+        "year": 1978
+      },
+      {
+        "title": "Angelina",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Love in C Minor",
+      "Cerrone's Paradise",
+      "Supernature",
+      "Give Me Love",
+      "Je Suis Music",
+      "Look for Love",
+      "Rocket in the Pocket"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Cerrone received six awards at the 1978 Billboard Disco Forum, including Disco Artist of the Year.",
+      "His third album, 'Supernature,' featured sci-fi lyrics written by Lene Lovich and sold over eight million copies.",
+      "At age 17, he became the worldwide A&R scout for Club Med, responsible for musical entertainment in 40 vacation villages."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cerrone",
+    "youtube_search": "Cerrone Supernature",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "electronic"
+    ]
+  },
+  {
+    "id": "change",
+    "name": "Change",
+    "genre": "disco",
+    "subgenre": "italian-disco",
+    "origin": "Bologna, Italy",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "Italian disco collective assembled by producers Jacques Fred Petrus and Mauro Malavasi that featured American session vocalists over sophisticated European production. Their sound combined lush orchestration with soulful vocal performances and tight rhythmic grooves, anticipating the dance music trends of the early 1980s. Their debut single was an immediate international dance floor sensation.",
+    "members_70s": [
+      "Luther Vandross (vocalist)",
+      "Paolo Gianolio",
+      "Mauro Malavasi"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "A Lover's Holiday",
+      "Searching"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Luther Vandross sang lead vocals on the group's early recordings before launching his solo career.",
+      "The group was conceived by Italian producer Jacques Fred Petrus specifically to blend American soul vocals with European disco production.",
+      "Their song 'A Lover's Holiday' was recorded in 1979 and became a major club hit as it crossed into 1980."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Change_(Italian_band)",
+    "youtube_search": "Change A Lover's Holiday",
+    "tags": [
+      "disco",
+      "italian-disco",
+      "soul-disco"
+    ]
+  },
+  {
+    "id": "chic",
+    "name": "Chic",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "New York City, New York, USA",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Influential disco band that refined a minimalist, high-fashion sound characterized by Bernard Edwards' lyrical basslines and Nile Rodgers' scratchy guitar work. They released some of the biggest hits of the era, focusing on themes of sophistication, peace, and freedom. Their rhythmic precision made them a primary influence on both rock and early hip-hop.",
+    "members_70s": [
+      "Nile Rodgers",
+      "Bernard Edwards",
+      "Tony Thompson",
+      "Norma Jean Wright",
+      "Luci Martin",
+      "Alfa Anderson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Chic",
+        "year": 1977
+      },
+      {
+        "title": "C'est Chic",
+        "year": 1978
+      },
+      {
+        "title": "Risqué",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "Everybody Dance",
+      "Le Freak",
+      "I Want Your Love",
+      "Good Times",
+      "My Forbidden Lover",
+      "My Feet Keep Dancing"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Le Freak' was the best-selling single in the history of Warner Music until Madonna's 'Vogue' in 1990.",
+      "The group was inspired to develop a seamless image and music after attending a concert by the glam rock band Roxy Music.",
+      "Their song 'Good Times' provided the foundational bassline for the first major hip-hop hit, 'Rapper's Delight.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chic_(band)",
+    "youtube_search": "Chic Good Times",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "claudja-barry",
+    "name": "Claudja Barry",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Jamaica / Canada",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Jamaican-born Canadian singer who became a significant figure in the Euro-disco scene after recording in Germany. Her sound combined powerful vocals with high-energy dance arrangements, typical of the Munich disco sound. She achieved several club hits and international chart success throughout the late 1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Sweet Dynamite",
+        "year": 1976
+      },
+      {
+        "title": "The Girl Most Likely",
+        "year": 1978
+      },
+      {
+        "title": "I Wanna Be Loved by You",
+        "year": 1978
+      },
+      {
+        "title": "Feel the Fire",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Sweet Dynamite",
+      "Dancing Fever",
+      "(Boogie Woogie) Dancin' Shoes",
+      "You Make Me Feel the Fire",
+      "Down by the Water"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Her song '(Boogie Woogie) Dancin' Shoes' reached number seven on the US Billboard dance chart in 1979.",
+      "Before her solo career, she appeared in the European stage versions of musicals like 'AC/DC' and 'Catch My Soul.'",
+      "In 1999, R&B artist Montell Jordan sampled her single 'Love For the Sake of Love' for his hit 'Get It On Tonite.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Claudja_Barry",
+    "youtube_search": "Claudja Barry Boogie Woogie Dancin Shoes",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "dance"
+    ]
+  },
+  {
+    "id": "crown-heights-affair",
+    "name": "Crown Heights Affair",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Brooklyn, New York, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Brooklyn-based R&B and funk ensemble that successfully transitioned into disco in the mid-1970s. Known for their powerful brass section and strong vocal choruses, they achieved worldwide popularity through the disco club circuit. Their rhythmic grooves and high-energy performances made them mainstays of the New York dance scene.",
+    "members_70s": [
+      "Phillip Thomas",
+      "William Anderson",
+      "Howard Young",
+      "Bert Reid",
+      "James Baynard",
+      "Raymond Reid",
+      "Arnold Wilson",
+      "Raymond Rock"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Crown Heights Affair",
+        "year": 1974
+      },
+      {
+        "title": "Dreaming a Dream",
+        "year": 1975
+      },
+      {
+        "title": "Foxy Lady",
+        "year": 1976
+      },
+      {
+        "title": "Do It Your Way",
+        "year": 1977
+      },
+      {
+        "title": "Dream World",
+        "year": 1978
+      },
+      {
+        "title": "Dance Lady Dance",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "(You Can't Bend My) Super Rod",
+      "Dreaming a Dream",
+      "Every Beat of My Heart",
+      "Foxy Lady",
+      "Dancin'",
+      "Galaxy of Love",
+      "Dance Lady Dance"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their single 'Dreaming a Dream' reached number one on the US Hot Dance Club Play chart in 1975.",
+      "In the 1980s, members of the group became successful record producers for acts like France Joli.",
+      "The band was originally known as Ben Iverson and the Nue Dey Express before renaming themselves after their Brooklyn neighborhood."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crown_Heights_Affair",
+    "youtube_search": "Crown Heights Affair Dreaming a Dream",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "dan-hartman",
+    "name": "Dan Hartman",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Harrisburg, Pennsylvania, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Multi-instrumentalist, vocalist, and producer who achieved his greatest commercial success as a solo disco artist after leaving the Edgar Winter Group. His high-energy dance tracks were defined by his powerful vocals and sophisticated studio arrangements. 'Instant Replay' became one of the quintessential anthems of the late disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Images",
+        "year": 1976
+      },
+      {
+        "title": "Instant Replay",
+        "year": 1978
+      },
+      {
+        "title": "This Is It",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Instant Replay",
+      "This Is It",
+      "Countdown",
+      "Keep the Fire Burnin'"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Before his solo career, Hartman was bassist and vocalist for the Edgar Winter Group.",
+      "'Instant Replay' reached number one on the Billboard Disco chart and became one of the defining anthems of 1978.",
+      "He went on to produce major artists in the 1980s, including James Brown and Tina Turner."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Hartman",
+    "youtube_search": "Dan Hartman Instant Replay",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "donna-summer",
+    "name": "Donna Summer",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Boston, Massachusetts, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Universally recognized as the 'Queen of Disco,' she defined the genre's sound through her groundbreaking collaborations with Giorgio Moroder and Pete Bellotte. Her work ranged from lush, sensual anthems to futuristic electronic masterpieces like 'I Feel Love.' She dominated the charts in the late 70s, setting numerous record-breaking sales and award achievements.",
+    "key_albums_70s": [
+      {
+        "title": "Love to Love You Baby",
+        "year": 1975
+      },
+      {
+        "title": "A Love Trilogy",
+        "year": 1976
+      },
+      {
+        "title": "Four Seasons of Love",
+        "year": 1976
+      },
+      {
+        "title": "I Remember Yesterday",
+        "year": 1977
+      },
+      {
+        "title": "Once Upon a Time",
+        "year": 1977
+      },
+      {
+        "title": "Bad Girls",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Love to Love You Baby",
+      "Could It Be Magic",
+      "I Feel Love",
+      "Last Dance",
+      "MacArthur Park",
+      "Heaven Knows",
+      "Hot Stuff",
+      "Bad Girls"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "She was the first female artist to record three number one singles in one calendar year, achieving this in 1979.",
+      "Her hit 'Love to Love You Baby' was controversial for its sensual moans and was banned by the BBC.",
+      "She is the only artist to ever have three consecutive number one double albums on the Billboard 200."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donna_Summer",
+    "youtube_search": "Donna Summer I Feel Love",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "double-exposure",
+    "name": "Double Exposure",
+    "genre": "disco",
+    "subgenre": "salsoul",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Philadelphia-based vocal group that became stars of the Salsoul label in the mid-1970s. Their hit 'Ten Percent' is a definitive example of the high-energy, orchestral Salsoul sound and featured one of the first commercially successful disco remixes. They brought soulful harmonies to the driving rhythms of the late 70s dance floors.",
+    "members_70s": [
+      "Leonard 'Butch' Davis",
+      "Charles Whittington",
+      "Jimmy Williams",
+      "Joe Harris"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Ten Percent",
+        "year": 1976
+      },
+      {
+        "title": "Fourplay",
+        "year": 1978
+      },
+      {
+        "title": "Locker Room",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Ten Percent",
+      "My Love Is Free",
+      "Everyman (Has to Carry His Own Weight)",
+      "Newsy Neighbors",
+      "I Got the Hots for Ya"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The title track of their debut album, 'Ten Percent,' was remixed by Walter Gibbons and reached number two on the dance charts.",
+      "The group was originally known as United Image and released singles on Stax Records in the early 70s.",
+      "In 2001, the dance group M&S sampled their song 'Everyman' for the track 'Salsoul Nugget.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Double_Exposure_(band)",
+    "youtube_search": "Double Exposure Ten Percent",
+    "tags": [
+      "disco",
+      "salsoul",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "eruption",
+    "name": "Eruption",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "London, England / Jamaica",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "British-based Caribbean reggae-disco group fronted by vocalist Precious Wilson that became a major European disco act in the late 1970s. Their sound blended reggae rhythms with disco production, giving them a distinctive feel that set them apart from American contemporaries. Their cover of 'I Can't Stand the Rain' became a massive international hit.",
+    "members_70s": [
+      "Precious Wilson",
+      "Morgan Capstic",
+      "Gregory Perrineau",
+      "Gemi Lincoln"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Leave a Light",
+        "year": 1977
+      },
+      {
+        "title": "One Way Ticket",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I Can't Stand the Rain",
+      "One Way Ticket",
+      "Leave a Light",
+      "After the Rain"
+    ],
+    "mood": [
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Their cover of 'I Can't Stand the Rain' reached number five on the UK Singles Chart in 1977.",
+      "'One Way Ticket' became one of the most internationally successful European disco singles of 1979.",
+      "Vocalist Precious Wilson later had a successful solo career in Europe."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eruption_(band)",
+    "youtube_search": "Eruption One Way Ticket",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "reggae-disco"
+    ]
+  },
+  {
+    "id": "fern-kinney",
+    "name": "Fern Kinney",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Jackson, Mississippi, USA",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "American pop and disco singer who carved out a successful career on the international pop market, particularly in the United Kingdom and Europe. Her warm, versatile voice was equally suited to up-tempo disco and soft pop ballads. She achieved her greatest success with a number one hit in the UK in 1980.",
+    "key_albums_70s": [
+      {
+        "title": "Fern Kinney",
+        "year": 1978
+      },
+      {
+        "title": "Love Me Tonight",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Groove Me",
+      "You Make Me Feel Spectacular",
+      "Love Me Tonight",
+      "Tee-Time"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Kinney was a background vocalist for Elvis Presley before launching her solo career.",
+      "Her single 'Together We Are Beautiful' reached number one on the UK Singles Chart in 1980.",
+      "She recorded the original version of 'Groove Me' which was a significant disco club hit in 1978."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fern_Kinney",
+    "youtube_search": "Fern Kinney Together We Are Beautiful",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "first-choice",
+    "name": "First Choice",
+    "genre": "disco",
+    "subgenre": "salsoul",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Acclaimed Philadelphia girl group that transitioned from soul into a high-energy disco sound for the Gold Mind and Salsoul labels. Known for their infectious dance floor anthems and powerful vocal arrangements, they became favorites of the New York club scene. Their records, particularly 'Let No Man Put Asunder,' became foundational to the later house music movement.",
+    "members_70s": [
+      "Rochelle Fleming",
+      "Annette Guest",
+      "Wardell Piper",
+      "Joyce Jones",
+      "Ursula Herring",
+      "Debbie Martin"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Armed and Extremely Dangerous",
+        "year": 1973
+      },
+      {
+        "title": "The Player",
+        "year": 1974
+      },
+      {
+        "title": "So Let Us Entertain You",
+        "year": 1976
+      },
+      {
+        "title": "Delusions",
+        "year": 1977
+      },
+      {
+        "title": "Hold Your Horses",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Armed and Extremely Dangerous",
+      "Smarty Pants",
+      "The Player (Part 1)",
+      "Guilty",
+      "Doctor Love",
+      "Hold Your Horses",
+      "Love Thang",
+      "Let No Man Put Asunder"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group began singing in high school as the Debonettes.",
+      "Their 1977 track 'Let No Man Put Asunder' became a signature song and remains a current favorite on the house music scene through extensive sampling.",
+      "They switched to Warner Bros. Records in 1976, recording dance floor hits like 'So Let Us Entertain You.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Choice_(group)",
+    "youtube_search": "First Choice Doctor Love",
+    "tags": [
+      "disco",
+      "salsoul",
+      "girl-group"
+    ]
+  },
+  {
+    "id": "france-joli",
+    "name": "France Joli",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Montreal, Quebec, Canada",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "Canadian disco prodigy who achieved overnight teen stardom with her 1979 hit 'Come to Me.' Her sound featured powerful, soulful vocals paired with classic late-70s disco production by Tony Green. She became an instant icon of the New York club scene, specifically associated with the legendary Studio 54.",
+    "key_albums_70s": [
+      {
+        "title": "France Joli",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Come to Me",
+      "Don't Stop Dancing",
+      "Let Go",
+      "The Heart to Break the Heart",
+      "Feel Like Dancing"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Joli's 1979 performance of 'Come to Me' on Fire Island is the stuff of legend, documented in the film 'When Ocean Meets Sky.'",
+      "She was only 16 years old when she recorded her debut hit album on the Prelude label.",
+      "She served as the opening act for the Commodores during their 1981 American tour."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/France_Joli",
+    "youtube_search": "France Joli Come to Me",
+    "tags": [
+      "disco",
+      "club-disco",
+      "pop"
+    ]
+  },
+  {
+    "id": "gibson-brothers",
+    "name": "Gibson Brothers",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Martinique, France",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "French musical trio originally from Martinique that infused disco with vibrant Caribbean and Latin rhythms. Their sound, often referred to as 'Salsa-disco,' achieved significant success in continental Europe and the UK in the late 1970s. Their energetic tracks like 'Cuba' and 'Que Sera Mi Vida' were dance floor staples of the era.",
+    "members_70s": [
+      "Chris Francfort",
+      "Patrick Francfort",
+      "Alex Francfort"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "By Night",
+        "year": 1977
+      },
+      {
+        "title": "Non-Stop Dance/Come to America",
+        "year": 1977
+      },
+      {
+        "title": "Heaven",
+        "year": 1978
+      },
+      {
+        "title": "Cuba",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Come to America",
+      "Non-Stop Dance",
+      "Heaven",
+      "Cuba",
+      "Ooh, What a Life",
+      "Better Do It Salsa",
+      "Que Sera Mi Vida"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The brothers were discovered by record producer Daniel Vangarde, who suggested their name change to the Gibson Brothers.",
+      "Before their disco fame, they were part of a group called Phalansters formed by Jean-Jacques Goldman.",
+      "Their single 'Cuba' reached number nine on the UK Singles Chart in 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gibson_Brothers",
+    "youtube_search": "Gibson Brothers Cuba",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "latin"
+    ]
+  },
+  {
+    "id": "gino-soccio",
+    "name": "Gino Soccio",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Westmount, Quebec, Canada",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Canadian disco producer and multi-instrumentalist whose sleek, synthesizer-heavy sound anticipated the post-disco and electronic movements. His 1979 track 'Dancer' became a massive club hit and a landmark for the Montreal disco scene. He was known for his technical mastery of keyboards and his ability to create sophisticated, hypnotic dance grooves.",
+    "key_albums_70s": [
+      {
+        "title": "Outline",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "The Visitors",
+      "Dancer",
+      "Dance to Dance"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "His single 'Dancer' reached number one on the US Hot Dance Music/Club Play chart in 1979.",
+      "In the early 70s, he was heavily influenced by electronic pioneers Kraftwerk and Wendy Carlos.",
+      "He produced the disco studio group Witch Queen, famous for their 1979 covers of 'Bang a Gong' and 'All Right Now.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gino_Soccio",
+    "youtube_search": "Gino Soccio Dancer",
+    "tags": [
+      "disco",
+      "club-disco",
+      "electronic"
+    ]
+  },
+  {
+    "id": "giorgio-moroder",
+    "name": "Giorgio Moroder",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "South Tyrol, Italy",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Known as the 'Father of Disco,' Moroder was a revolutionary producer who pioneered the use of synthesizers in dance music. His work in Munich at Musicland Studios defined the Euro-disco sound and laid the groundwork for electronic dance music. He created timeless classics through his work with Donna Summer and his own solo electronic experiments.",
+    "key_albums_70s": [
+      {
+        "title": "Einzelgänger",
+        "year": 1975
+      },
+      {
+        "title": "Knights in White Satin",
+        "year": 1976
+      },
+      {
+        "title": "From Here to Eternity",
+        "year": 1977
+      },
+      {
+        "title": "Love's in You, Love's in Me",
+        "year": 1978
+      },
+      {
+        "title": "E=MC²",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Son of My Father",
+      "From Here to Eternity",
+      "Chase",
+      "Baby Blue",
+      "I Wanna Rock You"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His work on the film 'Midnight Express' (1978) won him the Academy Award for Best Original Score.",
+      "Moroder's production on 'I Feel Love' for Donna Summer is credited as the true beginning of electronic dance music.",
+      "He founded the legendary Musicland Studios in Munich, used by the Rolling Stones, Led Zeppelin, and Queen."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giorgio_Moroder",
+    "youtube_search": "Giorgio Moroder Chase",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "electronic"
+    ]
+  },
+  {
+    "id": "gloria-gaynor",
+    "name": "Gloria Gaynor",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Newark, New Jersey, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "American powerhouse vocalist who recorded the quintessential disco anthem 'I Will Survive,' a universal song of female empowerment. Her early work helped launch the genre to the public with a nineteen-minute non-stop dance marathon on her debut album. She was one of the first artists to reach number one on the inaugural Billboard dance chart.",
+    "key_albums_70s": [
+      {
+        "title": "Never Can Say Goodbye",
+        "year": 1975
+      },
+      {
+        "title": "Experience Gloria Gaynor",
+        "year": 1975
+      },
+      {
+        "title": "I've Got You",
+        "year": 1976
+      },
+      {
+        "title": "Glorious",
+        "year": 1977
+      },
+      {
+        "title": "Gloria Gaynor's Park Avenue Sound",
+        "year": 1978
+      },
+      {
+        "title": "Love Tracks",
+        "year": 1978
+      },
+      {
+        "title": "I Have a Right",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Never Can Say Goodbye",
+      "Honey Bee",
+      "Reach Out, I'll Be There",
+      "Casanova Brown",
+      "(If You Want It) Do It Yourself",
+      "How High the Moon",
+      "I Will Survive",
+      "Let Me Know (I Have a Right)"
+    ],
+    "mood": [
+      "pumped-up",
+      "rebellious"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'I Will Survive' was originally released as a B-side in late 1978.",
+      "Her version of 'Never Can Say Goodbye' was the first song to ever top the Billboard magazine dance chart in 1974.",
+      "She received the Kennedy Center Honor in 2025 for her lifetime contributions to American culture."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gloria_Gaynor",
+    "youtube_search": "Gloria Gaynor I Will Survive",
+    "tags": [
+      "disco",
+      "club-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "grace-jones",
+    "name": "Grace Jones",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Spanish Town, Jamaica",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Jamaican singer and model who emerged as a striking androgynous icon of the New York disco scene and Studio 54. Her disco trilogy, produced by Tom Moulton, featured stylized dance reinterpretations of Broadway tunes and French classics. Her highly sexualized and flamboyant live shows earned her the title 'Queen of the Gay Discos.'",
+    "key_albums_70s": [
+      {
+        "title": "Portfolio",
+        "year": 1977
+      },
+      {
+        "title": "Fame",
+        "year": 1978
+      },
+      {
+        "title": "Muse",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I Need a Man",
+      "Sorry",
+      "That's the Trouble",
+      "La Vie en rose",
+      "Do or Die",
+      "Autumn Leaves",
+      "Fame",
+      "On Your Knees"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Jones was a prominent high-fashion model in Paris before transitioning to a music career with Island Records.",
+      "Her debut album 'Portfolio' featured artwork designed by Richard Bernstein, an artist for Andy Warhol's Interview magazine.",
+      "She was often referred to as a 'Disco Queen,' with Jet magazine once dubbing her 'the greatest of them all.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grace_Jones",
+    "youtube_search": "Grace Jones I Need a Man",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "androgynous"
+    ]
+  },
+  {
+    "id": "hamilton-bohannon",
+    "name": "Hamilton Bohannon",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Newnan, Georgia, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Prolific drummer and producer who became a heavyweight of the 1970s disco and funk scenes. He was famous for his 'heavy, thudding bass accents and aggressive rhythms' that defined numerous club hits. His rhythmic innovations provided a essential bridge between Motown's soul foundations and the drive of the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Stop & Go",
+        "year": 1973
+      },
+      {
+        "title": "Keep On Dancin'",
+        "year": 1974
+      },
+      {
+        "title": "Insides Out",
+        "year": 1975
+      },
+      {
+        "title": "Bohannon",
+        "year": 1975
+      },
+      {
+        "title": "Dance Your Ass Off",
+        "year": 1976
+      },
+      {
+        "title": "Summertime Groove",
+        "year": 1978
+      },
+      {
+        "title": "Cut Loose",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "South African Man",
+      "Foot Stompin Music",
+      "Disco Stomp",
+      "Happy Feeling",
+      "Bohannon's Beat",
+      "Let's Start the Dance",
+      "Me and the Gang"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He served as the leader and arranger of Bohannon & The Motown Sound, providing backing for Marvin Gaye and Stevie Wonder.",
+      "Peachtree Street in his hometown of Newnan was renamed Bohannon Drive in his honor in 2017.",
+      "Bohannon's track 'Disco Stomp' was later cited by Johnny Marr as a major influence on the Smiths' song 'How Soon Is Now?'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hamilton_Bohannon",
+    "youtube_search": "Hamilton Bohannon Let's Start the Dance",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "instant-funk",
+    "name": "Instant Funk",
+    "genre": "disco",
+    "subgenre": "salsoul",
+    "origin": "Trenton, New Jersey, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "High-energy disco and funk ensemble from Trenton that became stars of the Salsoul label. Originally a backing band for R&B stars like The O'Jays and Evelyn 'Champagne' King, they hit the spotlight with the club classic 'I Got My Mind Made Up.' Their sound blended hard-driving funk grooves with the rhythmic intensity of disco.",
+    "members_70s": [
+      "Raymond Earl",
+      "Scotty Miller",
+      "Kim Miller"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Get Down with the Philly Jump",
+        "year": 1976
+      },
+      {
+        "title": "Instant Funk",
+        "year": 1979
+      },
+      {
+        "title": "Witch Doctor",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Float Like a Butterfly, Part I",
+      "Philly Jump",
+      "It Ain't Reggae (But It's Funky)",
+      "I Got My Mind Made Up (You Can Get It Girl)",
+      "Crying",
+      "Witch Doctor"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their hit 'I Got My Mind Made Up' was famously remixed by legendary club DJ Larry Levan.",
+      "The group served as the backing band on Evelyn 'Champagne' King's classic disco hit 'Shame.'",
+      "Their eponymous first album on Salsoul reached number one on the R&B chart and was certified gold."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Instant_Funk",
+    "youtube_search": "Instant Funk I Got My Mind Made Up",
+    "tags": [
+      "disco",
+      "salsoul",
+      "funk"
+    ]
+  },
+  {
+    "id": "kc-and-the-sunshine-band",
+    "name": "KC and the Sunshine Band",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Hialeah, Florida, USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Florida-based funk and disco band that became one of the most successful chart-topping acts of the mid-70s. Their 'Sunshine Sound' was defined by infectious, upbeat melodies and driving rhythmic sections. They secured four number-one singles in the 1970s, making them a household name and defining the celebratory spirit of the disco boom.",
+    "members_70s": [
+      "Harry Wayne Casey",
+      "Richard Finch",
+      "Jerome Smith",
+      "Robert Johnson",
+      "Fermin Goytisolo"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Do It Good",
+        "year": 1974
+      },
+      {
+        "title": "KC and the Sunshine Band",
+        "year": 1975
+      },
+      {
+        "title": "The Sound of Sunshine",
+        "year": 1975
+      },
+      {
+        "title": "Part 3",
+        "year": 1976
+      },
+      {
+        "title": "Who Do Ya (Love)",
+        "year": 1978
+      },
+      {
+        "title": "Do You Wanna Go Party",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Blow Your Whistle",
+      "Sound Your Funky Horn",
+      "Get Down Tonight",
+      "That's the Way (I Like It)",
+      "(Shake, Shake, Shake) Shake Your Booty",
+      "I'm Your Boogie Man",
+      "Keep It Comin' Love",
+      "Boogie Shoes"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name is derived from lead singer Harry Wayne Casey's last name ('KC') and the 'Sunshine State' of Florida.",
+      "The hit song 'Rock Your Baby' by George McCrae was written by KC and Richard Finch while they were working on demos for their own band.",
+      "They were honored with a star on the Hollywood Walk of Fame in 1980 for their cultural contributions as The Jacksons."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/KC_and_the_Sunshine_Band",
+    "youtube_search": "KC and the Sunshine Band Get Down Tonight",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "labelle",
+    "name": "Labelle",
+    "genre": "disco",
+    "subgenre": "progressive-soul-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "American vocal group that reinvented themselves in the early 70s as a progressive soul and proto-disco unit. Known for their outlandish space-age and glam costumes, they broke barriers with daring material and highly theatrical live shows. Their massive hit 'Lady Marmalade' in 1974 became one of the first and most enduring mainstream disco hits.",
+    "members_70s": [
+      "Patti LaBelle",
+      "Nona Hendryx",
+      "Sarah Dash",
+      "Cindy Birdsong"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Labelle",
+        "year": 1971
+      },
+      {
+        "title": "Moon Shadow",
+        "year": 1972
+      },
+      {
+        "title": "Pressure Cookin'",
+        "year": 1973
+      },
+      {
+        "title": "Nightbirds",
+        "year": 1974
+      },
+      {
+        "title": "Phoenix",
+        "year": 1975
+      },
+      {
+        "title": "Chameleon",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Moon Shadow",
+      "Pressure Cookin'",
+      "Lady Marmalade",
+      "What Can I Do for You?",
+      "Messin' With My Mind",
+      "Far As We Felt Like Goin'",
+      "Get You Somebody New",
+      "Isn't It a Shame"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Labelle was the first contemporary pop and first black pop band to perform at the Metropolitan Opera House.",
+      "They were the first black vocal group to appear on the cover of Rolling Stone magazine.",
+      "In 2003, their signature hit 'Lady Marmalade' was inducted into the Grammy Hall of Fame."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Labelle",
+    "youtube_search": "Labelle Lady Marmalade",
+    "tags": [
+      "disco",
+      "progressive-soul",
+      "iconic"
+    ]
+  },
+  {
+    "id": "leon-haywood",
+    "name": "Leon Haywood",
+    "genre": "disco",
+    "subgenre": "philly-soul-disco",
+    "origin": "Houston, Texas, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Houston-born soul and funk singer who transitioned into disco in the late 1970s with a series of smooth, groove-oriented dance tracks. His rich baritone voice and confident delivery were well suited to the seductive midtempo style he pioneered. His recordings blended Southern soul with contemporary Los Angeles production values.",
+    "key_albums_70s": [
+      {
+        "title": "Come and Get Yourself Some",
+        "year": 1975
+      },
+      {
+        "title": "Back to Stay",
+        "year": 1977
+      },
+      {
+        "title": "Double My Pleasure",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I Want'a Do Something Freaky to You",
+      "Come and Get Yourself Some",
+      "Don't Push It Don't Force It",
+      "Strokin'"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His 1975 funk groove 'I Want'a Do Something Freaky to You' was later famously sampled by Dr. Dre and Snoop Dogg for 'Nuthin' But a G Thang.'",
+      "Haywood worked extensively as a session musician and producer in Los Angeles throughout the 1970s.",
+      "'Don't Push It Don't Force It' reached the top ten on the Billboard R&B chart in 1980."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Haywood",
+    "youtube_search": "Leon Haywood I Want'a Do Something Freaky to You",
+    "tags": [
+      "disco",
+      "philly-soul-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "genre": "disco",
+    "subgenre": "hi-nrg-disco",
+    "origin": "Montreal, Quebec, Canada",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "Canadian Hi-NRG duo consisting of vocalist Denyse LePage and musician Denis Lepage who created propulsive electronic dance music in the late disco era. Their sound relied on synthesizers, drum machines, and LePage's bright, melodic vocals, anticipating the Hi-NRG and Eurodance sounds of the 1980s. They became a staple of gay disco clubs and international dance charts.",
+    "members_70s": [
+      "Denyse LePage",
+      "Denis Lepage"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Your Love",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Your Love",
+      "Angel Eyes"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Lime is widely credited as one of the pioneering acts in the Hi-NRG disco subgenre.",
+      "Their music was particularly popular in gay clubs across North America and Europe in the late 1970s.",
+      "The duo relied on early synthesizer and drum machine technology that would define the dance music of the decade to follow."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lime_(band)",
+    "youtube_search": "Lime Your Love",
+    "tags": [
+      "disco",
+      "hi-nrg-disco",
+      "electro-disco"
+    ]
+  },
+  {
+    "id": "lipps-inc",
+    "name": "Lipps Inc",
+    "genre": "disco",
+    "subgenre": "electro-disco",
+    "origin": "Minneapolis, Minnesota, USA",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "Minneapolis studio project created by musician and producer Steven Greenberg that delivered one of the defining anthems of the disco-to-pop transition. The project featured vocalist Cynthia Johnson whose powerhouse performance drove their international smash hit. Their sound anticipated the synth-heavy dance pop of the early 1980s.",
+    "members_70s": [
+      "Steven Greenberg",
+      "Cynthia Johnson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mouth to Mouth",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Funkytown",
+      "Rock It"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Funkytown' was recorded in 1979 and became one of the best-selling singles of 1980, reaching number one in over 28 countries.",
+      "The song was recorded in a single afternoon in producer Steve Greenberg's home studio in Minneapolis.",
+      "Vocalist Cynthia Johnson was a former Miss Black Minnesota and performed with the band just once on American Bandstand."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lipps_Inc",
+    "youtube_search": "Lipps Inc Funkytown",
+    "tags": [
+      "disco",
+      "electro-disco",
+      "dance-pop"
+    ]
+  },
+  {
+    "id": "loleatta-holloway",
+    "name": "Loleatta Holloway",
+    "genre": "disco",
+    "subgenre": "salsoul",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "American powerhouse singer renowned for her gospel-influenced delivery and emotive disco anthems. A star of the Gold Mind and Salsoul labels, her tracks 'Hit and Run' and 'Love Sensation' became quintessential dance floor masterpieces. Her unique vocal performances are among the most sampled in the history of house and dance music.",
+    "key_albums_70s": [
+      {
+        "title": "Loleatta",
+        "year": 1973
+      },
+      {
+        "title": "Cry to Me",
+        "year": 1975
+      },
+      {
+        "title": "Loleatta",
+        "year": 1977
+      },
+      {
+        "title": "Queen of the Night",
+        "year": 1978
+      },
+      {
+        "title": "Loleatta Holloway",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Cry to Me",
+      "Worn Out Broken Heart",
+      "Dreamin'",
+      "Hit and Run",
+      "Only You",
+      "I May Not Be There When You Want Me",
+      "Catch Me On the Rebound",
+      "That's What You Said"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "According to The Independent, she is the most sampled female singer in popular music.",
+      "Her vocals on 'Love Sensation' were famously sampled without permission for the 1989 house hit 'Ride on Time.'",
+      "She contributed vocals to Dan Hartman's massive hit 'Relight My Fire' in the late 70s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loleatta_Holloway",
+    "youtube_search": "Loleatta Holloway Love Sensation",
+    "tags": [
+      "disco",
+      "salsoul",
+      "vocalist"
+    ]
+  },
+  {
+    "id": "love-de-luxe",
+    "name": "Love De-Luxe",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "London, England",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "British studio project fronted by singer Herbie Watkins that scored a major international club hit with 'Here Comes That Sound Again' in 1979. The group's lush orchestration and soulful vocal style captured the sophisticated end of the late disco spectrum. The project was assembled by producers and remained primarily a singles act during the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Here Comes That Sound Again",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Here Comes That Sound Again"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Here Comes That Sound Again' was a top twenty hit in the United Kingdom in 1979.",
+      "The production featured elaborate orchestral arrangements typical of the sophisticated end of late-70s disco.",
+      "The project was one of several British-produced disco acts that found success competing with American and European counterparts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_De-Luxe",
+    "youtube_search": "Love De-Luxe Here Comes That Sound Again",
+    "tags": [
+      "disco",
+      "club-disco",
+      "pop"
+    ]
+  },
+  {
+    "id": "love-unlimited-orchestra",
+    "name": "Love Unlimited Orchestra",
+    "genre": "disco",
+    "subgenre": "orchestral-disco",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Forty-piece orchestra conceived and led by producer Barry White that served as the instrumental vehicle for White's cinematic orchestral productions. The ensemble pioneered the lush, string-heavy orchestral disco sound that became one of the defining textures of the mid-1970s dance floor. Their instrumental recordings were as significant as any vocal disco act of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Rhapsody in White",
+        "year": 1974
+      },
+      {
+        "title": "White Gold",
+        "year": 1974
+      },
+      {
+        "title": "Music Maestro Please",
+        "year": 1975
+      },
+      {
+        "title": "My Sweet Summer Suite",
+        "year": 1976
+      },
+      {
+        "title": "My Musical Bouquet",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Love's Theme",
+      "Satin Soul",
+      "Midnight Groove",
+      "Brazilian Love Song",
+      "My Sweet Summer Suite"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Love's Theme' reached number one on the Billboard Hot 100 in January 1974, making it one of the earliest disco instrumental chart-toppers.",
+      "Barry White used the orchestra to back both his own vocal recordings and those of the vocal trio Love Unlimited.",
+      "The ensemble helped establish the template for lavish orchestral arrangements that became central to the disco sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Unlimited_Orchestra",
+    "youtube_search": "Love Unlimited Orchestra Love's Theme",
+    "tags": [
+      "disco",
+      "orchestral-disco",
+      "instrumental"
+    ]
+  },
+  {
+    "id": "mfsb",
+    "name": "MFSB",
+    "genre": "disco",
+    "subgenre": "philly-soul-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Massive pool of over 30 session musicians who served as the house band for Philadelphia International Records and defined the 'Philly sound.' Their 1974 track 'TSOP (The Sound of Philadelphia)' became the theme for Soul Train and was influential in establishing the orchestral disco sound. They provided the foundational grooves for countless soul and disco hits throughout the decade.",
+    "members_70s": [
+      "Kenny Gamble",
+      "Leon Huff",
+      "Thom Bell",
+      "Earl Young",
+      "Norman Harris",
+      "Bobby Eli",
+      "Ronnie Baker",
+      "Vincent Montana Jr."
+    ],
+    "key_albums_70s": [
+      {
+        "title": "MFSB",
+        "year": 1973
+      },
+      {
+        "title": "Love Is the Message",
+        "year": 1973
+      },
+      {
+        "title": "Universal Love",
+        "year": 1975
+      },
+      {
+        "title": "Philadelphia Freedom",
+        "year": 1975
+      },
+      {
+        "title": "Summertime",
+        "year": 1976
+      },
+      {
+        "title": "The Gamble & Huff Orchestra",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Family Affair",
+      "TSOP (The Sound of Philadelphia)",
+      "Love Is the Message",
+      "Sexy",
+      "T.L.C. (Tender Lovin' Care)",
+      "K-Jee",
+      "The Zip",
+      "Let's Clean Up the Ghetto"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "MFSB officially stands for 'Mother Father Sister Brother,' though the musicians had a more colorful alternative version of the name.",
+      "Their disco sound first hit number one on the Billboard Hot 100 as the backing band for the O'Jays' 'Love Train' in 1973.",
+      "Their signature hit 'TSOP' sold over one million copies and was awarded a gold disc by the RIAA."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MFSB",
+    "youtube_search": "MFSB TSOP",
+    "tags": [
+      "disco",
+      "philly-soul",
+      "orchestra"
+    ]
+  },
+  {
+    "id": "michael-zager-band",
+    "name": "Michael Zager Band",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "New York, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Studio project fronted by arranger and producer Michael Zager that delivered one of the most memorable uplifting anthems of the disco era. Zager assembled rotating session musicians and vocalists to create high-energy dance tracks with sophisticated musical arrangements. Their recordings reflected the influence of both Philadelphia soul and European disco production styles.",
+    "key_albums_70s": [
+      {
+        "title": "Let's All Chant",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Let's All Chant",
+      "Do It with Feeling"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Let's All Chant' became a top twenty hit on the Billboard Hot 100 in 1978 and a significant club anthem.",
+      "Michael Zager was an established arranger and session producer who worked with numerous major artists before forming his own project.",
+      "The song's call-and-response format made it ideal for live DJ use and crowd participation in discotheques."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Zager_Band",
+    "youtube_search": "Michael Zager Band Let's All Chant",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "studio-project"
+    ]
+  },
+  {
+    "id": "mtume",
+    "name": "Mtume",
+    "genre": "disco",
+    "subgenre": "post-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Philadelphia-based funk and soul group led by percussionist and composer James Mtume that blended jazz, funk, and R&B into sophisticated groove-oriented music. Mtume had previously worked as a percussionist for Miles Davis before forming his own ensemble. Their productions were marked by intricate rhythmic layering and soulful vocal performances.",
+    "members_70s": [
+      "James Mtume",
+      "Reggie Lucas",
+      "Ed Moore",
+      "Philip Field"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Rebirth Cycle",
+        "year": 1974
+      },
+      {
+        "title": "Aleke",
+        "year": 1975
+      },
+      {
+        "title": "Kiss This World Goodbye",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "The Closer I Get to You",
+      "All Roads Lead to You"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "James Mtume served as a percussionist in Miles Davis's electric jazz band in the early 1970s before forming his own group.",
+      "Mtume and Reggie Lucas co-wrote and produced several major hits for other artists including Roberta Flack and Stephanie Mills.",
+      "Their 1983 hit 'Juicy Fruit' was famously sampled by The Notorious B.I.G. for 'Juicy' in 1994."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mtume",
+    "youtube_search": "Mtume Juicy Fruit",
+    "tags": [
+      "disco",
+      "post-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "musique",
+    "name": "Musique",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "New York, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "New York studio disco group assembled by producer Patrick Adams that featured a rotating roster of session vocalists and musicians. Their sound exemplified the peak New York club disco aesthetic, featuring energetic female vocals, driving bass lines, and lush orchestration. The project delivered one of the most beloved anthems of the late disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Keep On Jumpin'",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Keep On Jumpin'",
+      "In the Bush",
+      "Love Is in the Air"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'In the Bush' became an underground club classic and remains one of the most recognizable disco tracks from the era.",
+      "The project was entirely conceived and produced by Patrick Adams, one of the most prolific disco-era producers.",
+      "Musique's recordings were among the most played tracks in New York's Studio 54 and Paradise Garage clubs."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Musique_(group)",
+    "youtube_search": "Musique In the Bush",
+    "tags": [
+      "disco",
+      "club-disco",
+      "new-york-disco"
+    ]
+  },
+  {
+    "id": "odyssey",
+    "name": "Odyssey",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "New York, USA",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "American-British vocal group originally formed in New York that achieved significant success in the United Kingdom with a series of infectious disco and pop-soul singles. Their harmonized vocal style and polished production distinguished them from rougher American contemporaries. They became consistent chart performers on both sides of the Atlantic.",
+    "members_70s": [
+      "Lillian Lopez",
+      "Louise Lopez",
+      "Tony Reynolds"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Odyssey",
+        "year": 1977
+      },
+      {
+        "title": "Hollywood Party Tonight",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Native New Yorker",
+      "Use It Up and Wear It Out",
+      "If You're Looking for a Way Out"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Native New Yorker' became a signature of the New York disco scene when it was released in 1977.",
+      "The group found their greatest sustained commercial success in the United Kingdom, where they charted regularly through the early 1980s.",
+      "Their vocals drew comparisons to both the Philadelphia soul sound and the emerging British pop style."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Odyssey_(group)",
+    "youtube_search": "Odyssey Native New Yorker",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "patrick-cowley",
+    "name": "Patrick Cowley",
+    "genre": "disco",
+    "subgenre": "hi-nrg-disco",
+    "origin": "Buffalo, New York, USA",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "American electronic music pioneer and composer who created the high-energy, uptempo strain of disco known as Hi-NRG. He gained prominence in the late 70s as a synthesizer specialist in Sylvester's studio band, contributing to era-defining hits like 'You Make Me Feel (Mighty Real).' His innovative techniques with electronic instrumentation revolutionized the sound of the dance floor.",
+    "key_albums_70s": [
+      {
+        "title": "Catholic",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "You Make Me Feel (Mighty Real)",
+      "Dance (Disco Heat)",
+      "Stars",
+      "I Need Somebody to Love Tonight",
+      "I Feel Love (Remix)"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Cowley's 15-minute remix of Donna Summer's 'I Feel Love' is considered a legendary collector's item in the dance community.",
+      "He was a student of synthesizer music at the City College of San Francisco before being invited into Sylvester's band.",
+      "His collaboration with writer Jorge Socarras from 1976-1979 was later released as the post-punk flavored album 'Catholic.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Cowley",
+    "youtube_search": "Patrick Cowley I Feel Love Remix",
+    "tags": [
+      "disco",
+      "hi-nrg",
+      "electronic"
+    ]
+  },
+  {
+    "id": "patrick-hernandez",
+    "name": "Patrick Hernandez",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Le Blanc-Mesnil, France",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "French disco singer who achieved massive worldwide success with the late 70s anthem 'Born to Be Alive.' His sound exemplified the polished production and high energy of the late disco era, achieving gold and platinum status in dozens of countries. He became a significant international figure of the disco movement as it peaked in the late 1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Born to Be Alive",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Born to Be Alive",
+      "I Give You Rendez-Vous",
+      "Disco Queen",
+      "Back to Boogie",
+      "You Turn Me On"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "By the end of 1979, Hernandez had racked up 52 gold and platinum records from more than 50 countries.",
+      "His hit 'Born to Be Alive' hit number one in France in April 1979 and stayed there until July.",
+      "The remixed 12-inch version of 'Born to Be Alive' peaked at number one on the US Billboard disco chart."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Hernandez",
+    "youtube_search": "Patrick Hernandez Born to Be Alive",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "dance"
+    ]
+  },
+  {
+    "id": "peter-brown",
+    "name": "Peter Brown",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Blue Island, Illinois, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Florida-based singer, songwriter, and producer who found immediate success on the disco chart with a series of sophisticated pop-disco singles. His smooth vocal style and melodic songwriting set him apart from the harder-edged club acts of the era. He recorded for TK Records and had a close working relationship with Betty Wright.",
+    "key_albums_70s": [
+      {
+        "title": "A Fantasy Love Affair",
+        "year": 1978
+      },
+      {
+        "title": "Stargazer",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Do You Wanna Get Funky with Me",
+      "Dance with Me",
+      "You Should Do It",
+      "Crank It Up (Funk Town)"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Dance with Me' was co-written with Betty Wright and reached the top ten on the Billboard Hot 100 in 1978.",
+      "Brown was a staff writer for TK Records' publishing arm before launching his recording career.",
+      "His productions were noted for their polished studio sheen and sophisticated harmonic arrangements."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Brown_(disco_singer)",
+    "youtube_search": "Peter Brown Dance with Me",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "raydio",
+    "name": "Raydio",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Chicago, Illinois, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Los Angeles-based pop-funk band led by singer and multi-instrumentalist Ray Parker Jr. that achieved immediate commercial success with melodic dance tracks. Their debut single became a major pop and R&B hit, launching Parker's career as both performer and hitmaking songwriter-producer. The group's tight arrangements and catchy hooks placed them at the pop end of the late disco spectrum.",
+    "members_70s": [
+      "Ray Parker Jr.",
+      "Arnell Carmichael",
+      "Jerry Knight",
+      "Charles Fearing",
+      "Vincent Bonham"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Raydio",
+        "year": 1978
+      },
+      {
+        "title": "Rock On",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Jack and Jill",
+      "Is This a Love Thing",
+      "You Can't Change That",
+      "Rock On"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Jack and Jill' was the group's debut single in 1978 and immediately reached the top ten on the Billboard Hot 100.",
+      "Ray Parker Jr. had previously been a session guitarist for Stevie Wonder, Barry White, and Marvin Gaye.",
+      "Parker went on to write and record the theme song for the Ghostbusters film in 1984."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raydio",
+    "youtube_search": "Raydio Jack and Jill",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "funk"
+    ]
+  },
+  {
+    "id": "rick-dees",
+    "name": "Rick Dees and His Cast of Idiots",
+    "genre": "disco",
+    "subgenre": "novelty-disco",
+    "origin": "Jacksonville, Florida, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Radio personality Rick Dees recorded one of the most unexpected novelty smash hits of the disco era with a comedic dance single that topped the charts despite its deliberately absurd premise. The track blended disco production with comic vocals and sound effects, capturing a moment of good-natured mockery of the genre. It remains one of the most recognizable novelty records of the 1970s.",
+    "key_albums_70s": [
+      {
+        "title": "Disco Duck",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Disco Duck",
+      "Dis-Gorilla"
+    ],
+    "mood": [
+      "happy"
+    ],
+    "vibe": [
+      "party"
+    ],
+    "era": [
+      "mid-70s"
+    ],
+    "trivia": [
+      "'Disco Duck' topped the Billboard Hot 100 in October 1976, beating out serious artists to reach number one.",
+      "The song was initially banned by several radio stations before its novelty appeal made it an unstoppable hit.",
+      "Rick Dees went on to become one of the most successful radio disc jockeys in American history, hosting American Top 40."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Dees",
+    "youtube_search": "Rick Dees Disco Duck",
+    "tags": [
+      "disco",
+      "novelty-disco",
+      "pop"
+    ]
+  },
+  {
+    "id": "ritchie-family",
+    "name": "The Ritchie Family",
+    "genre": "disco",
+    "subgenre": "philly-soul-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Philadelphia-based vocal trio produced by Ritchie Rome that became one of the leading female vocal groups of the disco era. Their recordings for the Philadelphia sound carried the same sophisticated orchestral arrangements associated with the city's dominant production style. Their high-concept thematic approach to albums set them apart from many contemporaries.",
+    "members_70s": [
+      "Cassandra Ann Wooten",
+      "Gwendolyn Oliver",
+      "Doris Draher"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Brazil",
+        "year": 1975
+      },
+      {
+        "title": "Arabian Nights",
+        "year": 1976
+      },
+      {
+        "title": "Life Is Music",
+        "year": 1977
+      },
+      {
+        "title": "Bad Reputation",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Brazil",
+      "The Best Disco in Town",
+      "Life Is Music",
+      "Give Me a Break"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their debut single 'Brazil' was a lavishly produced disco interpretation of the classic Brazilian standard.",
+      "'The Best Disco in Town' featured an ambitious medley of popular disco hits woven into a single cohesive production.",
+      "The group's productions were distinguished by their thematic concept approach, with each album built around a dramatic sonic setting."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ritchie_Family",
+    "youtube_search": "Ritchie Family Best Disco in Town",
+    "tags": [
+      "disco",
+      "philly-soul-disco",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "salsoul-orchestra",
+    "name": "Salsoul Orchestra",
+    "genre": "disco",
+    "subgenre": "salsoul",
+    "origin": "New York City, New York, USA",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "Large-scale disco orchestra created by Vincent Montana Jr. that defined the high-energy orchestral sound of the Salsoul label. Consisting of up to 50 members, the ensemble blended elements of Philadelphia soul, funk, and Latin rhythms. They were the primary backing unit for numerous Salsoul acts and a dominant force in the New York disco scene.",
+    "members_70s": [
+      "Vincent Montana Jr.",
+      "Ronnie Baker",
+      "Earl Young",
+      "Norman Harris",
+      "Bobby Eli",
+      "Larry Washington"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Salsoul Orchestra",
+        "year": 1975
+      },
+      {
+        "title": "Nice 'n' Naasty",
+        "year": 1976
+      },
+      {
+        "title": "Christmas Jollies",
+        "year": 1976
+      },
+      {
+        "title": "Magic Journey",
+        "year": 1977
+      },
+      {
+        "title": "Cuchi-Cuchi",
+        "year": 1977
+      },
+      {
+        "title": "Up the Yellow Brick Road",
+        "year": 1978
+      },
+      {
+        "title": "Street Sense",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Salsoul Hustle",
+      "Tangerine",
+      "Nice 'n' Naasty",
+      "Ritzy Mambo",
+      "Getaway",
+      "Run Away",
+      "Magic Bird of Fire",
+      "Ease On down the Road"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Many of its original members were from Philadelphia's MFSB and moved to Salsoul following financial disagreements with Gamble and Huff.",
+      "Their track 'Love Break (Ooh I Love It)' was famously sampled in Madonna's 'Vogue.'",
+      "From 1977 to 1986, their song 'Salsoul 3001' was used as theme music in a popular Soviet TV game show."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salsoul_Orchestra",
+    "youtube_search": "Salsoul Orchestra Tangerine",
+    "tags": [
+      "disco",
+      "salsoul",
+      "orchestra"
+    ]
+  },
+  {
+    "id": "santa-esmeralda",
+    "name": "Santa Esmeralda",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "France / USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "French-American disco group that achieved massive success by recasting 1960s rock and soul classics into a vibrant disco style. Their sound uniquely incorporated Latin and flamenco elements, creating a high-energy dance floor experience. They became international stars with their lengthy, rhythmic reinterpretations of hits like 'Don't Let Me Be Misunderstood.'",
+    "members_70s": [
+      "Leroy Gómez",
+      "Jimmy Goings",
+      "Jean Claude Petit",
+      "José Souc",
+      "Slim Pezin",
+      "Christian Padovan"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Don't Let Me Be Misunderstood",
+        "year": 1977
+      },
+      {
+        "title": "The House of the Rising Sun",
+        "year": 1978
+      },
+      {
+        "title": "Beauty",
+        "year": 1978
+      },
+      {
+        "title": "Another Cha-Cha",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Don't Let Me Be Misunderstood",
+      "You're My Everything",
+      "The House of the Rising Sun",
+      "Sevilla Nights",
+      "Another Cha-Cha"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Their version of 'Don't Let Me Be Misunderstood' successfully matched the Billboard Hot 100 peak of the Animals' famous rock version.",
+      "They contributed the track 'Sevilla Nights' to the hit 'Thank God It's Friday' film soundtrack in 1978.",
+      "The band was formed in 1977 by French producers Nicolas Skorsky and Jean Manuel de Scarano specifically to record their compositions."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Esmeralda",
+    "youtube_search": "Santa Esmeralda Don't Let Me Be Misunderstood",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "latin"
+    ]
+  },
+  {
+    "id": "silver-convention",
+    "name": "Silver Convention",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Munich, Germany",
+    "formed": 1974,
+    "active_70s": true,
+    "description": "German Euro-disco recording act that scored massive international hits in the mid-1970s. Their sound was characterized by simple, repetitive lyrics and high-energy orchestral arrangements that defined the 'Munich sound.' They became global sensations with dance floor anthems like 'Fly, Robin, Fly' and 'Get Up and Boogie.'",
+    "members_70s": [
+      "Penny McLean",
+      "Ramona Wulf",
+      "Linda G. Thompson",
+      "Rhonda Heath",
+      "Zenda Jacks"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Save Me",
+        "year": 1975
+      },
+      {
+        "title": "Get Up and Boogie",
+        "year": 1976
+      },
+      {
+        "title": "Madhouse",
+        "year": 1976
+      },
+      {
+        "title": "Summernights",
+        "year": 1977
+      },
+      {
+        "title": "Telegram",
+        "year": 1977
+      },
+      {
+        "title": "Love in a Sleeper",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Save Me",
+      "Fly, Robin, Fly",
+      "Get Up and Boogie",
+      "No No Joe",
+      "Telegram",
+      "Spend the Night With Me"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their massive hit 'Fly, Robin, Fly' won the group a Grammy Award for Best R&B Instrumental Performance in 1975.",
+      "The lyrics of 'Fly, Robin, Fly' consist of only six different words repeated throughout the song.",
+      "The group represented West Germany in the 1977 Eurovision Song Contest with the track 'Telegram.'"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Convention",
+    "youtube_search": "Silver Convention Fly Robin Fly",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "munich-sound"
+    ]
+  },
+  {
+    "id": "sister-sledge",
+    "name": "Sister Sledge",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "Philadelphia-based female group of siblings that achieved massive disco stardom in the late 1970s. Their sound was defined by soulful vocal arrangements and the sleek, rhythmic production of Chic's Nile Rodgers and Bernard Edwards. They recorded some of the most enduring anthems of the era, focusing on themes of family, love, and dance floor excellence.",
+    "members_70s": [
+      "Debbie Sledge",
+      "Joni Sledge",
+      "Kim Sledge",
+      "Kathy Sledge"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Circle of Love",
+        "year": 1975
+      },
+      {
+        "title": "Together",
+        "year": 1977
+      },
+      {
+        "title": "We Are Family",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Love Don't You Go Through No Changes on Me",
+      "Pain Reliever",
+      "Blockbuster Boy",
+      "He's the Greatest Dancer",
+      "We Are Family",
+      "Lost in Music",
+      "Thinking of You"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group was vocally trained by their grandmother, who was an opera singer named Viola Williams.",
+      "They were among the first music acts to namecheck high-fashion designers like Halston, Gucci, and Fiorucci in their lyrics.",
+      "Their signature hit 'We Are Family' has been inducted into both the Grammy Hall of Fame and the National Recording Registry."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+    "youtube_search": "Sister Sledge We Are Family",
+    "tags": [
+      "disco",
+      "club-disco",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "stargard",
+    "name": "Stargard",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "Los Angeles vocal trio of women who blended disco grooves with funk and soul influences to create a series of dance floor-ready club hits. They became associated with Norman Whitfield's Whitfield Records label and brought a harder-edged soul sensibility to their disco recordings. Their tight harmonies and confident vocal performances were a signature of their style.",
+    "members_70s": [
+      "Rochelle Runnells",
+      "Debra Anderson",
+      "Jameelah Thomas"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "What You Waitin' For",
+        "year": 1978
+      },
+      {
+        "title": "Back 2 Back",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Theme Song from 'Which Way Is Up'",
+      "What You Waitin' For",
+      "Wear It Out"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Stargard contributed tracks to the soundtrack of the 1977 Pryor film 'Which Way Is Up?' on Norman Whitfield's label.",
+      "The group recorded for Whitfield Records, a label known for its sophisticated approach to funk and soul production.",
+      "Their dance floor recordings were characterized by punchy arrangements and the kind of vocal grit more commonly associated with soul than disco."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stargard",
+    "youtube_search": "Stargard Theme Song Which Way Is Up",
+    "tags": [
+      "disco",
+      "club-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "sugarhill-gang",
+    "name": "Sugarhill Gang",
+    "genre": "disco",
+    "subgenre": "post-disco",
+    "origin": "Englewood, New Jersey, USA",
+    "formed": 1979,
+    "active_70s": true,
+    "description": "New Jersey trio assembled by Sylvia Robinson of Sugar Hill Records that made music history by bringing hip-hop to mainstream radio with a track built on a disco foundation. Their debut recording sampled and transformed the instrumental groove of Chic's 'Good Times,' connecting the worlds of disco and the emerging rap music scene. The track is widely recognized as the first commercially successful rap single.",
+    "members_70s": [
+      "Wonder Mike (Michael Wright)",
+      "Big Bank Hank (Henry Jackson)",
+      "Master Gee (Guy O'Brien)"
+    ],
+    "key_albums_70s": [],
+    "key_songs_70s": [
+      "Rapper's Delight"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Rapper's Delight' was released in September 1979 and became the first rap single to enter the Billboard Hot 100.",
+      "The song's instrumental backing was built on the bass line of Chic's 'Good Times,' connecting disco directly to hip-hop.",
+      "At over fourteen minutes in its full version, it was one of the longest singles ever released at the time."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sugarhill_Gang",
+    "youtube_search": "Sugarhill Gang Rapper's Delight",
+    "tags": [
+      "disco",
+      "post-disco",
+      "hip-hop"
+    ]
+  },
+  {
+    "id": "sun",
+    "name": "Sun",
+    "genre": "disco",
+    "subgenre": "funk-disco",
+    "origin": "Dayton, Ohio, USA",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Dayton, Ohio-based funk and disco collective led by Byron Byrd that emerged from the same fertile Midwestern funk scene that produced Ohio Players and Zapp. Their recordings blended hard funk grooves with accessible disco elements and soulful vocal performances. The group had several significant R&B chart entries and developed a loyal following among funk and disco fans.",
+    "members_70s": [
+      "Byron Byrd",
+      "Shelton Hardy",
+      "Charles Carter",
+      "Gary Sanders"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wanna Make Love",
+        "year": 1976
+      },
+      {
+        "title": "Sun Power",
+        "year": 1977
+      },
+      {
+        "title": "Live on the Funky Side",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Wanna Make Love (Come Flick My Bic)",
+      "I'm Gonna Love You",
+      "Keep On Shinin'"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Sun was part of the Dayton, Ohio funk scene that produced numerous significant funk and R&B acts in the 1970s.",
+      "Their funk-disco hybrid sound anticipated the post-disco funk that would dominate the early 1980s.",
+      "The group's recordings were known for their raw rhythmic energy compared to the more polished New York or Philadelphia disco productions."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_(American_band)",
+    "youtube_search": "Sun Wanna Make Love",
+    "tags": [
+      "disco",
+      "funk-disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "sylvester",
+    "name": "Sylvester",
+    "genre": "disco",
+    "subgenre": "gay-disco",
+    "origin": "Los Angeles, California, USA",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Known as the 'Queen of Disco,' Sylvester was a revolutionary figure whose flamboyant, androgynous image and powerhouse falsetto vocals defined the gay disco scene of San Francisco. His work with producer Patrick Cowley created a high-energy electronic sound that became foundational to the Hi-NRG movement. He was a radical visionary whose music celebrated queerness, desire, and pleasure.",
+    "key_albums_70s": [
+      {
+        "title": "Sylvester & the Hot Band",
+        "year": 1973
+      },
+      {
+        "title": "Bazaar",
+        "year": 1973
+      },
+      {
+        "title": "Sylvester",
+        "year": 1977
+      },
+      {
+        "title": "Step II",
+        "year": 1978
+      },
+      {
+        "title": "Stars",
+        "year": 1979
+      },
+      {
+        "title": "Living Proof",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Over and Over",
+      "Down, Down, Down",
+      "Dance (Disco Heat)",
+      "You Make Me Feel (Mighty Real)",
+      "I (Who Have Nothing)",
+      "Stars",
+      "Can't Stop Dancing"
+    ],
+    "mood": [
+      "rebellious",
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Sylvester was awarded the key to the city of San Francisco on 'Sylvester Day' in 1979.",
+      "Before his solo success, he was a prominent member of the avant-garde San Francisco drag troupe the Cockettes.",
+      "He was posthumously inducted into the Dance Music Hall of Fame in 2005 alongside Chic and Gloria Gaynor."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sylvester_(singer)",
+    "youtube_search": "Sylvester You Make Me Feel Mighty Real",
+    "tags": [
+      "disco",
+      "gay-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "tavares",
+    "name": "Tavares",
+    "genre": "disco",
+    "subgenre": "philly-soul-disco",
+    "origin": "New Bedford, Massachusetts, USA",
+    "formed": 1959,
+    "active_70s": true,
+    "description": "American R&B and soul group of brothers whose parents were of Cape Verdean descent. They successfully moved into the disco spotlight in the mid-70s with their smooth vocal harmonies and upbeat dance rhythms. Their inclusion on the 'Saturday Night Fever' soundtrack reinforced their image as one of the era's primary disco-soul acts.",
+    "members_70s": [
+      "Ralph Edward Vierra Tavares",
+      "Pooch (Arthur Paul Tavares)",
+      "Chubby (Antone Lee Tavares)",
+      "Butch (Feliciano Vierra Tavares Jr.)",
+      "Tiny (Perry Lee Tavares)"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Check It Out",
+        "year": 1974
+      },
+      {
+        "title": "Hard Core Poetry",
+        "year": 1974
+      },
+      {
+        "title": "In the City",
+        "year": 1975
+      },
+      {
+        "title": "Sky High!",
+        "year": 1976
+      },
+      {
+        "title": "Love Storm",
+        "year": 1977
+      },
+      {
+        "title": "Future Bound",
+        "year": 1978
+      },
+      {
+        "title": "Madam Butterfly",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Check It Out",
+      "She's Gone",
+      "It Only Takes a Minute",
+      "Heaven Must Be Missing an Angel",
+      "Don't Take Away the Music",
+      "Whodunit",
+      "More Than a Woman",
+      "Never Had a Love Like This Before"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group won their only Grammy Award for their appearance on the legendary 'Saturday Night Fever' soundtrack.",
+      "Before their disco hits, the brothers performed under the name Chubby and the Turnpikes in the 1960s.",
+      "Their hit 'It Only Takes a Minute' was later successfully covered by the group Take That and sampled by Jennifer Lopez."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tavares_(group)",
+    "youtube_search": "Tavares Heaven Must Be Missing an Angel",
+    "tags": [
+      "disco",
+      "philly-soul",
+      "vocal-group"
+    ]
+  },
+  {
+    "id": "the-jacksons",
+    "name": "The Jacksons",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Gary, Indiana, USA",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "Having left Motown and rebranded as The Jacksons, the family group reclaimed creative control and embraced sophisticated disco-funk production in partnership with Gamble and Huff's Philadelphia International Records. Their late-1970s work found Michael Jackson growing into a dominant creative force, producing a series of funk-infused hits that bridged R&B, disco, and emerging pop. The 'Destiny' album marked a pivotal artistic leap that foreshadowed Michael's solo dominance.",
+    "members_70s": [
+      "Jackie Jackson",
+      "Tito Jackson",
+      "Jermaine Jackson",
+      "Marlon Jackson",
+      "Michael Jackson",
+      "Randy Jackson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Jacksons",
+        "year": 1976
+      },
+      {
+        "title": "Goin' Places",
+        "year": 1977
+      },
+      {
+        "title": "Destiny",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Enjoy Yourself",
+      "Show You the Way to Go",
+      "Blame It on the Boogie",
+      "Shake Your Body (Down to the Ground)",
+      "This Place Hotel"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "After leaving Motown in 1975, the group rebranded as The Jacksons and signed with Epic Records via Philadelphia International.",
+      "'Shake Your Body (Down to the Ground)' was written by Michael and Randy Jackson and reached number seven on the Billboard Hot 100 in 1979.",
+      "The 'Destiny' album was the first Jacksons record on which the brothers had full creative control over songwriting and production."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Jacksons",
+    "youtube_search": "The Jacksons Shake Your Body Down to the Ground",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "funk"
+    ]
+  },
+  {
+    "id": "the-trammps",
+    "name": "The Trammps",
+    "genre": "disco",
+    "subgenre": "philly-soul-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Philadelphia soul group fronted by the powerhouse vocals of Jimmy Ellis that became a dominant force in the disco era with their high-energy, gospel-inflected sound. Their recordings for the Philadelphia International system captured the intersection of classic soul and the emerging disco aesthetic. Their signature track became one of the most iconic anthems in disco history.",
+    "members_70s": [
+      "Jimmy Ellis",
+      "Harold Wade",
+      "Stanley Wade",
+      "Robert Upchurch",
+      "Earl Young"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Trammps",
+        "year": 1975
+      },
+      {
+        "title": "Where the Happy People Go",
+        "year": 1976
+      },
+      {
+        "title": "Disco Inferno",
+        "year": 1976
+      },
+      {
+        "title": "The Whole World's Dancing",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Zing Went the Strings of My Heart",
+      "Where the Happy People Go",
+      "Disco Inferno",
+      "Hooked for Life",
+      "Soul Searchin' Time"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Disco Inferno' was featured prominently on the Saturday Night Fever soundtrack, cementing its status as one of the defining anthems of the disco era.",
+      "The group was anchored by drummer Earl Young, who is credited with creating the signature disco drumbeat used throughout the genre.",
+      "Their gospel-inflected vocal style brought an emotional intensity to disco that distinguished them from more studio-polished acts."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Trammps",
+    "youtube_search": "The Trammps Disco Inferno",
+    "tags": [
+      "disco",
+      "philly-soul-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "thelma-houston",
+    "name": "Thelma Houston",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Leland, Mississippi, USA",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Soul and pop singer who achieved her greatest commercial breakthrough with a seminal disco recording that became one of the genre's definitive early anthems. Her powerful, emotive vocal delivery combined the emotional directness of classic soul with the rhythmic urgency of the dance floor. The recording launched her to international stardom and remains a touchstone of the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Any Way You Like It",
+        "year": 1976
+      },
+      {
+        "title": "The Devil in Me",
+        "year": 1977
+      },
+      {
+        "title": "Ready to Roll",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Don't Leave Me This Way",
+      "Saturday Night, Sunday Morning",
+      "If You Feel It",
+      "You Used to Hold Me So Tight"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Don't Leave Me This Way' won Thelma Houston the Grammy Award for Best R&B Vocal Performance in 1977.",
+      "The song was originally recorded by Harold Melvin and the Blue Notes before Houston's version became the definitive disco interpretation.",
+      "Houston was one of the first acts signed to Berry Gordy's Motown label and recorded for them throughout the 1970s."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thelma_Houston",
+    "youtube_search": "Thelma Houston Don't Leave Me This Way",
+    "tags": [
+      "disco",
+      "club-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "van-mccoy",
+    "name": "Van McCoy",
+    "genre": "disco",
+    "subgenre": "orchestral-disco",
+    "origin": "Washington, D.C., USA",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Prolific songwriter, arranger, and producer who created one of the most enduring dance crazes of the 1970s with a single instrumental recording. His orchestral arrangements blended lush strings and brass with irresistible dance rhythms, creating a sophisticated yet accessible brand of disco that reached across age groups. His broader production work shaped the sound of Philadelphia soul throughout the decade.",
+    "key_albums_70s": [
+      {
+        "title": "Disco Baby",
+        "year": 1975
+      },
+      {
+        "title": "From Disco to Love",
+        "year": 1975
+      },
+      {
+        "title": "The Hustle",
+        "year": 1975
+      },
+      {
+        "title": "Rhythms of the World",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "The Hustle",
+      "Change with the Times",
+      "Party",
+      "Soul Cha Cha",
+      "Giving Up"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'The Hustle' reached number one on the Billboard Hot 100 in June 1975 and sparked a nationwide dance craze of the same name.",
+      "Van McCoy had written and produced hits for artists including Gladys Knight, Aretha Franklin, and the Chi-Lites before his own chart success.",
+      "He died in 1979 at age 39 from a heart attack, cutting short a career that had made him one of the most influential figures in 1970s dance music."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Van_McCoy",
+    "youtube_search": "Van McCoy The Hustle",
+    "tags": [
+      "disco",
+      "orchestral-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "vicki-sue-robinson",
+    "name": "Vicki Sue Robinson",
+    "genre": "disco",
+    "subgenre": "club-disco",
+    "origin": "Philadelphia, Pennsylvania, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Broadway-trained vocalist who became one of the first artists to record a song that was explicitly marketed as a disco record. Her powerful, theatre-trained voice gave her recordings a dramatic intensity that distinguished her from many dance-oriented contemporaries. She became a beloved fixture of the New York club scene and a pioneering figure of the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Never Gonna Let You Go",
+        "year": 1976
+      },
+      {
+        "title": "Half and Half",
+        "year": 1977
+      },
+      {
+        "title": "Vicki Sue Robinson",
+        "year": 1978
+      },
+      {
+        "title": "Hot Summer Nights",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Turn the Beat Around",
+      "Never Gonna Let You Go",
+      "Daylight",
+      "Hold Tight"
+    ],
+    "mood": [
+      "pumped-up",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Turn the Beat Around' was one of the first songs explicitly marketed as a disco record when it was released in 1976.",
+      "Robinson had an extensive Broadway background, having appeared in shows including 'Hair' and 'The Me Nobody Knows.'",
+      "Her vocal power and range set her apart from more pop-oriented disco acts and earned her a devoted following in the club scene."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vicki_Sue_Robinson",
+    "youtube_search": "Vicki Sue Robinson Turn the Beat Around",
+    "tags": [
+      "disco",
+      "club-disco",
+      "new-york-disco"
+    ]
+  },
+  {
+    "id": "village-people",
+    "name": "Village People",
+    "genre": "disco",
+    "subgenre": "gay-disco",
+    "origin": "New York, USA",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "New York disco group assembled by producer Jacques Morali featuring six performers dressed as masculine American archetypes whose music celebrated gay culture while achieving massive mainstream crossover success. Their catchy anthems and theatrical visual concept made them one of the most recognizable acts of the late disco era. Their biggest hits became enduring pop culture touchstones.",
+    "members_70s": [
+      "Victor Willis",
+      "Felipe Rose",
+      "Alex Briley",
+      "David Hodo",
+      "Glenn Hughes",
+      "Randy Jones"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Village People",
+        "year": 1977
+      },
+      {
+        "title": "Macho Man",
+        "year": 1978
+      },
+      {
+        "title": "Cruisin'",
+        "year": 1978
+      },
+      {
+        "title": "Go West",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "San Francisco (You've Got Me)",
+      "Macho Man",
+      "Y.M.C.A.",
+      "In the Navy",
+      "Go West"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Y.M.C.A.' reached number two on the Billboard Hot 100 in 1978 and became one of the best-selling disco singles ever recorded.",
+      "The group was explicitly conceived by French producer Jacques Morali to celebrate and market to gay culture.",
+      "'In the Navy' was almost used in a United States Navy recruitment campaign before the Navy withdrew support upon learning the song's intended meaning."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Village_People",
+    "youtube_search": "Village People YMCA",
+    "tags": [
+      "disco",
+      "gay-disco",
+      "iconic"
+    ]
+  },
+  {
+    "id": "voyage",
+    "name": "Voyage",
+    "genre": "disco",
+    "subgenre": "euro-disco",
+    "origin": "Paris, France",
+    "formed": 1977,
+    "active_70s": true,
+    "description": "French studio disco project assembled by producers and featuring a rotating cast of American and international vocalists that achieved considerable European chart success in the late 1970s. Their polished production style combined lush orchestration with electronic instrumentation and soulful vocal performances. They were part of the wave of French disco acts that found success competing with American productions.",
+    "members_70s": [
+      "Slim Pezin",
+      "Marc Chantereau",
+      "Sauveur Mallia",
+      "various vocalists"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Voyage",
+        "year": 1978
+      },
+      {
+        "title": "Fly Away",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "From East to West",
+      "Souvenirs",
+      "Let's Fly Away"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'From East to West' was a significant European disco hit that helped establish the group's international profile.",
+      "The project used session vocalists from different countries to give their recordings a cosmopolitan feel.",
+      "Their sophisticated production approach placed them among the more musically ambitious European disco acts of the era."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Voyage_(band)",
+    "youtube_search": "Voyage From East to West",
+    "tags": [
+      "disco",
+      "euro-disco",
+      "french-disco"
+    ]
+  },
+  {
+    "id": "walter-murphy",
+    "name": "Walter Murphy",
+    "genre": "disco",
+    "subgenre": "orchestral-disco",
+    "origin": "New York, USA",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "New York arranger and musician who created one of the most unlikely disco hits by transforming classical music into a chart-topping dance floor sensation. His innovative approach to orchestral disco arrangement fused genuine classical composition with the rhythmic drive of the genre. The resulting novelty became a significant commercial hit and demonstrated disco's capacity to absorb virtually any musical influence.",
+    "key_albums_70s": [
+      {
+        "title": "A Fifth of Beethoven",
+        "year": 1976
+      },
+      {
+        "title": "Rhapsody in White",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "A Fifth of Beethoven",
+      "Flight '76",
+      "Mostly Mozart"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'A Fifth of Beethoven' was a disco arrangement of Beethoven's Fifth Symphony that reached number one on the Billboard Hot 100 in October 1976.",
+      "The track was featured on the Saturday Night Fever soundtrack, placing it among the most-heard disco recordings of the era.",
+      "Murphy went on to become a highly sought-after television composer, most famously scoring the animated series Family Guy."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Murphy",
+    "youtube_search": "Walter Murphy A Fifth of Beethoven",
+    "tags": [
+      "disco",
+      "orchestral-disco",
+      "novelty"
+    ]
+  },
+  {
+    "id": "yvonne-elliman",
+    "name": "Yvonne Elliman",
+    "genre": "disco",
+    "subgenre": "dance-pop",
+    "origin": "Honolulu, Hawaii, USA",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Hawaiian-born singer who achieved her greatest success as a solo artist in the late 1970s after building her reputation as a backing vocalist and stage actress. Her warm, expressive voice was equally suited to tender ballads and high-energy disco tracks. She became most associated with the Saturday Night Fever phenomenon that defined the peak of the disco era.",
+    "key_albums_70s": [
+      {
+        "title": "Rising Sun",
+        "year": 1975
+      },
+      {
+        "title": "Love Me",
+        "year": 1977
+      },
+      {
+        "title": "Night Flight",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Hello Stranger",
+      "If I Can't Have You",
+      "Love Me",
+      "How Does It Feel"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'If I Can't Have You' from the Saturday Night Fever soundtrack reached number one on the Billboard Hot 100 in April 1978.",
+      "Elliman originally came to fame as Mary Magdalene in the original London and Broadway productions of Jesus Christ Superstar.",
+      "She served as a backing vocalist for Eric Clapton throughout much of the mid-1970s before her solo breakthrough."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yvonne_Elliman",
+    "youtube_search": "Yvonne Elliman If I Can't Have You",
+    "tags": [
+      "disco",
+      "dance-pop",
+      "pop"
+    ]
+  }
+]

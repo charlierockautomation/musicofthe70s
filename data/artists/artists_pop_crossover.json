@@ -1,0 +1,3524 @@
+[
+  {
+    "id": "ace",
+    "name": "Ace",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Sheffield, England, UK",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Ace emerged as a prominent group in the pub rock scene, known for fusing elements of pop and funk into their sound. They are best remembered for their 1974 hit single 'How Long,' which featured the soulful lead vocals of Paul Carrack. While they released three studio albums during the mid-to-late 1970s, they struggled to replicate the massive international success of their debut success.",
+    "key_albums_70s": [
+      {
+        "title": "Five-A-Side",
+        "year": 1974
+      },
+      {
+        "title": "Time for Another",
+        "year": 1975
+      },
+      {
+        "title": "No Strings",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "How Long",
+      "Rock & Roll Runaway",
+      "I Ain't Gonna Stand for This No More",
+      "No Future in Your Eyes"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was originally known as Ace Flash and the Dynamos before shortening their name to Ace.",
+      "Chief songwriter and keyboardist Paul Carrack later found fame as a vocalist for Mike + The Mechanics.",
+      "The single 'How Long' reached number three in both the United States and Canada in 1975."
+    ],
+    "members_70s": [
+      "Paul Carrack",
+      "Alan 'Bam' King",
+      "Terry 'Tex' Comer",
+      "Phil Harris",
+      "Steve Witherington",
+      "Fran Byrne",
+      "Jon Woodhead"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ace_(band)",
+    "youtube_search": "Ace How Long",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "pub-rock"
+    ]
+  },
+  {
+    "id": "air-supply",
+    "name": "Air Supply",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Melbourne, Victoria, Australia",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Air Supply established themselves as masters of the soft rock ballad during the mid-to-late 1970s. Formed by Graham Russell and Russell Hitchcock, the duo initially found significant chart success in Australia before moving to Los Angeles at the end of the decade. Their signature sound, characterized by Hitchcock's high tenor vocals and lush arrangements, reached its global breakthrough with the hit 'Lost in Love' in 1979.",
+    "key_albums_70s": [
+      {
+        "title": "Air Supply",
+        "year": 1976
+      },
+      {
+        "title": "The Whole Thing's Started",
+        "year": 1977
+      },
+      {
+        "title": "Love & Other Bruises",
+        "year": 1977
+      },
+      {
+        "title": "Life Support",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Love and Other Bruises",
+      "If You Knew Me",
+      "Empty Pages",
+      "Lost in Love"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The core duo first met while performing in a production of Jesus Christ Superstar in Melbourne.",
+      "Their 1976 debut album achieved gold accreditation for shipment of 20,000 copies in Australia.",
+      "The group relocated to Los Angeles in the late 1970s following their initial success."
+    ],
+    "members_70s": [
+      "Russell Hitchcock",
+      "Graham Russell",
+      "Jeremy Paul",
+      "Mark McEntee",
+      "Jeff Browne",
+      "Adrian Scott",
+      "Nigel Macara",
+      "Brenton White"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Air_Supply",
+    "youtube_search": "Air Supply Lost in Love",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "australian"
+    ]
+  },
+  {
+    "id": "albert-hammond",
+    "name": "Albert Hammond",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Gibraltar",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "Albert Hammond achieved massive success in 1972 with the era-defining hit 'It Never Rains in Southern California,' which showcased his melodic storytelling. Throughout the decade, he remained a prominent figure in pop both as a solo performer and as a prolific songwriter for other major acts. His 1970s singles bridged soft rock and pop, finding significant success across Europe and the United States.",
+    "key_albums_70s": [
+      {
+        "title": "It Never Rains in Southern California",
+        "year": 1972
+      },
+      {
+        "title": "The Free Electric Band",
+        "year": 1973
+      },
+      {
+        "title": "Albert Hammond",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Down by the River",
+      "It Never Rains in Southern California",
+      "The Free Electric Band",
+      "I'm a Train",
+      "99 Miles from L.A."
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Hammond co-founded the British vocal band the Family Dogg in 1966 before moving to the US in 1970.",
+      "He co-wrote the Hollies' massive 1974 hit 'The Air That I Breathe' with Mike Hazlewood.",
+      "His biggest US solo hit was 'It Never Rains in Southern California,' which reached number five in 1972."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Hammond",
+    "youtube_search": "Albert Hammond It Never Rains in Southern California",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "andy-gibb",
+    "name": "Andy Gibb",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Redcliffe, Queensland, Australia",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Andy Gibb skyrocketed to international fame in the late 1970s, becoming one of the decade's premier teen idols. Collaborating closely with his older brothers from the Bee Gees, his sound blended soulful pop ballads with disco elements. He made chart history by becoming the first solo artist to have his first three singles reach number one on the US Billboard Hot 100.",
+    "key_albums_70s": [
+      {
+        "title": "Flowing Rivers",
+        "year": 1977
+      },
+      {
+        "title": "Shadow Dancing",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "I Just Want to Be Your Everything",
+      "(Love Is) Thicker Than Water",
+      "Shadow Dancing",
+      "An Everlasting Love",
+      "(Our Love) Don't Throw It All Away"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Gibb was the first solo artist to have his first three chart singles reach number one in the United States.",
+      "His 1978 hit 'Shadow Dancing' was Billboard's number one song of the year.",
+      "Eagles guitarist Joe Walsh played on two songs on Gibb's debut album 'Flowing Rivers'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Gibb",
+    "youtube_search": "Andy Gibb Shadow Dancing",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "disco"
+    ]
+  },
+  {
+    "id": "bay-city-rollers",
+    "name": "Bay City Rollers",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Edinburgh, Scotland, UK",
+    "formed": 1964,
+    "active_70s": true,
+    "description": "The Bay City Rollers were a global phenomenon in the mid-1970s, sparking a wave of 'Rollermania' among teenage fans. Their sound featured upbeat, sing-along pop hits and cover versions of 1960s classics, often presented with their trademark tartan-accented image. As one of the biggest acts of the era, they dominated charts in the UK and US with anthemic tracks like 'Bye, Bye, Baby' and 'Saturday Night.'",
+    "key_albums_70s": [
+      {
+        "title": "Rollin'",
+        "year": 1974
+      },
+      {
+        "title": "Once Upon a Star",
+        "year": 1975
+      },
+      {
+        "title": "Bay City Rollers",
+        "year": 1975
+      },
+      {
+        "title": "Wouldn't You Like It?",
+        "year": 1975
+      },
+      {
+        "title": "Rock n' Roll Love Letter",
+        "year": 1976
+      },
+      {
+        "title": "Dedication",
+        "year": 1976
+      },
+      {
+        "title": "It's a Game",
+        "year": 1977
+      },
+      {
+        "title": "Strangers in the Wind",
+        "year": 1978
+      },
+      {
+        "title": "Elevator",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Remember (Sha-La-La-La)",
+      "Shang-a-Lang",
+      "Bye Bye Baby",
+      "Give a Little Love",
+      "Saturday Night",
+      "I Only Want to Be with You"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's name was chosen by throwing a dart at a map of the United States, landing near Bay City, Michigan.",
+      "'Bye Bye Baby' was the best-selling single in the UK for the year 1975.",
+      "Fans had a completely distinctive style of dress featuring calf-length tartan trousers and tartan scarves."
+    ],
+    "members_70s": [
+      "Eric Faulkner",
+      "Alan Longmuir",
+      "Derek Longmuir",
+      "Les McKeown",
+      "Stuart Wood",
+      "Ian Mitchell",
+      "Pat McGlynn",
+      "Duncan Faure"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bay_City_Rollers",
+    "youtube_search": "Bay City Rollers Saturday Night",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "tartan"
+    ]
+  },
+  {
+    "id": "bonnie-tyler",
+    "name": "Bonnie Tyler",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Skewen, Neath, Wales, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Bonnie Tyler rose to fame in the late 1970s, distinguished by her unique, husky vocal delivery. Her early sound was a blend of country-pop and soft rock, which found significant success across Europe and North America. She achieved a major international breakthrough in 1977 with the hit 'It's a Heartache,' cementing her status as a soulful rock-influenced pop star.",
+    "key_albums_70s": [
+      {
+        "title": "The World Starts Tonight",
+        "year": 1977
+      },
+      {
+        "title": "Natural Force",
+        "year": 1978
+      },
+      {
+        "title": "Diamond Cut",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Lost in France",
+      "More Than a Lover",
+      "It's a Heartache",
+      "Heaven",
+      "Here Am I"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "drive",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Tyler screamed in frustration after a throat operation in 1977, resulting in her permanent raspy tone.",
+      "She toured the United States in 1978 as a guest supporting act for Tom Jones.",
+      "In 1979, she won the 10th World Popular Song Festival representing the UK with 'Sitting on the Edge of the Ocean'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bonnie_Tyler",
+    "youtube_search": "Bonnie Tyler It's a Heartache",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "husky-vocals"
+    ]
+  },
+  {
+    "id": "brotherhood-of-man",
+    "name": "Brotherhood of Man",
+    "genre": "pop",
+    "subgenre": "uk-pop",
+    "origin": "London, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Brotherhood of Man transitioned from a group of session singers to a stable quartet that defined British middle-of-the-road pop in the 1970s. Their mid-decade success was highlighted by winning the 1976 Eurovision Song Contest with the record-breaking 'Save Your Kisses for Me.' Following this victory, they became chart mainstays with a series of cheery pop hits that earned them three UK number-one singles.",
+    "key_albums_70s": [
+      {
+        "title": "United We Stand",
+        "year": 1970
+      },
+      {
+        "title": "We're the Brotherhood of Man",
+        "year": 1972
+      },
+      {
+        "title": "Good Things Happening",
+        "year": 1974
+      },
+      {
+        "title": "Love and Kisses",
+        "year": 1976
+      },
+      {
+        "title": "Oh Boy!",
+        "year": 1977
+      },
+      {
+        "title": "Images",
+        "year": 1977
+      },
+      {
+        "title": "B for Brotherhood",
+        "year": 1978
+      },
+      {
+        "title": "Higher Than High",
+        "year": 1979
+      },
+      {
+        "title": "Singing a Song",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "United We Stand",
+      "Kiss Me Kiss Your Baby",
+      "Save Your Kisses for Me",
+      "Angelo",
+      "Oh Boy (The Mood I'm In)",
+      "Figaro"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group won the Eurovision Song Contest in 1976 with the song 'Save Your Kisses for Me'.",
+      "Their Eurovision entry became the best-selling single of 1976 in the UK and sold six million copies worldwide.",
+      "The group was originally created by songwriter and producer Tony Hiller as an umbrella title for session singers."
+    ],
+    "members_70s": [
+      "Martin Lee",
+      "Lee Sheriden",
+      "Nicky Stevens",
+      "Sandra Stevens",
+      "Tony Burrows",
+      "Sunny Leslie",
+      "Sue Glover",
+      "Roger Greenaway",
+      "John Goodison",
+      "Hal Atkinson",
+      "Russell Stone"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brotherhood_of_Man",
+    "youtube_search": "Brotherhood of Man Save Your Kisses for Me",
+    "tags": [
+      "pop",
+      "uk-pop",
+      "eurovision"
+    ]
+  },
+  {
+    "id": "cliff-richard",
+    "name": "Cliff Richard",
+    "genre": "pop",
+    "subgenre": "MOR",
+    "origin": "London, England, UK",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Cliff Richard navigated the changing musical landscape of the 1970s by embracing a softer, more middle-of-the-road sound. While he continued to record ballads, his career saw a major renaissance in 1976 with the rock-leaning hit 'Devil Woman.' He capped the decade with 'We Don't Talk Anymore,' which became a global number-one hit and re-established him as a contemporary pop force.",
+    "key_albums_70s": [
+      {
+        "title": "Tracks 'n Grooves",
+        "year": 1970
+      },
+      {
+        "title": "Cliff Live in Japan '72",
+        "year": 1973
+      },
+      {
+        "title": "Take Me High",
+        "year": 1973
+      },
+      {
+        "title": "Help It Along",
+        "year": 1974
+      },
+      {
+        "title": "31 February Street",
+        "year": 1974
+      },
+      {
+        "title": "I'm Nearly Famous",
+        "year": 1976
+      },
+      {
+        "title": "Every Face Tells a Story",
+        "year": 1977
+      },
+      {
+        "title": "Small Corners",
+        "year": 1978
+      },
+      {
+        "title": "Green Light",
+        "year": 1978
+      },
+      {
+        "title": "Rock 'n' Roll Juvenile",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Goodbye Sam, Hello Samantha",
+      "Power to All Our Friends",
+      "Miss You Nights",
+      "Devil Woman",
+      "My Kinda Life",
+      "We Don't Talk Anymore"
+    ],
+    "mood": [
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Richard hosted his own variety television show, 'It's Cliff Richard,' on the BBC from 1970 to 1976.",
+      "He represented the United Kingdom in the 1973 Eurovision Song Contest with 'Power to All Our Friends.'",
+      "In 1975, Richard ordered the withdrawal of his single 'Honky Tonk Angel' after learning its slang meaning."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cliff_Richard",
+    "youtube_search": "Cliff Richard We Don't Talk Anymore",
+    "tags": [
+      "pop",
+      "MOR",
+      "british-icon"
+    ]
+  },
+  {
+    "id": "dan-hill",
+    "name": "Dan Hill",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Toronto, Ontario, Canada",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Canadian singer-songwriter who broke through internationally with one of the most emotionally intense ballads of the late 1970s. His rich, aching tenor and confessional lyrical style positioned him squarely in the adult-contemporary market during its commercial peak. He wrote and performed material that was carefully crafted for maximum emotional impact on mainstream pop radio.",
+    "key_albums_70s": [
+      {
+        "title": "Hold On",
+        "year": 1975
+      },
+      {
+        "title": "Longer Fuse",
+        "year": 1977
+      },
+      {
+        "title": "Frozen in the Night",
+        "year": 1978
+      },
+      {
+        "title": "Partial Surrender",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Sometimes When We Touch",
+      "Longer Fuse",
+      "Neon Lady",
+      "In My Own Time"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'Sometimes When We Touch' reached number three on the Billboard Hot 100 in early 1978 and became one of the best-selling adult-contemporary singles of the decade.",
+      "Hill co-wrote the song with Barry Mann, and its unusually candid emotional vulnerability was seen as a breakthrough in the confessional pop ballad form."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Hill_(singer)",
+    "youtube_search": "Dan Hill Sometimes When We Touch",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "adult-contemporary"
+    ]
+  },
+  {
+    "id": "dave-edmunds",
+    "name": "Dave Edmunds",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Cardiff, Wales, UK",
+    "formed": 1957,
+    "active_70s": true,
+    "description": "Dave Edmunds became a central figure in the 1970s pub rock and new wave movements, known for his retro-rock and roll production style. He scored a massive international hit at the start of the decade with 'I Hear You Knocking,' which featured his signature layered guitar sound. In the late 70s, he formed the influential group Rockpile with Nick Lowe, blending pop sensibilities with high-energy roots rock.",
+    "key_albums_70s": [
+      {
+        "title": "Rockpile",
+        "year": 1972
+      },
+      {
+        "title": "Subtle as a Flying Mallet",
+        "year": 1975
+      },
+      {
+        "title": "Get It",
+        "year": 1977
+      },
+      {
+        "title": "Tracks on Wax 4",
+        "year": 1978
+      },
+      {
+        "title": "Repeat When Necessary",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I Hear You Knocking",
+      "Baby I Love You",
+      "Born to Be with You",
+      "I Knew the Bride",
+      "Girls Talk",
+      "Queen of Hearts"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Edmunds often multilayered up to forty separately recorded guitar tracks into a single studio mix.",
+      "He scored a UK Christmas Number 1 single in 1970 with a cover of 'I Hear You Knocking.'",
+      "Edmunds appeared as a band member in the 1974 film 'Stardust' starring David Essex."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Edmunds",
+    "youtube_search": "Dave Edmunds I Hear You Knocking",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "rock-and-roll"
+    ]
+  },
+  {
+    "id": "david-bowie",
+    "name": "David Bowie",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Brixton, London, England, UK",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "David Bowie redefined pop music in the 1970s through constant reinvention and the creation of iconic theatrical personae. He began the decade as a leader of the glam rock movement with his Ziggy Stardust character, producing melodic and experimental pop rock. As the decade progressed, he shifted toward soul, funk, and electronic music, culminating in his influential Berlin Trilogy.",
+    "key_albums_70s": [
+      {
+        "title": "The Man Who Sold the World",
+        "year": 1970
+      },
+      {
+        "title": "Hunky Dory",
+        "year": 1971
+      },
+      {
+        "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "year": 1972
+      },
+      {
+        "title": "Aladdin Sane",
+        "year": 1973
+      },
+      {
+        "title": "Pin Ups",
+        "year": 1973
+      },
+      {
+        "title": "Diamond Dogs",
+        "year": 1974
+      },
+      {
+        "title": "Young Americans",
+        "year": 1975
+      },
+      {
+        "title": "Station to Station",
+        "year": 1976
+      },
+      {
+        "title": "Low",
+        "year": 1977
+      },
+      {
+        "title": "Heroes",
+        "year": 1977
+      },
+      {
+        "title": "Lodger",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Changes",
+      "Starman",
+      "The Jean Genie",
+      "Life on Mars?",
+      "Rebel Rebel",
+      "Young Americans",
+      "Fame",
+      "Heroes"
+    ],
+    "mood": [
+      "rebellious",
+      "melancholy"
+    ],
+    "vibe": [
+      "rock-out",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Bowie developed the Ziggy Stardust persona after being interviewed by US media while wearing a blue dress.",
+      "He famously performed a duet of 'The Little Drummer Boy' with Bing Crosby for a 1977 Christmas special.",
+      "His 1975 hit 'Fame' was a collaboration with John Lennon and became his first US number-one single."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Bowie",
+    "youtube_search": "David Bowie Ziggy Stardust",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "art-pop"
+    ]
+  },
+  {
+    "id": "david-cassidy",
+    "name": "David Cassidy",
+    "genre": "pop",
+    "subgenre": "bubblegum-pop",
+    "origin": "New York City, New York, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "David Cassidy was the preeminent teen idol of the early 1970s, catapulted to fame by his role in the musical sitcom The Partridge Family. His sound was quintessential bubblegum pop, characterized by upbeat melodies and clean-cut arrangements that dominated global charts. Despite his massive success with millions of record sales, he often sought to distance himself from his teen idol image in favor of a rock-oriented sound.",
+    "key_albums_70s": [
+      {
+        "title": "Cherish",
+        "year": 1972
+      },
+      {
+        "title": "Rock Me Baby",
+        "year": 1972
+      },
+      {
+        "title": "Dreams Are Nuthin' More Than Wishes",
+        "year": 1973
+      },
+      {
+        "title": "The Higher They Climb",
+        "year": 1975
+      },
+      {
+        "title": "Home Is Where the Heart Is",
+        "year": 1976
+      },
+      {
+        "title": "Getting It in the Street",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Cherish",
+      "Could It Be Forever",
+      "How Can I Be Sure",
+      "Daydreamer",
+      "I Write the Songs",
+      "I Think I Love You"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "At the height of his fame in the early 1970s, Cassidy was considered the highest-paid entertainer in the world.",
+      "He was the first recording artist to have a hit with 'I Write the Songs' before it became Barry Manilow's signature tune.",
+      "Cassidy appeared on the 'Here's Lucy' show in 1972 singing with Lucie Arnaz."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Cassidy",
+    "youtube_search": "David Cassidy Cherish",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "bubblegum"
+    ]
+  },
+  {
+    "id": "david-essex",
+    "name": "David Essex",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Plaistow, Essex, England, UK",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "David Essex was a major star of the 1970s, blending successful careers in music, film, and theater. His early sound was defined by the minimalist, self-penned international hit 'Rock On,' which featured a unique avant-pop style. Throughout the decade, he remained a premier teen idol in Britain, scoring multiple number-one hits and appearing in seminal music-related films like Stardust.",
+    "key_albums_70s": [
+      {
+        "title": "Rock On",
+        "year": 1973
+      },
+      {
+        "title": "David Essex",
+        "year": 1974
+      },
+      {
+        "title": "All the Fun of the Fair",
+        "year": 1975
+      },
+      {
+        "title": "Out on the Street",
+        "year": 1976
+      },
+      {
+        "title": "Gold & Ivory",
+        "year": 1977
+      },
+      {
+        "title": "Imperial Wizard",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Rock On",
+      "Lamplight",
+      "Gonna Make You a Star",
+      "Stardust",
+      "Hold Me Close",
+      "Oh What a Circus"
+    ],
+    "mood": [
+      "rebellious",
+      "happy"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "His international hit single 'Rock On' sold over one million copies and was awarded a gold disc by the R.I.A.A. in 1974.",
+      "Essex played the lead role in the original 1971 London stage musical production of 'Godspell.'",
+      "He comes from a family of Irish Travellers and has served as a patron of Britain's National Gypsy Council."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Essex",
+    "youtube_search": "David Essex Rock On",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "teen-idol"
+    ]
+  },
+  {
+    "id": "david-soul",
+    "name": "David Soul",
+    "genre": "pop",
+    "subgenre": "adult-contemporary",
+    "origin": "Chicago, Illinois, US",
+    "formed": 1961,
+    "active_70s": true,
+    "description": "Already a household name for his role in the TV series Starsky & Hutch, David Soul launched a wildly successful pop career in the late 1970s. His sound leaned heavily into soft rock and adult contemporary ballads, characterized by his smooth vocal style. He achieved massive international success with 'Don't Give Up on Us,' which topped charts in both the US and the UK.",
+    "key_albums_70s": [
+      {
+        "title": "David Soul",
+        "year": 1976
+      },
+      {
+        "title": "Playing to an Audience of One",
+        "year": 1977
+      },
+      {
+        "title": "Band of Friends",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Don't Give Up on Us",
+      "Going in with My Eyes Open",
+      "Silver Lady",
+      "Let's Have a Quiet Night In",
+      "It Sure Brings Out the Love in Your Eyes"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Soul appeared on 'The Merv Griffin Show' early in his career wearing a mask as 'The Covered Man.'",
+      "His hit 'Don't Give Up on Us' reached number one in both the US and the United Kingdom.",
+      "He was born with situs inversus, a rare condition where major organs are on the opposite side of the body."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Soul",
+    "youtube_search": "David Soul Don't Give Up on Us",
+    "tags": [
+      "pop",
+      "adult-contemporary",
+      "hutch"
+    ]
+  },
+  {
+    "id": "debby-boone",
+    "name": "Debby Boone",
+    "genre": "pop",
+    "subgenre": "adult-contemporary",
+    "origin": "Hackensack, New Jersey, U.S.",
+    "formed": 1971,
+    "active_70s": true,
+    "description": "Debby Boone made pop music history in 1977 with the release of her massive hit 'You Light Up My Life.' The song’s clean, inspirational sound spent ten weeks at the top of the US charts, earning her a Grammy for Best New Artist. While she would later move into country and Christian music, her late-70s pop success established her as a dominant adult contemporary vocalist.",
+    "key_albums_70s": [
+      {
+        "title": "You Light Up My Life",
+        "year": 1977
+      },
+      {
+        "title": "Midstream",
+        "year": 1978
+      },
+      {
+        "title": "Debby Boone",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "You Light Up My Life",
+      "Baby I'm Yours",
+      "My Heart Has a Mind of Its Own",
+      "See You in September",
+      "Everybody's Somebody's Fool"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "Her 1977 hit 'You Light Up My Life' was the first song to spend ten weeks at number one on the Billboard Hot 100.",
+      "She won the Grammy Award for Best New Artist in 1978 following her massive pop success.",
+      "In 1980, she was part of a historic week where women held all top five slots on the Billboard Country chart."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Debby_Boone",
+    "youtube_search": "Debby Boone You Light Up My Life",
+    "tags": [
+      "pop",
+      "adult-contemporary",
+      "grammy-winner"
+    ]
+  },
+  {
+    "id": "demis-roussos",
+    "name": "Demis Roussos",
+    "genre": "pop",
+    "subgenre": "folk-pop",
+    "origin": "Alexandria, Egypt",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Demis Roussos was a flamboyant figure in 1970s pop, known for his high operatic voice and unique Mediterranian-influenced easy listening sound. After finding success in the progressive rock band Aphrodite's Child, he launched a solo career that blended folk influences with romantic pop. He became an unlikely international sex symbol, often performing in signature kaftans and achieving massive success throughout Europe.",
+    "key_albums_70s": [
+      {
+        "title": "On the Greek Side of My Mind",
+        "year": 1971
+      },
+      {
+        "title": "Forever and Ever",
+        "year": 1973
+      },
+      {
+        "title": "My Only Fascination",
+        "year": 1974
+      },
+      {
+        "title": "Auf Wiedersehn",
+        "year": 1974
+      },
+      {
+        "title": "Souvenirs",
+        "year": 1975
+      },
+      {
+        "title": "Happy to Be...",
+        "year": 1976
+      },
+      {
+        "title": "The Demis Roussos Magic",
+        "year": 1977
+      },
+      {
+        "title": "Demis Roussos",
+        "year": 1978
+      },
+      {
+        "title": "Universum",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "We Shall Dance",
+      "My Reason",
+      "Goodbye, My Love, Goodbye",
+      "Velvet Mornings",
+      "My Friend the Wind",
+      "From Souvenirs to Souvenirs"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Roussos was born and raised in Alexandria, Egypt, before his family moved to Greece when he was ten.",
+      "He was famously one of the passengers on the TWA Flight 847 that was hijacked by terrorists in 1985.",
+      "His 1973 signature ballad 'Forever and Ever' was a major international hit that sold millions of copies."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Demis_Roussos",
+    "youtube_search": "Demis Roussos Forever and Ever",
+    "tags": [
+      "pop",
+      "folk-pop",
+      "kaftan"
+    ]
+  },
+  {
+    "id": "donny-osmond",
+    "name": "Donny Osmond",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Ogden, Utah, U.S.",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "Donny Osmond was one of the most visible teen idols of the 1970s, both as a solo artist and as a member of his family band, The Osmonds. His sound focused on wholesome, melodic bubblegum pop and updated versions of standard ballads. Alongside his sister Marie, he hosted a wildly popular TV variety series that cemented his status as a mainstream pop entertainer.",
+    "key_albums_70s": [
+      {
+        "title": "The Donny Osmond Album",
+        "year": 1971
+      },
+      {
+        "title": "To You with Love, Donny",
+        "year": 1971
+      },
+      {
+        "title": "Portrait of Donny",
+        "year": 1972
+      },
+      {
+        "title": "Too Young",
+        "year": 1972
+      },
+      {
+        "title": "Alone Together",
+        "year": 1973
+      },
+      {
+        "title": "A Time for Us",
+        "year": 1973
+      },
+      {
+        "title": "Donny",
+        "year": 1974
+      },
+      {
+        "title": "Disco Train",
+        "year": 1976
+      },
+      {
+        "title": "Donald Clark Osmond",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Sweet and Innocent",
+      "Go Away Little Girl",
+      "Puppy Love",
+      "Too Young",
+      "Why",
+      "The Twelfth of Never"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Osmond was a major cover boy for teen magazines like Tiger Beat and 16 during the peak of his 70s fame.",
+      "He made his debut on 'The Andy Williams Show' in 1963 at the age of six singing 'You Are My Sunshine.'",
+      "Donny and his sister Marie hosted a popular variety series from 1976 to 1979 on ABC."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donny_Osmond",
+    "youtube_search": "Donny Osmond Puppy Love",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "variety-star"
+    ]
+  },
+  {
+    "id": "dr-hook",
+    "name": "Dr. Hook",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Union City, New Jersey, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Dr. Hook began the 1970s as a gritty country-rock band with a penchant for satirical humor, often performing songs written by Shel Silverstein. They transitioned mid-decade into a highly successful soft rock and disco-pop outfit, known for their smooth vocal harmonies. The band achieved massive international hits such as 'When You're in Love with a Beautiful Woman,' becoming global pop staples.",
+    "key_albums_70s": [
+      {
+        "title": "Doctor Hook",
+        "year": 1972
+      },
+      {
+        "title": "Sloppy Seconds",
+        "year": 1972
+      },
+      {
+        "title": "Belly Up!",
+        "year": 1973
+      },
+      {
+        "title": "Bankrupt",
+        "year": 1975
+      },
+      {
+        "title": "A Little Bit More",
+        "year": 1976
+      },
+      {
+        "title": "Makin' Love and Music",
+        "year": 1977
+      },
+      {
+        "title": "Pleasure and Pain",
+        "year": 1978
+      },
+      {
+        "title": "Sometimes You Win",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Sylvia's Mother",
+      "The Cover of 'Rolling Stone'",
+      "Only Sixteen",
+      "A Little Bit More",
+      "Sharing the Night Together",
+      "When You're in Love with a Beautiful Woman"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band shortened its name from Dr. Hook & the Medicine Show in 1975 after signing with Capitol Records.",
+      "They performed several songs written by the celebrated poet and songwriter Shel Silverstein.",
+      "The hit single 'The Cover of Rolling Stone' led to the band actually appearing on the magazine's cover in 1973."
+    ],
+    "members_70s": [
+      "Dennis Locorriere",
+      "Ray Sawyer",
+      "Billy Francis",
+      "George Cummings",
+      "Rik Elswit",
+      "Jance Garfat",
+      "John Wolters",
+      "Bob 'Willard' Henke"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dr.Hook",
+    "youtube_search": "Dr. Hook When You're in Love with a Beautiful Woman",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": "elton-john",
+    "name": "Elton John",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Pinner, Middlesex, England, UK",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Elton John dominated the 1970s pop landscape with a sound that blended piano-based ballads with high-energy rock and roll. Backed by the lyrics of Bernie Taupin, his music moved from acoustic folk-rock to theatrical glam-pop characterized by flamboyant showmanship. Between 1972 and 1975, he achieved an unprecedented streak of seven consecutive number-one albums in the United States.",
+    "key_albums_70s": [
+      {
+        "title": "Elton John",
+        "year": 1970
+      },
+      {
+        "title": "Tumbleweed Connection",
+        "year": 1970
+      },
+      {
+        "title": "Madman Across the Water",
+        "year": 1971
+      },
+      {
+        "title": "Honky Château",
+        "year": 1972
+      },
+      {
+        "title": "Don't Shoot Me I'm Only the Piano Player",
+        "year": 1973
+      },
+      {
+        "title": "Goodbye Yellow Brick Road",
+        "year": 1973
+      },
+      {
+        "title": "Caribou",
+        "year": 1974
+      },
+      {
+        "title": "Captain Fantastic and the Brown Dirt Cowboy",
+        "year": 1975
+      },
+      {
+        "title": "Rock of the Westies",
+        "year": 1975
+      },
+      {
+        "title": "Blue Moves",
+        "year": 1976
+      },
+      {
+        "title": "A Single Man",
+        "year": 1978
+      },
+      {
+        "title": "Victim of Love",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Your Song",
+      "Rocket Man",
+      "Crocodile Rock",
+      "Goodbye Yellow Brick Road",
+      "Bennie and the Jets",
+      "Don't Let the Sun Go Down on Me",
+      "Philadelphia Freedom",
+      "Don't Go Breaking My Heart"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "He legally changed his name to Elton Hercules John in January 1972, taking 'Hercules' from a horse in a sitcom.",
+      "In 1974, he collaborated with John Lennon on a cover of 'Lucy in the Sky with Diamonds.'",
+      "In 1975, John performed a massive free concert for an estimated 400,000 fans on the Great Lawn in Central Park."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elton_John",
+    "youtube_search": "Elton John Rocket Man",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "iconic"
+    ]
+  },
+  {
+    "id": "engelbert-humperdinck",
+    "name": "Engelbert Humperdinck",
+    "genre": "pop",
+    "subgenre": "MOR",
+    "origin": "Madras, British India",
+    "formed": 1956,
+    "active_70s": true,
+    "description": "Engelbert Humperdinck maintained his status as a premier traditional pop entertainer throughout the 1970s. Known for his powerful vocal range and smooth delivery, his sound remained rooted in romantic ballads and easy listening. He continued to score major chart successes during the decade, particularly in the United States with hits like 'After the Lovin'.' ",
+    "key_albums_70s": [
+      {
+        "title": "We Made It Happen",
+        "year": 1970
+      },
+      {
+        "title": "Sweetheart",
+        "year": 1971
+      },
+      {
+        "title": "Another Time, Another Place",
+        "year": 1971
+      },
+      {
+        "title": "In Time",
+        "year": 1972
+      },
+      {
+        "title": "King of Hearts",
+        "year": 1973
+      },
+      {
+        "title": "My Love",
+        "year": 1973
+      },
+      {
+        "title": "After the Lovin'",
+        "year": 1976
+      },
+      {
+        "title": "Miracles",
+        "year": 1977
+      },
+      {
+        "title": "Christmas Tyme",
+        "year": 1977
+      },
+      {
+        "title": "Last of the Romantics",
+        "year": 1978
+      },
+      {
+        "title": "This Moment in Time",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "We Made It Happen",
+      "Sweetheart",
+      "Another Time, Another Place",
+      "After the Lovin'",
+      "This Moment in Time"
+    ],
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Humperdinck's hardcore female fans became famously known as 'Humperdinckers' during his peak years.",
+      "His 1976 hit 'After the Lovin'' earned him a Grammy nomination and was certified gold in the US.",
+      "He fronted his own variety television series titled 'The Engelbert Humperdinck Show' for two seasons in 1969-70."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Engelbert_Humperdinck(singer)",
+    "youtube_search": "Engelbert Humperdinck After the Lovin'",
+    "tags": [
+      "pop",
+      "MOR",
+      "crooner"
+    ]
+  },
+  {
+    "id": "exile",
+    "name": "Exile",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Lexington, Kentucky, USA",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Kentucky rock band that reinvented themselves as a mainstream pop act during the late 1970s and scored a massive international chart hit before pivoting successfully to country music in the following decade. Their polished production and smooth vocal harmonies gave them a sound well suited to the adult-contemporary radio format of the era. Their crossover success demonstrated the permeability of genre boundaries in late-1970s American popular music.",
+    "members_70s": [
+      "J.P. Pennington",
+      "Sonny Lemaire",
+      "Les Taylor",
+      "Marlon Hargis",
+      "Steve Goetzman"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mixed Emotions",
+        "year": 1978
+      },
+      {
+        "title": "All There Is",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Kiss You All Over",
+      "How Could This Go Wrong",
+      "You Thrill Me"
+    ],
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "'Kiss You All Over' spent four weeks at number one on the Billboard Hot 100 in the autumn of 1978, becoming one of the biggest-selling singles of that year.",
+      "The song was written and produced by Mike Chapman and Nicky Chinn, the British production team responsible for many of the era's most successful pop records."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Exile_(band)",
+    "youtube_search": "Exile Kiss You All Over",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "adult-contemporary"
+    ]
+  },
+  {
+    "id": "frankie-valli",
+    "name": "Frankie Valli",
+    "genre": "pop",
+    "subgenre": "adult-contemporary",
+    "origin": "Newark, New Jersey, U.S.",
+    "formed": 1951,
+    "active_70s": true,
+    "description": "Frankie Valli enjoyed a massive career resurgence in the mid-1970s as both a solo artist and lead singer of the Four Seasons. His sound evolved with the times, incorporating disco and blue-eyed soul elements while still featuring his legendary falsetto voice. He capped the decade with the global number-one title track for the film Grease, one of the best-selling singles of all time.",
+    "key_albums_70s": [
+      {
+        "title": "Closeup",
+        "year": 1975
+      },
+      {
+        "title": "Inside You",
+        "year": 1975
+      },
+      {
+        "title": "Our Day Will Come",
+        "year": 1975
+      },
+      {
+        "title": "Valli",
+        "year": 1976
+      },
+      {
+        "title": "Lady Put the Light Out",
+        "year": 1977
+      },
+      {
+        "title": "Frankie Valli... Is the Word",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "My Eyes Adored You",
+      "Swearin' to God",
+      "Our Day Will Come",
+      "Fallen Angel",
+      "Grease"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Valli's solo recording of 'My Eyes Adored You' reached number one on the Billboard Hot 100 in 1975.",
+      "He took his stage name from 'Texas' Jean Valli, one of his early favorite singers from childhood.",
+      "Valli sang lead on the song 'Grease,' which became one of the biggest international hits of 1978."
+    ],
+    "members_70s": [
+      "Frankie Valli",
+      "Bob Gaudio",
+      "Tommy DeVito",
+      "Nick Massi",
+      "Joe Long",
+      "Don Ciccone",
+      "Gerry Polci",
+      "Lee Shapiro"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frankie_Valli",
+    "youtube_search": "Frankie Valli Grease",
+    "tags": [
+      "pop",
+      "adult-contemporary",
+      "falsetto"
+    ]
+  },
+  {
+    "id": "john-travolta",
+    "name": "John Travolta",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Englewood, New Jersey, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "John Travolta became one of the biggest pop cultural icons of the late 1970s, matching his film stardom with chart-topping musical releases. His sound was synonymous with the disco-pop era, particularly through his massive contributions to the Grease soundtrack. Characterized by romantic duets and dance-oriented tracks, his music defined the upbeat spirit of the decade's end.",
+    "key_albums_70s": [
+      {
+        "title": "John Travolta",
+        "year": 1976
+      },
+      {
+        "title": "Can't Let You Go",
+        "year": 1977
+      },
+      {
+        "title": "Grease",
+        "year": 1978
+      },
+      {
+        "title": "Travolta Fever",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Let Her In",
+      "Whenever I'm Away from You",
+      "You're the One That I Want",
+      "Summer Nights",
+      "Sandy",
+      "Greased Lightnin'"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Travolta's solo single 'Let Her In' reached number 10 on the US Billboard Hot 100 in 1976.",
+      "His music career peaked with the massive global success of the Grease soundtrack in 1978.",
+      "In 1985, he famously danced with Princess Diana at the White House in a dress later known as the 'Travolta dress'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Travolta",
+    "youtube_search": "John Travolta You're the One That I Want",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "disco"
+    ]
+  },
+  {
+    "id": "julio-iglesias",
+    "name": "Julio Iglesias",
+    "genre": "pop",
+    "subgenre": "latin-pop",
+    "origin": "Madrid, Spain",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Julio Iglesias became the most commercially successful Spanish singer in the world during the 1970s. His sound was defined by romantic Latin pop ballads, recorded in multiple languages to appeal to a global audience. He transitioned from a successful career in Spain to international stardom, culminating in massive record sales and a reputation as the era's premier romantic vocalist.",
+    "key_albums_70s": [
+      {
+        "title": "Gwendolyne",
+        "year": 1970
+      },
+      {
+        "title": "Un canto a Galicia",
+        "year": 1972
+      },
+      {
+        "title": "Soy",
+        "year": 1973
+      },
+      {
+        "title": "A flor de piel",
+        "year": 1974
+      },
+      {
+        "title": "A México",
+        "year": 1975
+      },
+      {
+        "title": "El amor",
+        "year": 1975
+      },
+      {
+        "title": "America",
+        "year": 1976
+      },
+      {
+        "title": "A mis 33 años",
+        "year": 1977
+      },
+      {
+        "title": "Emociones",
+        "year": 1978
+      },
+      {
+        "title": "À vous les femmes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Gwendolyne",
+      "Un canto a Galicia",
+      "Cucurrucucú paloma",
+      "Pauvres diables"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Iglesias represented Spain in the 1970 Eurovision Song Contest with the ballad 'Gwendolyne.'",
+      "Before his singing career, he was a professional goalkeeper for the Real Madrid youth team.",
+      "He is recognized as one of the most commercially successful Spanish-language singers in music history."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julio_Iglesias",
+    "youtube_search": "Julio Iglesias Gwendolyne",
+    "tags": [
+      "pop",
+      "latin-pop",
+      "spanish"
+    ]
+  },
+  {
+    "id": "kim-carnes",
+    "name": "Kim Carnes",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "Kim Carnes established her solo career in the 1970s as a distinctive singer-songwriter with a unique, raspy vocal style. Her sound during this period was a blend of soft rock and melodic pop, often collaborating with other major artists of the era. While her biggest global success would come at the end of the decade, her 1970s output solidified her reputation as a soulful and prolific songwriter.",
+    "key_albums_70s": [
+      {
+        "title": "Rest on Me",
+        "year": 1971
+      },
+      {
+        "title": "Kim Carnes",
+        "year": 1975
+      },
+      {
+        "title": "Sailin'",
+        "year": 1976
+      },
+      {
+        "title": "St. Vincent's Court",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Nobody Knows",
+      "You're a Part of Me",
+      "Love Comes from Unexpected Places",
+      "It Hurts So Bad"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Carnes toured the world as an opening act for David Cassidy in the early 1970s.",
+      "She and her husband Dave Ellingson co-wrote several songs for Cassidy's 1970s studio albums.",
+      "Her first chart hit, 'You're a Part of Me,' reached No. 32 on the Billboard Adult Contemporary chart in 1975."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Carnes",
+    "youtube_search": "Kim Carnes You're a Part of Me",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "songwriter"
+    ]
+  },
+  {
+    "id": "leif-garrett",
+    "name": "Leif Garrett",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Hollywood, California, U.S.",
+    "formed": 1968,
+    "active_70s": true,
+    "description": "Garrett became a preeminent teen idol in the late 1970s, transitioning from a childhood acting career into a massive music phenomenon. His sound was initially built on bubblegum-pop covers of 1950s and early 60s hits before he found major success with disco-oriented tracks. He was a staple of teenage magazines and television specials, representing the peak of teen idol hysteria during the decade's final years.",
+    "key_albums_70s": [
+      {
+        "title": "Leif Garrett",
+        "year": 1977
+      },
+      {
+        "title": "Feel the Need",
+        "year": 1978
+      },
+      {
+        "title": "Same Goes for You",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Come Back When You Grow Up",
+      "Surfin' USA",
+      "Runaround Sue",
+      "The Wanderer",
+      "I Was Made for Dancin'",
+      "Feel the Need"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In his autobiography, Garrett revealed that session singer Jim Haas actually replaced his vocals entirely on multiple tracks on his early albums.",
+      "Garrett's greatest international hit, 'I Was Made for Dancin'', reached the top ten in both the United States and the United Kingdom in early 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leif_Garrett",
+    "youtube_search": "Leif Garrett I Was Made for Dancin'",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "looking-glass",
+    "name": "Looking Glass",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "New Brunswick, New Jersey, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "Looking Glass was an American pop-rock group that emerged from the New Jersey music scene with a signature 'Jersey Shore' sound. They achieved a major number-one hit with the melodic seafaring ballad 'Brandy (You're a Fine Girl)' in 1972. Their music blended soft-rock sensibilities with subtle country-rock influences, making them a defining part of the early-70s radio landscape.",
+    "members_70s": [
+      "Elliot Lurie",
+      "Larry Gonsky",
+      "Pieter Sweval",
+      "Jeff Grob",
+      "Brendan Harkin"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Looking Glass",
+        "year": 1972
+      },
+      {
+        "title": "Subway Serenade",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "Brandy (You're a Fine Girl)",
+      "Golden Rainbow",
+      "Rainbow Man",
+      "Jimmy Loves Mary-Anne"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's signature hit 'Brandy (You're a Fine Girl)' topped the Billboard Hot 100 for one week and was certified gold in August 1972.",
+      "The group originally formed at Rutgers University in 1969 before the core lineup of Lurie, Gonsky, Grob, and Sweval established their classic sound."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Looking_Glass_(band)",
+    "youtube_search": "Looking Glass Brandy You're a Fine Girl",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "band"
+    ]
+  },
+  {
+    "id": "marie-osmond",
+    "name": "Marie Osmond",
+    "genre": "pop",
+    "subgenre": "country-pop",
+    "origin": "Ogden, Utah, U.S.",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Marie Osmond achieved instant stardom in the early 1970s as a wholesome country-pop crossover artist. She became the youngest female act to top the country charts with her debut single 'Paper Roses' at just 14 years old. Throughout the decade, she maintained a successful career as both a solo artist and a duet partner to her brother Donny, becoming a household name through their joint television variety show.",
+    "key_albums_70s": [
+      {
+        "title": "Paper Roses",
+        "year": 1973
+      },
+      {
+        "title": "In My Little Corner of the World",
+        "year": 1974
+      },
+      {
+        "title": "Who's Sorry Now",
+        "year": 1975
+      },
+      {
+        "title": "This Is the Way That I Feel",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Paper Roses",
+      "In My Little Corner of the World",
+      "Who's Sorry Now",
+      "I'm Leaving It All Up to You",
+      "Morning Side of the Mountain",
+      "Deep Purple"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Marie was the eighth of nine children and the only daughter born into the famous Osmond family of musicians.",
+      "She was considered for the role of Sandy in the film version of Grease but declined, later explaining that she felt the character was too edgy for her image."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Osmond",
+    "youtube_search": "Marie Osmond Paper Roses",
+    "tags": [
+      "pop",
+      "country-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "maureen-mcgovern",
+    "name": "Maureen McGovern",
+    "genre": "pop",
+    "subgenre": "adult-contemporary",
+    "origin": "Youngstown, Ohio, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "McGovern became the defining voice of cinematic disaster themes in the 1970s, achieving massive success with dramatic, lush ballads. Her powerful soprano was featured on Oscar-winning tracks like 'The Morning After' and 'We May Never Love Like This Again.' She successfully balanced high-profile film theme recordings with traditional pop hits and a later transition into Broadway musical theatre.",
+    "key_albums_70s": [
+      {
+        "title": "The Morning After",
+        "year": 1973
+      },
+      {
+        "title": "Nice to Be Around",
+        "year": 1974
+      },
+      {
+        "title": "Academy Award Performance: And the Envelope, Please",
+        "year": 1975
+      },
+      {
+        "title": "Maureen McGovern",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "The Morning After",
+      "I Won't Last a Day Without You",
+      "Give Me a Reason to Be Gone",
+      "We May Never Love Like This Again",
+      "The Continental",
+      "Different Worlds"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "McGovern was hired sight unseen to record the theme for 'The Poseidon Adventure' after the label head heard her demo tape.",
+      "During a brief decline in her music career in the late 1970s, she took a secretarial job under the assumed name Glenda Schwartz before returning to hit-making."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maureen_McGovern",
+    "youtube_search": "Maureen McGovern The Morning After",
+    "tags": [
+      "pop",
+      "adult-contemporary",
+      "iconic"
+    ]
+  },
+  {
+    "id": "middle-of-the-road",
+    "name": "Middle of the Road",
+    "genre": "pop",
+    "subgenre": "bubblegum-pop",
+    "origin": "Glasgow, Scotland, UK",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Middle of the Road was a Scottish quartet that pioneered the Europop sound in the early 1970s, achieving immense success across the continent before the rise of ABBA. Their sound featured bright, infectious bubblegum melodies and polished vocal harmonies led by Sally Carr. They were particularly dominant in the UK and German markets, selling millions of records with their distinctive, upbeat pop style.",
+    "members_70s": [
+      "Sally Carr",
+      "Ken Andrew",
+      "Ian McCredie",
+      "Eric McCredie",
+      "Neil Henderson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Middle of the Road",
+        "year": 1971
+      },
+      {
+        "title": "Acceleration",
+        "year": 1972
+      },
+      {
+        "title": "Drive On",
+        "year": 1973
+      },
+      {
+        "title": "Music Music",
+        "year": 1973
+      },
+      {
+        "title": "You Pays Yer Money and You Takes Yer Chance",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Chirpy Chirpy Cheep Cheep",
+      "Sacramento",
+      "Tweedle Dee, Tweedle Dum",
+      "Soley Soley",
+      "Samson and Delilah"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band won the popular UK television talent show Opportunity Knocks under their previous name, Las Caracas.",
+      "Four of their singles sold over one million copies each, and by early 1972, the group had sold more than five million records total."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Middle_of_the_Road_(band)",
+    "youtube_search": "Middle of the Road Chirpy Chirpy Cheep Cheep",
+    "tags": [
+      "pop",
+      "bubblegum-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "mud",
+    "name": "Mud",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Carshalton, Greater London, England, UK",
+    "formed": 1966,
+    "active_70s": true,
+    "description": "Mud was one of the most commercially successful British glam rock bands of the mid-1970s, known for their high-energy rock-and-roll pastiches. Partnering with the hit-making production team of Chinn and Chapman, they achieved numerous UK number-one hits and top-ten singles. Their sound combined retro 1950s rock-and-roll aesthetics with the colorful, theatrical energy of the glam era.",
+    "members_70s": [
+      "Rob Davis",
+      "Les Gray",
+      "Dave Mount",
+      "Ray Stiles",
+      "Andy Ball",
+      "Brian Tatum"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mud Rock",
+        "year": 1974
+      },
+      {
+        "title": "Mud Rock Vol. 2",
+        "year": 1975
+      },
+      {
+        "title": "Use Your Imagination",
+        "year": 1975
+      },
+      {
+        "title": "It's Better Than Working",
+        "year": 1976
+      },
+      {
+        "title": "Rock On",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Dyna-mite",
+      "Tiger Feet",
+      "The Cat Crept In",
+      "Rocket",
+      "Lonely This Christmas",
+      "Oh Boy",
+      "Shake It Down",
+      "Lean on Me"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "In 1975, Mud achieved seven singles in the UK Top 40, which was the highest number for any artist that year.",
+      "Their 1974 Christmas number-one hit, 'Lonely This Christmas', was written specifically as an affectionate vocal pastiche of Elvis Presley."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mud_(band)",
+    "youtube_search": "Mud Tiger Feet",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "mungo-jerry",
+    "name": "Mungo Jerry",
+    "genre": "pop",
+    "subgenre": "folk-pop",
+    "origin": "Ashford, Middlesex, England, UK",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Mungo Jerry exploded onto the pop scene in 1970 with a global phenomenon that blended blues, jug band music, and folk-pop. Led by the charismatic Ray Dorset, the group was famous for its 'good-time' sound and hit singles that utilized washboards and banjos. They remained a major force in the UK and European charts throughout the early-to-mid 1970s with their eclectic and often unpredictable musical style.",
+    "members_70s": [
+      "Ray Dorset",
+      "Colin Earl",
+      "Paul King",
+      "Mike Cole",
+      "John Godfrey",
+      "Joe Rush"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Mungo Jerry",
+        "year": 1970
+      },
+      {
+        "title": "Electronically Tested",
+        "year": 1971
+      },
+      {
+        "title": "You Don't Have to Be in the Army",
+        "year": 1971
+      },
+      {
+        "title": "Boot Power",
+        "year": 1972
+      },
+      {
+        "title": "Long Legged Woman",
+        "year": 1974
+      },
+      {
+        "title": "Impala Saga",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "In the Summertime",
+      "Baby Jump",
+      "Lady Rose",
+      "You Don't Have to Be in the Army to Fight in the War",
+      "Open Up",
+      "Alright, Alright, Alright",
+      "Long Legged Woman Dressed in Black"
+    ],
+    "mood": [
+      "happy",
+      "rebellious"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their massive global hit 'In the Summertime' was the first maxi-single ever released in the world.",
+      "The group's name was inspired by the poem 'Mungojerrie and Rumpleteazer' from T. S. Eliot's Old Possum's Book of Practical Cats."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mungo_Jerry",
+    "youtube_search": "Mungo Jerry In the Summertime",
+    "tags": [
+      "pop",
+      "folk-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "paper-lace",
+    "name": "Paper Lace",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Nottingham, England, UK",
+    "formed": 1967,
+    "active_70s": true,
+    "description": "Paper Lace was an English pop-rock band that achieved major international fame in 1974 with a series of successful story-songs. They rose to prominence via the television talent show Opportunity Knocks and quickly topped the charts with dramatic, narrative-driven pop hits. The band achieved the rare distinction of having number-one hits in both the UK and the US during their mid-70s peak.",
+    "members_70s": [
+      "Phil Wright",
+      "Mick Vaughan",
+      "Cliff Fish",
+      "Chris Morris",
+      "Carlo Paul Santanna"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "First Edition",
+        "year": 1972
+      },
+      {
+        "title": "Paper Lace and Other Bits of Material",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Billy Don't Be a Hero",
+      "The Night Chicago Died",
+      "The Black-Eyed Boys",
+      "Hitchin' a Ride '75",
+      "We've Got the Whole World in Our Hands"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "party"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band won the talent competition Opportunity Knocks for five consecutive weeks in 1973 before being offered 'Billy Don't Be a Hero'.",
+      "Their song 'The Night Chicago Died' reached number one on the Billboard Hot 100 and sold over three million copies despite being a historically inaccurate tale."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paper_Lace",
+    "youtube_search": "Paper Lace The Night Chicago Died",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "band"
+    ]
+  },
+  {
+    "id": "pilot",
+    "name": "Pilot",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Edinburgh, Scotland, UK",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Scottish pop group formed from former members of the Bay City Rollers that achieved considerable success in the mid-1970s with a series of hook-laden, melody-driven singles. Their crisp, clean production style and strong harmonic sense gave them a distinctive sound that sat comfortably between glam pop and mainstream rock. They were among the most commercially successful Scottish pop acts of the decade.",
+    "members_70s": [
+      "David Paton",
+      "Billy Lyall",
+      "Stuart Tosh",
+      "Ian Bairnson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "From the Album of the Same Name",
+        "year": 1974
+      },
+      {
+        "title": "Second Flight",
+        "year": 1975
+      },
+      {
+        "title": "Morin Heights",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Magic",
+      "January",
+      "Call Me Round",
+      "Just a Smile"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "mid-70s"
+    ],
+    "trivia": [
+      "'Magic' reached number eleven on the Billboard Hot 100 in 1975 and topped the charts in several European countries, becoming the group's signature international hit.",
+      "Guitarist Ian Bairnson and bassist David Paton went on to become prominent session musicians, most notably as core members of Alan Parsons' studio team on the Alan Parsons Project recordings."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilot_(band)",
+    "youtube_search": "Pilot Magic 1974",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "uk-pop"
+    ]
+  },
+  {
+    "id": "rex-smith",
+    "name": "Rex Smith",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Jacksonville, Florida, U.S.",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Smith emerged as a massive American teen idol in the late 1970s, achieving major chart success with polished soft-rock and pop ballads. He balanced a recording career with high-profile roles in television films and on the Broadway stage. His signature sound was quintessential late-70s adult contemporary pop, characterized by romantic themes that dominated teen fan magazines of the era.",
+    "key_albums_70s": [
+      {
+        "title": "Rex",
+        "year": 1976
+      },
+      {
+        "title": "Where Do We Go from Here",
+        "year": 1977
+      },
+      {
+        "title": "Sooner or Later",
+        "year": 1979
+      },
+      {
+        "title": "Forever",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "You Take My Breath Away",
+      "Simply Jessie",
+      "Forever",
+      "Let's Make a Memory"
+    ],
+    "mood": [
+      "romantic",
+      "melancholy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Smith made his Broadway acting debut in the lead role of Danny Zuko in Grease in 1979.",
+      "His hit single 'You Take My Breath Away' was featured in the television film Sooner or Later and became a gold-certified top ten hit in 1979."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rex_Smith",
+    "youtube_search": "Rex Smith You Take My Breath Away",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "rita-coolidge",
+    "name": "Rita Coolidge",
+    "genre": "pop",
+    "subgenre": "country-pop",
+    "origin": "Lafayette, Tennessee, U.S.",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "After establishing herself as a legendary backing vocalist for rock's elite, Coolidge launched a major solo career characterized by a sophisticated blend of pop, country, and soul. Known as 'The Delta Lady,' her smooth, husky baritone vocals defined the adult contemporary radio sound of the late 1970s. She achieved consecutive top-ten hits and won two Grammy Awards during the decade for her work as both a soloist and a duet partner.",
+    "key_albums_70s": [
+      {
+        "title": "Rita Coolidge",
+        "year": 1971
+      },
+      {
+        "title": "The Lady's Not for Sale",
+        "year": 1972
+      },
+      {
+        "title": "Fall into Spring",
+        "year": 1974
+      },
+      {
+        "title": "Anytime...Anywhere",
+        "year": 1977
+      },
+      {
+        "title": "Love Me Again",
+        "year": 1978
+      },
+      {
+        "title": "Satisfied",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Fever",
+      "Loving Arms",
+      "Lover Please",
+      "(Your Love Keeps Lifting Me) Higher and Higher",
+      "We're All Alone",
+      "The Way You Do The Things You Do",
+      "You"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Coolidge did not receive credit for composing the famous piano coda of the hit 'Layla' despite recording the melody first as a demo with her then-boyfriend.",
+      "She won two Grammy Awards with her then-husband Kris Kristofferson for Best Country Performance by a Duo or Group in 1974 and 1976."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rita_Coolidge",
+    "youtube_search": "Rita Coolidge We're All Alone",
+    "tags": [
+      "pop",
+      "country-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "roxy-music",
+    "name": "Roxy Music",
+    "genre": "pop",
+    "subgenre": "art-pop",
+    "origin": "London, England, UK",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Roxy Music was a pioneering force in the 1970s, blending avant-garde art-rock with a glamorous, fashion-forward visual aesthetic. Led by Bryan Ferry, the group pioneered sophisticated elements of glam rock and significantly influenced the later punk and new wave movements. Their sound evolved from experimental electronic composition toward a refined and highly influential art-pop style by the end of the decade.",
+    "members_70s": [
+      "Bryan Ferry",
+      "Andy Mackay",
+      "Brian Eno",
+      "Graham Simpson",
+      "Paul Thompson",
+      "Phil Manzanera",
+      "Eddie Jobson"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Roxy Music",
+        "year": 1972
+      },
+      {
+        "title": "For Your Pleasure",
+        "year": 1973
+      },
+      {
+        "title": "Stranded",
+        "year": 1973
+      },
+      {
+        "title": "Country Life",
+        "year": 1974
+      },
+      {
+        "title": "Siren",
+        "year": 1975
+      },
+      {
+        "title": "Manifesto",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Virginia Plain",
+      "Pyjamarama",
+      "Do the Strand",
+      "Street Life",
+      "All I Want Is You",
+      "Love Is the Drug",
+      "Dance Away",
+      "Angel Eyes"
+    ],
+    "mood": [
+      "rebellious",
+      "romantic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "rock-out",
+      "dance",
+      "reflect"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Bryan Ferry chose the name 'Roxy' after making a list of old cinemas because it had a resonance of 'faded glamour'.",
+      "The band's 1974 album 'Country Life' was sold in an opaque plastic wrapper in the US because many retailers refused to display the provocative cover artwork."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roxy_Music",
+    "youtube_search": "Roxy Music Love Is the Drug",
+    "tags": [
+      "pop",
+      "art-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "shaun-cassidy",
+    "name": "Shaun Cassidy",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1976,
+    "active_70s": true,
+    "description": "Shaun Cassidy was a quintessential late-70s teen idol, achieving massive multi-platinum success while concurrently starring in a hit television series. His sound revitalized classic rock-and-roll and bubblegum melodies for a new generation, earning him a Grammy nomination for Best New Artist. Although his peak recording years were brief, he remained a defining cultural icon of the era's teenage fan culture.",
+    "key_albums_70s": [
+      {
+        "title": "Shaun Cassidy",
+        "year": 1976
+      },
+      {
+        "title": "Born Late",
+        "year": 1977
+      },
+      {
+        "title": "Under Wraps",
+        "year": 1978
+      },
+      {
+        "title": "Room Service",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Da Doo Ron Ron",
+      "That's Rock 'n' Roll",
+      "Hey Deanie",
+      "Do You Believe in Magic",
+      "Our Night",
+      "Midnight Sun"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "party",
+      "dance"
+    ],
+    "era": [
+      "late-70s"
+    ],
+    "trivia": [
+      "While still in high school, Cassidy signed a recording contract and earned a number-one hit with a cover of 'Da Doo Ron Ron'.",
+      "He starred as Joe Hardy in the ABC television series 'The Hardy Boys Mysteries' from 1977 to 1979 alongside his music career."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shaun_Cassidy",
+    "youtube_search": "Shaun Cassidy Da Doo Ron Ron",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "showaddywaddy",
+    "name": "Showaddywaddy",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Leicester, England, UK",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "Showaddywaddy was a prolific British group that specialized in energetic revivals of 1950s and early 60s rock-and-roll. They became fixtures of mid-to-late 1970s pop culture, known for their colorful teddy boy outfits and synchronized choreography. Their sound offered a polished, nostalgic alternative to harder rock styles, resulting in ten top-ten singles and consistent chart dominance in the UK.",
+    "members_70s": [
+      "Dave Bartram",
+      "Trevor Oakes",
+      "Al James",
+      "Romeo Challenger",
+      "Buddy Gask",
+      "Russ Field",
+      "Rod Deas",
+      "Malcolm Allured"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Showaddywaddy",
+        "year": 1974
+      },
+      {
+        "title": "Step Two",
+        "year": 1975
+      },
+      {
+        "title": "Trocadero",
+        "year": 1976
+      },
+      {
+        "title": "Red Star",
+        "year": 1977
+      },
+      {
+        "title": "Crepes & Drapes",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "Hey Rock and Roll",
+      "Three Steps to Heaven",
+      "Heartbeat",
+      "Under the Moon of Love",
+      "When",
+      "You Got What It Takes",
+      "Dancin' Party"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up"
+    ],
+    "vibe": [
+      "party",
+      "rock-out"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band was formed by the amalgamation of two separate groups, Choise and the Golden Hammers, who both played at the same pub in Leicester.",
+      "They spent 209 weeks on the UK Singles Chart and had seven successive top-five entries during their 1970s heyday."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Showaddywaddy",
+    "youtube_search": "Showaddywaddy Under the Moon of Love",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "band"
+    ]
+  },
+  {
+    "id": "starland-vocal-band",
+    "name": "Starland Vocal Band",
+    "genre": "pop",
+    "subgenre": "soft-pop",
+    "origin": "Washington, D.C., U.S.",
+    "formed": 1975,
+    "active_70s": true,
+    "description": "Starland Vocal Band achieved massive fame in the mid-1970s with their intricate vocal harmonies and soft-rock sensibilities. They are best known for the global number-one hit 'Afternoon Delight,' which became one of the biggest-selling singles of 1976. The group won two Grammy Awards, including Best New Artist, and briefly hosted their own network variety show during the height of their popularity.",
+    "members_70s": [
+      "Bill Danoff",
+      "Taffy Nivert",
+      "Jon Carroll",
+      "Margot Chapman"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Starland Vocal Band",
+        "year": 1976
+      },
+      {
+        "title": "Rear View Mirror",
+        "year": 1977
+      },
+      {
+        "title": "Late Nite Radio",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Afternoon Delight",
+      "California Day",
+      "Hail! Hail! Rock and Roll!",
+      "Late Nite Radio"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "chill",
+      "reflect"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group's signature hit 'Afternoon Delight' won a Grammy Award for Best Arrangement for Voices and was named one of the sexiest songs of all time by Billboard.",
+      "A young David Letterman was a regular performer and writer for the band's 1977 summer variety show on CBS."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Starland_Vocal_Band",
+    "youtube_search": "Starland Vocal Band Afternoon Delight",
+    "tags": [
+      "pop",
+      "soft-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "the-fifth-dimension",
+    "name": "The 5th Dimension",
+    "genre": "pop",
+    "subgenre": "sunshine-pop",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1965,
+    "active_70s": true,
+    "description": "The 5th Dimension entered the 1970s as a premier crossover vocal group, mastering a blend of R&B, soul, and 'sunshine pop'. Their sound was defined by sophisticated vocal arrangements and the material of celebrated songwriters like Jimmy Webb and Laura Nyro. They achieved significant success on both the pop and R&B charts, maintaining a refined and widely popular presence throughout the first half of the decade.",
+    "members_70s": [
+      "Lamonte McLemore",
+      "Marilyn McCoo",
+      "Florence LaRue",
+      "Ronald Townson",
+      "Billy Davis Jr."
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Portrait",
+        "year": 1970
+      },
+      {
+        "title": "Love's Lines, Angles and Rhymes",
+        "year": 1971
+      },
+      {
+        "title": "Individually & Collectively",
+        "year": 1972
+      },
+      {
+        "title": "Living Together, Growing Together",
+        "year": 1973
+      },
+      {
+        "title": "Soul & Inspiration",
+        "year": 1974
+      },
+      {
+        "title": "Earthbound",
+        "year": 1975
+      },
+      {
+        "title": "Star Dancing",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "One Less Bell to Answer",
+      "Love's Lines, Angles and Rhymes",
+      "Never My Love (Live)",
+      "(Last Night) I Didn't Get to Sleep at All",
+      "If I Could Reach You",
+      "Living Together, Growing Together"
+    ],
+    "mood": [
+      "melancholy",
+      "romantic",
+      "happy"
+    ],
+    "vibe": [
+      "chill",
+      "reflect",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The original quintet was twice invited to perform at the White House for President Richard Nixon in the early 1970s.",
+      "Their recorded medley 'The Declaration' was refused airplay on Armed Forces radio because officials believed it advocated overthrowing the government."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_5th_Dimension",
+    "youtube_search": "The 5th Dimension One Less Bell to Answer",
+    "tags": [
+      "pop",
+      "sunshine-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "the-four-seasons",
+    "name": "The Four Seasons",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Newark, New Jersey, U.S.",
+    "formed": 1960,
+    "active_70s": true,
+    "description": "The Four Seasons experienced a major commercial resurgence in the mid-1970s, updating their signature harmony sound for the disco era. With a revised lineup led by Frankie Valli, they achieved massive international hits that topped the charts globally. Their sound transitioned from 1960s doo-wop roots toward a polished, modern pop-rock style that dominated mid-70s radio and television.",
+    "members_70s": [
+      "Frankie Valli",
+      "Bob Gaudio",
+      "Joe Long",
+      "Gerry Polci",
+      "Lee Shapiro",
+      "John Paiva",
+      "Don Ciccone",
+      "Demetri Callas"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Chameleon",
+        "year": 1972
+      },
+      {
+        "title": "Who Loves You",
+        "year": 1975
+      },
+      {
+        "title": "Helicon",
+        "year": 1977
+      }
+    ],
+    "key_songs_70s": [
+      "Who Loves You",
+      "December, 1963 (Oh, What a Night)",
+      "Silver Star",
+      "Down the Hall",
+      "Rhapsody"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "dance",
+      "party",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Frankie Valli personally purchased the master recording of 'My Eyes Adored You' for $4,000 after Motown dropped the band without releasing it.",
+      "The 1975 hit 'December, 1963 (Oh, What a Night)' features drummer Gerry Polci on lead vocals rather than Frankie Valli."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Four_Seasons_(band)",
+    "youtube_search": "The Four Seasons December 1963 Oh What a Night",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "band"
+    ]
+  },
+  {
+    "id": "the-hollies",
+    "name": "The Hollies",
+    "genre": "pop",
+    "subgenre": "pop-rock",
+    "origin": "Manchester, England, UK",
+    "formed": 1962,
+    "active_70s": true,
+    "description": "The Hollies remained a dominant force in 1970s pop-rock, moving beyond their early Merseybeat sound into diverse styles ranging from swamp rock to soulful ballads. Despite major personnel shifts, they maintained a consistent reputation for world-class vocal harmonies and sophisticated musicianship. Their hits during the decade ensured their continued relevance as one of the most resilient acts of the British Invasion era.",
+    "members_70s": [
+      "Allan Clarke",
+      "Tony Hicks",
+      "Bobby Elliott",
+      "Bernie Calvert",
+      "Terry Sylvester",
+      "Mikael Rickfors"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Confessions of the Mind",
+        "year": 1970
+      },
+      {
+        "title": "Distant Light",
+        "year": 1971
+      },
+      {
+        "title": "Romany",
+        "year": 1972
+      },
+      {
+        "title": "Hollies",
+        "year": 1974
+      },
+      {
+        "title": "Another Night",
+        "year": 1975
+      },
+      {
+        "title": "Write On",
+        "year": 1976
+      },
+      {
+        "title": "Russian Roulette",
+        "year": 1976
+      },
+      {
+        "title": "A Crazy Steal",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "He Ain't Heavy, He's My Brother",
+      "I Can't Tell the Bottom from the Top",
+      "Gasoline Alley Bred",
+      "Long Cool Woman in a Black Dress",
+      "Long Dark Road",
+      "The Air That I Breathe"
+    ],
+    "mood": [
+      "melancholy",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibe": [
+      "reflect",
+      "chill",
+      "drive"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Their highest-charting US single, 'Long Cool Woman in a Black Dress', was a Creedence Clearwater Revival-inspired rocker featuring Allan Clarke on lead guitar.",
+      "Future superstar Elton John played piano as a session musician on the band's early 1970s hits 'He Ain't Heavy, He's My Brother' and 'I Can't Tell the Bottom from the Top'."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hollies",
+    "youtube_search": "The Hollies The Air That I Breathe",
+    "tags": [
+      "pop",
+      "pop-rock",
+      "band"
+    ]
+  },
+  {
+    "id": "the-new-seekers",
+    "name": "The New Seekers",
+    "genre": "pop",
+    "subgenre": "folk-pop",
+    "origin": "London, England, UK",
+    "formed": 1969,
+    "active_70s": true,
+    "description": "The New Seekers achieved massive worldwide success in the early 1970s with a polished, harmony-driven sound that blended folk and commercial pop. They became definitive representatives of early-70s mainstream pop, scoring multiple global number-one hits and appearing in major television events. Their music was characterized by clean-cut appeal and upbeat, sing-along melodies that dominated global radio and international competitions.",
+    "members_70s": [
+      "Eve Graham",
+      "Lyn Paul",
+      "Marty Kristian",
+      "Peter Doyle",
+      "Paul Layton",
+      "Peter Oliver"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Beautiful People",
+        "year": 1971
+      },
+      {
+        "title": "New Colours",
+        "year": 1971
+      },
+      {
+        "title": "We'd Like to Teach the World to Sing",
+        "year": 1971
+      },
+      {
+        "title": "Circles",
+        "year": 1972
+      },
+      {
+        "title": "Now",
+        "year": 1973
+      },
+      {
+        "title": "Together",
+        "year": 1974
+      },
+      {
+        "title": "Together Again",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "Never Ending Song of Love",
+      "I'd Like to Teach the World to Sing",
+      "Beg, Steal or Borrow",
+      "Circles",
+      "Pinball Wizard",
+      "You Won't Find Another Fool Like Me"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The group's most recognized song, 'I'd Like to Teach the World to Sing', was originally recorded as a Coca-Cola advertising jingle.",
+      "They represented the United Kingdom in the 1972 Eurovision Song Contest with the song 'Beg, Steal or Borrow' and finished in second place."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_New_Seekers",
+    "youtube_search": "The New Seekers I'd Like to Teach the World to Sing",
+    "tags": [
+      "pop",
+      "folk-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "the-osmonds",
+    "name": "The Osmonds",
+    "genre": "pop",
+    "subgenre": "teen-pop",
+    "origin": "Ogden, Utah, U.S.",
+    "formed": 1958,
+    "active_70s": true,
+    "description": "The Osmonds were a massive pop phenomenon of the early 1970s, evolving from child variety performers into global teen idols and versatile rock musicians. Their sound evolved rapidly from bubblegum soul toward harder rock and progressive concepts, creating 'Osmondmania' across the UK and the US. They remained one of the era's most successful family acts, balancing group success with the solo stardom of individual family members.",
+    "members_70s": [
+      "Alan Osmond",
+      "Wayne Osmond",
+      "Merrill Osmond",
+      "Jay Osmond",
+      "Donny Osmond"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Osmonds",
+        "year": 1970
+      },
+      {
+        "title": "Homemade",
+        "year": 1971
+      },
+      {
+        "title": "Phase III",
+        "year": 1972
+      },
+      {
+        "title": "Crazy Horses",
+        "year": 1972
+      },
+      {
+        "title": "The Plan",
+        "year": 1973
+      },
+      {
+        "title": "Love Me for a Reason",
+        "year": 1974
+      },
+      {
+        "title": "The Proud One",
+        "year": 1975
+      },
+      {
+        "title": "Brainstorm",
+        "year": 1976
+      }
+    ],
+    "key_songs_70s": [
+      "One Bad Apple",
+      "Yo-Yo",
+      "Down by the Lazy River",
+      "Hold Her Tight",
+      "Crazy Horses",
+      "Goin' Home",
+      "Love Me for a Reason",
+      "The Proud One"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "rock-out",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The family was exempted from traditional missionary service because their high-profile music career served as a publicity boon for their church.",
+      "Elvis Presley personally recommended that the brothers wear sequined jumpsuits for their stage shows, which became their signature 1970s look."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Osmonds",
+    "youtube_search": "The Osmonds One Bad Apple",
+    "tags": [
+      "pop",
+      "teen-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "the-partridge-family",
+    "name": "The Partridge Family",
+    "genre": "pop",
+    "subgenre": "bubblegum-pop",
+    "origin": "Los Angeles, California, U.S.",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "The Partridge Family was a fictional television group that became a real-world multi-platinum musical sensation, driven by the star power of David Cassidy. Their sound defined early-1970s bubblegum pop, featuring infectious hooks and polished production by legendary studio musicians. They achieved massive commercial success and produced several defining pop hits of the decade before the series concluded its run.",
+    "members_70s": [
+      "David Cassidy",
+      "Shirley Jones",
+      "Susan Dey",
+      "Danny Bonaduce",
+      "Suzanne Crough",
+      "Jeremy Gelbwaks",
+      "Brian Forster"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Partridge Family Album",
+        "year": 1970
+      },
+      {
+        "title": "Up to Date",
+        "year": 1971
+      },
+      {
+        "title": "Sound Magazine",
+        "year": 1971
+      },
+      {
+        "title": "A Partridge Family Christmas Card",
+        "year": 1971
+      },
+      {
+        "title": "Shopping Bag",
+        "year": 1972
+      },
+      {
+        "title": "The Partridge Family Notebook",
+        "year": 1972
+      },
+      {
+        "title": "Crossword Puzzle",
+        "year": 1973
+      },
+      {
+        "title": "Bulletin Board",
+        "year": 1973
+      }
+    ],
+    "key_songs_70s": [
+      "I Think I Love You",
+      "Doesn't Somebody Want to Be Wanted",
+      "I'll Meet You Halfway",
+      "I Woke Up in Love This Morning",
+      "It's One of Those Nights (Yes Love)",
+      "Breaking Up Is Hard to Do"
+    ],
+    "mood": [
+      "happy",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "drive",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "Their debut single 'I Think I Love You' sold more than five million copies and reached number one on the Billboard Hot 100 in late 1970.",
+      "David Cassidy was the only cast member permitted to record his own vocals for the albums after demonstrating his singing talent to producers."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Partridge_Family",
+    "youtube_search": "The Partridge Family I Think I Love You",
+    "tags": [
+      "pop",
+      "bubblegum-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "the-real-thing",
+    "name": "The Real Thing",
+    "genre": "pop",
+    "subgenre": "uk-pop",
+    "origin": "Liverpool, England, UK",
+    "formed": 1970,
+    "active_70s": true,
+    "description": "Liverpool soul-pop group who became one of the most successful Black British acts of the 1970s with a string of uplifting, melodically sophisticated singles. Their music blended American soul influences with British pop songwriting craft, giving them a sound that crossed racial and cultural boundaries with notable commercial success. They were pioneers in the representation of Black British identity in mainstream popular music.",
+    "members_70s": [
+      "Chris Amoo",
+      "Dave Smith",
+      "Eddie Amoo",
+      "Ray Lake"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "The Real Thing",
+        "year": 1976
+      },
+      {
+        "title": "4 from 8",
+        "year": 1977
+      },
+      {
+        "title": "Step Into Our World",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "You to Me Are Everything",
+      "Can't Get By Without You",
+      "Whenever You Want My Love",
+      "Let's Go Disco"
+    ],
+    "mood": [
+      "happy",
+      "romantic"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "'You to Me Are Everything' reached number one on the UK Singles Chart in June 1976 and is regarded as one of the defining British soul-pop recordings of the decade.",
+      "The group were among the first Black British acts to achieve sustained mainstream chart success in the UK, paving the way for a generation of artists who followed."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Real_Thing_(band)",
+    "youtube_search": "The Real Thing You to Me Are Everything",
+    "tags": [
+      "pop",
+      "uk-pop",
+      "soul-pop"
+    ]
+  },
+  {
+    "id": "the-rubettes",
+    "name": "The Rubettes",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "England, UK",
+    "formed": 1973,
+    "active_70s": true,
+    "description": "The Rubettes emerged at the end of the glam rock movement, donning trademark white suits and cloth caps while delivering 1950s-influenced pop. Their sound was a blend of doo-wop nostalgia and mid-70s pop melodies, highlighted by high-pitched falsetto vocals. They achieved a massive international number-one hit with their debut and remained a consistent presence on European charts throughout the mid-to-late decade.",
+    "members_70s": [
+      "Alan Williams",
+      "John Richardson",
+      "Mick Clarke",
+      "Tony Thorpe",
+      "Bill Hurd",
+      "Pete Arnesen"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wear It's 'At",
+        "year": 1974
+      },
+      {
+        "title": "We Can Do It",
+        "year": 1975
+      },
+      {
+        "title": "Rubettes",
+        "year": 1975
+      },
+      {
+        "title": "Sign of the Times",
+        "year": 1976
+      },
+      {
+        "title": "Baby I Know",
+        "year": 1977
+      },
+      {
+        "title": "Still Unwinding",
+        "year": 1978
+      }
+    ],
+    "key_songs_70s": [
+      "Sugar Baby Love",
+      "Tonight",
+      "Juke Box Jive",
+      "I Can Do It",
+      "Foe-Dee-Oh-Dee",
+      "Little Darling",
+      "You're the Reason Why",
+      "Baby I Know"
+    ],
+    "mood": [
+      "happy",
+      "nostalgic",
+      "pumped-up"
+    ],
+    "vibe": [
+      "dance",
+      "party"
+    ],
+    "era": [
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "The band's distinctive white cloth caps were originally a practical addition to hide the members' long hair, which did not suit the planned image.",
+      "Their debut hit 'Sugar Baby Love' was recorded by studio session musicians and reached number one in the UK for four weeks in May 1974."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rubettes",
+    "youtube_search": "The Rubettes Sugar Baby Love",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "band"
+    ]
+  },
+  {
+    "id": "tom-jones",
+    "name": "Tom Jones",
+    "genre": "pop",
+    "subgenre": "traditional-pop",
+    "origin": "Treforest, Wales, UK",
+    "formed": 1963,
+    "active_70s": true,
+    "description": "Tom Jones entered the 1970s as a definitive sex symbol and international superstar, known for his powerful baritone and electric stage presence. During the decade, he successfully balanced a high-profile television variety show with massive Las Vegas residencies and a string of contemporary pop and country hits. His sound evolved from 1960s crooning into soulful adult contemporary and country-pop styles that maintained his global appeal.",
+    "key_albums_70s": [
+      {
+        "title": "Tom",
+        "year": 1970
+      },
+      {
+        "title": "I Who Have Nothing",
+        "year": 1970
+      },
+      {
+        "title": "She's a Lady",
+        "year": 1971
+      },
+      {
+        "title": "Tom Jones Close Up",
+        "year": 1972
+      },
+      {
+        "title": "Somethin' 'Bout You Baby I Like",
+        "year": 1974
+      },
+      {
+        "title": "Memories Don't Leave Like People Do",
+        "year": 1975
+      },
+      {
+        "title": "Say You'll Stay Until Tomorrow",
+        "year": 1977
+      },
+      {
+        "title": "Rescue Me",
+        "year": 1979
+      }
+    ],
+    "key_songs_70s": [
+      "I Who Have Nothing",
+      "She's a Lady",
+      "Till",
+      "The Young New Mexican Puppeteer",
+      "Letter to Lucille",
+      "Say You'll Stay Until Tomorrow"
+    ],
+    "mood": [
+      "pumped-up",
+      "romantic",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "reflect",
+      "chill"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s",
+      "late-70s"
+    ],
+    "trivia": [
+      "Jones became a tax exile in 1974, moving to Los Angeles to avoid a 98% income tax rate imposed by the UK government.",
+      "His 1976 single 'Say You'll Stay Until Tomorrow' was a major crossover success, reaching number one on the US country chart."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Jones_(singer)",
+    "youtube_search": "Tom Jones She's a Lady",
+    "tags": [
+      "pop",
+      "traditional-pop",
+      "iconic"
+    ]
+  },
+  {
+    "id": "wizzard",
+    "name": "Wizzard",
+    "genre": "pop",
+    "subgenre": "glam-pop",
+    "origin": "Birmingham, Warwickshire, England, UK",
+    "formed": 1972,
+    "active_70s": true,
+    "description": "Formed by Roy Wood after his departure from ELO, Wizzard was one of the most theatrical and musically diverse bands of the glam rock era. Their sound was a dense 'wall of sound' that mixed 1950s rock-and-roll pastiche with avant-garde jazz and classical instrumentation. Famous for their flamboyant stage presence and colorful costumes, they achieved several massive UK number-one hits and an enduring holiday classic.",
+    "members_70s": [
+      "Roy Wood",
+      "Mike Burney",
+      "Charlie Grima",
+      "Bill Hunt",
+      "Hugh McDowell",
+      "Nick Pentelow",
+      "Rick Price",
+      "Keith Smart",
+      "Bob Brady"
+    ],
+    "key_albums_70s": [
+      {
+        "title": "Wizzard Brew",
+        "year": 1973
+      },
+      {
+        "title": "Introducing Eddy and the Falcons",
+        "year": 1974
+      }
+    ],
+    "key_songs_70s": [
+      "Ball Park Incident",
+      "See My Baby Jive",
+      "Angel Fingers (A Teen Ballad)",
+      "I Wish It Could Be Christmas Everyday",
+      "Rock 'n' Roll Winter (Loony's Tune)",
+      "Are You Ready to Rock"
+    ],
+    "mood": [
+      "happy",
+      "pumped-up",
+      "nostalgic"
+    ],
+    "vibe": [
+      "party",
+      "rock-out",
+      "dance"
+    ],
+    "era": [
+      "early-70s",
+      "mid-70s"
+    ],
+    "trivia": [
+      "The band's 1974 single 'Rock 'n' Roll Winter' had its release delayed, leading Roy Wood to sarcastically add 'Sorry, the word Spring wouldn't fit' to the record label.",
+      "Wizzard was famously expensive to maintain due to its large lineup and the propensity of keyboardist Bill Hunt to smash pianos during live shows."
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wizzard",
+    "youtube_search": "Wizzard See My Baby Jive",
+    "tags": [
+      "pop",
+      "glam-pop",
+      "band"
+    ]
+  }
+]
