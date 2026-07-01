@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background rounded square -->
+  <rect width="64" height="64" rx="12" fill="#1a1a2e"/>
+  <!-- Vinyl record -->
+  <circle cx="32" cy="32" r="24" fill="#0f0f1a" stroke="#2d3561" stroke-width="1"/>
+  <!-- Grooves -->
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#2d3561" stroke-width="0.8"/>
+  <circle cx="32" cy="32" r="16" fill="none" stroke="#2d3561" stroke-width="0.8"/>
+  <circle cx="32" cy="32" r="12" fill="none" stroke="#2d3561" stroke-width="0.8"/>
+  <!-- Gold label -->
+  <circle cx="32" cy="32" r="8" fill="#f5a623"/>
+  <!-- Center hole -->
+  <circle cx="32" cy="32" r="2" fill="#1a1a2e"/>
+  <!-- Highlight glint -->
+  <path d="M20 20 A24 24 0 0 1 44 20" fill="none" stroke="#e8956d" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+</svg>
