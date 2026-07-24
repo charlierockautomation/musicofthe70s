@@ -305,3 +305,97 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
 .song-list { max-width: 420px; margin: 1rem auto; }
 .song-list li { padding: 0.5rem 0; border-bottom: 1px solid var(--border-subtle); }
 .song-list li:last-child { border-bottom: none; }
+
+/* ---------- Blog: hub grid / category cards ---------- */
+.blog-hero { text-align: center; padding: 2.5rem 0 0.5rem; }
+.blog-hero p { color: var(--text-muted); max-width: 620px; margin: 0.5rem auto 0; }
+
+.category-grid {
+  display: grid; gap: 1.25rem;
+  grid-template-columns: 1fr;
+  margin: 2rem 0;
+}
+@media (min-width: 700px) { .category-grid { grid-template-columns: repeat(3, 1fr); } }
+.category-card { display: flex; flex-direction: column; gap: 0.4rem; }
+.category-card .icon { font-size: 2.2rem; }
+.category-card h3 { color: var(--text-primary); }
+.category-card p { color: var(--text-muted); flex: 1; margin-bottom: 0.75rem; }
+.category-card .cta { color: var(--accent-gold); font-weight: 600; align-self: flex-start; }
+.category-card .cta::after { content: " →"; }
+
+/* ---------- Blog: post cards (listing pages + related posts) ---------- */
+.post-grid {
+  display: grid; gap: 1.5rem;
+  grid-template-columns: 1fr;
+  margin: 2rem 0;
+}
+@media (min-width: 700px) { .post-grid { grid-template-columns: repeat(3, 1fr); } }
+.post-card {
+  display: flex; flex-direction: column; overflow: hidden; padding: 0;
+}
+.post-card .post-thumb {
+  width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  background: var(--bg-elevated); border-bottom: 1px solid var(--border-subtle);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted); font-size: 0.85rem; text-align: center;
+}
+.post-card .post-card-body { padding: 1.25rem; display: flex; flex-direction: column; flex: 1; gap: 0.4rem; }
+.post-card .post-cat { color: var(--accent-warm); font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
+.post-card h3 { color: var(--text-primary); font-size: 1.1rem; }
+.post-card p { color: var(--text-muted); font-size: 0.92rem; flex: 1; margin-bottom: 0.75rem; }
+.post-card .cta { color: var(--accent-gold); font-weight: 600; align-self: flex-start; font-size: 0.92rem; }
+.post-card .cta::after { content: " →"; }
+
+/* ---------- Blog: post template ---------- */
+.post-featured-img {
+  width: 100%; aspect-ratio: 16 / 9; border-radius: var(--radius);
+  background: var(--bg-elevated); border: 1px solid var(--border-subtle);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted); font-size: 0.95rem; text-align: center; padding: 1rem;
+  margin: 1.5rem 0;
+}
+.post-intro { font-size: 1.1rem; color: var(--text-primary); }
+
+.toc-block {
+  background: var(--bg-card); border: 1px solid var(--border-subtle);
+  border-radius: var(--radius); padding: 1.25rem 1.5rem; margin: 1.75rem 0;
+}
+.toc-block h2 { font-size: 1.1rem; margin-bottom: 0.6rem; color: var(--accent-gold); }
+.toc-block ol { list-style: decimal; padding-left: 1.2rem; }
+.toc-block li { margin-bottom: 0.4rem; }
+.toc-block a { color: var(--text-primary); }
+.toc-block a:hover { color: var(--accent-gold); }
+
+.video-embed {
+  position: relative; width: 100%; aspect-ratio: 16 / 9;
+  background: var(--bg-elevated); border: 1px solid var(--border-subtle);
+  border-radius: var(--radius); overflow: hidden; margin: 1.75rem 0;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted); text-align: center; padding: 1rem;
+}
+.video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+/* ---------- Blog: FAQ (visually distinct from body copy) ---------- */
+.faq-block { margin: 2rem 0; }
+.faq-block > h2 { margin-bottom: 1rem; }
+.faq-item {
+  background: var(--bg-card); border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent-gold); border-radius: 10px;
+  padding: 1rem 1.25rem; margin-bottom: 1rem;
+}
+.faq-item h3 {
+  font-family: var(--font-body); font-size: 1rem; font-weight: 700;
+  color: var(--accent-gold); margin-bottom: 0.4rem;
+}
+.faq-item p { color: var(--text-primary); margin-bottom: 0; font-size: 0.95rem; }
+
+/* ---------- Blog: related posts ---------- */
+.related-posts { margin: 3rem 0 1rem; }
+.related-posts h2 { margin-bottom: 1rem; }
+
+/* ---------- Placeholder tag (dev-only visual marker, remove when real content lands) ---------- */
+.placeholder-tag {
+  display: inline-block; background: rgba(232,149,109,0.12); color: var(--accent-warm);
+  border: 1px dashed var(--accent-warm); border-radius: 6px;
+  padding: 0.15rem 0.5rem; font-size: 0.75rem; font-weight: 600; margin-left: 0.5rem;
+}
