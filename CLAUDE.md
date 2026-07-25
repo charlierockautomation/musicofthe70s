@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-07-24 (Prose/Content-Order/Image rules added)
+# Last Updated: 2026-07-25 (Keyword density rule corrected to percentage formula)
 
 ---
 
@@ -81,7 +81,10 @@ This is the most important section in this file. Every post starts here, before 
 3. **Title should lead with the focus keyword** where it reads naturally. Don't force it into an awkward first three words if it breaks readability — but it should appear at or near the front of the title, not buried at the end.
 
 4. **Density — use it correctly, never stuff it:**
-   - Focus keyword: 2–4 natural uses across a 1,200+ word post (roughly once per 300–400 words). That's it. Never more.
+   - Keyword density is calculated as: (number of times the exact focus keyword phrase appears ÷ total word count) × 100.
+   - Example: 10 uses in a 1,000-word post = 1% density.
+   - Target range: 0.5%–2% density is normal and natural. Going over 3% starts to read as spam to readers and should be avoided.
+   - Don't aim for a strict percentage as a hard target. Modern search engines and human readers both prefer natural language over forced placement. Use the 0.5%–2% range as a sanity check against stuffing, not a quota to hit exactly.
    - It MUST appear in: the title, the meta description, the first 100 words of the intro, at least one H2 or H3 heading, and the URL slug.
    - It should NEVER appear in two consecutive sentences, never appear unnaturally (e.g. tacked onto the end of a sentence that doesn't need it), and never appear in a way a human reader would notice as repetitive.
    - Secondary/related keywords (2–3 per post) carry the rest of the semantic weight naturally through the body. This is what actually pushes topical relevance now — not keyword repetition.
@@ -99,7 +102,7 @@ Because this is a static site with no Rank Math or Yoast, "the high 90s" means h
 - [ ] Focus keyword in meta description
 - [ ] Focus keyword in first 100 words
 - [ ] Focus keyword in at least one H2/H3
-- [ ] Focus keyword density 2–4 uses total, never stuffed, never unnatural
+- [ ] Focus keyword density 0.5%–2% (uses ÷ total words × 100), never stuffed, never over 3%
 - [ ] 2–3 secondary keywords woven naturally throughout
 - [ ] Meta description ≤155 characters, includes keyword, written to earn the click (not just descriptive)
 - [ ] Title tag ≤60 characters where possible
@@ -287,3 +290,4 @@ Focus keyword: [keyword — verified against real search phrasing]
 | 2026-07-24 | Footer year fix | © 2025 → © 2026 site-wide, bundled into same commit as blog scaffold (17 files, commit 75dd3dd). |
 | 2026-07-24 | CLAUDE.md created | Master brain file established. Keyword rule (slug word-order matching, density 2-4 uses, no plugin so manual SEO checklist) formalized after catching a mismatch between a drafted focus keyword and slug on the first real post draft. |
 | 2026-07-24 | Prose, content-order, and image rules added | Formalized after reviewing the first real post draft (top-songs-of-1970): (1) image was placed between H1 and intro paragraph, weakening keyword-in-first-100-words signal — content order now fixed in the template; (2) "Artists With Multiple Hits" section was one dense paragraph with 9 parenthetical asides — List Formatting Rule now mandates real bulleted lists for any 3+ item list; (3) featured infographic was 6.3MB unoptimized PNG at 2752x1536, illegible at mobile width — Image Optimization section added requiring compression, WebP, responsive srcset, and explicit mobile-legibility checks for text-dense images. All three added as permanent checklist items, not one-time fixes.
+| 2026-07-25 | Keyword density rule corrected: flat count → percentage formula | The original "2-4 uses across a 1,200+ word post" rule was a flat count that didn't scale across posts of different lengths (a 4,000-word post could still show only 2 uses and read under-optimized, while a 1,200-word post at 4 uses sits near stuffing territory). Replaced with density = (uses ÷ total words) × 100, target range 0.5%-2%, spam threshold above 3%. Framed explicitly as a sanity check against stuffing, not a quota to hit exactly. Matching line in the SEO Scoring Target checklist updated to match.
