@@ -336,7 +336,7 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
   display: flex; flex-direction: column; overflow: hidden; padding: 0;
 }
 .post-card .post-thumb {
-  width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  width: 100%; aspect-ratio: 43 / 24; object-fit: cover;
   background: var(--bg-elevated); border-bottom: 1px solid var(--border-subtle);
   display: flex; align-items: center; justify-content: center;
   color: var(--text-muted); font-size: 0.85rem; text-align: center;
@@ -351,7 +351,7 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
 
 /* ---------- Blog: post template ---------- */
 .post-featured-img {
-  width: 100%; aspect-ratio: 16 / 9; border-radius: var(--radius);
+  width: 100%; aspect-ratio: 43 / 24; border-radius: var(--radius);
   background: var(--bg-elevated); border: 1px solid var(--border-subtle);
   display: flex; align-items: center; justify-content: center;
   color: var(--text-muted); font-size: 0.95rem; text-align: center; padding: 1rem;
