@@ -46,6 +46,7 @@ Never push anything that hasn't been previewed and approved first.
 - Reusable classes already in css/style.css: `.container`, `.section`, `.breadcrumb`, `.page-intro`, `.card`, `.tool-grid`/`.tool-card`, `.badge`/`.badge-gold`, `.seo-content`, `.section-divider`, `.btn-primary`/`.btn-secondary`
 - Blog-specific classes: `.category-grid`/`.category-card`, `.post-grid`/`.post-card`, `.toc-block`, `.video-embed`, `.faq-block`/`.faq-item` (gold left-border, visually distinct from body text), `.related-posts`, `.placeholder-tag`
 - Never add new fonts or colors outside this token set without explicit approval.
+- Blog post spacing: H1 to intro ~24-32px, list to following content ~24-32px, H2 section spacing ~40-48px — consistent across all posts, defined in css/style.css, never inline styles.
 
 ---
 
