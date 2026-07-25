@@ -4,7 +4,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-07-25 (corrected stale status flag on Top Songs of 1970)
+# Last Updated: 2026-07-25 (70s Rock post live; top-songs-of-1970 retrofit pushed and verified live)
 
 ---
 
@@ -56,14 +56,14 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Word Count | Published | Last Updated | Internal Tool Link Used | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | ~1,683 | 2026-07-24 | 2026-07-25 | Birthday #1 Song Finder, 70s Decade Wheel | Verified live via direct fetch 2026-07-25 (HTTP 200, content renders correctly). Related Posts block omitted (no other Live posts to link). NOTE: a local, uncommitted retrofit (content-order fix, list-rebuild for "Artists With Multiple Hits," image optimization/srcset) exists in the working tree but has NOT been pushed — the live version does not yet comply with the content-order, list-formatting, or image-optimization rules added to CLAUDE.md after this post's last push. Flagging as a known gap, not re-marking Built-Local, since the page itself is genuinely live per this file's own Status definition. |
+| 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/index.html | Genres | 70s rock | Live | ~1,628 | 2026-07-25 | 2026-07-25 | Random Artist Picker, Random 70s Song Generator | First Genres post. Verified live via direct fetch 2026-07-25 (HTTP 200, content order H1→intro→image confirmed, optimized image serving). Related Posts block omitted (no other Live post in another category to link, per this file's own rule). Removed from Planned table (superseded the old "rock-music-of-the-70s" placeholder row with corrected, volume-verified keyword). Keyword density 7 uses / 1,628 words = 0.43%, inside the new 0.5%-2% range (see CLAUDE.md Keyword Rule update). |
+| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | ~1,683 | 2026-07-24 | 2026-07-25 | Birthday #1 Song Finder, 70s Decade Wheel | Retrofit pushed and verified live 2026-07-25: content order fixed (image now after intro), "Artists With Multiple Hits" rebuilt as real lists, image optimized (raw 6.3MB PNG replaced with compressed JPG/WebP + srcset, all under 200KB). Previously-flagged compliance gap is now closed. Related Posts block omitted (no other Live posts to link). |
 
 **Planned posts (not yet started — listed so slugs are reserved and duplicates are avoided):**
 
 | Title (working) | Planned URL | Category | Focus Keyword (verify before writing) |
 |---|---|---|---|
 | Top Songs of the 70s (all-decade ranked list) | /blog/songs/top-songs-of-the-70s/ | Songs | top songs of the 70s |
-| Rock Music of the 70s | /blog/genres/rock-music-of-the-70s/ | Genres | rock music of the 70s |
 | Disco Music of the 70s | /blog/genres/disco-music-of-the-70s/ | Genres | disco music of the 70s |
 | 70s Music Trivia Questions | /blog/trivia/70s-music-trivia-questions/ | Trivia | 70s music trivia questions |
 | [Artist spotlight — TBD which artist] | /blog/artists/[slug]/ | Artists | TBD |
@@ -83,7 +83,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 6
-- Total published blog posts: 1 (confirmed Live)
+- Total published blog posts: 2 (both confirmed Live)
 - Total placeholder/in-progress posts: 0
 - Last full site audit: 2026-07-25
 
