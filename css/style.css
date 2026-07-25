@@ -339,6 +339,7 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
   display: flex; align-items: center; justify-content: center;
   color: var(--text-muted); font-size: 0.85rem; text-align: center;
 }
+img.post-thumb { display: block; padding: 0; }
 .post-card .post-card-body { padding: 1.25rem; display: flex; flex-direction: column; flex: 1; gap: 0.4rem; }
 .post-card .post-cat { color: var(--accent-warm); font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
 .post-card h3 { color: var(--text-primary); font-size: 1.1rem; }
@@ -354,6 +355,8 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
   color: var(--text-muted); font-size: 0.95rem; text-align: center; padding: 1rem;
   margin: 1.5rem 0;
 }
+img.post-featured-img { object-fit: cover; padding: 0; }
+.post-img-caption { color: var(--text-muted); font-size: 0.85rem; text-align: center; margin: -1rem 0 1.5rem; }
 .post-intro { font-size: 1.1rem; color: var(--text-primary); }
 
 .toc-block {

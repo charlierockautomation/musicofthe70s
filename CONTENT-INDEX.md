@@ -4,7 +4,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-07-24
+# Last Updated: 2026-07-24 (post-build, pre-push)
 
 ---
 
@@ -56,7 +56,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Word Count | Published | Last Updated | Internal Tool Link Used | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Placeholder | ~850 (draft, not final) | — | 2026-07-24 | Not yet added | Built as /blog/years/1970-in-music/ originally — SLUG NEEDS RENAME to top-songs-of-1970 to match corrected focus keyword. Full draft content written in chat, not yet passed through full CLAUDE.md checklist. See Session Log in CLAUDE.md. |
+| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Built-Local (pending push + verify → Live) | ~1,550 | 2026-07-24 | 2026-07-24 | Birthday #1 Song Finder, 70s Decade Wheel | Full post built per CLAUDE.md template. Related Posts block omitted (no other Live posts to link). Status flips to Live once pushed and confirmed on the real site. |
 
 **Planned posts (not yet started — listed so slugs are reserved and duplicates are avoided):**
 
@@ -73,7 +73,9 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 ## Redirect / Legacy URLs (do not reuse these paths)
 
-None currently. Add here if any URL is ever deprecated or renamed, so the old slug is never accidentally reassigned.
+| Old Path | Renamed To | Date | Notes |
+|---|---|---|---|
+| /blog/years/1970-in-music/ | /blog/years/top-songs-of-1970/ | 2026-07-24 | Slug renamed to match corrected focus keyword "top songs of 1970" per Keyword Rule. Never reassign this old path. |
 
 ---
 
@@ -81,8 +83,8 @@ None currently. Add here if any URL is ever deprecated or renamed, so the old sl
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 6
-- Total published blog posts: 0
-- Total placeholder/in-progress posts: 1
+- Total published blog posts: 1 (pending final push + live verification)
+- Total placeholder/in-progress posts: 0
 - Last full site audit: 2026-07-24
 
 ---
