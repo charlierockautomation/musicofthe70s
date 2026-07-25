@@ -4,7 +4,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-07-24 (post-build, pre-push)
+# Last Updated: 2026-07-25 (corrected stale status flag on Top Songs of 1970)
 
 ---
 
@@ -56,7 +56,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Word Count | Published | Last Updated | Internal Tool Link Used | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Built-Local (pending push + verify → Live) | ~1,550 | 2026-07-24 | 2026-07-24 | Birthday #1 Song Finder, 70s Decade Wheel | Full post built per CLAUDE.md template. Related Posts block omitted (no other Live posts to link). Status flips to Live once pushed and confirmed on the real site. |
+| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | ~1,683 | 2026-07-24 | 2026-07-25 | Birthday #1 Song Finder, 70s Decade Wheel | Verified live via direct fetch 2026-07-25 (HTTP 200, content renders correctly). Related Posts block omitted (no other Live posts to link). NOTE: a local, uncommitted retrofit (content-order fix, list-rebuild for "Artists With Multiple Hits," image optimization/srcset) exists in the working tree but has NOT been pushed — the live version does not yet comply with the content-order, list-formatting, or image-optimization rules added to CLAUDE.md after this post's last push. Flagging as a known gap, not re-marking Built-Local, since the page itself is genuinely live per this file's own Status definition. |
 
 **Planned posts (not yet started — listed so slugs are reserved and duplicates are avoided):**
 
@@ -83,9 +83,9 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 6
-- Total published blog posts: 1 (pending final push + live verification)
+- Total published blog posts: 1 (confirmed Live)
 - Total placeholder/in-progress posts: 0
-- Last full site audit: 2026-07-24
+- Last full site audit: 2026-07-25
 
 ---
 
