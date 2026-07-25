@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-07-24
+# Last Updated: 2026-07-24 (Prose/Content-Order/Image rules added)
 
 ---
 
@@ -21,9 +21,9 @@ All SEO is hand-built directly into the HTML — meta tags, schema, headings, in
 - Google Search Console: verified and linked to GA4
 
 ### Preview Workflow (every time, before pushing)
-```
+
 cd ~/musicofthe70s.net && python3 -m http.server 8000 &
-```
+
 Run in background so it survives other terminal commands.
 Preview at http://localhost:8000/[path]
 Kill with the process ID or a fresh terminal tab once approved — never leave it running unnecessarily.
@@ -51,14 +51,13 @@ Never push anything that hasn't been previewed and approved first.
 
 ## URL Structure
 
-```
-/blog/index.html                    (hub)
-/blog/genres/                       (rock-music-of-the-70s, disco-and-dance, rb-and-soul, etc.)
-/blog/songs/                        (top-songs-of-1970, best-70s-one-hit-wonders, etc.)
+/blog/index.html (hub)
+/blog/genres/ (rock-music-of-the-70s, disco-and-dance, rb-and-soul, etc.)
+/blog/songs/ (top-songs-of-1970, best-70s-one-hit-wonders, etc.)
 /blog/artists/
-/blog/years/                        (top-songs-of-1970 through top-songs-of-1979)
+/blog/years/ (top-songs-of-1970 through top-songs-of-1979)
 /blog/trivia/
-```
+
 
 Category folders are singular content types, not keyword-stuffed subfolders. Do not nest keywords redundantly (e.g. avoid `/blog/songs/70s-songs-top-songs/`). The domain already carries "70s" — do not repeat it unnecessarily in every slug.
 
@@ -115,6 +114,9 @@ Because this is a static site with no Rank Math or Yoast, "the high 90s" means h
 - [ ] Mobile check passed at 375px and 390px (see Mobile below)
 - [ ] No broken links, no placeholder text of any kind remaining
 - [ ] Page loads with no console errors
+- [ ] Content order correct: H1 → intro paragraph → featured image → rest (image never sits before the intro)
+- [ ] Prose & Readability Protocol followed: one sentence per `<p>`, 75%+ sentences under 20 words, no em-dashes in prose, no AI-cliché words, all 3+ item lists formatted as real bulleted/numbered lists
+- [ ] All images optimized: under 200KB, WebP with fallback, responsive srcset, explicit width/height, mobile legibility checked for text-dense images
 
 A post is not "done" until every box above is checked. Report the checklist status when a post is submitted for review.
 
@@ -147,29 +149,34 @@ Do not let schema content drift from visible page content — they must match ex
 
 ## Blog Post Template — Full Structure (every post, no exceptions)
 
+**Content order is fixed and non-negotiable: H1 → intro paragraph → featured image → remaining sections.**
+Never place an image (including the featured image) between the H1 and the intro paragraph. Search engines and AI crawlers weight the first ~100 words of body text heavily for topical relevance and featured snippets — an image sitting before that text pushes the keyword-bearing content down the DOM and weakens that signal. It also delays reader orientation, especially on slow connections.
+
 1. SEO metadata block: title, slug, focus keyword, secondary keywords, meta description
 2. Schema markup in `<head>` (Article + FAQPage + BreadcrumbList)
-3. Featured image + descriptive alt text
-4. Intro paragraph — hook + focus keyword naturally in first 100 words
-5. Table of Contents block
-6. 3+ H2 sections, ~200–300 words each, focus keyword appears naturally in at least one heading
-7. FAQ section (H3 questions, `.faq-block` styling, 4–5 Q&As, AI-answer-ready per rules above)
-8. Real YouTube video embed (never a placeholder note at publish time)
-9. At least one internal link to a site tool — see mapping below
-10. Related Posts block — 3 real cards once posts exist in those categories; never link to a post that doesn't exist yet
-11. Breadcrumbs: Home › Blog › [Category] › [Post]
-12. Word count: 1,200+ minimum
-13. Full SEO checklist above, verified before submission
+3. H1
+4. Intro paragraph — hook + focus keyword in the first sentence, within the first 100 words
+5. Featured image + descriptive alt text (goes here, AFTER the intro — never before it)
+6. Table of Contents block
+7. 3+ H2 sections, ~200–300 words each, focus keyword appears naturally in at least one heading
+8. FAQ section (H3 questions, `.faq-block` styling, 4–5 Q&As, AI-answer-ready per rules above)
+9. Real YouTube video embed (never a placeholder note at publish time)
+10. At least one internal link to a site tool — see mapping below
+11. Related Posts block — 3 real cards once posts exist in those categories; never link to a post that doesn't exist yet
+12. Breadcrumbs: Home › Blog › [Category] › [Post]
+13. Word count: 1,200+ minimum
+14. Full SEO checklist above, verified before submission
+15. Full Prose & Readability Protocol below, verified before submission
 
 ### Internal Tool Linking Map
 Match the post's topic to the most relevant tool and link it naturally in-context, not just tacked on at the end:
-```
-Year posts        → Birthday #1 Song Finder, 70s Decade Wheel
+
+Year posts → Birthday #1 Song Finder, 70s Decade Wheel
 Song/ranking posts → Random 70s Song Generator, Mood Song Matcher
-Genre posts        → Random Artist Picker, Random 70s Song Generator
-Artist posts       → Random Artist Picker, 70s Music Trivia Quiz
-Trivia posts       → 70s Music Trivia Quiz, Birthday #1 Song Finder
-```
+Genre posts → Random Artist Picker, Random 70s Song Generator
+Artist posts → Random Artist Picker, 70s Music Trivia Quiz
+Trivia posts → 70s Music Trivia Quiz, Birthday #1 Song Finder
+
 
 ---
 
@@ -181,10 +188,31 @@ Write as if you've heard this song 100 times — on vinyl, in a car, at 2am. Use
 ### Readability Architecture
 - One sentence per line. Each sentence wrapped in its own `<p>` tag — never bundle multiple sentences into one dense paragraph block.
 - Keep 75%+ of sentences under 20 words.
-- No em-dashes anywhere, ever, including in list items, bold lead-ins, or FAQ answers. Use commas, colons, or periods instead.
+- No em-dashes anywhere, ever, in prose — including in list item lead-ins, bold lead-ins, or FAQ answers. Use commas, colons, or periods instead.
+  - **Exception:** a single em-dash-style character used strictly as a numeric separator (e.g. a chart position marker like `"Song Title" — #36`) is acceptable ONLY inside a bulleted list item, never in flowing prose sentences. When in doubt, use a colon instead even there.
 - Avoid AI-cliché words entirely: "delve," "tapestry," "testament," "haunting," "sonic landscape," "stands the test of time." If one of these is genuinely the only correct word for a specific context, it may appear once in the entire post, never twice.
 
-This protocol applies to every section of every post — body content, FAQ answers, image captions, and list items alike. It overrides default prose habits; check against it explicitly before submitting a post for review.
+### List Formatting Rule — MANDATORY
+Any list of 3+ items, names, artists, songs, or examples must be a real bulleted or numbered HTML list (`<ul>`/`<ol>`), never crammed into one paragraph with parenthetical asides.
+- If a sentence needs more than one parenthetical aside to convey a list of examples, it must be converted to a list instead.
+- **Bad (never do this):** "Several acts placed two songs apiece, including Simon & Garfunkel ("Song A" and "Song B"), The Beatles ("Song C" and "Song D"), and The Carpenters ("Song E" and "Song F")."
+- **Good:** A one-sentence lead-in, followed by a proper bulleted list with one artist/entry per line.
+- This applies to every section of every post — body content, FAQ answers, image captions, and list items alike. It overrides default prose habits; check against it explicitly before submitting a post for review.
+
+---
+
+## Image Optimization (mandatory before any image is used, not just sourcing)
+
+Beyond sourcing/licensing (see Image Sourcing below), every image used on the site must be performance-optimized before it ships:
+
+- **File size target: under 200KB** for the primary display size. An unoptimized image (e.g. a raw multi-MB PNG straight from an image generator) must be compressed before use — never publish a multi-megabyte image file.
+- **Format: WebP preferred**, with a PNG or JPG fallback for compatibility.
+- **Responsive `srcset` required**: generate at least 3 sizes (e.g. 400w, 800w, 1200w) so mobile devices load an appropriately small file rather than downscaling a full-size desktop image in the browser.
+- **Explicit `width`/`height` attributes** on every `<img>` tag to prevent layout shift (Core Web Vitals).
+- **`loading="lazy"`** for any image below the fold; the featured image (likely the LCP element) should remain eager-loading.
+- **Mobile legibility check for dense/infographic-style images**: if an image contains embedded text (charts, infographics, data visuals), explicitly verify that text remains readable when the image is rendered at mobile width (~375px), not just that the image scales without breaking layout. If embedded text becomes illegible at mobile width, do not use that image as a full-width featured image on small screens — use a simplified crop, a mobile-specific alternate version, or reconsider the image choice entirely. Report this check explicitly, don't assume responsive scaling alone solves it.
+
+This check is part of the SEO Scoring Target checklist and the Mobile Check below — an image that fails file-size or legibility standards blocks a post from being marked ready to push.
 
 ---
 
@@ -242,12 +270,11 @@ Report pass/fail explicitly before a post is considered ready to push.
 
 Paste this at the start of a new Claude Code session:
 
-```
 Read CLAUDE.md in ~/musicofthe70s.net.
 Current task: [describe]
 Post/page: [name]
 Focus keyword: [keyword — verified against real search phrasing]
-```
+
 
 ---
 
@@ -258,3 +285,4 @@ Focus keyword: [keyword — verified against real search phrasing]
 | 2026-07-24 | Blog scaffold built | Hub + 5 category pages + 1970-in-music post template built with placeholders. Blog nav link added site-wide. Design system confirmed and documented. |
 | 2026-07-24 | Footer year fix | © 2025 → © 2026 site-wide, bundled into same commit as blog scaffold (17 files, commit 75dd3dd). |
 | 2026-07-24 | CLAUDE.md created | Master brain file established. Keyword rule (slug word-order matching, density 2-4 uses, no plugin so manual SEO checklist) formalized after catching a mismatch between a drafted focus keyword and slug on the first real post draft. |
+| 2026-07-24 | Prose, content-order, and image rules added | Formalized after reviewing the first real post draft (top-songs-of-1970): (1) image was placed between H1 and intro paragraph, weakening keyword-in-first-100-words signal — content order now fixed in the template; (2) "Artists With Multiple Hits" section was one dense paragraph with 9 parenthetical asides — List Formatting Rule now mandates real bulleted lists for any 3+ item list; (3) featured infographic was 6.3MB unoptimized PNG at 2752x1536, illegible at mobile width — Image Optimization section added requiring compression, WebP, responsive srcset, and explicit mobile-legibility checks for text-dense images. All three added as permanent checklist items, not one-time fixes.
