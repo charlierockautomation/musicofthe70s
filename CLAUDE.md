@@ -173,6 +173,21 @@ Trivia posts       → 70s Music Trivia Quiz, Birthday #1 Song Finder
 
 ---
 
+## Prose & Readability Protocol (STRICT ADHERENCE)
+
+### The "Human" Rule
+Write as if you've heard this song 100 times — on vinyl, in a car, at 2am. Use sensory and emotional language. Reference specific sonic textures, production choices, and the feeling of listening live. This must read as written by a human who loves music, not a generic AI rewrite of Wikipedia.
+
+### Readability Architecture
+- One sentence per line. Each sentence wrapped in its own `<p>` tag — never bundle multiple sentences into one dense paragraph block.
+- Keep 75%+ of sentences under 20 words.
+- No em-dashes anywhere, ever, including in list items, bold lead-ins, or FAQ answers. Use commas, colons, or periods instead.
+- Avoid AI-cliché words entirely: "delve," "tapestry," "testament," "haunting," "sonic landscape," "stands the test of time." If one of these is genuinely the only correct word for a specific context, it may appear once in the entire post, never twice.
+
+This protocol applies to every section of every post — body content, FAQ answers, image captions, and list items alike. It overrides default prose habits; check against it explicitly before submitting a post for review.
+
+---
+
 ## Data Sources
 
 - Billboard databases: `~/musicofthe70s.net/data/billboard/`
