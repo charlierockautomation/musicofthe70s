@@ -165,9 +165,11 @@ main { flex: 1 0 auto; }
   max-width: var(--maxw); margin: 2.5rem auto; border: none;
 }
 .seo-content { max-width: 760px; margin: 0 auto; }
-.seo-content h2 { margin-bottom: 1rem; }
+.seo-content h1 { margin-bottom: 1.75rem; }
+.seo-content h2 { margin-top: 2.75rem; margin-bottom: 1rem; }
 .seo-content h3 { margin: 1.5rem 0 0.6rem; color: var(--accent-gold); }
 .seo-content p { color: var(--text-primary); }
+.seo-content ol, .seo-content ul { margin-bottom: 1.75rem; }
 
 /* ---------- Tool / Featured grid ---------- */
 .tool-grid {
@@ -363,8 +365,8 @@ img.post-featured-img { object-fit: cover; padding: 0; }
   background: var(--bg-card); border: 1px solid var(--border-subtle);
   border-radius: var(--radius); padding: 1.25rem 1.5rem; margin: 1.75rem 0;
 }
-.toc-block h2 { font-size: 1.1rem; margin-bottom: 0.6rem; color: var(--accent-gold); }
-.toc-block ol { list-style: decimal; padding-left: 1.2rem; }
+.toc-block h2 { font-size: 1.1rem; margin-top: 0; margin-bottom: 0.6rem; color: var(--accent-gold); }
+.toc-block ol { list-style: decimal; padding-left: 1.2rem; margin-bottom: 0; }
 .toc-block li { margin-bottom: 0.4rem; }
 .toc-block a { color: var(--text-primary); }
 .toc-block a:hover { color: var(--accent-gold); }
