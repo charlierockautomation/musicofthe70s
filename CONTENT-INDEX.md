@@ -4,7 +4,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-07-26 (Best Songs of the 70s post live, first Songs post)
+# Last Updated: 2026-07-26 (Bee Gees post live, first Artists post)
 
 ---
 
@@ -56,6 +56,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Word Count | Published | Last Updated | Internal Tool Link Used | Notes |
 |---|---|---|---|---|---|---|---|---|---|
+| Bee Gees: The Story of Pop's Most Successful Sibling Act | https://musicofthe70s.net/blog/artists/bee-gees/index.html | Artists | Bee Gees | Live | ~1,479 | 2026-07-26 | 2026-07-26 | Random Artist Picker | First Artists post. Title trimmed from the drafted "The Complete Story..." (65 chars) to fit the 60-char soft target; card labels still use the fuller "Complete Story" title since that's not capped. Featured image (NCRV photo, Wikimedia Commons) is CC BY-SA 3.0 Netherlands; credit line explicitly carries ShareAlike terms. Added a 4th card to the Blog Hub's "Latest Posts" row since no Artists placeholder slot existed there to replace (hub only ever had 3: Years/Genres/Songs). Related Posts block omitted (no other Live post in Artists category). Resolved from Planned-table placeholder ("[Artist spotlight — TBD which artist]") which has been removed. |
 | Best Songs of the 70s: The Ultimate Decade Ranking | https://musicofthe70s.net/blog/songs/best-songs-of-the-70s/index.html | Songs | best songs of the 70s | Live | ~1,415 | 2026-07-26 | 2026-07-26 | Random 70s Song Generator, Mood Song Matcher | First Songs post. Featured image is a 5-photo Wikimedia Commons collage (not AI-generated); one source photo (Debby Boone, by John Mathew Smith & www.celebrity-photos.com) is CC BY-SA 2.0, so the composite is credited and released under CC BY-SA 2.0 terms per ShareAlike. Data conflict found and flagged (not fixed): year_end_hot100.json misfiles "You Light Up My Life" under 1978, contradicting its own embedded fun_fact text and the weekly file, both of which confirm 1977; post does not state a year for this song, so no content impact. Related Posts block omitted (no other Live post in Songs category). Corrected from stale Planned-table row ("Top Songs of the 70s" / top-songs-of-the-70s, wrong keyword) which has been removed. |
 | 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/index.html | Genres | 70s rock | Live | ~1,628 | 2026-07-25 | 2026-07-25 | Random Artist Picker, Random 70s Song Generator | First Genres post. Verified live via direct fetch 2026-07-25 (HTTP 200, content order H1→intro→image confirmed, optimized image serving). Related Posts block omitted (no other Live post in another category to link, per this file's own rule). Removed from Planned table (superseded the old "rock-music-of-the-70s" placeholder row with corrected, volume-verified keyword). Keyword density 7 uses / 1,628 words = 0.43%, inside the new 0.5%-2% range (see CLAUDE.md Keyword Rule update). |
 | Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | ~1,683 | 2026-07-24 | 2026-07-25 | Birthday #1 Song Finder, 70s Decade Wheel | Retrofit pushed and verified live 2026-07-25: content order fixed (image now after intro), "Artists With Multiple Hits" rebuilt as real lists, image optimized (raw 6.3MB PNG replaced with compressed JPG/WebP + srcset, all under 200KB). Previously-flagged compliance gap is now closed. Related Posts block omitted (no other Live posts to link). |
@@ -66,7 +67,6 @@ One row per post. Add a new row the moment a post file is created — even befor
 |---|---|---|---|
 | Disco Music of the 70s | /blog/genres/disco-music-of-the-70s/ | Genres | disco music of the 70s |
 | 70s Music Trivia Questions | /blog/trivia/70s-music-trivia-questions/ | Trivia | 70s music trivia questions |
-| [Artist spotlight — TBD which artist] | /blog/artists/[slug]/ | Artists | TBD |
 | Top Songs of 1971 through 1979 (9 more) | /blog/years/top-songs-of-19[71-79]/ | Years | top songs of 19[XX] |
 
 ---
@@ -83,7 +83,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 6
-- Total published blog posts: 3 (all confirmed Live)
+- Total published blog posts: 4 (all confirmed Live)
 - Total placeholder/in-progress posts: 0
 - Last full site audit: 2026-07-25
 
