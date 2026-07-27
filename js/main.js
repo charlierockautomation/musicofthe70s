@@ -161,4 +161,33 @@ function lsSet(key, value) {
   try { localStorage.setItem(key, value); } catch (e) { /* ignore */ }
 }
 
+/* Floating "back to top" button — injected site-wide, shows after scrolling past one viewport height.
+   Lifts clear of the footer on every scroll tick so it never overlaps footer links. */
+function initBackToTop() {
+  const btn = document.createElement('button');
+  btn.className = 'back-to-top';
+  btn.setAttribute('aria-label', 'Back to top');
+  btn.textContent = '↑';
+  document.body.appendChild(btn);
+
+  const footer = document.querySelector('.site-footer');
+
+  const update = () => {
+    btn.classList.toggle('visible', window.scrollY > 600);
+    if (footer) {
+      const footerTop = footer.getBoundingClientRect().top;
+      const overlapPx = window.innerHeight - footerTop;
+      btn.style.bottom = overlapPx > 0 ? `${overlapPx + 16}px` : '';
+    }
+  };
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+
+  btn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+}
+
 document.addEventListener('DOMContentLoaded', initNav);
+document.addEventListener('DOMContentLoaded', initBackToTop);
