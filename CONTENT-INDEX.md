@@ -98,3 +98,4 @@ Before ending any session that touched content:
 - [ ] Status field accurate (Live only if actually pushed and verified)
 - [ ] Quick Stats counts updated
 - [ ] "Last Updated" date at the top of this file updated
+- [ ] sitemap.xml: run `python3 scripts/generate_sitemap.py` and commit the result (regenerates from the actual `/pages/` and `/blog/` directory contents, can't drift from CONTENT-INDEX.md). A GitHub Actions workflow to do this automatically on every push is written at `.github/workflows/update-sitemap.yml` but NOT YET PUSHED as of 2026-07-29, the deploy PAT lacks `workflow` scope. Until that's resolved (grant the PAT `workflow` scope, or add the file via the GitHub web UI), this stays a manual step — don't skip it. After it's live, this line should be updated to say it's automatic and this manual step can be dropped.
