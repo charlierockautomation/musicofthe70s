@@ -281,7 +281,7 @@ Tracks the ordered publishing queue for multi-part series, so "what's next" neve
 | Order | Year | Status | URL |
 |---|---|---|---|
 | 1 | 1971 | Live | /blog/years/top-songs-of-1971/ |
-| 2 | 1972 | Built-Local (pending approval/push) | /blog/years/top-songs-of-1972/ |
+| 2 | 1972 | Live | /blog/years/top-songs-of-1972/ |
 | 3 | 1973 | Planned | /blog/years/top-songs-of-1973/ |
 | 4 | 1974 | Planned | /blog/years/top-songs-of-1974/ |
 | 5 | 1975 | Planned | /blog/years/top-songs-of-1975/ |
@@ -290,7 +290,7 @@ Tracks the ordered publishing queue for multi-part series, so "what's next" neve
 | 8 | 1978 | Planned | /blog/years/top-songs-of-1978/ |
 | 9 | 1979 | Planned | /blog/years/top-songs-of-1979/ |
 
-**Next up once 1972 goes Live: Top Songs of 1973.**
+**1972 is Live. Top Songs of 1973 is next.**
 
 Update this table's Status column in the same session a post's CONTENT-INDEX.md Status changes, so the two files never disagree about what's live.
 
