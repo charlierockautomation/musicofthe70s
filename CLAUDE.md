@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-07-25 (Image aspect-ratio bug fixed and documented)
+# Last Updated: 2026-07-30 (Master Content Plan section added, tracking the Years series as an ordered queue)
 
 ---
 
@@ -272,6 +272,30 @@ Report pass/fail explicitly before a post is considered ready to push.
 
 ---
 
+## Master Content Plan
+
+Tracks the ordered publishing queue for multi-part series, so "what's next" never has to be re-derived from CONTENT-INDEX.md by hand. This section didn't exist before 2026-07-30; created when Top Songs of 1972 was flagged as "Order #2" in a task brief that assumed it already existed. Top Songs of 1970 predates this tracking (built before the Years series was formalized as an ordered sequence) and isn't given an Order number here; the explicit order starts at 1971.
+
+### Years Series (Top Songs of 19XX, one post per year, 1971–1979)
+
+| Order | Year | Status | URL |
+|---|---|---|---|
+| 1 | 1971 | Live | /blog/years/top-songs-of-1971/ |
+| 2 | 1972 | Built-Local (pending approval/push) | /blog/years/top-songs-of-1972/ |
+| 3 | 1973 | Planned | /blog/years/top-songs-of-1973/ |
+| 4 | 1974 | Planned | /blog/years/top-songs-of-1974/ |
+| 5 | 1975 | Planned | /blog/years/top-songs-of-1975/ |
+| 6 | 1976 | Planned | /blog/years/top-songs-of-1976/ |
+| 7 | 1977 | Planned | /blog/years/top-songs-of-1977/ |
+| 8 | 1978 | Planned | /blog/years/top-songs-of-1978/ |
+| 9 | 1979 | Planned | /blog/years/top-songs-of-1979/ |
+
+**Next up once 1972 goes Live: Top Songs of 1973.**
+
+Update this table's Status column in the same session a post's CONTENT-INDEX.md Status changes, so the two files never disagree about what's live.
+
+---
+
 ## How to Resume Any Session
 
 Paste this at the start of a new Claude Code session:
@@ -294,3 +318,4 @@ Focus keyword: [keyword — verified against real search phrasing]
 | 2026-07-24 | Prose, content-order, and image rules added | Formalized after reviewing the first real post draft (top-songs-of-1970): (1) image was placed between H1 and intro paragraph, weakening keyword-in-first-100-words signal — content order now fixed in the template; (2) "Artists With Multiple Hits" section was one dense paragraph with 9 parenthetical asides — List Formatting Rule now mandates real bulleted lists for any 3+ item list; (3) featured infographic was 6.3MB unoptimized PNG at 2752x1536, illegible at mobile width — Image Optimization section added requiring compression, WebP, responsive srcset, and explicit mobile-legibility checks for text-dense images. All three added as permanent checklist items, not one-time fixes.
 | 2026-07-25 | Keyword density rule corrected: flat count → percentage formula | The original "2-4 uses across a 1,200+ word post" rule was a flat count that didn't scale across posts of different lengths (a 4,000-word post could still show only 2 uses and read under-optimized, while a 1,200-word post at 4 uses sits near stuffing territory). Replaced with density = (uses ÷ total words) × 100, target range 0.5%-2%, spam threshold above 3%. Framed explicitly as a sanity check against stuffing, not a quota to hit exactly. Matching line in the SEO Scoring Target checklist updated to match.
 | 2026-07-25 | Featured-image/thumb aspect-ratio bug found and fixed | Both blog posts' featured images and all card thumbnails were rendering at a fixed pixel height regardless of viewport width (cropped/zoomed look on mobile, wrong proportions on desktop). Root cause: `.post-featured-img`/`.post-card .post-thumb` were originally written for a placeholder `<div>` (display:flex to center placeholder text); reusing those classes on real `<img>` tags broke sizing two ways: (1) missing `height: auto` meant the HTML height attribute won over CSS `aspect-ratio`, (2) an earlier attempted fix (`img.post-thumb { display:block }`) had lower CSS specificity than the flex-declaring rule and silently never took effect. Static CSS reading did not surface this, only real rendering did (installed headless Chromium via Playwright to verify). Fixed by adding `height:auto` and raising selector specificity. Also matched `aspect-ratio` to the actual source image ratio (43:24) instead of a generic 16:9, eliminating a small (0.78%) object-fit:cover crop entirely, a zero-cost improvement once the ratio mismatch was noticed. New Image Optimization rules added above to prevent recurrence and require real-render verification for this class of bug going forward.
+| 2026-07-30 | Master Content Plan section added | A task brief for Top Songs of 1972 referred to it as "Order #2" in "CLAUDE.md's Master Content Plan," assuming a section that didn't exist yet. Added it (see above) to track the Years series (1971-1979) as an explicit ordered queue with a Status column per year, separate from CONTENT-INDEX.md's flat Blog Posts table. Top Songs of 1970 predates the series being treated as an ordered sequence and isn't numbered; order starts at 1971. Going forward, update this table's Status in the same session CONTENT-INDEX.md's Status changes for a Years post, so the two files can't drift apart.
