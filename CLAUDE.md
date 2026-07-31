@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-07-30 (Blog Hub Latest Posts capped at 9 with auto-rotation, generator script added)
+# Last Updated: 2026-07-31 (verify_post.py added, automates the SEO/prose checklist audit)
 
 ---
 
@@ -297,12 +297,13 @@ Report pass/fail explicitly before a post is considered ready to push.
 ## Publishing Workflow
 
 1. Write/generate post content following the full template above
-2. Preview locally (see Preview Workflow)
-3. Run through the full SEO checklist — every box checked
-4. Run the mobile check
-5. Report checklist + mobile results before asking for approval to commit
-6. Once approved: `git add -A && git commit -m "[description]" && git push`
-7. Verify live site post-deploy (~60s wait, then hard refresh and check)
+2. Run `python3 scripts/verify_post.py <path/to/post/index.html> "<focus keyword>"` — checks word count, keyword density, sentence-length distribution, em-dash count (correctly distinguishing the list-item numeric-separator exception from prose), banned words, FAQ schema/visible match, heading hierarchy, and keyword placement in one pass. Built 2026-07-31 after the same checks were re-derived by hand on four straight posts; use it instead of re-deriving them manually.
+3. Preview locally (see Preview Workflow)
+4. Run through the full SEO checklist — every box checked
+5. Run the mobile check
+6. Report checklist + mobile results before asking for approval to commit
+7. Once approved: `git add -A && git commit -m "[description]" && git push`
+8. Verify live site post-deploy (~60s wait, then hard refresh and check)
 
 ---
 
@@ -354,3 +355,4 @@ Focus keyword: [keyword — verified against real search phrasing]
 | 2026-07-25 | Featured-image/thumb aspect-ratio bug found and fixed | Both blog posts' featured images and all card thumbnails were rendering at a fixed pixel height regardless of viewport width (cropped/zoomed look on mobile, wrong proportions on desktop). Root cause: `.post-featured-img`/`.post-card .post-thumb` were originally written for a placeholder `<div>` (display:flex to center placeholder text); reusing those classes on real `<img>` tags broke sizing two ways: (1) missing `height: auto` meant the HTML height attribute won over CSS `aspect-ratio`, (2) an earlier attempted fix (`img.post-thumb { display:block }`) had lower CSS specificity than the flex-declaring rule and silently never took effect. Static CSS reading did not surface this, only real rendering did (installed headless Chromium via Playwright to verify). Fixed by adding `height:auto` and raising selector specificity. Also matched `aspect-ratio` to the actual source image ratio (43:24) instead of a generic 16:9, eliminating a small (0.78%) object-fit:cover crop entirely, a zero-cost improvement once the ratio mismatch was noticed. New Image Optimization rules added above to prevent recurrence and require real-render verification for this class of bug going forward.
 | 2026-07-30 | Master Content Plan section added | A task brief for Top Songs of 1972 referred to it as "Order #2" in "CLAUDE.md's Master Content Plan," assuming a section that didn't exist yet. Added it (see above) to track the Years series (1971-1979) as an explicit ordered queue with a Status column per year, separate from CONTENT-INDEX.md's flat Blog Posts table. Top Songs of 1970 predates the series being treated as an ordered sequence and isn't numbered; order starts at 1971. Going forward, update this table's Status in the same session CONTENT-INDEX.md's Status changes for a Years post, so the two files can't drift apart.
 | 2026-07-30 | Blog Hub "Latest Posts" capped at 9 with auto-rotation | Requested explicitly: cap the hub's Latest Posts row at 9 cards, oldest drops off automatically as new posts publish, wired in rather than manual. Built `scripts/generate_blog_hub_cards.py` (same disk-scanning philosophy as the sitemap generator) and added `<!-- LATEST-POSTS-START/END -->` markers in `blog/index.html` so it can safely regenerate just that block. Tested the actual rotation behavior with temporary fake posts before shipping, confirmed the oldest genuinely drops once a 10th post exists, not just reasoned about in the abstract. Found and fixed a real side effect while building this: card excerpts now reuse each post's meta description verbatim (previously invisible metadata), which surfaced a pre-existing em-dash in the 1970 post's meta description as visible prose for the first time, violating the no-em-dash rule; fixed that post's meta description (em-dash to colon) as an in-scope consequence of this change. Documented above that meta descriptions now double as visible hub prose and must follow prose rules. Wired into `.github/workflows/update-generated-files.yml` (renamed from `update-sitemap.yml` to reflect broader scope) alongside the sitemap generator, same standing blocker: not yet pushed, PAT lacks `workflow` scope.
+| 2026-07-31 | verify_post.py built for the checklist audit | The same manual density/sentence-length/em-dash checks had been re-derived by hand on four straight posts (1971, Soul, 1972, 1973), each time flagged in the task brief as worth automating. Built `scripts/verify_post.py`: one script, checks word count, keyword density (0.5-2% range), sentence-length distribution (75%+ under 20 words), em-dash count (correctly distinguishing the documented list-item numeric-separator exception from flowing prose, not a blanket zero-tolerance check), banned words, FAQ schema-vs-visible match (word-for-word, 40-70 word range, no bare "Yes"/"No" openers), heading hierarchy, and keyword placement (title/meta/first-100-words/H2). Added as step 2 of the Publishing Workflow above. First real use on Top Songs of 1973 caught the em-dash exception needed refining (initial version flat-failed any em-dash before the script correctly special-cased `<li>` numeric separators).
