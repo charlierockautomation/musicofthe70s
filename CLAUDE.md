@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-07-30 (Master Content Plan section added, tracking the Years series as an ordered queue)
+# Last Updated: 2026-07-30 (Blog Hub Latest Posts capped at 9 with auto-rotation, generator script added)
 
 ---
 
@@ -184,6 +184,40 @@ Trivia posts → 70s Music Trivia Quiz, Birthday #1 Song Finder
 
 ---
 
+## Blog Hub "Latest Posts" Rotation
+
+The Blog Hub's "Latest Posts" row is capped at 9 cards, newest first by
+`datePublished`. Once a 10th post exists, the oldest drops off
+automatically to make room, so the row never grows past 9 and never
+needs manual pruning.
+
+This is generated, not hand-edited. `scripts/generate_blog_hub_cards.py`
+scans every `blog/<category>/<slug>/index.html` on disk, reads each
+post's Article schema headline/datePublished, meta description, and
+featured image, and rewrites the block between the
+`<!-- LATEST-POSTS-START -->` / `<!-- LATEST-POSTS-END -->` markers in
+`blog/index.html`. Never hand-edit cards inside those markers, the next
+run will overwrite them.
+
+The card excerpt is the post's own meta description, reused as-is, not
+a separately hand-written blurb. Keep that in mind when writing a
+post's meta description: it now doubles as visible hub-page prose, so
+it must follow the same prose rules as body content (no em-dashes, no
+banned words) even though it's typed into a `<meta>` tag.
+
+Wired into `.github/workflows/update-generated-files.yml` alongside the
+sitemap generator, same automatic-on-push mechanism, same standing
+blocker: NOT YET PUSHED as of 2026-07-30, the deploy PAT lacks
+`workflow` scope. Until that's resolved, run
+`python3 scripts/generate_blog_hub_cards.py` manually and commit
+`blog/index.html` after publishing or removing a post.
+
+Category pages (`/blog/years/index.html` etc.) are NOT covered by this
+rotation, they still get cards added by hand per the Publishing
+Workflow below. Only the Blog Hub's "Latest Posts" row rotates.
+
+---
+
 ## Prose & Readability Protocol (STRICT ADHERENCE)
 
 ### The "Human" Rule
@@ -319,3 +353,4 @@ Focus keyword: [keyword — verified against real search phrasing]
 | 2026-07-25 | Keyword density rule corrected: flat count → percentage formula | The original "2-4 uses across a 1,200+ word post" rule was a flat count that didn't scale across posts of different lengths (a 4,000-word post could still show only 2 uses and read under-optimized, while a 1,200-word post at 4 uses sits near stuffing territory). Replaced with density = (uses ÷ total words) × 100, target range 0.5%-2%, spam threshold above 3%. Framed explicitly as a sanity check against stuffing, not a quota to hit exactly. Matching line in the SEO Scoring Target checklist updated to match.
 | 2026-07-25 | Featured-image/thumb aspect-ratio bug found and fixed | Both blog posts' featured images and all card thumbnails were rendering at a fixed pixel height regardless of viewport width (cropped/zoomed look on mobile, wrong proportions on desktop). Root cause: `.post-featured-img`/`.post-card .post-thumb` were originally written for a placeholder `<div>` (display:flex to center placeholder text); reusing those classes on real `<img>` tags broke sizing two ways: (1) missing `height: auto` meant the HTML height attribute won over CSS `aspect-ratio`, (2) an earlier attempted fix (`img.post-thumb { display:block }`) had lower CSS specificity than the flex-declaring rule and silently never took effect. Static CSS reading did not surface this, only real rendering did (installed headless Chromium via Playwright to verify). Fixed by adding `height:auto` and raising selector specificity. Also matched `aspect-ratio` to the actual source image ratio (43:24) instead of a generic 16:9, eliminating a small (0.78%) object-fit:cover crop entirely, a zero-cost improvement once the ratio mismatch was noticed. New Image Optimization rules added above to prevent recurrence and require real-render verification for this class of bug going forward.
 | 2026-07-30 | Master Content Plan section added | A task brief for Top Songs of 1972 referred to it as "Order #2" in "CLAUDE.md's Master Content Plan," assuming a section that didn't exist yet. Added it (see above) to track the Years series (1971-1979) as an explicit ordered queue with a Status column per year, separate from CONTENT-INDEX.md's flat Blog Posts table. Top Songs of 1970 predates the series being treated as an ordered sequence and isn't numbered; order starts at 1971. Going forward, update this table's Status in the same session CONTENT-INDEX.md's Status changes for a Years post, so the two files can't drift apart.
+| 2026-07-30 | Blog Hub "Latest Posts" capped at 9 with auto-rotation | Requested explicitly: cap the hub's Latest Posts row at 9 cards, oldest drops off automatically as new posts publish, wired in rather than manual. Built `scripts/generate_blog_hub_cards.py` (same disk-scanning philosophy as the sitemap generator) and added `<!-- LATEST-POSTS-START/END -->` markers in `blog/index.html` so it can safely regenerate just that block. Tested the actual rotation behavior with temporary fake posts before shipping, confirmed the oldest genuinely drops once a 10th post exists, not just reasoned about in the abstract. Found and fixed a real side effect while building this: card excerpts now reuse each post's meta description verbatim (previously invisible metadata), which surfaced a pre-existing em-dash in the 1970 post's meta description as visible prose for the first time, violating the no-em-dash rule; fixed that post's meta description (em-dash to colon) as an in-scope consequence of this change. Documented above that meta descriptions now double as visible hub prose and must follow prose rules. Wired into `.github/workflows/update-generated-files.yml` (renamed from `update-sitemap.yml` to reflect broader scope) alongside the sitemap generator, same standing blocker: not yet pushed, PAT lacks `workflow` scope.
