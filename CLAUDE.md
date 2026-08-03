@@ -319,13 +319,13 @@ Tracks the ordered publishing queue for multi-part series, so "what's next" neve
 | 2 | 1972 | Live | /blog/years/top-songs-of-1972/ |
 | 3 | 1973 | Live | /blog/years/top-songs-of-1973/ |
 | 4 | 1974 | Live | /blog/years/top-songs-of-1974/ |
-| 5 | 1975 | Planned | /blog/years/top-songs-of-1975/ |
+| 5 | 1975 | Live | /blog/years/top-songs-of-1975/ |
 | 6 | 1976 | Planned | /blog/years/top-songs-of-1976/ |
 | 7 | 1977 | Planned | /blog/years/top-songs-of-1977/ |
 | 8 | 1978 | Planned | /blog/years/top-songs-of-1978/ |
 | 9 | 1979 | Planned | /blog/years/top-songs-of-1979/ |
 
-**1974 is Live. Top Songs of 1975 is next.**
+**1975 is Live. Top Songs of 1976 is next.**
 
 Update this table's Status column in the same session a post's CONTENT-INDEX.md Status changes, so the two files never disagree about what's live.
 
