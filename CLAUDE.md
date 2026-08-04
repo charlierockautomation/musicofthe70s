@@ -320,12 +320,12 @@ Tracks the ordered publishing queue for multi-part series, so "what's next" neve
 | 3 | 1973 | Live | /blog/years/top-songs-of-1973/ |
 | 4 | 1974 | Live | /blog/years/top-songs-of-1974/ |
 | 5 | 1975 | Live | /blog/years/top-songs-of-1975/ |
-| 6 | 1976 | Built-Local | /blog/years/top-songs-of-1976/ |
+| 6 | 1976 | Live | /blog/years/top-songs-of-1976/ |
 | 7 | 1977 | Planned | /blog/years/top-songs-of-1977/ |
 | 8 | 1978 | Planned | /blog/years/top-songs-of-1978/ |
 | 9 | 1979 | Planned | /blog/years/top-songs-of-1979/ |
 
-**Top Songs of 1976 is Built-Local, pending approval/push/live verification. Top Songs of 1977 is next after that.**
+**1976 is Live. Top Songs of 1977 is next.**
 
 Update this table's Status column in the same session a post's CONTENT-INDEX.md Status changes, so the two files never disagree about what's live.
 
