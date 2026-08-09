@@ -40,11 +40,11 @@
 | Page | URL | Status | Notes |
 |---|---|---|---|
 | Blog Hub | https://musicofthe70s.net/blog/index.html | Live | Placeholder post cards — needs real post cards as posts publish |
-| Genres category | https://musicofthe70s.net/blog/genres/index.html | Live | Placeholder cards |
-| Songs category | https://musicofthe70s.net/blog/songs/index.html | Live | Zero placeholders, 5 real cards |
-| Artists category | https://musicofthe70s.net/blog/artists/index.html | Live | Placeholder cards |
-| Years category | https://musicofthe70s.net/blog/years/index.html | Live | Placeholder cards |
-| Trivia category | https://musicofthe70s.net/blog/trivia/index.html | Live | Placeholder cards |
+| Genres category | https://musicofthe70s.net/blog/genres/index.html | Live | 2 real cards (70s Rock, 70s Soul Music), 1 placeholder remaining |
+| Songs category | https://musicofthe70s.net/blog/songs/index.html | Live | Zero placeholders, 5 real cards, batch complete |
+| Artists category | https://musicofthe70s.net/blog/artists/index.html | Live | Zero placeholders, 5 real cards, batch complete |
+| Years category | https://musicofthe70s.net/blog/years/index.html | Live | Zero placeholders, 10 real cards, series complete (1970-1979) |
+| Trivia category | https://musicofthe70s.net/blog/trivia/index.html | Live | 2 real cards (70s Music Trivia, Banned Songs), 1 placeholder remaining |
 
 **Action needed:** update each category index page with real post cards as posts are published in that category. Remove placeholder cards once real ones exist.
 
@@ -101,9 +101,10 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 6
-- Total published blog posts: 22 (all confirmed Live)
+- Total published blog posts: 24 (all confirmed Live)
 - Total placeholder/in-progress posts: 0
-- Last full site audit: 2026-07-25
+- Placeholder card slots remaining on category pages: 2 (Genres, Trivia — 1 each)
+- Last full site audit: 2026-08-09
 
 ---
 
