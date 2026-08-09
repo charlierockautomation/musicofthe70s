@@ -37,8 +37,25 @@ Source: WordStream, supplied by Charlie, 2026-08-09. Pulled against the search t
 
 ---
 
+## 70s Country Rock — pull for Rotation Queue slot, 2026-08-09
+
+Source: supplied by Charlie, 2026-08-09.
+
+### Real (genuinely about the genre)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70's country rock | 210 | Tied with the row below, low competition |
+| country rock 70s | 210 | Tied with the row above, low competition |
+| 70s country rock | — | **Confirmed focus keyword** — clean word order and no apostrophe, matches the site's URL-slug convention exactly; used on the Country Rock Genres post, 2026-08-09 |
+
+No noise/contamination terms supplied in this pull.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
 |---|---|---|
 | 2026-08-09 | File created, first entry logged | Built to hold the "Queen band" WordStream pull ahead of writing Rotation Queue slot 2. Confirmed `queen freddie mercury` (673,000/mo) as the real focus keyword over bare "Queen," which this session's own SERP check found is heavily monarchy-dominated (Queen Victoria, Queen Elizabeth, "The Queen" all outrank the band in a plain search). "We will rock you" and "brian may and queen" logged as real future candidates rather than used immediately, so they aren't re-derived from scratch later. Two contamination terms (Queens of the Stone Age, Mountain's "Mississippi Queen") logged explicitly as excluded so they don't get mistaken for real Queen-band volume in a future pull. |
+| 2026-08-09 | 70s Country Rock pull logged | Two tied, low-competition terms supplied ("70's country rock" and "country rock 70s," both 210/mo). Neither matches the site's exact slug-word-order convention as written; `70s country rock` logged and confirmed as the actual focus keyword, a clean normalization of the two tied variants rather than a third independent pull. No contamination terms in this pull, low volume overall is a real tradeoff of a genuinely niche fusion subgenre, not a data problem. |
