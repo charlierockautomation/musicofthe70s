@@ -71,6 +71,24 @@ No contamination terms supplied in this pull.
 
 ---
 
+## Eagles (band) — pull for Rotation Queue slot, 2026-08-10
+
+Source: WordStream, supplied by Charlie, 2026-08-10, search term "eagles band". **Note**: the task brief for this pull referenced "the earlier contaminated 'eagles' pull already logged" — checked this file directly, no such earlier pull exists here. The only prior Eagles-related note anywhere is a caution flag in content-build.md's Rotation Queue ("verify NFL-team search ambiguity first"), which was never an actual keyword-volume pull, just a reminder to check. Flagging the mismatch rather than inventing a fictional first entry to pair this one with; this is the first and only Eagles pull logged in this file.
+
+### Real (genuinely about the band)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| Eagles the Band | 135,000 | **Confirmed focus keyword** — used on the Eagles Artists post, 2026-08-10 |
+| Hotel California by the Eagles | — | Secondary keyword, logged against the existing Hotel California post rather than this one |
+| don henley and the eagles (cluster) | 110,000 | Future post candidate — a Don Henley solo Artists post |
+| Take It Easy | 60,500 | Future post candidate — a Songs post; note the site already embeds this song's official audio on the 70s Country Rock Genres post, so a dedicated post would need real added depth beyond that existing coverage |
+| Eagles Greatest Hits / band-members | 60,500 / 49,500 | Future post candidate — possible angle for a compilation or band-members-focused post, exact framing not yet decided |
+
+No contamination terms supplied in this pull; the search term itself ("eagles band") appears to have avoided the NFL-team collision this session's own earlier caution flagged as a risk.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
@@ -78,3 +96,4 @@ No contamination terms supplied in this pull.
 | 2026-08-09 | File created, first entry logged | Built to hold the "Queen band" WordStream pull ahead of writing Rotation Queue slot 2. Confirmed `queen freddie mercury` (673,000/mo) as the real focus keyword over bare "Queen," which this session's own SERP check found is heavily monarchy-dominated (Queen Victoria, Queen Elizabeth, "The Queen" all outrank the band in a plain search). "We will rock you" and "brian may and queen" logged as real future candidates rather than used immediately, so they aren't re-derived from scratch later. Two contamination terms (Queens of the Stone Age, Mountain's "Mississippi Queen") logged explicitly as excluded so they don't get mistaken for real Queen-band volume in a future pull. |
 | 2026-08-09 | 70s Country Rock pull logged | Two tied, low-competition terms supplied ("70's country rock" and "country rock 70s," both 210/mo). Neither matches the site's exact slug-word-order convention as written; `70s country rock` logged and confirmed as the actual focus keyword, a clean normalization of the two tied variants rather than a third independent pull. No contamination terms in this pull, low volume overall is a real tradeoff of a genuinely niche fusion subgenre, not a data problem. |
 | 2026-08-10 | Disco Music of the 70s pull logged | Five real terms supplied, no noise. `Disco Music of the 70s` (12,100/mo) confirmed as the focus keyword; `70s disco` (9,900/mo) logged as a secondary/alternate for the same post rather than a separate target. `funk 70's` (6,600/mo) flagged for the already-queued but not-yet-keyword-checked 70s Funk slot; checked content-build.md directly and confirmed no keyword was assumed there yet, so this is a real head start rather than a contradiction to resolve. `disco mix 70's & 80's` (5,400/mo, Unspecified competition) and the `dance music` cluster (4,400/mo, several tied variants) logged as real future candidates, deliberately not folded into this post since neither matches a genre-article framing. |
+| 2026-08-10 | Eagles (band) pull logged | Task brief referenced "the earlier contaminated eagles pull already logged" — checked this file, no such entry exists; the only prior Eagles note anywhere was a caution flag in content-build.md's Rotation Queue (not an actual pull), flagged as a mismatch rather than fabricated into a fake prior entry. `Eagles the Band` (135,000/mo) confirmed as the focus keyword for the Artists post; `Hotel California by the Eagles` logged as a secondary keyword against the existing Hotel California post specifically, not this new one. Three future candidates logged: a Don Henley solo Artists post (`don henley and the eagles` cluster, 110,000/mo), a "Take It Easy" Songs post (60,500/mo, noting the song's audio is already embedded on the live 70s Country Rock post, so a dedicated post would need real added depth beyond that), and a possible Eagles Greatest Hits or band-members post (60,500 / 49,500, framing not yet decided). No contamination terms in this pull. |
