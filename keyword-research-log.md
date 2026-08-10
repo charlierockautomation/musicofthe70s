@@ -53,9 +53,28 @@ No noise/contamination terms supplied in this pull.
 
 ---
 
+## Disco Music of the 70s — pull for Rotation Queue slot, 2026-08-10
+
+Source: WordStream, supplied by Charlie, 2026-08-10.
+
+### Real (genuinely about the genre)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| Disco Music of the 70s | 12,100 | **Confirmed focus keyword** — used on the Disco Genres post, 2026-08-10 |
+| 70s disco | 9,900 | Secondary/alternate keyword for the same article, not the primary target |
+| funk 70's | 6,600 | Flagged as likely confirmation for the already-planned Funk Genres slot; check against that slot's actual keyword assumption before the post gets built, since no keyword was confirmed for it yet as of this pull |
+| disco mix 70's & 80's | 5,400 (Unspecified competition) | Distinct future content type, a mix/playlist framing rather than a genre article; not used on this post |
+| dance music (cluster) | 4,400 (several tied variants) | Possible future post or secondary angle; too broad and undifferentiated to commit to a single post yet |
+
+No contamination terms supplied in this pull.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
 |---|---|---|
 | 2026-08-09 | File created, first entry logged | Built to hold the "Queen band" WordStream pull ahead of writing Rotation Queue slot 2. Confirmed `queen freddie mercury` (673,000/mo) as the real focus keyword over bare "Queen," which this session's own SERP check found is heavily monarchy-dominated (Queen Victoria, Queen Elizabeth, "The Queen" all outrank the band in a plain search). "We will rock you" and "brian may and queen" logged as real future candidates rather than used immediately, so they aren't re-derived from scratch later. Two contamination terms (Queens of the Stone Age, Mountain's "Mississippi Queen") logged explicitly as excluded so they don't get mistaken for real Queen-band volume in a future pull. |
 | 2026-08-09 | 70s Country Rock pull logged | Two tied, low-competition terms supplied ("70's country rock" and "country rock 70s," both 210/mo). Neither matches the site's exact slug-word-order convention as written; `70s country rock` logged and confirmed as the actual focus keyword, a clean normalization of the two tied variants rather than a third independent pull. No contamination terms in this pull, low volume overall is a real tradeoff of a genuinely niche fusion subgenre, not a data problem. |
+| 2026-08-10 | Disco Music of the 70s pull logged | Five real terms supplied, no noise. `Disco Music of the 70s` (12,100/mo) confirmed as the focus keyword; `70s disco` (9,900/mo) logged as a secondary/alternate for the same post rather than a separate target. `funk 70's` (6,600/mo) flagged for the already-queued but not-yet-keyword-checked 70s Funk slot; checked content-build.md directly and confirmed no keyword was assumed there yet, so this is a real head start rather than a contradiction to resolve. `disco mix 70's & 80's` (5,400/mo, Unspecified competition) and the `dance music` cluster (4,400/mo, several tied variants) logged as real future candidates, deliberately not folded into this post since neither matches a genre-article framing. |
