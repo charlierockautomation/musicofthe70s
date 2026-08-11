@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-08-09 (content-build.md created; Content Tracker Ownership and Session Handoff rules added)
+# Last Updated: 2026-08-11 (keyword-research-log.md added to the How to Resume Any Session file list)
 
 ---
 
@@ -374,7 +374,7 @@ At the end of every session, after finishing the work and updating the tracker f
 
 Paste this at the start of a new Claude Code session:
 
-Read CLAUDE.md in ~/musicofthe70s.net.
+Read CLAUDE.md, content-build.md, CONTENT-INDEX.md, and keyword-research-log.md in ~/musicofthe70s.net.
 Current task: [describe]
 Post/page: [name]
 Focus keyword: [keyword — verified against real search phrasing]
