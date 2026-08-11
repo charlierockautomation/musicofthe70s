@@ -113,33 +113,6 @@ No contamination terms supplied in this pull.
 
 ---
 
-## 70s Hard Rock — pull for Rotation Queue slot 1, 2026-08-11
-
-Source: WordStream, supplied by Charlie, 2026-08-11, search term "70s hard rock".
-
-### Real (genuinely about the genre)
-
-| Term | Volume/mo | Status |
-|---|---|---|
-| 70s hard rock | 1,000 | **Confirmed focus keyword** — used on the Hard Rock Genres post, 2026-08-11 |
-| 70s heavy rock | 1,000 | Secondary keyword, used naturally in body |
-| 1970s hard rock | 1,000 | Secondary keyword, used naturally in body |
-| hard rock music from the 70s | 10 | Secondary keyword, low volume, used naturally where it fits |
-| 70s 80s hard rock | 20 | Future post candidate — decade-spanning hard rock angle, not slotted |
-| hard rock 70 80 90 | 10 | Future post candidate — same decade-spanning angle as the row above, not slotted |
-
-**Note**: the four terms tied at exactly 1,000/mo (70s hard rock, 70s heavy rock, 1970s hard rock, plus the excluded "70 hard rock" below) likely share one underlying cluster estimate from the tool rather than being four independently measured numbers. Treated as directionally real, not four separate confirmations of demand.
-
-### Excluded
-
-| Term | Note |
-|---|---|
-| 70 hard rock | Also 1,000/mo, flagged as a likely tokenization artifact (missing the "s"), not a natural search phrase a person would type. Unconfirmed, not used anywhere in the post. |
-
-No true noise/contamination terms in this pull (no unrelated "hard rock" collision, e.g. the Hard Rock Cafe/Casino brand did not surface as a dominant confound in the SERP check run before this pull).
-
----
-
 ## Session Log
 
 | Date | Task | Notes |
