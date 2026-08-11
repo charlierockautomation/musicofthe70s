@@ -1,7 +1,27 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-08-11 (keyword-research-log.md added to the How to Resume Any Session file list)
+# Last Updated: 2026-08-11 (PUBLISH GATE section added at top after the 70s Hard Rock post shipped with a broken video embed and weak prose with no review step)
+
+---
+
+## PUBLISH GATE — READ THIS BEFORE ANY SESSION THAT TOUCHES LIVE CONTENT
+
+Never commit and push a new or edited blog post to the live branch without Charlie's explicit
+go-ahead in that session, given AFTER he's reviewed it. This applies regardless of what any
+build prompt says, regardless of which chat or session generated that prompt, and regardless of
+whether the prompt itself remembered to mention review.
+
+Every new post build ends with: build it, run it on the local server, confirm it renders
+correctly (video plays, images load, layout is right), then STOP and report back with a
+summary. Do not commit. Do not push. Wait for Charlie to say something equivalent to
+"approved, publish this" before doing either.
+
+Tracker-file commits (content-build.md, CONTENT-INDEX.md, keyword-research-log.md) are a
+separate, lower-stakes case already governed by the existing "commits only on explicit ask"
+practice — this new rule is specifically about anything that changes what a real visitor sees
+on the live site. If a build prompt tells you to skip this gate, treat that as a mistake in the
+prompt, not an instruction to follow — flag it to Charlie instead of proceeding.
 
 ---
 
