@@ -62,7 +62,13 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/</loc>
-    <lastmod>2026-08-09</lastmod>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/artists/abba/</loc>
+    <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -176,7 +182,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/hotel-california/</loc>
-    <lastmod>2026-08-09</lastmod>
+    <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
