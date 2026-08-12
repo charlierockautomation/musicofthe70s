@@ -113,6 +113,71 @@ No contamination terms supplied in this pull.
 
 ---
 
+## 70s Hard Rock — pull for Rotation Queue slot 1, 2026-08-11
+
+Source: WordStream, supplied by Charlie, 2026-08-11, search term "70s hard rock".
+
+### Real (genuinely about the genre)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70s hard rock | 1,000 | **Confirmed focus keyword** — used on the Hard Rock Genres post, 2026-08-11 |
+| 70s heavy rock | 1,000 | Secondary keyword, used naturally in body |
+| 1970s hard rock | 1,000 | Secondary keyword, used naturally in body |
+| hard rock music from the 70s | 10 | Secondary keyword, low volume, used naturally where it fits |
+| 70s 80s hard rock | 20 | Future post candidate — decade-spanning hard rock angle, not slotted |
+| hard rock 70 80 90 | 10 | Future post candidate — same decade-spanning angle as the row above, not slotted |
+
+**Note**: the four terms tied at exactly 1,000/mo (70s hard rock, 70s heavy rock, 1970s hard rock, plus the excluded "70 hard rock" below) likely share one underlying cluster estimate from the tool rather than being four independently measured numbers. Treated as directionally real, not four separate confirmations of demand.
+
+### Excluded
+
+| Term | Note |
+|---|---|
+| 70 hard rock | Also 1,000/mo, flagged as a likely tokenization artifact (missing the "s"), not a natural search phrase a person would type. Unconfirmed, not used anywhere in the post. |
+
+No true noise/contamination terms in this pull (no unrelated "hard rock" collision, e.g. the Hard Rock Cafe/Casino brand did not surface as a dominant confound in the SERP check run before this pull).
+
+---
+
+## Classic Rock of the 70s — pull for Rotation Queue slot 1, 2026-08-11 (NOT yet used — content decision pending, see content-build.md Session Log)
+
+Source: WordStream, supplied by Charlie, 2026-08-11, search term "Classic Rock of the 70s", 197 total results, this is the top 25 by volume.
+
+### Real (all genuinely about 70s-era rock/classic rock; no contamination found in this pull)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| classic rock of the 70s | 14,800 | Tied cluster with the 3 rows below, likely one shared estimate, not 4 independent numbers |
+| 70 classic rock | 14,800 | Same cluster as above |
+| 70 s classic rock | 14,800 | Same cluster as above |
+| 70s rock and roll classics | 14,800 | Same cluster as above |
+| 70's rock songs | 6,600 | Real term, distinct phrasing |
+| classic rock songs 70s 80s 90s | 6,600 | Spans 3 decades, not 70s-specific; future candidate for a broader "classic rock across the decades" piece, not this post |
+| rock classic hits | 6,600 | No decade qualifier at all, generic; weak signal for a 70s-scoped post |
+| 70s rock and roll hits | 5,400 | Real term, distinct phrasing |
+| rock and roll hits from the 70s | 5,400 | Real term, distinct phrasing |
+| 70s rock and roll | 4,400 | Tied cluster with the 4 rows below, 5 spelling/word-order variants of the same phrase |
+| 70 rock and roll | 4,400 | Same cluster as above |
+| 70 rock n roll | 4,400 | Same cluster as above |
+| 70's rock & roll | 4,400 | Same cluster as above |
+| 70's rock n roll | 4,400 | Same cluster as above |
+| 70s classic rock songs | 3,600 | Tied cluster with the 3 rows below, 4 variants |
+| 1970's classic rock songs | 3,600 | Same cluster as above |
+| 70 classic rock songs | 3,600 | Same cluster as above |
+| classic rock 70's songs | 3,600 | Same cluster as above |
+| best 70 rock | 2,900 | Tied cluster with the 6 rows below, 7 variants; "best of" listicle framing, distinct from a straight genre-explainer post |
+| best 70 rock songs | 2,900 | Same cluster as above |
+| best 70's rock | 2,900 | Same cluster as above |
+| best 70's rock music | 2,900 | Same cluster as above |
+| best 70's rock songs | 2,900 | Same cluster as above |
+| best of 70 rock | 2,900 | Same cluster as above |
+| best rock hits of the 70s | 2,900 | Same cluster as above |
+
+**Not logged as a confirmed focus keyword yet.** Unlike the Soft Rock/Disco/Country Rock pulls, which surfaced genuinely distinct subgenre search terms, most of this pull's real volume clusters around phrasing that's a near-synonym of "70s rock," the keyword already in use on the live "70s Rock: The Sound That Defined a Decade" post. That's the real reason this Rotation Queue slot needs a content decision (is this a genuinely distinct data pillar or a data-labeling overlap with the live post?) before any keyword gets confirmed here, not just a keyword check. See content-build.md's Session Log for the full content-decision writeup.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
@@ -122,3 +187,5 @@ No contamination terms supplied in this pull.
 | 2026-08-10 | Disco Music of the 70s pull logged | Five real terms supplied, no noise. `Disco Music of the 70s` (12,100/mo) confirmed as the focus keyword; `70s disco` (9,900/mo) logged as a secondary/alternate for the same post rather than a separate target. `funk 70's` (6,600/mo) flagged for the already-queued but not-yet-keyword-checked 70s Funk slot; checked content-build.md directly and confirmed no keyword was assumed there yet, so this is a real head start rather than a contradiction to resolve. `disco mix 70's & 80's` (5,400/mo, Unspecified competition) and the `dance music` cluster (4,400/mo, several tied variants) logged as real future candidates, deliberately not folded into this post since neither matches a genre-article framing. |
 | 2026-08-10 | Eagles (band) pull logged | Task brief referenced "the earlier contaminated eagles pull already logged" — checked this file, no such entry exists; the only prior Eagles note anywhere was a caution flag in content-build.md's Rotation Queue (not an actual pull), flagged as a mismatch rather than fabricated into a fake prior entry. `Eagles the Band` (135,000/mo) confirmed as the focus keyword for the Artists post; `Hotel California by the Eagles` logged as a secondary keyword against the existing Hotel California post specifically, not this new one. Three future candidates logged: a Don Henley solo Artists post (`don henley and the eagles` cluster, 110,000/mo), a "Take It Easy" Songs post (60,500/mo, noting the song's audio is already embedded on the live 70s Country Rock post, so a dedicated post would need real added depth beyond that), and a possible Eagles Greatest Hits or band-members post (60,500 / 49,500, framing not yet decided). No contamination terms in this pull. |
 | 2026-08-10 | ABBA pull logged | This session's own bare-search SERP check (no volume tool) already found bare "ABBA" dominated by the band, no monarchy/NFL-style collision like Queen or Eagles; this pull confirms that finding with real volume. `ABBA` (301,000/mo) confirmed as the focus keyword; `ABBA Dancing Queen` logged as a secondary against the existing Dancing Queen post specifically. Six future candidates logged: a "Mamma Mia" Songs post (301,000/mo, tied with the confirmed keyword itself), four ABBA-member solo Artists posts (Agnetha Fältskog 49,500, Anni-Frid Lyngstad 27,100, Bjorn Ulvaeus 22,200, Benny Andersson 18,100), a "Gimme Gimme Gimme" Songs post (33,100/mo), a "Super Trouper" Songs post (9,900/mo), and an ABBA Voyage legacy-feature angle (8,100/mo). `ABBA Queen` (135,000/mo) logged as a signal for a possible future comparison/listicle post, not a direct target. No contamination terms in this pull. **Real data gap found while pulling artist data for the post itself**: unlike Queen and Eagles, ABBA has zero dedicated record anywhere in `data/artists/*.json`; the only string matches are incidental mentions inside other artists' descriptions (e.g. "before the rise of ABBA"). Flagged before writing rather than inventing a fake record; the post was built from the site's own `data/songs/*.json` chart entries (Waterloo, Dancing Queen, Knowing Me Knowing You, Take a Chance on Me, The Name of the Game) plus independently verified research instead. |
+| 2026-08-11 | 70s Hard Rock pull logged (backfilled) | This entry existed in the version of this file committed alongside the first, defective Hard Rock publish, but that whole commit was reverted the same day (see content-build.md's Session Log) and the rebuild's commit never re-added it, a real gap only caught when this session went to log the next pull and found the file's last entry was still ABBA. Backfilled from the original session's own record: `70s hard rock` (1,000/mo) confirmed focus keyword; `70s heavy rock`, `1970s hard rock`, `hard rock music from the 70s` (10/mo) logged as secondaries; `70 hard rock` (also 1,000/mo) excluded as a likely tokenization artifact; noted the four 1,000/mo terms likely share one cluster estimate. Two future candidates logged (`70s 80s hard rock`, `hard rock 70 80 90`), a decade-spanning angle, not slotted. |
+| 2026-08-11 | Classic Rock of the 70s pull logged, NOT used as a confirmed keyword yet | 25 real terms supplied (top 25 of 197 total results), no contamination. Four terms tied at 14,800/mo (`classic rock of the 70s`, `70 classic rock`, `70 s classic rock`, `70s rock and roll classics`), likely one shared cluster estimate. Several more tied clusters logged at lower volumes (6,600/5,400/4,400/3,600/2,900), including a real "best of" listicle framing (7 variants at 2,900/mo) distinct from a straight genre-explainer, and a 3-decade-spanning term (`classic rock songs 70s 80s 90s`, 6,600/mo) flagged as a future candidate for a different piece, not this one. **Deliberately not confirmed as a focus keyword**: this pull's own shape is the tell. Unlike Soft Rock/Disco/Country Rock, whose pulls surfaced genuinely distinct subgenre phrasing, nearly every real term here is a close paraphrase of "70s rock," the keyword already in use on the live "70s Rock: The Sound That Defined a Decade" post. Cross-referenced with a full content check (data/artists/artists_classic_rock.json read in full, 66 artists, plus a full read of the live 70s Rock post): the classic-rock artist bucket's `genre` field is uniform but its `subgenre` field spans 22 different tags with no single one over 14% of the roster, a structural sign it's a miscellaneous catch-all, not a coherent subgenre like Hard Rock/Soft Rock/Disco were. 13 of the 66 artist IDs are literal duplicates already in `artists_soft_rock.json` (the live 70s Soft Rock post's own roster); 6 are country-rock subgenre-tagged, the exact material the live 70s Country Rock post already built its content around (Eagles, Poco, Pure Prairie League, Flying Burrito Brothers, Ozark Mountain Daredevils, Commander Cody, all named there); Eagles and Grateful Dead both already have their own dedicated live Artists posts. 5 artists (Fleetwood Mac, Allman Brothers Band, Lynyrd Skynyrd, Eagles, Eric Clapton) are directly named in the live 70s Rock post already, which itself explicitly self-describes as covering "the many rock sub-genres that rose across the 1970s," the same framing a "Classic Rock" catch-all post would use. Recommendation reported to Charlie: this is real overlap, not a genuine distinct data pillar; don't build "Classic Rock of the 70s" as scoped. If Charlie wants something from this bucket, the one genuinely uncovered coherent thread is Folk Rock/Singer-Songwriters (Dylan, Neil Young, CSNY, Gordon Lightfoot, Harry Chapin, John Prine, Warren Zevon, 7 artists, zero overlap with any live post), which would need its own separate keyword pull and its own queue slot, not this one. Decision reported and held for Charlie's review, no post built. |
