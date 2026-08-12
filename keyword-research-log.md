@@ -178,6 +178,38 @@ Source: WordStream, supplied by Charlie, 2026-08-11, search term "Classic Rock o
 
 ---
 
+## 70s Music Quiz — pull for Rotation Queue slot 1 (Trivia), 2026-08-12
+
+Source: WordStream, supplied by Charlie, 2026-08-12, search term "70s music quiz".
+
+### Real (genuinely about a 70s-era music quiz)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70s music quiz | 320 | **Confirmed focus keyword** — used on the next Trivia post |
+| 1970 music quiz | 320 | Tied cluster with the row above and below, likely one shared estimate |
+| 70 music quiz | 320 | Same cluster as above |
+| 70 music trivia questions and answers | 260 | Secondary keyword cluster (includes "70's music trivia questions and answers", "1970 music trivia questions and answers"), used naturally in body |
+| guess the song 70s | 110 | Future post candidate — a different content type, a song-guessing game format, not a Q&A quiz |
+| 70's rock trivia | 70 | Future post candidate — genre-specific trivia angle, if one ever gets scoped |
+
+### Excluded for this post (real volume, wrong scope)
+
+| Term | Note |
+|---|---|
+| 70 music trivia / 70's music trivia / 70's music trivia games | 880 (cluster) | This is the keyword already in use on the live 64-question Trivia post ("70s music trivia"); reusing it here would cannibalize rather than target a genuinely distinct search intent. |
+| music trivia 70s 80s 90s | 320 | Decade-spanning, not 70s-specific; future multi-decade-quiz candidate, not this post |
+| music quiz 70s 80s 90s | 170 | Same as above |
+| 60's and 70's music quiz questions and answers | 90 | Same as above |
+
+### Contamination
+
+| Term | Note |
+|---|---|
+| 2010s music trivia | 260 | Wrong decade entirely, excluded |
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
