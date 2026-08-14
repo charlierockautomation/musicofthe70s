@@ -4,7 +4,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-08-16 (70s Funk reviewed, approved, and marked Live; subheading pass added per review feedback, new Subheading Rule added to CLAUDE.md)
+# Last Updated: 2026-08-16 (Rotating card caps + archive pages for Genres/Artists/Songs/Trivia reviewed, approved, and Live)
 
 ---
 
@@ -40,13 +40,17 @@
 | Page | URL | Status | Notes |
 |---|---|---|---|
 | Blog Hub | https://musicofthe70s.net/blog/index.html | Live | Placeholder post cards — needs real post cards as posts publish |
-| Genres category | https://musicofthe70s.net/blog/genres/index.html | Live | Zero placeholders, 7 real cards (70s Rock, 70s Soul Music, 70s Soft Rock, 70s Country Rock, Disco Music of the 70s, 70s Hard Rock, 70s Funk) |
-| Songs category | https://musicofthe70s.net/blog/songs/index.html | Live | Zero placeholders, 5 real cards, batch complete |
-| Artists category | https://musicofthe70s.net/blog/artists/index.html | Live | Zero placeholders, 8 real cards |
-| Years category | https://musicofthe70s.net/blog/years/index.html | Live | Zero placeholders, 10 real cards, series complete (1970-1979) |
-| Trivia category | https://musicofthe70s.net/blog/trivia/index.html | Live | Zero placeholders, 3 real cards (70s Music Trivia, Banned Songs, 70s Music Quiz) |
+| Genres category | https://musicofthe70s.net/blog/genres/index.html | Live | **Rotating cap added 2026-08-16.** Shows the 6 most recent of 7 real posts (70s Rock rolled off); nav note + archive link below the grid. |
+| Genres archive | https://musicofthe70s.net/blog/genres/archive/index.html | Live | **New page, 2026-08-16.** Lists all 7 Genres posts, reverse chronological, auto-generated. |
+| Songs category | https://musicofthe70s.net/blog/songs/index.html | Live | **Cap mechanic + nav note added 2026-08-16.** Still shows all 5 posts (under the 6 cap), nav note reads "All 5 shown." |
+| Songs archive | https://musicofthe70s.net/blog/songs/archive/index.html | Live | **New page, 2026-08-16.** Lists all 5 Songs posts, reverse chronological, auto-generated. |
+| Artists category | https://musicofthe70s.net/blog/artists/index.html | Live | **Rotating cap added 2026-08-16.** Shows the 6 most recent of 8 real posts (Village People, Bee Gees rolled off); nav note + archive link below the grid. |
+| Artists archive | https://musicofthe70s.net/blog/artists/archive/index.html | Live | **New page, 2026-08-16.** Lists all 8 Artists posts, reverse chronological, auto-generated. |
+| Years category | https://musicofthe70s.net/blog/years/index.html | Live | Zero placeholders, 10 real cards, series complete (1970-1979). **Deliberately NOT capped** — Charlie's explicit call 2026-08-16: it's a complete ordered reference set, not a rolling topic feed, so recency-based rotation is the wrong mechanic. No archive page needed since nothing is ever hidden. Revisit only if new Years posts are added. |
+| Trivia category | https://musicofthe70s.net/blog/trivia/index.html | Live | **Cap mechanic + nav note added 2026-08-16.** Still shows all 3 posts (under the 4 cap), nav note reads "All 3 shown." |
+| Trivia archive | https://musicofthe70s.net/blog/trivia/archive/index.html | Live | **New page, 2026-08-16.** Lists all 3 Trivia posts, reverse chronological, auto-generated. |
 
-**Action needed:** update each category index page with real post cards as posts are published in that category. Remove placeholder cards once real ones exist.
+**Action needed:** none for card content — `scripts/generate_category_cards.py` now owns the Genres/Artists/Songs/Trivia card rows and archive pages entirely (rerun it after any new post in those categories, same pattern as `scripts/generate_blog_hub_cards.py` for the Blog Hub). Years category stays hand-edited per the explicit no-cap decision above.
 
 ---
 
@@ -109,7 +113,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 ## Quick Stats (update at a glance)
 
 - Total live tool pages: 9
-- Total live blog hub/category pages: 6
+- Total live blog hub/category pages: 10 (6 hub/category + 4 new archive pages)
 - Total published blog posts: 33 (all confirmed Live)
 - Total placeholder/in-progress posts: 0
 - Placeholder card slots remaining on category pages: 0

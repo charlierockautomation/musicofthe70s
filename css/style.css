@@ -371,6 +371,15 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .toc-block a { color: var(--text-primary); }
 .toc-block a:hover { color: var(--accent-gold); }
 
+.category-note {
+  background: var(--bg-card); border: 1px solid var(--border-subtle);
+  border-radius: var(--radius); padding: 1.25rem 1.5rem; margin: 1.75rem 0 0;
+  text-align: center;
+}
+.category-note p { color: var(--text-muted); margin: 0 0 0.9rem; }
+.category-note strong { color: var(--text-primary); }
+.category-note p:last-child { margin-bottom: 0; }
+
 .video-embed {
   position: relative; width: 100%; aspect-ratio: 16 / 9;
   background: var(--bg-elevated); border: 1px solid var(--border-subtle);
