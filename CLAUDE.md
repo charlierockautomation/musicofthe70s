@@ -1,7 +1,7 @@
 # MusicOfThe70s.net — Master Site Brain
 # CLAUDE CODE: Read this file at the start of EVERY session before writing any script.
 # This file governs ALL blog posts and page content on musicofthe70s.net.
-# Last Updated: 2026-08-11 (PUBLISH GATE section added at top after the 70s Hard Rock post shipped with a broken video embed and weak prose with no review step)
+# Last Updated: 2026-08-16 (Subheading Rule added after the 70s Funk post shipped with several long unbroken H2 sections)
 
 ---
 
@@ -132,6 +132,7 @@ Because this is a static site with no Rank Math or Yoast, "the high 90s" means h
 - [ ] All images have alt text — none blank, none generic ("image1.jpg")
 - [ ] H1 used exactly once per page, matches or closely echoes the title
 - [ ] Heading hierarchy is clean — no skipped levels (H2 before H3, never H3 before H2)
+- [ ] No wall-of-text H2 sections — long unbroken paragraph runs get real, specific H3 subheadings (see Subheading Rule above)
 - [ ] Schema markup present: Article + FAQPage + BreadcrumbList (see below)
 - [ ] Word count 1,200+ for blog posts
 - [ ] FAQ section present, written for direct AI/answer-engine extraction (see below)
@@ -249,6 +250,9 @@ Write as if you've heard this song 100 times — on vinyl, in a car, at 2am. Use
 - No em-dashes anywhere, ever, in prose — including in list item lead-ins, bold lead-ins, or FAQ answers. Use commas, colons, or periods instead.
   - **Exception:** a single em-dash-style character used strictly as a numeric separator (e.g. a chart position marker like `"Song Title" — #36`) is acceptable ONLY inside a bulleted list item, never in flowing prose sentences. When in doubt, use a colon instead even there.
 - Avoid AI-cliché words entirely: "delve," "tapestry," "testament," "haunting," "sonic landscape," "stands the test of time." If one of these is genuinely the only correct word for a specific context, it may appear once in the entire post, never twice.
+
+### Subheading Rule — MANDATORY
+Any H2 section with a long, unbroken run of body paragraphs (a real "wall of text" when scanned, not a hard sentence-count trigger) must be broken up with real H3 subheadings. Each subheading names what that specific chunk is actually about, not a generic label like "More Info" or "Details." One subheading per distinct idea or story beat within the section, not one per paragraph. This is a standard build-checklist item for every post on every site, not something that needs to be re-specified per task; check for it the same way word count and sentence length get checked, before calling a post ready to review. Added 2026-08-16 after the 70s Funk post shipped with several long unbroken H2 sections; same category of standing fix as the PUBLISH GATE.
 
 ### List Formatting Rule — MANDATORY
 Any list of 3+ items, names, artists, songs, or examples must be a real bulleted or numbered HTML list (`<ul>`/`<ol>`), never crammed into one paragraph with parenthetical asides.

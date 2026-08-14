@@ -210,6 +210,34 @@ Source: WordStream, supplied by Charlie, 2026-08-12, search term "70s music quiz
 
 ---
 
+## 70s Funk — pull for Rotation Queue slot 1 (Genres), 2026-08-12
+
+Source: WordStream, supplied by Charlie, 2026-08-12, search term "70s Funk".
+
+### Real (genuinely about the genre)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70s funk | 6,600 | **Confirmed focus keyword** — used on the Funk Genres post; part of a 6-term tied cluster, likely one shared estimate not 6 independent numbers |
+| 70s funk songs | 880 | Secondary keyword cluster, used naturally in body |
+| 70s funk hits | 590 | Secondary keyword cluster, used naturally in body |
+| 70s funk artists | 140 | Secondary keyword, used naturally in body |
+| george clinton 70s | 390 | Future post candidate — an Artists-post angle |
+| rick james 70s | 170 | Future post candidate — an Artists-post angle |
+| best 70's funk songs | 260 | Future post candidate — a listicle framing, distinct from this genre-explainer post |
+
+### Excluded for this post (real volume, wrong scope)
+
+| Term | Note |
+|---|---|
+| 70's and 80's funk music / 70s 80s funk / 70s and 80s funk | 390 (cluster) | Decade-spanning, not 70s-specific; future multi-decade candidate, not this post |
+| funk hits of the 70s and 80s | 260 | Same as above |
+| 70s funk disco | 210 | Genre-blend term; Disco already has its own live post, kept separate here to avoid diluting this post's focus rather than folded in |
+
+No contamination found in this pull.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
