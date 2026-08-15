@@ -253,6 +253,56 @@ No contamination in this pull.
 
 ---
 
+## Pop Crossover of the 70s — pull for Rotation Queue slot (Genres), 2026-08-15
+
+Source: WordStream, supplied by Charlie, 2026-08-15, 25 rows, no search term given (list is generic "70s pop" phrasing, not "pop crossover" specifically). **Real scope tension, flagged before any keyword is treated as settled**: none of these 25 terms contain the word "crossover." Charlie confirmed explicitly that the post keeps the Pop Crossover content theme (the site's own 50-artist `pop_crossover` subgenre bucket) regardless, and asked for the best-fitting term from this generic list to carry the SEO/keyword role. That's a real, deliberate mismatch between keyword-searcher intent (broad "70s pop") and content angle (a specific curated artist bucket), not an oversight.
+
+**Final call, 2026-08-15**: Charlie reviewed both candidates and picked `pop songs of 70s` (8,100/mo) as the focus keyword over the originally recommended `70s pop` (1,000/mo), with `70s pop` kept as the related/secondary keyword instead. Overrides the structural-fit reasoning below in favor of real volume. Charlie also confirmed proceeding with the Pop Crossover content angle directly, the previously open Rotation Queue content decision (distinct from Soft Rock/Yacht Rock, or overlapping) is resolved as: build it. A real overlap/content-gap check against the live 70s Soft Rock post is still required at build time per CLAUDE.md's standing content-gap-analysis rule, just no longer a gating scope question.
+
+### Real (genuinely about 70s-era pop music)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| pop songs of 70s | 8,100 | **Confirmed focus keyword (final call)** — by far the highest volume in this pull; Charlie picked this over the structurally-cleaner `70s pop` on real-volume grounds. Slug/title/meta/first-100-words/H2 must carry this exact phrase, word order as written |
+| 70s pop | 1,000 | **Confirmed related/secondary keyword** — clean, no apostrophe, matches this site's established "[decade] [genre]" slug convention; originally recommended as focus, downgraded to secondary per Charlie's final call, still used naturally in body |
+| 70 pop songs | 4,400 | Tied cluster with the row below, likely a tokenization variant of the same underlying query as "70's pop songs" |
+| 70's pop songs | 4,400 | Same cluster as above |
+| 70's pop music | 1,600 | Real, secondary keyword, used naturally in body |
+| pop music from 70s | 1,600 | Real, secondary keyword, natural phrasing, used naturally in body |
+| 70 s pop music | 1,000 | Tokenization artifact of "70's pop music" (space instead of apostrophe), same underlying term |
+| pop from the 70s | 1,000 | Real, secondary keyword |
+| pop rock songs from the 70s | 1,000 | Real, but a distinct "pop rock" framing, not plain "pop"; tied cluster with the row below; possible overlap risk with Soft Rock, logged as a factor for the still-open content decision rather than used here |
+| pop rock songs of the 70s | 1,000 | Same cluster as above |
+| 70 pop music | 590 | Tokenization variant of "70s pop music" |
+| 70 s pop | 590 | Tokenization variant of "70's pop" / "70s pop" |
+| 1970 pop songs | 480 | Real, tied cluster with the row below |
+| 1970's pop songs | 480 | Same cluster as above |
+| 70 s pop songs | 480 | Tokenization artifact, same cluster |
+| seventies pop songs | 480 | Real, spelled-out decade form, distinct phrasing worth keeping on file |
+| 1970 pop music | 320 | Real, tied cluster with the two rows below |
+| 1970's pop | 320 | Same cluster as above |
+| 1970's pop music | 320 | Same cluster as above |
+| 70s songs pop | 320 | Garbled word order, reads like a tool-side reordering artifact rather than a real phrase a person types; not used |
+| top 70's pop songs | 320 | Real, a "best of" listicle framing, future candidate distinct from a genre-explainer post |
+
+### Excluded from this post (real volume, decade-spanning, future multi-decade candidates)
+
+| Term | Note |
+|---|---|
+| pop songs 60s and 70s | 260 | Tied cluster with the row below, decade-spanning, not 70s-specific |
+| pop songs of the 60s and 70s | 260 | Same as above |
+
+### Contamination (real volume, wrong subject)
+
+| Term | Note |
+|---|---|
+| iggy pop 70's | 1,600 | This is the musician Iggy Pop, not "70s pop" the genre. Excluded from this post entirely. Real future candidate for a different post instead, an Iggy Pop Artists piece (he sits in the punk/new-wave-adjacent world already flagged for the still-unbuilt 70s Punk Rock Genres slot) |
+| iggy pop 1970 | 260 | Same contamination, same future-candidate note as above |
+
+No tool/search-term metadata was supplied with this pull (unlike prior pulls, which named the exact search box query used); noted here so a future session doesn't assume one exists.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
