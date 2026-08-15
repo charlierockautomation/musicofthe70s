@@ -303,6 +303,18 @@ No tool/search-term metadata was supplied with this pull (unlike prior pulls, wh
 
 ---
 
+## 70s Punk Rock — pull for Rotation Queue slot (Genres), 2026-08-15
+
+Charlie specified the focus keyword directly: `70s punk rock`, no WordStream export attached this time (same direct-supply pattern as the Songs batch keywords). No independent volume re-verification run this session, same honesty flag used on `70s soft rock` when Charlie supplied that one as given. Slug: `70s-punk-rock`, matches this site's established no-apostrophe "[decade] [genre]" convention exactly, consistent with every other live Genres post.
+
+### Real content notes (not a volume pull, artist-data audit instead)
+
+`data/artists/artists_punk_new_wave.json` holds 35 total artists tagged `genre: "punk"`, but 14 of those carry a `new-wave`, `synth-pop`, or `pub-rock` subgenre tag (Blondie, Boomtown Rats, Devo, Elvis Costello, Joe Jackson, Squeeze, Talking Heads, The Cars, The Police, The Pretenders, The Stranglers, Ultravox, Gary Numan, Nick Lowe), not real punk. Real punk count: 21, across british-punk (6), post-punk (6), art-punk (4), american-punk (2), pop-punk (2), mod-revival (1).
+
+Talking Heads sits in this same bucket but already has its own Live Artists post (2026-08-06); off-limits for re-covering, not a fresh spotlight candidate here.
+
+Chart data cross-check against `data/songs/*.json`: only ONE chart entry in the entire 35-artist bucket across the whole decade, Blondie's "Heart of Glass" (1979, year-end rank 18), and Blondie is new-wave-tagged, not real punk. Zero real punk songs charted in this site's own archive at all. Confirms the queue's own flag ("can't lean on chart-hit hooks, zero punk songs in the chart data").
+
 ## Session Log
 
 | Date | Task | Notes |
