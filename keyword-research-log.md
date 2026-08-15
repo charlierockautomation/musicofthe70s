@@ -238,6 +238,21 @@ No contamination found in this pull.
 
 ---
 
+## 70s Progressive Rock — pull for Rotation Queue slot 1 (Genres), 2026-08-16
+
+Source: supplied by Charlie, 2026-08-16, two candidate terms, no tool/search term specified.
+
+### Real (both genuinely about the genre)
+
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70s progressive rock | 260 | **Confirmed focus keyword** — used on the Progressive Rock Genres post |
+| 70's progressive rock bands | 320 | Considered, not used. Higher volume, but the apostrophe and "bands" suffix both break from this site's established slug convention (bare "[decade] [genre]" pattern, no apostrophe, matches every other live Genres post: 70s Hard Rock, 70s Funk, 70s Soft Rock, 70s Country Rock). The "bands" suffix also signals list/roster search intent rather than the genre-overview format this post uses. Charlie explicitly deferred the choice to fit; this is the fit call, made and logged. |
+
+No contamination in this pull.
+
+---
+
 ## Session Log
 
 | Date | Task | Notes |
