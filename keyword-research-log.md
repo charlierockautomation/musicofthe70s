@@ -315,6 +315,12 @@ Talking Heads sits in this same bucket but already has its own Live Artists post
 
 Chart data cross-check against `data/songs/*.json`: only ONE chart entry in the entire 35-artist bucket across the whole decade, Blondie's "Heart of Glass" (1979, year-end rank 18), and Blondie is new-wave-tagged, not real punk. Zero real punk songs charted in this site's own archive at all. Confirms the queue's own flag ("can't lean on chart-hit hooks, zero punk songs in the chart data").
 
+## Mamma Mia Song — pull for Rotation Queue slot (Songs), 2026-08-16
+
+Charlie specified the focus keyword directly: `mamma mia song`, the literal phrase, not the shorter `Mamma Mia` originally logged as a future candidate on 2026-08-10 (301,000/mo, tied with ABBA's own search volume). No fresh WordStream export attached this time, same direct-supply pattern as the last three posts. Slug: `mamma-mia-song`, preserving the exact keyword word order per the site's standing rule.
+
+No independent volume re-verification run on the more specific `mamma mia song` phrase itself; the 301,000/mo figure on file is for the shorter `Mamma Mia` term, logged as-supplied on 2026-08-10, not reverified.
+
 ## Session Log
 
 | Date | Task | Notes |
