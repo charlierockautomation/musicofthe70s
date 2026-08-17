@@ -321,6 +321,16 @@ Charlie specified the focus keyword directly: `mamma mia song`, the literal phra
 
 No independent volume re-verification run on the more specific `mamma mia song` phrase itself; the 301,000/mo figure on file is for the shorter `Mamma Mia` term, logged as-supplied on 2026-08-10, not reverified.
 
+## Full Backlog Keyword Assignment — 2026-08-16
+
+Charlie assigned focus keywords for the entire remaining unslotted Rotation Queue backlog in one instruction, all sourced from the 2026-08-10 ABBA and Eagles keyword pulls already on file, no new volume data attached: `Don Henley`, `eagles greatest hits`, `take it easy`, `Agnetha Fältskog`, `Anni-Frid Lyngstad`, `Bjorn Ulvaeus`, `Benny Andersson`, `Gimme Gimme Gimme`, `Super Trouper`, an ABBA Voyage angle for Genres, `abba vs. queen` for Trivia, and `iggy pop`.
+
+**Don Henley** and **eagles greatest hits** were both scoped and decided against before any writing started: Don Henley's real solo career only began in 1982, outside this site's 1970-1979 window; Eagles Greatest Hits has serious real overlap against the live Eagles Artists post's own dedicated section on the same compilation. See content-build.md's Rotation Queue and Session Log (2026-08-16) for the full reasoning.
+
+`take it easy` used directly for the next post built; see the Take It Easy row in CONTENT-INDEX.md's Blog Posts table for the real content-gap findings.
+
+Remaining assignments (`Agnetha Fältskog`, `Anni-Frid Lyngstad`, `Bjorn Ulvaeus`, `Benny Andersson`, `Gimme Gimme Gimme`, `Super Trouper`, ABBA Voyage, `abba vs. queen`, `iggy pop`) are logged here as the confirmed keywords for each still-unbuilt post; each will get its own real content-gap/overlap check at build time before being treated as final.
+
 ## Session Log
 
 | Date | Task | Notes |
