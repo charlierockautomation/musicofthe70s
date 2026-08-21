@@ -331,6 +331,10 @@ Charlie assigned focus keywords for the entire remaining unslotted Rotation Queu
 
 Remaining assignments (`Agnetha Fältskog`, `Anni-Frid Lyngstad`, `Bjorn Ulvaeus`, `Benny Andersson`, `Gimme Gimme Gimme`, `Super Trouper`, ABBA Voyage, `abba vs. queen`, `iggy pop`) are logged here as the confirmed keywords for each still-unbuilt post; each will get its own real content-gap/overlap check at build time before being treated as final.
 
+## Gimme Gimme Gimme — used from the Full Backlog Keyword Assignment, 2026-08-20
+
+`gimme gimme gimme` used as assigned, no fresh WordStream export attached, same direct-supply pattern as Take It Easy and Mamma Mia Song. The 33,100/mo figure on file traces back to the 2026-08-10 ABBA pull, not independently reverified. Used without the song's own exclamation marks in every scored location (title, meta description, first 100 words, H2, slug), per the standing literal-keyword-phrasing rule; the full official title, "Gimme! Gimme! Gimme! (A Man After Midnight)," appears once in body prose for accuracy. Slug: `gimme-gimme-gimme`.
+
 ## Session Log
 
 | Date | Task | Notes |
