@@ -1,7 +1,7 @@
 # CONTENT-BUILD.md — musicofthe70s.net Master Content & Linking Tracker
 # CLAUDE / CLAUDE CODE: Read this alongside CLAUDE.md and CONTENT-INDEX.md before planning any session.
 # Full history (every completed/decided-against slot, every past session's full build write-up) lives in SESSION-LOG-ARCHIVE.md. Don't open it in full — grep it for a specific term when you need one (e.g. `grep -i "iggy pop" SESSION-LOG-ARCHIVE.md`). Append new entries there directly at session end; don't grow this file with them.
-# Current status: Brian May and Queen (Artists) is BUILT-LOCAL, previewed, verify_post.py clean, mobile-checked — awaiting Charlie's review/go-ahead to commit and push. Everything else completed to date is in the archive.
+# Current status: Brian May and Queen (Artists) is LIVE (2026-08-22, pushed and confirmed on the real site). Everything else completed to date is in the archive.
 
 ## How This File Works
 
@@ -109,7 +109,7 @@ Full history of everything already built or decided against lives in SESSION-LOG
 
 | Category | Content | Status |
 |---|---|---|
-| Artists | Brian May and Queen | **BUILT-LOCAL 2026-08-22** — `brian may and queen` (110,000/mo). Angle: Red Special origin/construction, sixpence pick, Deacy Amp, multi-tracked "orchestral" guitar and the "No Synthesizers!" liner-note era. `verify_post.py` passed clean first run (1,541 words, density 0.649%). Mobile check (375px/390px) passed, no horizontal scroll, TOC/FAQ/related-posts all stack correctly. Video: official Queen channel's "The Guitar Solo" (Episode 38), oEmbed-verified. Image: Brian May live Nov 1977 (Carl Lender, CC BY-SA 3.0, Wikimedia Commons), cropped to site ratio, 144KB. Category cards, blog hub, sitemap all regenerated. Awaiting Charlie's local-review go-ahead to commit/push. |
+| Artists | Brian May and Queen | **LIVE 2026-08-22** — https://musicofthe70s.net/blog/artists/brian-may-and-queen/. `brian may and queen` (110,000/mo). Angle: Red Special origin/construction, sixpence pick, Deacy Amp, multi-tracked "orchestral" guitar and the "No Synthesizers!" liner-note era, distinct from the live Queen Freddie Mercury post. `verify_post.py` passed clean first run (1,541 words, density 0.649%). Mobile check (375px/390px) passed. Video: official Queen channel's "The Guitar Solo" (Episode 38), oEmbed-verified. Image: Brian May live Nov 1977 (Carl Lender, CC BY-SA 3.0, Wikimedia Commons), cropped to site ratio, 144KB. Category cards, blog hub, sitemap regenerated and confirmed live. **14th Artists post.** |
 | Artists (candidate, not yet slotted) | Stevie Wonder, Marvin Gaye, Al Green, Donna Summer, Led Zeppelin, Pink Floyd, Yes, Genesis, Dolly Parton, Willie Nelson, Carole King, Jim Croce | Confirmed zero-coverage gaps via the 2026-08-22 sitemap audit (see below) — real candidates, each still needs its own keyword check + content-gap pass before queuing, same as every prior post. |
 | Songs (candidate, not yet slotted) | We Will Rock You | `201,000/mo` cluster, also helps the thin-Songs gap flagged below. Needs its own overlap check against the live Queen post before queuing. |
 | Artists (candidate, not yet slotted) | George Clinton, Rick James in the 70s | Funk-category candidates from the 2026-08-22 audit; each needs its own keyword check + overlap check before queuing. |
@@ -126,7 +126,7 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
 | Songs | 8 | Over its 6-post cap since 2026-08-16; thin relative to the artist database — see candidates above |
-| Artists | 13 | Corrected from 12 — Iggy Pop's 2026-08-21 publish wasn't reflected here until the sitemap audit caught it. Thin relative to the 601-artist JSON pool — real tool dead-end risk, see Sitemap-Verified Findings above |
+| Artists | 14 | Brian May and Queen published 2026-08-22. Thin relative to the 601-artist JSON pool — real tool dead-end risk, see Sitemap-Verified Findings above |
 | Trivia | 4 | At cap (70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s) |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
 

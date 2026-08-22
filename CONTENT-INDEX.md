@@ -70,7 +70,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| Brian May and Queen: The Guitar Built From a Fireplace | https://musicofthe70s.net/blog/artists/brian-may-and-queen/index.html | Artists | brian may and queen | Built-Local | pending approval | Random Artist Picker, 70s Music Trivia Quiz |
+| Brian May and Queen: The Guitar Built From a Fireplace | https://musicofthe70s.net/blog/artists/brian-may-and-queen/index.html | Artists | brian may and queen | Live | 2026-08-22 | Random Artist Picker, 70s Music Trivia Quiz |
 | ABBA vs Queen: Who Won the US Charts in the 70s? | https://musicofthe70s.net/blog/trivia/abba-vs-queen/index.html | Trivia | abba vs queen | Live | 2026-08-21 | 70s Music Trivia Quiz, Birthday #1 Song Finder |
 | Iggy Pop: The 1970s Collapse and Berlin Resurrection | https://musicofthe70s.net/blog/artists/iggy-pop/index.html | Artists | iggy pop | Live | 2026-08-21 | Random Artist Picker, 70s Music Trivia Quiz |
 | Benny Andersson: The Real Songwriting Method Behind ABBA | https://musicofthe70s.net/blog/artists/benny-andersson/index.html | Artists | Benny Andersson | Live | 2026-08-19 | 70s Music Trivia Quiz |
