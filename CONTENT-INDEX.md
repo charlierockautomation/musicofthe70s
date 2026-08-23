@@ -5,7 +5,7 @@
 # UPDATE THIS FILE every time a page or post is created, edited, or published.
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
-# Last Updated: 2026-08-22 (corrected — this line had drifted to 2026-08-18 while the table below already had rows through 2026-08-21; synced against the table and the 2026-08-22 sitemap audit)
+# Last Updated: 2026-08-23
 
 ---
 
@@ -70,6 +70,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| Stevie Wonder: The Deal That Built His Classic Period | https://musicofthe70s.net/blog/artists/stevie-wonder/index.html | Artists | Stevie Wonder | Live | 2026-08-23 | Random Artist Picker, 70s Music Trivia Quiz |
 | Brian May and Queen: The Guitar Built From a Fireplace | https://musicofthe70s.net/blog/artists/brian-may-and-queen/index.html | Artists | brian may and queen | Live | 2026-08-22 | Random Artist Picker, 70s Music Trivia Quiz |
 | ABBA vs Queen: Who Won the US Charts in the 70s? | https://musicofthe70s.net/blog/trivia/abba-vs-queen/index.html | Trivia | abba vs queen | Live | 2026-08-21 | 70s Music Trivia Quiz, Birthday #1 Song Finder |
 | Iggy Pop: The 1970s Collapse and Berlin Resurrection | https://musicofthe70s.net/blog/artists/iggy-pop/index.html | Artists | iggy pop | Live | 2026-08-21 | Random Artist Picker, 70s Music Trivia Quiz |
