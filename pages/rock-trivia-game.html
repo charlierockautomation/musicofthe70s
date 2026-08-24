@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY77Y8DHV1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZY77Y8DHV1');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock Trivia Game | Test Your 70s Rock Knowledge</title>
+  <meta name="description" content="Play a free rock trivia game built from 1,300+ real questions on classic rock, hard rock, prog and punk. New daily challenge, streaks, instant scoring.">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/rock-trivia-game.html">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1a1a2e">
+
+  <meta property="og:title" content="Rock Trivia Game | Test Your 70s Rock Knowledge">
+  <meta property="og:description" content="Play a free rock trivia game built from 1,300+ real questions on classic rock, hard rock, prog and punk. New daily challenge, streaks, instant scoring.">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/rock-trivia-game.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Rock Trivia Game",
+    "url": "https://musicofthe70s.net/pages/rock-trivia-game.html",
+    "applicationCategory": "EntertainmentApplication",
+    "description": "A rock trivia game with over 1,300 questions spanning classic rock, hard rock, prog rock and punk from the 1970s, plus a daily challenge and streak tracking.",
+    "operatingSystem": "Any"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Rock Trivia Game", "item": "https://musicofthe70s.net/pages/rock-trivia-game.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/index.html">Home</a>
+        <a href="/index.html#tools">Tools</a>
+        <a href="/pages/about.html">About</a>
+        <a href="/blog/index.html">Blog</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb"><a href="/index.html">Home</a> › Rock Trivia Game</nav>
+      <div class="page-intro">
+        <h1>Rock Trivia Game</h1>
+        <p>This <strong>rock trivia game</strong> pulls from 1,300+ real questions on 219 verified 70s rock acts, spanning classic rock, hard rock, prog rock and punk. Pick a category and play now, or take on today's Daily Challenge to build a streak.</p>
+      </div>
+
+      <div class="tool-stage">
+        <!-- Start -->
+        <div id="startScreen">
+          <div class="card" id="dailyCard" style="max-width:520px;margin:0 auto 2rem;">
+            <div class="icon">🔥</div>
+            <h3>Today's Rock Trivia Challenge</h3>
+            <p id="streakText" class="meta">Loading streak...</p>
+            <button id="dailyBtn" class="btn-primary">Play Today's Challenge</button>
+          </div>
+
+          <h2 style="margin-bottom:0.25rem;">Or Play by Category</h2>
+          <p class="meta" style="margin-bottom:1rem;">Every round is 10 fresh questions, randomized on every play.</p>
+          <div class="option-grid" id="categoryGrid" style="grid-template-columns:repeat(2,1fr);max-width:640px;">
+            <button class="option-btn selected" data-value="all">All Rock</button>
+            <button class="option-btn" data-value="classic-rock">Classic Rock</button>
+            <button class="option-btn" data-value="hard-rock">Hard Rock</button>
+            <button class="option-btn" data-value="prog-rock">Prog Rock</button>
+            <button class="option-btn" data-value="punk-new-wave">Punk &amp; New Wave</button>
+          </div>
+          <button id="startBtn" class="btn-primary" style="margin-top:1.5rem;">Start the Quiz</button>
+          <p id="bestScoreText" class="meta" style="margin-top:1rem;"></p>
+        </div>
+
+        <!-- Quiz -->
+        <div id="quizScreen" class="hidden">
+          <p class="meta" style="margin-bottom:0.5rem;">Switch category anytime:</p>
+          <div class="option-grid" id="quizCategoryGrid" style="grid-template-columns:repeat(5,1fr);max-width:720px;margin:0 auto 1.5rem;gap:0.4rem;">
+            <button class="option-btn" data-value="all" style="padding:0.55rem 0.3rem;font-size:0.8rem;">All Rock</button>
+            <button class="option-btn" data-value="classic-rock" style="padding:0.55rem 0.3rem;font-size:0.8rem;">Classic</button>
+            <button class="option-btn" data-value="hard-rock" style="padding:0.55rem 0.3rem;font-size:0.8rem;">Hard</button>
+            <button class="option-btn" data-value="prog-rock" style="padding:0.55rem 0.3rem;font-size:0.8rem;">Prog</button>
+            <button class="option-btn" data-value="punk-new-wave" style="padding:0.55rem 0.3rem;font-size:0.8rem;">Punk</button>
+          </div>
+          <div class="progress-label" id="progressLabel"></div>
+          <div class="progress-wrap"><div class="progress-bar" id="progressBar"></div></div>
+          <h2 class="quiz-question" id="questionText"></h2>
+          <div class="option-grid" id="optionsGrid" style="grid-template-columns:1fr;"></div>
+          <div id="feedback" class="feedback hidden"></div>
+          <button id="nextBtn" class="btn-primary hidden" style="margin-top:1.25rem;">Next Question</button>
+        </div>
+
+        <!-- Results -->
+        <div id="resultScreen" class="hidden">
+          <h2 id="scoreHeadline" class="song-title"></h2>
+          <p id="scoreText" style="font-size:1.2rem;"></p>
+          <p id="scoreMessage" style="max-width:520px;margin:0.5rem auto;"></p>
+          <p id="resultStreakText" class="badge badge-gold hidden" style="margin-top:0.5rem;"></p>
+          <div class="actions">
+            <button id="shareBtn" class="btn-link">↗ Share my score</button>
+          </div>
+          <div style="margin-top:1.5rem;">
+            <button id="playAgainBtn" class="btn-primary">Play Again</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="section-divider">
+
+    <article class="container section seo-content">
+      <h2>A Rock Trivia Game Built on Real Chart and Artist Data</h2>
+      <p>Most online quizzes recycle the same 20 trivia questions about Led Zeppelin and the Rolling Stones. This <strong>rock trivia game</strong> doesn't. Every question is generated straight from this site's own verified database of 219 rock acts active in the 1970s, covering real album titles, real release years, real songs and real formation dates. There's no guessing and no invented trivia, just facts pulled directly from the source data.</p>
+      <p>The pool currently holds more than 1,300 questions across four genres, so a single sitting rarely repeats the same round twice. Whether you grew up on arena rock, discovered prog through your parents' record collection, or came in through punk's back door, there's a category built for you.</p>
+
+      <h3>Four Rock Categories to Choose From</h3>
+      <ul>
+        <li><strong>Classic Rock</strong> — The Rolling Stones, Fleetwood Mac, the Eagles and the FM-radio staples that defined the decade.</li>
+        <li><strong>Hard Rock</strong> — AC/DC, Deep Purple, Aerosmith and the bands that turned amplifiers up past ten.</li>
+        <li><strong>Prog Rock</strong> — Yes, Genesis, Pink Floyd and the side-long suites built for headphones.</li>
+        <li><strong>Punk &amp; New Wave</strong> — The Clash, Blondie, Television and the acts that tore up the rulebook.</li>
+      </ul>
+
+      <h3>Play the Daily Challenge, Build a Streak</h3>
+      <p>Every visitor gets the same 10-question Daily Challenge on a given day, so you can compare scores with friends who play the same round. Complete it once, and it locks until tomorrow, when a fresh set unlocks. Come back day after day and your streak counter keeps climbing, right up until you miss a day and it resets.</p>
+
+      <h2>How This Rock Trivia Game Works</h2>
+      <p>Pick a category, or jump straight into the Daily Challenge. Each round pulls 10 random questions from that category's pool, with answer order shuffled so no two rounds ever look identical, even on a repeat category. Answer, get instant feedback with a real fact about the artist, and see your final score against your personal best. Share your result, then come back tomorrow for a new Daily Challenge.</p>
+      <p>Looking for something broader than rock? The <a href="/pages/70s-trivia-quiz.html">70s Music Trivia Quiz</a> spans every genre of the decade, from disco to soul to country. And if this game sends you down a rabbit hole on a specific band, the <a href="/blog/trivia/index.html">Trivia</a> and <a href="/blog/artists/index.html">Artists</a> sections have deep dives worth reading.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2026 Music of the 70s |
+      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
+      <a href="/pages/about.html">About</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script src="/js/rock-trivia-data.js"></script>
+  <script src="/js/rock-trivia-game.js"></script>
+</body>
+</html>

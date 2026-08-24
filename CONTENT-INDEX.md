@@ -31,6 +31,7 @@
 | Random Artist Picker | https://musicofthe70s.net/pages/random-artist-picker.html | Live | Focus keyword: 70s artists |
 | 70s Music Trivia Quiz | https://musicofthe70s.net/pages/70s-trivia-quiz.html | Live | Focus keyword: 70s music trivia |
 | 70s Decade Wheel | https://musicofthe70s.net/pages/70s-decade-wheel.html | Live | Focus keyword: music of the 70s by year |
+| Rock Trivia Game | https://musicofthe70s.net/pages/rock-trivia-game.html | **Built, not yet pushed (2026-08-23)** | Focus keyword: rock trivia game. 7th tool. 1,384 real questions generated from data/artists/*.json (classic/hard/prog rock + punk-new-wave), category select, date-seeded Daily Challenge with streak, personal best. Awaiting Charlie's go-ahead per Publish Gate. |
 | About | https://musicofthe70s.net/pages/about.html | Live | |
 | Privacy Policy | https://musicofthe70s.net/pages/privacy-policy.html | Live | |
 
@@ -70,6 +71,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| We Will Rock You: How Queen Built a Stadium Chant | https://musicofthe70s.net/blog/songs/we-will-rock-you/index.html | Songs | We Will Rock You | Live | 2026-08-23 | Random 70s Song Generator, Mood Song Matcher |
 | Stevie Wonder: The Deal That Built His Classic Period | https://musicofthe70s.net/blog/artists/stevie-wonder/index.html | Artists | Stevie Wonder | Live | 2026-08-23 | Random Artist Picker, 70s Music Trivia Quiz |
 | Brian May and Queen: The Guitar Built From a Fireplace | https://musicofthe70s.net/blog/artists/brian-may-and-queen/index.html | Artists | brian may and queen | Live | 2026-08-22 | Random Artist Picker, 70s Music Trivia Quiz |
 | ABBA vs Queen: Who Won the US Charts in the 70s? | https://musicofthe70s.net/blog/trivia/abba-vs-queen/index.html | Trivia | abba vs queen | Live | 2026-08-21 | 70s Music Trivia Quiz, Birthday #1 Song Finder |
@@ -141,10 +143,10 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 11
-- Total published blog posts: 47 (all confirmed Live: Genres 12, Artists 13, Songs 8, Trivia 4, Years 10) — corrected 2026-08-22, this line had drifted (said 34) even though the table above already had 47 rows
+- Total published blog posts: 50 (all confirmed Live: Genres 12, Artists 15, Songs 9, Trivia 4, Years 10) — recounted directly from the table above 2026-08-23 (Stevie Wonder and We Will Rock You both landed since the 2026-08-22 audit; the old "47" line hadn't caught up to either)
 - Total placeholder/in-progress posts: 0
 - Placeholder card slots remaining on category pages: 0
-- Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47)
+- Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 50 = 70 as of 2026-08-23, not yet re-verified against a fresh live sitemap crawl
 
 ---
 
