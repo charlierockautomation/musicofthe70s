@@ -112,6 +112,30 @@ def main():
     print(f"Heading sequence: {heads}")
     print(f"Heading hierarchy clean: {'PASS' if not skipped else 'FAIL (skipped level)'}")
 
+    # subheading rule: any H2 body section with a long unbroken run of <p>
+    # tags before the first H3 (or with no H3 at all) reads as a wall of
+    # text. Site convention is one sentence per <p>, so this needs a much
+    # higher bar than a normal-paragraph blog; calibrated against existing
+    # compliant posts (70s Funk, Folk Rock, Progressive Rock all cap at a
+    # 10-<p> max run between subheads), so flag anything past that norm.
+    WALL_THRESHOLD = 11
+    tag_iter = list(re.finditer(r"<h2[^>]*>(.*?)</h2>|<h3[^>]*>|<p[^>]*>", body_only, re.S))
+    cur_h2, streak, section_max, worst = None, 0, 0, []
+    for m in tag_iter:
+        if m.group(0).startswith("<h2"):
+            if cur_h2 and section_max >= WALL_THRESHOLD:
+                worst.append(f"{cur_h2} ({section_max} consecutive <p>)")
+            cur_h2, streak, section_max = re.sub(r"<[^>]+>", "", m.group(1)).strip(), 0, 0
+        elif m.group(0).startswith("<h3"):
+            streak = 0
+        else:
+            streak += 1
+            section_max = max(section_max, streak)
+    if cur_h2 and section_max >= WALL_THRESHOLD:
+        worst.append(f"{cur_h2} ({section_max} consecutive <p>)")
+    print(f"Subheading rule (H2 sections with {WALL_THRESHOLD}+ consecutive <p> before any H3): "
+          f"{'FAIL - ' + '; '.join(worst) if worst else 'PASS'}")
+
     # FAQ schema vs visible match
     scripts = re.findall(r'<script type="application/ld\+json">\s*(\{.*?\})\s*</script>', html, re.S)
     faq_obj = None
