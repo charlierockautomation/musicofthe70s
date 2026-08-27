@@ -71,6 +71,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| Jim Croce: The Song He Released the Day After He Died | https://musicofthe70s.net/blog/artists/jim-croce/index.html | Artists | jim croce | Live | 2026-08-27 | Random Artist Picker, 70s Music Trivia Quiz |
 | Carole King: The Same Chart, Three Different Names | https://musicofthe70s.net/blog/artists/carole-king/index.html | Artists | Carole King | Live | 2026-08-26 | Random Artist Picker, 70s Music Trivia Quiz |
 | Dolly Parton: The Split, the Songs, and the Lawsuit | https://musicofthe70s.net/blog/artists/dolly-parton/index.html | Artists | dolly parton | Live (updated 2026-08-25 with editor's note on her death) | 2026-08-24 | Random Artist Picker, 70s Music Trivia Quiz |
 | Willie Nelson: The Songwriter Who Became the Star | https://musicofthe70s.net/blog/artists/willie-nelson/index.html | Artists | Willie Nelson | Live | 2026-08-25 | Random Artist Picker, 70s Music Trivia Quiz |
@@ -146,7 +147,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 11
-- Total published blog posts: 53 (all confirmed Live: Genres 12, Artists 18, Songs 9, Trivia 4, Years 10) — recounted directly from the table above 2026-08-26 (Carole King landed this session, first Artists post under the soft-rock genre bucket)
+- Total published blog posts: 54 (all confirmed Live: Genres 12, Artists 19, Songs 9, Trivia 4, Years 10) — recounted directly from the table above 2026-08-27 (Jim Croce landed this session, first Artists post under the folk-rock/singer-songwriter camp, resolving his classic-rock/soft-rock duplicate-record conflict per Charlie's direct call)
 - Total placeholder/in-progress posts: 0
 - Placeholder card slots remaining on category pages: 0
 - Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 50 = 70 as of 2026-08-23, not yet re-verified against a fresh live sitemap crawl
