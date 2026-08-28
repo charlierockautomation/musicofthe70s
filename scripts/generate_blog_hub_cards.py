@@ -159,6 +159,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
       <nav class="main-nav">
         <a href="/index.html">Home</a>
         <a href="/index.html#tools">Tools</a>
+        <a href="/radio/index.html">Listen Now</a>
         <a href="/pages/about.html">About</a>
         <a href="/blog/index.html">Blog</a>
       </nav>
