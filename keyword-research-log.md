@@ -3,7 +3,7 @@
 # Separate from content-build.md: that file tracks planning/rotation decisions, this file is
 # the raw data those decisions get made from. A term can sit here unused for a long time before
 # it becomes a Rotation Queue slot — that's expected, not stale.
-# Last Updated: 2026-08-09
+# Last Updated: 2026-08-31
 
 ---
 
@@ -355,6 +355,10 @@ Charlie asked for the Songs category to get fresh material, no specific keywords
 
 No independent volume re-verification run on any of the 4 phrases; treat as supplied-and-approved, not confirmed-against-data, same caveat already standing on several prior batches.
 
-## ABBA vs Queen — keyword confirmed directly with Charlie, 2026-08-21
+## How Can You Mend a Broken Heart — Songs Rotation Queue slot #2, 2026-08-31
+
+Keyword sourced directly from the Songs Rotation Queue's own pre-set list in content-build.md (`how can you mend a broken heart`, the literal song title), same direct-supply pattern as most of that queue. No WordStream export run this session; treated as supplied-and-approved via the standing queue, not independently volume-verified, same caveat already standing on the Four-Song Batch and several other entries. Slug: `how-can-you-mend-a-broken-heart`, exact word-order match.
+
+Content-gap check via WebSearch: current top results (Wikipedia, beegees.com, Production Expert) cover the writing/recording story reasonably well, but the real gap found is that general search results for the exact title are heavily crowded out by the unrelated 2020 HBO/Universal documentary of the same name; nothing found combines the writing story with this site's own chart data (year_end_hot100.json rank 5 vs. the real weekly #1 status, a genuine field-meaning trap like the one caught on ABBA Waterloo) or the real UK-chart-silence irony against Al Green's 1972 cover charting there instead. Built around that irony as the throughline. All facts independently verified via Wikipedia (writing date/session length, recording date/studio/personnel, chart facts, cover history) before use; none invented.
 
 Logged `abba vs. queen` (with period) as part of the 2026-08-16 Full Backlog Keyword Assignment, sourced only as a signal from the 2026-08-10 ABBA pull (`ABBA Queen`, 135,000/mo), never independently verified as an exact phrase. When queue instruction named this item, Charlie was asked directly which literal form to use given the standing literal-keyword-phrasing rule; confirmed `abba vs queen` (no period), overriding the earlier-logged form. Used verbatim in every scored location (title, meta description, first 100 words, H2s, slug). Slug: `abba-vs-queen`.

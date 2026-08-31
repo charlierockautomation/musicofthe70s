@@ -1,7 +1,7 @@
 # CONTENT-BUILD.md — musicofthe70s.net Master Content & Linking Tracker
 # CLAUDE / CLAUDE CODE: Read this alongside CLAUDE.md and CONTENT-INDEX.md before planning any session.
 # Full history (every completed/decided-against slot, every past session's full build write-up) lives in SESSION-LOG-ARCHIVE.md. Don't open it in full — grep it for a specific term when you need one (e.g. `grep -i "iggy pop" SESSION-LOG-ARCHIVE.md`). Append new entries there directly at session end; don't grow this file with them.
-# Current status: Al Green (Artists, Soul bucket, second post in that bucket after Marvin Gaye) is LIVE (2026-08-30), approved and pushed same session. Marvin Gaye (Artists, Soul bucket, first post in that bucket) is LIVE (2026-08-29), approved and pushed same session. Rick James (Artists, Funk bucket, second post in that bucket after George Clinton) is LIVE (2026-08-29), approved and pushed. Four-post Songs batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) is LIVE (2026-08-28), approved and pushed same session. George Clinton (Artists, Funk bucket) is LIVE (2026-08-27), approved and pushed same session. Jim Croce (Artists, folk-rock/singer-songwriter) is LIVE (2026-08-27), approved and pushed the same day. Rock Trivia Game (new 7th Tool) will NOT be shipped, decided against 2026-08-27 per Charlie's direct instruction; the tool stays built and unpublished, not part of the active rotation. Everything else completed to date is in the archive.
+# Current status: How Can You Mend a Broken Heart (Songs, artist-linked rotation queue slot #2, Bee Gees) is BUILT and locally verified (2026-08-31) — verify_post.py clean, mobile/desktop checks passed via Playwright, category/hub cards + sitemap + llms.txt regenerated locally — awaiting Charlie's local-review go-ahead before commit/push per the PUBLISH GATE, not yet live. ABBA Waterloo (Songs, rotation queue slot #1) is LIVE (2026-08-31), approved and pushed; this file's own Rotation Queue section had not been advanced past slot #1 until now, a real drift caught and fixed this session. Donna Summer (Artists, Disco bucket, second post after Village People) is LIVE (2026-08-31), approved and pushed same session. Al Green (Artists, Soul bucket, second post in that bucket after Marvin Gaye) is LIVE (2026-08-30), approved and pushed same session. Marvin Gaye (Artists, Soul bucket, first post in that bucket) is LIVE (2026-08-29), approved and pushed same session. Rick James (Artists, Funk bucket, second post in that bucket after George Clinton) is LIVE (2026-08-29), approved and pushed. Four-post Songs batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) is LIVE (2026-08-28), approved and pushed same session. George Clinton (Artists, Funk bucket) is LIVE (2026-08-27), approved and pushed same session. Jim Croce (Artists, folk-rock/singer-songwriter) is LIVE (2026-08-27), approved and pushed the same day. Rock Trivia Game (new 7th Tool) will NOT be shipped, decided against 2026-08-27 per Charlie's direct instruction; the tool stays built and unpublished, not part of the active rotation. Everything else completed to date is in the archive.
 
 ## How This File Works
 
@@ -116,6 +116,13 @@ Every post links up to its category page and to at least one relevant Tool. Cros
 | ABBA Waterloo | Songs | ABBA vs Queen | /blog/trivia/abba-vs-queen/index.html | Body, same H3 as above, mid-section, following the ABBA artist link |
 | ABBA Waterloo | Songs | Waterloo (Listen Now deep link) | /radio/index.html?play=1974-49-waterloo | Body, "The Swedish Tax Law Behind the Costumes" H2, sentence directly before the video embed |
 | ABBA Waterloo | Songs | Music of the 70s | /index.html | Body, end of "Waterloo Wasn't the Real American Breakthrough" H3, closing sentence before FAQ |
+| How Can You Mend a Broken Heart | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "A Songwriting Credit That Took 38 Years to Arrive" H3, closing sentence, different H2/H3 and different position than Waterloo's H3-opener placement of its own artist link |
+| How Can You Mend a Broken Heart | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "The Cover That Finished What the Original Couldn't" H2, closing sentence, a new cross-category link not used on the prior Songs post |
+| How Can You Mend a Broken Heart | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "What Maurice Actually Played" H3, mid-section before the radio deep link |
+| How Can You Mend a Broken Heart | Songs | How Can You Mend a Broken Heart (Listen Now deep link) | /radio/index.html?play=1971-5-how-can-you-mend-a-broken-heart | Body, same H3 as above, sentence directly before the video embed (same general slot type as Waterloo, different H3/section) |
+| How Can You Mend a Broken Heart | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Chart That Ignored It Completely" H3, closing sentence, mid-post rather than Waterloo's later-section placement |
+| How Can You Mend a Broken Heart | Songs | Music of the 70s | /index.html | Body, end of "A Second Life in Movie Theaters" H3, closing sentence after the film list, a different section than Waterloo's H3-before-FAQ placement |
+| Bee Gees (artist) | Artists | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "The Slump and Reinvention in Miami" H2, opening section, forward link added same session per the Songs Rotation Queue standing rule |
 | ABBA: The Band That Needed Permission for Its Own Name | Artists | Waterloo (song) | /blog/songs/abba-waterloo/index.html | Body, "The Contest That Actually Launched ABBA" H2, mid-section |
 | Rick James | Artists | George Clinton | /blog/artists/george-clinton/index.html | Body, "Rick James's Real 1970s Chart Record" H2, mid-section sentence |
 | Rick James | Artists | 70s Funk | /blog/genres/70s-funk/index.html | Body, "Rick James's Real 1970s Chart Record" H2, sentence after the George Clinton link |
@@ -163,8 +170,8 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
 
 **George Clinton mapping flagged, not auto-confirmed**: "Give Up the Funk" and "Flash Light" are chart-credited to Parliament, not George Clinton by name. Included here on the assumption his artist page covers Parliament-Funkadelic and can take the backlink; confirm before building #16/#29 or drop them.
 
-1. Waterloo — ABBA
-2. How Can You Mend a Broken Heart — Bee Gees
+1. Waterloo — ABBA — **LIVE 2026-08-31**
+2. How Can You Mend a Broken Heart — Bee Gees — **BUILT 2026-08-31, awaiting Charlie's review/push**
 3. Killer Queen — Queen / Brian May and Queen
 4. One of These Nights — Eagles the Band
 5. Let's Stay Together — Al Green
@@ -208,7 +215,7 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**Next up: #1, Waterloo (ABBA).**
+**Next up: #3, Killer Queen (Queen / Brian May and Queen), once #2 is approved and pushed.**
 
 ---
 
@@ -217,7 +224,7 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 13 | Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database — 996 unused records remain, more batches expected over time |
+| Songs | 15 (14 live + 1 built, pending review) | ABBA Waterloo (artist-linked rotation queue slot #1) published 2026-08-31. How Can You Mend a Broken Heart (slot #2, Bee Gees) built and locally verified 2026-08-31, awaiting Charlie's review before push. Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk, see Sitemap-Verified Findings above |
 | Trivia | 4 | At cap (70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s) |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

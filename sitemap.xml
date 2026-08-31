@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/abba/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -326,7 +326,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/archive/</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -369,6 +369,12 @@
   <url>
     <loc>https://musicofthe70s.net/blog/songs/hotel-california/</loc>
     <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/how-can-you-mend-a-broken-heart/</loc>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
