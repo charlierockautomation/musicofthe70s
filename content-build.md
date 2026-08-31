@@ -112,6 +112,11 @@ Every post links up to its category page and to at least one relevant Tool. Cros
 | Al Green | Artists | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, end of "1972: The Album That Wouldn't Leave Number One" H2 |
 | Al Green | Artists | Random Artist Picker | /pages/random-artist-picker.html | Body, inside the "1976-1977: Ministry" H2, mid-section |
 | Al Green | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, inside the "Al Green's Real 1970s Chart Record" recap H2 |
+| ABBA Waterloo | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, "Waterloo Wasn't the Real American Breakthrough" H3, opening sentence |
+| ABBA Waterloo | Songs | ABBA vs Queen | /blog/trivia/abba-vs-queen/index.html | Body, same H3 as above, mid-section, following the ABBA artist link |
+| ABBA Waterloo | Songs | Waterloo (Listen Now deep link) | /radio/index.html?play=1974-49-waterloo | Body, "The Swedish Tax Law Behind the Costumes" H2, sentence directly before the video embed |
+| ABBA Waterloo | Songs | Music of the 70s | /index.html | Body, end of "Waterloo Wasn't the Real American Breakthrough" H3, closing sentence before FAQ |
+| ABBA: The Band That Needed Permission for Its Own Name | Artists | Waterloo (song) | /blog/songs/abba-waterloo/index.html | Body, "The Contest That Actually Launched ABBA" H2, mid-section |
 | Rick James | Artists | George Clinton | /blog/artists/george-clinton/index.html | Body, "Rick James's Real 1970s Chart Record" H2, mid-section sentence |
 | Rick James | Artists | 70s Funk | /blog/genres/70s-funk/index.html | Body, "Rick James's Real 1970s Chart Record" H2, sentence after the George Clinton link |
 | Marvin Gaye | Artists | James Brown in the 70s | /blog/artists/james-brown/index.html | Body, end of the "1971: The Album Berry Gordy Tried to Bury" H2 (first section, not the chart-record section) |
@@ -142,8 +147,68 @@ Full history of everything already built or decided against lives in SESSION-LOG
 | Dolly Parton post update | Editor's note added 2026-08-25 to the Live Dolly Parton post confirming her death. | Dolly Parton died August 25, 2026, in Nashville, age 80, per publicist statement, independently confirmed across CNN, NPR, Variety, CBS News, NBC News, ABC News, and Fox News before any edit was made (No Hallucination Rule). Note placed between the intro block and featured image (gold-left-border `.faq-item` callout, no new class introduced): death date, location, age 80, cause as reported ("brief battle with cancer," attributed to her publicist), no invented detail beyond what multiple outlets independently confirmed. `dateModified` bumped to 2026-08-25 in Article schema; rest of the 1970s post body, FAQ, and schema left unchanged. Reviewed locally, approved by Charlie, pushed same session (commit 7d48ed2), verified live at https://musicofthe70s.net/blog/artists/dolly-parton/. |
 | Rock genre-page overlap | `/blog/genres/70s-rock/` vs. its 6 subgenre pages | Flagged, not queued — a structural edit to an existing live post (NotebookLM's suggestion: turn it into a nav hub), Charlie's call, not an automatic action item. |
 | Trivia UX overlap | Static 64-question post vs. scored 50-question quiz | Flagged, not queued — same as above, an edit to existing live content, Charlie's call. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue, next up Waterloo (ABBA) | See "Songs Rotation Queue" section below for the full ordered list and linking rule. |
 
 Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none planned.
+
+---
+
+## Songs Rotation Queue — artist-linked batch (added 2026-08-31)
+
+42 songs, chart-verified against `data/billboard/` (Hot100 year-end/weekly + country #1, real singles only, no album-chart entries) for artists with a Live Artists page, minus songs already Live in Songs. Order is round-robin across artists, not grouped, so consecutive posts don't repeat an artist. Each post links back to its artist page; each artist page gets a body-text link forward to the song page once it's Live (add on the same session the song publishes, not as a follow-up).
+
+**Standard form, every post in this queue from Waterloo on (Charlie-confirmed 2026-08-31)**: in addition to the artist backlink and the two Tool links, every post also gets (1) a text link, anchor the song title, to `/radio/index.html?play=<radio_id>` where that song has a `radio_id` in `data/radio/radio-songs.json` (see post-template.md's Internal Tool Linking Map and js/radio.js `applyDeepLink()`), and (2) a text link, anchor "Music of the 70s", to `/index.html`. Both natural in-context, not fixed slots.
+
+**Before writing each one**: real focus-keyword volume check (Keyword Rule, non-negotiable) and content-gap analysis (content-plan.md standing rules) still apply, same as every other post. Batch is quality-gated: if a candidate doesn't have enough real story substance for 1,200+ words, drop it rather than pad it, same call as KC and the Sunshine Band getting dropped from the Artists batch. Build one at a time; report before moving to the next.
+
+**George Clinton mapping flagged, not auto-confirmed**: "Give Up the Funk" and "Flash Light" are chart-credited to Parliament, not George Clinton by name. Included here on the assumption his artist page covers Parliament-Funkadelic and can take the backlink; confirm before building #16/#29 or drop them.
+
+1. Waterloo — ABBA
+2. How Can You Mend a Broken Heart — Bee Gees
+3. Killer Queen — Queen / Brian May and Queen
+4. One of These Nights — Eagles the Band
+5. Let's Stay Together — Al Green
+6. What's Going On — Marvin Gaye
+7. Hot Stuff — Donna Summer
+8. Superstition — Stevie Wonder
+9. Jolene — Dolly Parton
+10. Bad, Bad Leroy Brown — Jim Croce
+11. It's Too Late / I Feel the Earth Move — Carole King
+12. Y.M.C.A. — Village People
+13. Georgia on My Mind — Willie Nelson
+14. Get on the Good Foot — James Brown
+15. You and I — Rick James
+16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above)
+17. Knowing Me, Knowing You — ABBA
+18. Jive Talkin' — Bee Gees
+19. Somebody to Love — Queen / Brian May and Queen
+20. Best of My Love — Eagles the Band
+21. Tired of Being Alone — Al Green
+22. Let's Get It On — Marvin Gaye
+23. Bad Girls — Donna Summer
+24. You Are the Sunshine of My Life — Stevie Wonder
+25. I Will Always Love You — Dolly Parton
+26. Time in a Bottle — Jim Croce
+27. In the Navy — Village People
+28. Blue Eyes Crying in the Rain — Willie Nelson
+29. Flash Light — George Clinton (Parliament, flagged above)
+30. Take a Chance on Me — ABBA
+31. You Should Be Dancing — Bee Gees
+32. New Kid in Town — Eagles the Band
+33. Last Dance — Donna Summer
+34. Sir Duke — Stevie Wonder
+35. The Name of the Game — ABBA
+36. Night Fever — Bee Gees
+37. Heartache Tonight — Eagles the Band
+38. MacArthur Park — Donna Summer
+39. Living for the City — Stevie Wonder
+40. How Deep Is Your Love — Bee Gees
+41. Too Much Heaven — Bee Gees
+42. Tragedy — Bee Gees
+
+**Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
+
+**Next up: #1, Waterloo (ABBA).**
 
 ---
 

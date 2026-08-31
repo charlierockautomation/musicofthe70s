@@ -439,6 +439,31 @@ var RadioPlayer = (function () {
   viewStationsBtn.addEventListener('click', function () { setView('stations'); });
   viewGridBtn.addEventListener('click', function () { setView('grid'); });
 
+  /* ---------- Deep link: ?play=<radio_id> jumps straight to a song's
+     jukebox tile from an external link (e.g. a blog post). Scrolls to
+     and highlights the tile rather than auto-starting playback, since
+     unmuted YouTube autoplay without a direct user gesture is blocked
+     by browser autoplay policy in most cases anyway. ---------- */
+  function applyDeepLink() {
+    var radioId = new URLSearchParams(window.location.search).get('play');
+    if (!radioId) return;
+    var idx = allSongs.findIndex(function (s) { return s.radio_id === radioId; });
+    if (idx === -1) return;
+    setView('grid');
+    filterGenre.value = '';
+    filterYear.value = '';
+    filterSearch.value = '';
+    gridPage = Math.floor(idx / PAGE_SIZE) + 1;
+    renderGrid();
+    var tile = jukeboxGrid.querySelector('[data-radio-id="' + CSS.escape(radioId) + '"]');
+    if (!tile) return;
+    tile.classList.add('deep-link-target');
+    tile.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    var playBtn = tile.querySelector('.jt-play');
+    if (playBtn) playBtn.focus();
+    setTimeout(function () { tile.classList.remove('deep-link-target'); }, 3200);
+  }
+
   /* ---------- Init ---------- */
   (async function init() {
     try {
@@ -452,6 +477,7 @@ var RadioPlayer = (function () {
       updateStationUI();
       loadingEl.classList.add('hidden');
       toolEl.classList.remove('hidden');
+      applyDeepLink();
 
       // Load the IFrame API script once the rest of the page is ready.
       var tag = document.createElement('script');

@@ -29,3 +29,16 @@ Song/ranking posts → Random 70s Song Generator, Mood Song Matcher
 Genre posts → Random Artist Picker, Random 70s Song Generator
 Artist posts → Random Artist Picker, 70s Music Trivia Quiz
 Trivia posts → 70s Music Trivia Quiz, Birthday #1 Song Finder
+
+**Songs posts, standing requirement (added 2026-08-31, Charlie-confirmed)**: every Songs post whose track has a `radio_id` in `data/radio/radio-songs.json` gets a text link, anchor text the song title, to `/radio/index.html?play=<radio_id>` (Listen Now, deep-links straight to that song's jukebox tile — see js/radio.js `applyDeepLink()`). Place it naturally in-context, not tacked on; the Waterloo post (2026-08-31) put it right before the embedded video as the precedent. This is in addition to, not instead of, the two Tool links above.
+
+**All Songs posts, standing requirement (added 2026-08-31, Charlie-confirmed)**: every Songs post also gets one text link, anchor text "Music of the 70s", to `/index.html`. Natural in-context placement, not a fixed slot; position should still vary post to post per the Anchor Text & Position Rule below.
+
+## Internal Link Anchor Text & Position Rule (added 2026-08-28)
+Applies to every internal link: tool links, same-category related posts, cross-category links.
+
+- Anchor text = brand phrase "Music of the 70s" OR the target's own focus keyword. Never generic ("click here," "this post," "read more").
+- Anchor text choice AND its position in the post (intro / which H2 / FAQ / related-posts block) must differ from the last 3–5 posts in the same category. Check the Anchor Text & Position Log in content-build.md before placing links; log new entries there after.
+- Place links where the reference occurs naturally in a sentence. Never a fixed template slot (e.g. always end of intro).
+- Not a ranking guarantee. This follows Google's real internal-linking guidance (descriptive anchor text, natural placement, no manipulative patterns) — it supports discoverability/E-E-A-T, it does not promise top-of-SERP or AI-search placement, no linking system can.
+- Log starts 2026-08-28 going forward; pre-existing posts not retroactively audited (token cost).
