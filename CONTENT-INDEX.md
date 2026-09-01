@@ -71,6 +71,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| Killer Queen: Freddie Mercury's First Real US Hit | https://musicofthe70s.net/blog/songs/killer-queen/index.html | Songs | killer queen | Built, pending review | Not yet pushed | Mood Song Matcher, Random 70s Song Generator |
 | How Can You Mend a Broken Heart: Written in Under an Hour | https://musicofthe70s.net/blog/songs/how-can-you-mend-a-broken-heart/index.html | Songs | how can you mend a broken heart | Live | 2026-08-31 | Mood Song Matcher, Random 70s Song Generator |
 | ABBA Waterloo: The Song Written to Win, Not to Chart | https://musicofthe70s.net/blog/songs/abba-waterloo/index.html | Songs | ABBA Waterloo | Live | 2026-08-31 | Mood Song Matcher, 70s Music Trivia Quiz, Random 70s Song Generator |
 | Donna Summer: The 1977 Hit Too Influential for the Charts | https://musicofthe70s.net/blog/artists/donna-summer/index.html | Artists | Donna Summer | Live | 2026-08-31 | Random Artist Picker, 70s Music Trivia Quiz |
@@ -158,7 +159,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 11
-- Total published blog posts: 65 (Genres 12, Artists 24, Songs 15, Trivia 4, Years 10, per `scripts/generate_category_cards.py` and `scripts/generate_llms_txt.py` disk counts 2026-08-31) — How Can You Mend a Broken Heart (Songs, second entry in the artist-linked rotation queue after ABBA Waterloo) and Donna Summer (Artists) built this session/2026-08-31; ABBA Waterloo built 2026-08-31 but had not yet been added to this table until now (real drift, backfilled this session)
+- Total published (reviewed and pushed) blog posts: 65 (Genres 12, Artists 24, Songs 15, Trivia 4, Years 10, as of 2026-08-31). Killer Queen (Songs, third entry in the artist-linked rotation queue, built 2026-09-01) is NOT counted here, awaiting Charlie's review/push per the PUBLISH GATE. Note: disk-scanning generator scripts (`generate_category_cards.py`, `generate_llms_txt.py`) already count it since it's a real file on disk (Songs shows 16, blog total shows 66 when those scripts are run), that's expected and not an error, it just means those raw counts run slightly ahead of this "reviewed and pushed" figure until push
 - Total placeholder/in-progress posts: 0
 - Placeholder card slots remaining on category pages: 0
 - Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 65 = 85 as of 2026-08-31, not yet re-verified against a fresh live sitemap crawl
