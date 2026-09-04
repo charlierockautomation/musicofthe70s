@@ -4,25 +4,34 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-04 (Song YMCA, slot #12, Built-Local, awaiting review)
+# Last Updated: 2026-09-04 (Georgia on My Mind, slot #13, Built-Local, awaiting review)
 
 ---
 
 ## Current State (as of 2026-09-04)
 
-- Last built: Song YMCA (Songs, artist-linked rotation queue slot #12), built and verified
-  locally 2026-09-04, NOT yet pushed, awaiting Charlie's review per Publish Gate. Focus keyword
-  `song ymca` (Charlie-specified, literal phrase used in scored slots per the stayin-alive
-  precedent). Forward backlink added to the Village People artist page same session. Distinct
-  from the artist page's existing Y.M.C.A. section: studio-conversation origin story (Willis's
-  exact quote), dual dance-origin accounts (American Bandstand vs. Randy Jones), full chart
-  table (UK #1, 15+ country #1s, certifications), National Recording Registry induction
-  (2019 class, announced 2020-03-25) — none of that is on the artist page. `verify_post.py`
-  needed two iterations (sentence-length %, FAQ answer word count); clean after fixes
-  (1,403 words, 0.570% density, 93.5% sentences under 20 words). Category/hub/archive cards
-  and sitemap/llms.txt regenerated locally (Songs 25, total 75 pending push).
-- Songs artist-linked rotation queue: slots 1-11 LIVE, slot #12 (Y.M.C.A.) Built-Local. Next
-  up after approval: slot #13, Georgia on My Mind (Willie Nelson).
+- Song YMCA (Songs, slot #12) went LIVE 2026-09-04 (pushed, confirmed HEAD matches
+  origin/main at start of this session).
+- Last built: Georgia on My Mind (Songs, artist-linked rotation queue slot #13), built and
+  verified locally 2026-09-04, NOT yet pushed, awaiting Charlie's review per Publish Gate.
+  Focus keyword `Georgia on My Mind` (literal song title, no logged WordStream pull; verified
+  as real search phrasing per seo-rules.md's autocomplete/PAA path instead, same as the
+  song-title precedent already used across this rotation queue). Forward backlink added to
+  the Willie Nelson artist page same session (list-item anchor in the "Every Number One"
+  section, same pattern as the Stevie Wonder/Superstition precedent). Angle: the Stardust
+  album story, not the Ray Charles standard, distinct from the artist page's one-line mention
+  of the song. Real sourced detail: Columbia execs' recorded pushback quote, the Enactron
+  mobile truck parked at Emmylou Harris and Brian Ahern's house (Mickey Raphael's harmonica
+  recorded from their tiled shower), the country #1 week (1978-06-10, this site's own
+  data/billboard/country.json), the 1979 Grammy, and the Ray Charles/Georgia-state-song
+  coincidence (both landmarks in 1979). No radio_id for this song in
+  data/radio/radio-songs.json, so no Listen Now deep link this post (only post in the queue
+  so far without one). `verify_post.py` needed two iterations (sentence-length %, title length,
+  one subheading-rule fix); clean after fixes (1,266 words, 1.027% density, 97.3% sentences
+  under 20 words). Category/hub/archive cards and sitemap/llms.txt regenerated locally
+  (Songs 26, total 76 pending push).
+- Songs artist-linked rotation queue: slots 1-12 LIVE, slot #13 (Georgia on My Mind)
+  Built-Local. Next up after approval: slot #14, Get on the Good Foot (James Brown).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -90,7 +99,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-11 LIVE, slot 12 (Y.M.C.A.) Built-Local awaiting review. Slot 13, Georgia on My Mind (Willie Nelson), up next after approval. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-12 LIVE, slot 13 (Georgia on My Mind) Built-Local awaiting review. Slot 14, Get on the Good Foot (James Brown), up next after approval. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -124,8 +133,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 9. Jolene — Dolly Parton — **LIVE 2026-09-03**
 10. Bad, Bad Leroy Brown — Jim Croce — **LIVE 2026-09-03**
 11. It's Too Late / I Feel the Earth Move — Carole King — **LIVE 2026-09-03**
-12. Y.M.C.A. — Village People — **Built-Local 2026-09-04, awaiting review**
-13. Georgia on My Mind — Willie Nelson
+12. Y.M.C.A. — Village People — **LIVE 2026-09-04**
+13. Georgia on My Mind — Willie Nelson — **Built-Local 2026-09-04, awaiting review**
 14. Get on the Good Foot — James Brown
 15. You and I — Rick James
 16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above)
@@ -158,7 +167,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#12, Y.M.C.A. (Village People): Built-Local 2026-09-04, awaiting Charlie's review. Next after approval: #13, Georgia on My Mind (Willie Nelson).**
+**#13, Georgia on My Mind (Willie Nelson): Built-Local 2026-09-04, awaiting Charlie's review. Next after approval: #14, Get on the Good Foot (James Brown).**
 
 ---
 
@@ -167,7 +176,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 24 | Slots 1-11 of the artist-linked rotation queue LIVE (Waterloo, How Can You Mend a Broken Heart, Killer Queen, One of These Nights, Let's Stay Together, What's Going On, Hot Stuff, Superstition, Jolene, Bad Bad Leroy Brown, Carole King It's Too Late). Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 25 | Slots 1-12 of the artist-linked rotation queue LIVE (Waterloo, How Can You Mend a Broken Heart, Killer Queen, One of These Nights, Let's Stay Together, What's Going On, Hot Stuff, Superstition, Jolene, Bad Bad Leroy Brown, Carole King It's Too Late, Song YMCA). Slot 13 (Georgia on My Mind) Built-Local. Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

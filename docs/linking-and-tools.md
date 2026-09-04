@@ -150,3 +150,8 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Song YMCA | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of "Sales That Outran Its Own Chart Peak" H3 |
 | Song YMCA | Songs | Disco Music of the 70s (genre) | /blog/genres/disco-music-of-the-70s/index.html | Body, closing sentence of "The Library of Congress Called It Historically Significant" H2, secondary destination |
 | Village People (artist) | Artists | Song YMCA (song) | /blog/songs/song-ymca/index.html | Body, "Village People in the 70s: Y.M.C.A. Got Bigger Than Anyone Expected" H2, closing sentence, forward link added the session the song post was built |
+| Georgia on My Mind | Songs | Willie Nelson (artist) | /blog/artists/willie-nelson/index.html | Body, closing sentence of "Ten Songs, All Older Than His Outlaw Reputation" H3 |
+| Georgia on My Mind | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence after the video embed, "A Mobile Studio in a Living Room" H3 section |
+| Georgia on My Mind | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Two Very Different Stages for the Same Song" H3, opening sentence |
+| Georgia on My Mind | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Same Song, Two Very Different Legacies" H3, last content line before FAQ |
+| Willie Nelson (artist) | Artists | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, forward link added the session the song post was built |
