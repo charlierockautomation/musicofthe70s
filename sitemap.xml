@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/willie-nelson/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -411,6 +411,12 @@
   <url>
     <loc>https://musicofthe70s.net/blog/songs/i-will-survive/</loc>
     <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/james-brown-get-on-the-good-foot/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
