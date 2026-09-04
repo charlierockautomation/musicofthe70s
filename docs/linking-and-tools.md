@@ -143,3 +143,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Carole King It's Too Late | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Cover Version an Earthquake Ended" H2, last content line before FAQ |
 | Carole King It's Too Late | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "The Cover Version an Earthquake Ended" H2, mid-section, secondary destination |
 | Carole King (artist) | Artists | Carole King It's Too Late (song) | /blog/songs/carole-king-its-too-late/index.html | Body, "Five Weeks at Number One on the Hot 100" H3, mid-sentence, forward link added the session the song post published |
+| Song YMCA | Songs | Music of the 70s | /index.html | Body, closing sentence of "Song YMCA Started With a Question About What YMCA Even Meant" H2, mid-post, not adjacent to FAQ |
+| Song YMCA | Songs | Village People (artist) | /blog/artists/village-people/index.html | Body, "Recorded at Sigma Sound, Released on Cruisin'" H3, mid-sentence |
+| Song YMCA | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing of "Randy Jones's Misunderstanding Theory" H3, directly before the video embed |
+| Song YMCA | Songs | Y.M.C.A. (Listen Now) | /radio/index.html?play=1979-8-ymca | Body, sentence immediately after the video embed, not adjacent-before style used in the last 4 Songs posts |
+| Song YMCA | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of "Sales That Outran Its Own Chart Peak" H3 |
+| Song YMCA | Songs | Disco Music of the 70s (genre) | /blog/genres/disco-music-of-the-70s/index.html | Body, closing sentence of "The Library of Congress Called It Historically Significant" H2, secondary destination |
+| Village People (artist) | Artists | Song YMCA (song) | /blog/songs/song-ymca/index.html | Body, "Village People in the 70s: Y.M.C.A. Got Bigger Than Anyone Expected" H2, closing sentence, forward link added the session the song post was built |

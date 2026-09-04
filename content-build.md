@@ -4,16 +4,25 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-03 (Carole King It's Too Late, slot #11, LIVE)
+# Last Updated: 2026-09-04 (Song YMCA, slot #12, Built-Local, awaiting review)
 
 ---
 
-## Current State (as of 2026-09-03)
+## Current State (as of 2026-09-04)
 
-- Last shipped: Carole King It's Too Late (Songs, artist-linked rotation queue slot #11), LIVE
-  2026-09-03, approved and pushed same session. Forward backlink added to the Carole King
-  artist page same session.
-- Songs artist-linked rotation queue: slots 1-11 LIVE. Next up: slot #12, Y.M.C.A. (Village People).
+- Last built: Song YMCA (Songs, artist-linked rotation queue slot #12), built and verified
+  locally 2026-09-04, NOT yet pushed, awaiting Charlie's review per Publish Gate. Focus keyword
+  `song ymca` (Charlie-specified, literal phrase used in scored slots per the stayin-alive
+  precedent). Forward backlink added to the Village People artist page same session. Distinct
+  from the artist page's existing Y.M.C.A. section: studio-conversation origin story (Willis's
+  exact quote), dual dance-origin accounts (American Bandstand vs. Randy Jones), full chart
+  table (UK #1, 15+ country #1s, certifications), National Recording Registry induction
+  (2019 class, announced 2020-03-25) — none of that is on the artist page. `verify_post.py`
+  needed two iterations (sentence-length %, FAQ answer word count); clean after fixes
+  (1,403 words, 0.570% density, 93.5% sentences under 20 words). Category/hub/archive cards
+  and sitemap/llms.txt regenerated locally (Songs 25, total 75 pending push).
+- Songs artist-linked rotation queue: slots 1-11 LIVE, slot #12 (Y.M.C.A.) Built-Local. Next
+  up after approval: slot #13, Georgia on My Mind (Willie Nelson).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -81,7 +90,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-11 LIVE. Slot 12, Y.M.C.A. (Village People), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-11 LIVE, slot 12 (Y.M.C.A.) Built-Local awaiting review. Slot 13, Georgia on My Mind (Willie Nelson), up next after approval. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -115,7 +124,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 9. Jolene — Dolly Parton — **LIVE 2026-09-03**
 10. Bad, Bad Leroy Brown — Jim Croce — **LIVE 2026-09-03**
 11. It's Too Late / I Feel the Earth Move — Carole King — **LIVE 2026-09-03**
-12. Y.M.C.A. — Village People
+12. Y.M.C.A. — Village People — **Built-Local 2026-09-04, awaiting review**
 13. Georgia on My Mind — Willie Nelson
 14. Get on the Good Foot — James Brown
 15. You and I — Rick James
@@ -149,7 +158,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#11, It's Too Late / I Feel the Earth Move (Carole King): LIVE 2026-09-03. Next: #12, Y.M.C.A. (Village People).**
+**#12, Y.M.C.A. (Village People): Built-Local 2026-09-04, awaiting Charlie's review. Next after approval: #13, Georgia on My Mind (Willie Nelson).**
 
 ---
 
