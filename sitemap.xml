@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/jim-croce/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -332,6 +332,12 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/archive/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/bad-bad-leroy-brown/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
