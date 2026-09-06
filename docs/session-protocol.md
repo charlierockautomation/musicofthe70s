@@ -3,6 +3,9 @@
 ## Content Tracker Ownership
 Claude Code owns writing to content-build.md and CONTENT-INDEX.md. At the end of every session that builds, edits, or audits any content on this site, update both files directly to reflect what happened. Save in place before ending the session. Never wait for Charlie to paste in an externally-edited version of either file.
 
+## File Size Discipline
+At session start, run `wc -l CLAUDE.md content-build.md CONTENT-INDEX.md keyword-research-log.md`. Any file at or over 195 lines gets pruned before other work: move its oldest completed entries to the matching archive (SESSION-LOG-ARCHIVE.md / CONTENT-INDEX-ARCHIVE.md / keyword-research-archive.md). Archives are grep-only and never read whole. Full mechanic: docs/file-rotation.md. Also update docs/linking-and-tools.md (not content-build.md) with the Anchor Text & Position Log after placing internal links.
+
 ## Session Handoff
 At the end of every session, after finishing the work and updating the tracker files, tell Charlie what the next item in content-build.md's Rotation Queue is. Wait for his confirmation before starting it in a new session.
 
@@ -11,6 +14,7 @@ Paste this at the start of a new Claude Code session:
 
 ```
 Read CLAUDE.md, content-build.md, CONTENT-INDEX.md, and keyword-research-log.md in ~/musicofthe70s.net.
+Then run: wc -l CLAUDE.md content-build.md CONTENT-INDEX.md keyword-research-log.md  (prune anything >=195 per docs/file-rotation.md)
 Current task: [describe]
 Post/page: [name]
 Focus keyword: [keyword — verified against real search phrasing]
@@ -25,3 +29,4 @@ When Charlie greenlights a new batch (Artists, Songs, Genres, or Trivia):
 5. Add category/hub cards the same session a post goes Live, not as a follow-up
 6. Update content-build.md and CONTENT-INDEX.md the same session
 7. Regenerate sitemap.xml
+8. Check line counts; prune to archives if any tracker hit 195 (docs/file-rotation.md)

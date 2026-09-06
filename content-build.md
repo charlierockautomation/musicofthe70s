@@ -4,40 +4,30 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-04 (Get on the Good Foot, slot #14, approved, pushing to LIVE)
+# Last Updated: 2026-09-06 (You and I, slot #15, approved, pushing to LIVE)
 
 ---
 
-## Current State (as of 2026-09-04)
+## Current State (as of 2026-09-06)
 
-- Get on the Good Foot (Songs, artist-linked rotation queue slot #14, James Brown),
-  Charlie-approved 2026-09-04, pushing to LIVE this session.
-  `blog/songs/james-brown-get-on-the-good-foot/index.html`, focus keyword `james brown get
-  on the good foot`. Distinct angle from the live James Brown artist page (which already
-  used the MJ-moonwalk story): this post's angle is the Good Foot dance's direct lineage
-  into B-boying/breaking, sourced via WebSearch (Wikipedia's "Get on the Good Foot" article,
-  Rolling Stone's 2022 200 Greatest Dance Songs list at #15). Real sourced detail: recorded
-  May 9 1972 at Soundcraft Studios, North Augusta SC; written by Brown, Fred Wesley, Joseph
-  Mims; Wesley's polyrhythmic horn arrangement; Polydor two-part single; #18 Hot100 (site's
-  own year_end_hot100.json confirms), #99 year-end 1972 (site data), #1 R&B (external,
-  Wikipedia, not in site's rnb.json so flagged as externally sourced not site ground truth);
-  Brown's first-ever gold single. `verify_post.py` clean (1,422 words, 0.844% density, 82.1%
-  sentences under 20 words). Forward backlink added to the James Brown artist page same
-  session (closing sentence of the "1972: Get on the Good Foot" H2). radio_id confirmed
-  (`1972-99-get-on-the-good-foot`), Listen Now deep link placed. Second in-body image
-  (table/bullet/image breakup rule) sourced this session: commons.wikimedia.org was reachable
-  via the MediaWiki API/curl (the earlier "unreachable" note was wrong, WebFetch specifically
-  blocked the domain but curl did not), so a real photo of Fred Wesley (trombonist, arranged
-  the song) was pulled, CC BY 2.0, credit Alex Const, resized to 400w/640w JPG+WebP, added as
-  a `post-body-figure` in the recording section. Table + real bulleted list (Good Foot ->
-  B-boy -> breaking timeline) + H3 subheads + 2 images all in place. Local preview verified
-  via headless Chromium at 1280px and 375px, no horizontal overflow, all blocks stack
-  correctly. Category/hub/sitemap/llms.txt regen already run this session
-  (generate_sitemap.py, generate_blog_hub_cards.py, generate_category_cards.py,
-  generate_llms_txt.py all clean).
+- You and I (Songs, artist-linked rotation queue slot #15, Rick James), Charlie-approved
+  2026-09-06, pushing to LIVE this session. `blog/songs/you-and-i-rick-james/index.html`,
+  focus keyword `you and i rick james`. Real sourced detail: 8:04 album jam on Come Get It!
+  cut to 3:08 single edit, released March 26 1978 on Gordy Records, b/w "Hollywood"; written
+  by James, produced with Art Stewart at Cross-Eyed Bear Studio (Clarence NY) and Record
+  Plant (NYC); Hot 100 #13, R&B #1 (two weeks), disco chart #3; year-end Hot 100 #76 (site's
+  own data); Come Get It! RIAA Gold August 1978. `verify_post.py` clean (1,333 words, 0.6%
+  density, 76.6% sentences under 20 words). Table + bullet list (session credits) + 2 images
+  (Minimoog featured img, Mynah Birds 1966 body figure) satisfy the breakup rule. Forward
+  backlink added to the Rick James artist page same session (the "You and I" mention in the
+  "1978: Come Get It!" H2). radio_id confirmed (`1978-76-you-and-i`), Listen Now deep link
+  placed. Local preview verified via http.server, all images/pages 200, all under 200KB.
+  Category/hub/sitemap/llms.txt regen run this session (all four generate scripts clean).
+- Get on the Good Foot (Songs, slot #14) confirmed LIVE 2026-09-04. Full write-up pruned
+  to SESSION-LOG-ARCHIVE.md 2026-09-06 (grep "Get on the Good Foot" there for detail).
 - Georgia on My Mind (Songs, slot #13) confirmed LIVE 2026-09-04. Full write-up pruned
   to SESSION-LOG-ARCHIVE.md 2026-09-04 (grep "Georgia on My Mind" there for detail).
-- Songs artist-linked rotation queue: slots 1-14 LIVE (pending this push).
+- Songs artist-linked rotation queue: slots 1-15 LIVE (pending this push).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -105,7 +95,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-14 LIVE. Slot 15, You and I (Rick James), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-15 LIVE. Slot 16, Give Up the Funk (George Clinton), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -142,7 +132,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 12. Y.M.C.A. — Village People — **LIVE 2026-09-04**
 13. Georgia on My Mind — Willie Nelson — **LIVE 2026-09-04**
 14. Get on the Good Foot — James Brown — **LIVE 2026-09-04**
-15. You and I — Rick James
+15. You and I — Rick James — **LIVE 2026-09-06**
 16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above)
 17. Knowing Me, Knowing You — ABBA
 18. Jive Talkin' — Bee Gees
@@ -173,7 +163,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#14, Get on the Good Foot (James Brown): LIVE 2026-09-04. Next: #15, You and I (Rick James).**
+**#15, You and I (Rick James): LIVE 2026-09-06. Next: #16, Give Up the Funk (George Clinton).**
 
 ---
 
@@ -182,7 +172,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 27 | Slots 1-14 of the artist-linked rotation queue LIVE (Waterloo, How Can You Mend a Broken Heart, Killer Queen, One of These Nights, Let's Stay Together, What's Going On, Hot Stuff, Superstition, Jolene, Bad Bad Leroy Brown, Carole King It's Too Late, Song YMCA, Georgia on My Mind, Get on the Good Foot). Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 28 | Slots 1-15 of the artist-linked rotation queue LIVE (Waterloo, How Can You Mend a Broken Heart, Killer Queen, One of These Nights, Let's Stay Together, What's Going On, Hot Stuff, Superstition, Jolene, Bad Bad Leroy Brown, Carole King It's Too Late, Song YMCA, Georgia on My Mind, Get on the Good Foot, You and I). Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

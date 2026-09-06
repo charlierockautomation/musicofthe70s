@@ -22,6 +22,12 @@ Any list of 3+ items, names, artists, songs, or examples must be a real bulleted
 - **Good:** A one-sentence lead-in, followed by a proper bulleted list with one artist/entry per line.
 - This applies to every section of every post — body content, FAQ answers, image captions, and list items alike. It overrides default prose habits; check against it explicitly before submitting a post for review.
 
+### Table Rule — MANDATORY (added 2026-09-04, Charlie-confirmed)
+Every post gets at least one real HTML `<table class="data-table">` where the content has comparable rows (chart positions, year/song/artist data, timelines, before/after stats). Never fake a table as a list when the data is genuinely tabular. Post topics with no natural tabular data still need the standing bullet/subhead/image breakup below; don't force a table where none fits, but check first, most Songs/Years/Artists posts have real chart or timeline data that qualifies.
+
+### Wall-of-Text Breakup Rule — MANDATORY (added 2026-09-04, Charlie-confirmed)
+Every post must visually break up long text using all three of: real H3 subheads (see Subheading Rule above), real bulleted/numbered lists (see List Formatting Rule above), and images beyond the featured image where relevant to the content, each with descriptive alt text (see Image Sourcing below). This is a standing requirement for every post going forward, not per-post guidance, check it the same way word count and keyword density get checked before calling a post ready to review.
+
 ## Image Optimization (mandatory before any image is used, not just sourcing)
 Beyond sourcing/licensing (see below), every image used on the site must be performance-optimized before it ships:
 

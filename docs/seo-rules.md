@@ -45,6 +45,8 @@ Because this is a static site with no Rank Math or Yoast, "the high 90s" means h
 - [ ] H1 used exactly once per page, matches or closely echoes the title
 - [ ] Heading hierarchy is clean — no skipped levels (H2 before H3, never H3 before H2)
 - [ ] No wall-of-text H2 sections — long unbroken paragraph runs get real, specific H3 subheadings (see Subheading Rule in prose-image-rules.md)
+- [ ] At least one real `<table class="data-table">` where the post has tabular data (chart, timeline, comparison) — see Table Rule in prose-image-rules.md
+- [ ] Long text broken up with H3 subheads, real bulleted/numbered lists, and extra in-body images (alt text on all) — see Wall-of-Text Breakup Rule in prose-image-rules.md
 - [ ] Schema markup present: Article + FAQPage + BreadcrumbList (see below)
 - [ ] Word count 1,200+ for blog posts
 - [ ] FAQ section present, written for direct AI/answer-engine extraction (see below)
