@@ -4,25 +4,40 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-06 (You and I, slot #15, approved, pushing to LIVE)
+# Last Updated: 2026-09-06 (Give Up the Funk Parliament, slot #16, Charlie-approved, pushing to LIVE)
 
 ---
 
 ## Current State (as of 2026-09-06)
 
-- You and I (Songs, artist-linked rotation queue slot #15, Rick James), Charlie-approved
-  2026-09-06, pushing to LIVE this session. `blog/songs/you-and-i-rick-james/index.html`,
-  focus keyword `you and i rick james`. Real sourced detail: 8:04 album jam on Come Get It!
-  cut to 3:08 single edit, released March 26 1978 on Gordy Records, b/w "Hollywood"; written
-  by James, produced with Art Stewart at Cross-Eyed Bear Studio (Clarence NY) and Record
-  Plant (NYC); Hot 100 #13, R&B #1 (two weeks), disco chart #3; year-end Hot 100 #76 (site's
-  own data); Come Get It! RIAA Gold August 1978. `verify_post.py` clean (1,333 words, 0.6%
-  density, 76.6% sentences under 20 words). Table + bullet list (session credits) + 2 images
-  (Minimoog featured img, Mynah Birds 1966 body figure) satisfy the breakup rule. Forward
-  backlink added to the Rick James artist page same session (the "You and I" mention in the
-  "1978: Come Get It!" H2). radio_id confirmed (`1978-76-you-and-i`), Listen Now deep link
-  placed. Local preview verified via http.server, all images/pages 200, all under 200KB.
-  Category/hub/sitemap/llms.txt regen run this session (all four generate scripts clean).
+- Give Up the Funk Parliament (Songs, artist-linked rotation queue slot #16, George Clinton
+  mapping confirmed by Charlie 2026-09-06), Charlie-approved 2026-09-06, pushing to LIVE
+  this session (table-margin CSS fix applied post-review, `.data-table-wrap` was missing).
+  `blog/songs/give-up-the-funk-parliament/index.html`, focus keyword `give up the funk
+  parliament`. Real sourced detail: written by Jerome Brailey, George Clinton, Bootsy Collins;
+  produced by Clinton; recorded 1975 during Mothership Connection sessions; single released
+  April 1976 on Casablanca (catalog #856), second single off the album; 5:45 album cut vs
+  3:39 single edit (trims Ray Davis's spoken "tear the roof off" intro); Hot 100 #15, Hot Soul
+  Singles #5, RPM Canada #17; year-end Hot 100 #93 (site's own data); RIAA Gold Oct 19 1976,
+  Parliament's first certified million-seller; sampled 700+ times per site's Billboard data
+  (Snoop Dogg 1993, Heavy D 1989 cited). `verify_post.py` clean (1,233 words, 0.568% density,
+  97.1% sentences under 20 words, FAQ PASS). Table (3-chart comparison) + bullet list
+  (songwriter roles) + 2 new images (Mothership replica at NMAAHC featured img, Bootsy Collins
+  portrait body figure, both freshly sourced from Wikimedia Commons, both under 200KB) satisfy
+  the breakup rule. Forward backlink added to George Clinton artist page same session (in the
+  "Mothership Connection Sets Up the Mythology" H3). radio_id confirmed
+  (`1976-93-give-up-the-funk-tear-the-roof-off-the-sucker`), Listen Now deep link placed.
+  Local preview + Playwright screenshots verified at 1440px/375px/390px, no console errors,
+  no horizontal scroll. Category/hub/sitemap/llms.txt regen run this session (all four
+  generate scripts clean, Songs now 29).
+  **Flag for Charlie**: the live George Clinton artist page states the original Mothership
+  prop "now sits on permanent display" at the Smithsonian. Real-world sourcing (Wikipedia,
+  cross-checked) says the original was scrapped for cash in 1982-83; the Smithsonian's piece
+  is a 1990s-built replica acquired in 2011. This new post's own caption says "replica"
+  correctly, creating a live contradiction between the two pages. Not fixed here (editing
+  a live post needs its own review), flagging per the No Hallucination Rule.
+- You and I (Songs, slot #15) confirmed LIVE 2026-09-06. Full write-up pruned to
+  SESSION-LOG-ARCHIVE.md (grep "You and I" there for detail).
 - Get on the Good Foot (Songs, slot #14) confirmed LIVE 2026-09-04. Full write-up pruned
   to SESSION-LOG-ARCHIVE.md 2026-09-06 (grep "Get on the Good Foot" there for detail).
 - Georgia on My Mind (Songs, slot #13) confirmed LIVE 2026-09-04. Full write-up pruned
@@ -133,7 +148,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 13. Georgia on My Mind — Willie Nelson — **LIVE 2026-09-04**
 14. Get on the Good Foot — James Brown — **LIVE 2026-09-04**
 15. You and I — Rick James — **LIVE 2026-09-06**
-16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above)
+16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above) — **LIVE 2026-09-06**
 17. Knowing Me, Knowing You — ABBA
 18. Jive Talkin' — Bee Gees
 19. Somebody to Love — Queen / Brian May and Queen
@@ -163,7 +178,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#15, You and I (Rick James): LIVE 2026-09-06. Next: #16, Give Up the Funk (George Clinton).**
+**#16, Give Up the Funk (Parliament): LIVE 2026-09-06. Next: #17, Knowing Me, Knowing You (ABBA).**
 
 ---
 

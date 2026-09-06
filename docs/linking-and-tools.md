@@ -155,3 +155,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Georgia on My Mind | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Two Very Different Stages for the Same Song" H3, opening sentence |
 | Georgia on My Mind | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Same Song, Two Very Different Legacies" H3, last content line before FAQ |
 | Willie Nelson (artist) | Artists | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, forward link added the session the song post was built |
+| Give Up the Funk Parliament | Songs | Music of the 70s | /index.html | Body, "Give Up the Funk Parliament Credited to Three Real Songwriters" H2, mid-section closing of main paragraph, before the H3 credits list (not adjacent to FAQ, distinct from last 4 Songs posts) |
+| Give Up the Funk Parliament | Songs | Give Up the Funk (Listen Now) | /radio/index.html?play=1976-93-give-up-the-funk-tear-the-roof-off-the-sucker | Body, "Three Charts, One Gold Single" H2, not adjacent to the video embed (last 3 Songs posts placed it directly before/after the embed) |
+| Give Up the Funk Parliament | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Bigger Hit on Black Radio Than Pop Radio" H3, opening sentence |
+| Give Up the Funk Parliament | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Give Up the Funk Parliament's Afterlife in Hip-Hop" H2, mid-section |
+| Give Up the Funk Parliament | Songs | George Clinton (artist) | /blog/artists/george-clinton/index.html | Body, "Read More About the Tour Built Around the Same Album" H3, mid-sentence |
+| Give Up the Funk Parliament | Songs | 70s Funk (genre) | /blog/genres/70s-funk/index.html | Body, same H3 as above, closing sentence, secondary destination |
+| George Clinton (artist) | Artists | Give Up the Funk Parliament (song) | /blog/songs/give-up-the-funk-parliament/index.html | Body, "Mothership Connection Sets Up the Mythology" H3, mid-section, forward link added the session the song post was built |
