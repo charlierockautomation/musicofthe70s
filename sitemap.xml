@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/james-brown/</loc>
-    <lastmod>2026-08-27</lastmod>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -483,6 +483,12 @@
   <url>
     <loc>https://musicofthe70s.net/blog/songs/whats-going-on-marvin-gaye/</loc>
     <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/you-and-i-rick-james/</loc>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
