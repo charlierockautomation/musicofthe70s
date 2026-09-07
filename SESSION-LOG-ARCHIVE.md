@@ -200,3 +200,32 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
   correctly. Category/hub/sitemap/llms.txt regen already run that session
   (generate_sitemap.py, generate_blog_hub_cards.py, generate_category_cards.py,
   generate_llms_txt.py all clean).
+
+### Pruned from content-build.md 2026-09-07 (line-cap rotation, ABBA Knowing Me Knowing You build)
+
+- Give Up the Funk Parliament (Songs, artist-linked rotation queue slot #16, George Clinton
+  mapping confirmed by Charlie 2026-09-06), Charlie-approved 2026-09-06, pushed LIVE
+  2026-09-06 (table-margin CSS fix applied post-review, `.data-table-wrap` was missing).
+  `blog/songs/give-up-the-funk-parliament/index.html`, focus keyword `give up the funk
+  parliament`. Real sourced detail: written by Jerome Brailey, George Clinton, Bootsy Collins;
+  produced by Clinton; recorded 1975 during Mothership Connection sessions; single released
+  April 1976 on Casablanca (catalog #856), second single off the album; 5:45 album cut vs
+  3:39 single edit (trims Ray Davis's spoken "tear the roof off" intro); Hot 100 #15, Hot Soul
+  Singles #5, RPM Canada #17; year-end Hot 100 #93 (site's own data); RIAA Gold Oct 19 1976,
+  Parliament's first certified million-seller; sampled 700+ times per site's Billboard data
+  (Snoop Dogg 1993, Heavy D 1989 cited). `verify_post.py` clean (1,233 words, 0.568% density,
+  97.1% sentences under 20 words, FAQ PASS). Table (3-chart comparison) + bullet list
+  (songwriter roles) + 2 new images (Mothership replica at NMAAHC featured img, Bootsy Collins
+  portrait body figure, both freshly sourced from Wikimedia Commons, both under 200KB) satisfy
+  the breakup rule. Forward backlink added to George Clinton artist page same session (in the
+  "Mothership Connection Sets Up the Mythology" H3). radio_id confirmed
+  (`1976-93-give-up-the-funk-tear-the-roof-off-the-sucker`), Listen Now deep link placed.
+  Local preview + Playwright screenshots verified at 1440px/375px/390px, no console errors,
+  no horizontal scroll. Category/hub/sitemap/llms.txt regen run this session (all four
+  generate scripts clean, Songs now 29).
+  **Flag for Charlie**: the live George Clinton artist page states the original Mothership
+  prop "now sits on permanent display" at the Smithsonian. Real-world sourcing (Wikipedia,
+  cross-checked) says the original was scrapped for cash in 1982-83; the Smithsonian's piece
+  is a 1990s-built replica acquired in 2011. This new post's own caption says "replica"
+  correctly, creating a live contradiction between the two pages. Not fixed here (editing
+  a live post needs its own review), flagging per the No Hallucination Rule.

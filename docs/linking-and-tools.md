@@ -162,3 +162,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Give Up the Funk Parliament | Songs | George Clinton (artist) | /blog/artists/george-clinton/index.html | Body, "Read More About the Tour Built Around the Same Album" H3, mid-sentence |
 | Give Up the Funk Parliament | Songs | 70s Funk (genre) | /blog/genres/70s-funk/index.html | Body, same H3 as above, closing sentence, secondary destination |
 | George Clinton (artist) | Artists | Give Up the Funk Parliament (song) | /blog/songs/give-up-the-funk-parliament/index.html | Body, "Mothership Connection Sets Up the Mythology" H3, mid-section, forward link added the session the song post was built |
+| ABBA Knowing Me Knowing You | Songs | ABBA Knowing Me Knowing You (Listen Now) | /radio/index.html?play=1977-97-knowing-me-knowing-you | Body, "A Global #1 That Barely Cracked the US Top 15" H2, mid-section after the data table, not adjacent to the video embed |
+| ABBA Knowing Me Knowing You | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the US Chart Never Caught Up" H3, mid-section |
+| ABBA Knowing Me Knowing You | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, sentence directly after the video embed |
+| ABBA Knowing Me Knowing You | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, "A British Comedy Borrowed the Title, Not the Song's Sadness" H3, closing sentence |
+| ABBA Knowing Me Knowing You | Songs | Dancing Queen (song) | /blog/songs/dancing-queen/index.html | Body, "Knowing Me, Knowing You's Long Afterlife" H2, song-to-song cross-link, mid-section not at H2 open/close |
+| ABBA Knowing Me Knowing You | Songs | Music of the 70s | /index.html | Body, final sentence of the "Knowing Me, Knowing You's Long Afterlife" H2, last content line before FAQ |
+| ABBA (artist) | Artists | ABBA Knowing Me Knowing You (song) | /blog/songs/abba-knowing-me-knowing-you/index.html | Body, "The Song That Predicted Its Own Band's Breakup" H2, mid-section, forward link added the session the song post was built |

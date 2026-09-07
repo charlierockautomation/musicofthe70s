@@ -4,45 +4,38 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-06 (Give Up the Funk Parliament, slot #16, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-07 (ABBA Knowing Me Knowing You, slot #17, Charlie-approved, pushing to LIVE)
 
 ---
 
-## Current State (as of 2026-09-06)
+## Current State (as of 2026-09-07)
 
-- Give Up the Funk Parliament (Songs, artist-linked rotation queue slot #16, George Clinton
-  mapping confirmed by Charlie 2026-09-06), Charlie-approved 2026-09-06, pushing to LIVE
-  this session (table-margin CSS fix applied post-review, `.data-table-wrap` was missing).
-  `blog/songs/give-up-the-funk-parliament/index.html`, focus keyword `give up the funk
-  parliament`. Real sourced detail: written by Jerome Brailey, George Clinton, Bootsy Collins;
-  produced by Clinton; recorded 1975 during Mothership Connection sessions; single released
-  April 1976 on Casablanca (catalog #856), second single off the album; 5:45 album cut vs
-  3:39 single edit (trims Ray Davis's spoken "tear the roof off" intro); Hot 100 #15, Hot Soul
-  Singles #5, RPM Canada #17; year-end Hot 100 #93 (site's own data); RIAA Gold Oct 19 1976,
-  Parliament's first certified million-seller; sampled 700+ times per site's Billboard data
-  (Snoop Dogg 1993, Heavy D 1989 cited). `verify_post.py` clean (1,233 words, 0.568% density,
-  97.1% sentences under 20 words, FAQ PASS). Table (3-chart comparison) + bullet list
-  (songwriter roles) + 2 new images (Mothership replica at NMAAHC featured img, Bootsy Collins
-  portrait body figure, both freshly sourced from Wikimedia Commons, both under 200KB) satisfy
-  the breakup rule. Forward backlink added to George Clinton artist page same session (in the
-  "Mothership Connection Sets Up the Mythology" H3). radio_id confirmed
-  (`1976-93-give-up-the-funk-tear-the-roof-off-the-sucker`), Listen Now deep link placed.
-  Local preview + Playwright screenshots verified at 1440px/375px/390px, no console errors,
-  no horizontal scroll. Category/hub/sitemap/llms.txt regen run this session (all four
-  generate scripts clean, Songs now 29).
-  **Flag for Charlie**: the live George Clinton artist page states the original Mothership
-  prop "now sits on permanent display" at the Smithsonian. Real-world sourcing (Wikipedia,
-  cross-checked) says the original was scrapped for cash in 1982-83; the Smithsonian's piece
-  is a 1990s-built replica acquired in 2011. This new post's own caption says "replica"
-  correctly, creating a live contradiction between the two pages. Not fixed here (editing
-  a live post needs its own review), flagging per the No Hallucination Rule.
-- You and I (Songs, slot #15) confirmed LIVE 2026-09-06. Full write-up pruned to
-  SESSION-LOG-ARCHIVE.md (grep "You and I" there for detail).
-- Get on the Good Foot (Songs, slot #14) confirmed LIVE 2026-09-04. Full write-up pruned
-  to SESSION-LOG-ARCHIVE.md 2026-09-06 (grep "Get on the Good Foot" there for detail).
-- Georgia on My Mind (Songs, slot #13) confirmed LIVE 2026-09-04. Full write-up pruned
-  to SESSION-LOG-ARCHIVE.md 2026-09-04 (grep "Georgia on My Mind" there for detail).
-- Songs artist-linked rotation queue: slots 1-15 LIVE (pending this push).
+- ABBA Knowing Me Knowing You (Songs, slot #17), focus keyword `abba knowing me knowing you`
+  (Charlie-specified directly, no comma, sidesteps real contamination: the exact phrase
+  "Knowing Me, Knowing You" is also the BBC's Alan Partridge show, named after this song).
+  Charlie-approved 2026-09-07, LIVE. `blog/songs/abba-knowing-me-knowing-you/index.html`. Sourced from
+  Wikipedia + abbasite.com official history, cross-checked: released Feb 18 1977 as Arrival's
+  third single; recorded March 23 1976 at Metronome Studios Stockholm, guitar overdubbed by
+  Lasse Wellander May 24 1976; working titles "Ring It In" then "Number One, Number One"
+  before Stig Anderson's title stuck; Frida lead vocal, Agnetha harmony. Distinct angle vs the
+  live ABBA artist page (which already covers this song's "foreshadowed the divorces" story):
+  this post's pillar is the chart gap, #1 in UK/Ireland/West Germany/Mexico/South Africa vs
+  only #14 US Hot 100 (matches site's own year_end_hot100.json), plus the working-titles/
+  session story the artist page never covers. Legacy section covers Mamma Mia! and the BBC
+  Alan Partridge connection, both independently verified. radio_id confirmed
+  (`1977-97-knowing-me-knowing-you`), Listen Now placed. Images: fresh Wikimedia/Nationaal
+  Archief sourcing (Anefo, Bert Verhoeff, Nov 19 1976 Schiphol), both under 200KB with full
+  srcset. `verify_post.py` clean after one Subheading Rule fix (1,380 words, 0.725% density,
+  86.1% sentences under 20 words, FAQ PASS). Table + bullet list + 2 images satisfy the
+  breakup rule. Forward backlink added to ABBA artist page same session. Playwright screenshots
+  verified at 1440/375/390px, no console errors, no horizontal scroll. Category/hub/sitemap/
+  llms.txt regen run this session (all four generate scripts clean, Songs now 30).
+- Give Up the Funk Parliament (Songs, slot #16) confirmed LIVE 2026-09-06. Full write-up
+  pruned to SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "Give Up the Funk Parliament" there for
+  detail, including the still-open George Clinton Smithsonian-replica flag for Charlie).
+- Slots 13-15 (Georgia on My Mind, Get on the Good Foot, You and I) confirmed LIVE
+  2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
+- Songs artist-linked rotation queue: slots 1-17 LIVE. Slot #18 (Jive Talkin', Bee Gees) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -110,7 +103,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-15 LIVE. Slot 16, Give Up the Funk (George Clinton), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-17 LIVE. Slot 18, Jive Talkin' (Bee Gees), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -149,7 +142,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 14. Get on the Good Foot — James Brown — **LIVE 2026-09-04**
 15. You and I — Rick James — **LIVE 2026-09-06**
 16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above) — **LIVE 2026-09-06**
-17. Knowing Me, Knowing You — ABBA
+17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
 18. Jive Talkin' — Bee Gees
 19. Somebody to Love — Queen / Brian May and Queen
 20. Best of My Love — Eagles the Band
@@ -178,7 +171,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#16, Give Up the Funk (Parliament): LIVE 2026-09-06. Next: #17, Knowing Me, Knowing You (ABBA).**
+**#17, Knowing Me, Knowing You (ABBA): LIVE 2026-09-07. Next: #18, Jive Talkin' (Bee Gees).**
 
 ---
 
@@ -187,7 +180,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 28 | Slots 1-15 of the artist-linked rotation queue LIVE (Waterloo, How Can You Mend a Broken Heart, Killer Queen, One of These Nights, Let's Stay Together, What's Going On, Hot Stuff, Superstition, Jolene, Bad Bad Leroy Brown, Carole King It's Too Late, Song YMCA, Georgia on My Mind, Get on the Good Foot, You and I). Four-post batch (Bridge Over Troubled Water, Stayin Alive, I Will Survive, Seasons in the Sun) published 2026-08-28. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 30 | Slots 1-17 of the artist-linked rotation queue LIVE, most recently ABBA Knowing Me Knowing You (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
