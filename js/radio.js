@@ -29,7 +29,17 @@ var RadioPlayer = (function () {
       videoId: firstVideoId,
       playerVars: { autoplay: 1, controls: 0, disablekb: 1, fs: 0, modestbranding: 1, playsinline: 1 },
       events: {
-        onReady: function (e) { clearReadyTimer(); if (hooks.onReady) hooks.onReady(e); },
+        onReady: function (e) {
+          clearReadyTimer();
+          // playerVars.autoplay alone doesn't reliably start playback on a
+          // freshly-constructed player (browser autoplay quirk) -- only an
+          // explicit JS call does. loadVideoById() (used on every call after
+          // the first) already plays for this reason; force the same
+          // explicit call here so the very first Play click behaves
+          // identically instead of silently "tuning" forever.
+          if (e.target && e.target.playVideo) e.target.playVideo();
+          if (hooks.onReady) hooks.onReady(e);
+        },
         onStateChange: function (e) { if (hooks.onStateChange) hooks.onStateChange(e); },
         onError: function (e) { if (hooks.onError) hooks.onError(e); }
       }
