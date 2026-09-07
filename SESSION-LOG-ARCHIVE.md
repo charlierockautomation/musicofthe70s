@@ -229,3 +229,23 @@ Years series is complete (10/10, 1970-1979, all Live) — no Years slots, none p
   is a 1990s-built replica acquired in 2011. This new post's own caption says "replica"
   correctly, creating a live contradiction between the two pages. Not fixed here (editing
   a live post needs its own review), flagging per the No Hallucination Rule.
+
+## ABBA Knowing Me Knowing You (Songs, slot #17) — full build write-up, pruned from content-build.md 2026-09-07
+
+Focus keyword `abba knowing me knowing you` (Charlie-specified directly, no comma, sidesteps real
+contamination: the exact phrase "Knowing Me, Knowing You" is also the BBC's Alan Partridge show, named
+after this song). Charlie-approved 2026-09-07, LIVE. `blog/songs/abba-knowing-me-knowing-you/index.html`.
+Sourced from Wikipedia + abbasite.com official history, cross-checked: released Feb 18 1977 as Arrival's
+third single; recorded March 23 1976 at Metronome Studios Stockholm, guitar overdubbed by Lasse Wellander
+May 24 1976; working titles "Ring It In" then "Number One, Number One" before Stig Anderson's title
+stuck; Frida lead vocal, Agnetha harmony. Distinct angle vs the live ABBA artist page (which already
+covers this song's "foreshadowed the divorces" story): this post's pillar is the chart gap, #1 in
+UK/Ireland/West Germany/Mexico/South Africa vs only #14 US Hot 100 (matches site's own
+year_end_hot100.json), plus the working-titles/session story the artist page never covers. Legacy section
+covers Mamma Mia! and the BBC Alan Partridge connection, both independently verified. radio_id confirmed
+(`1977-97-knowing-me-knowing-you`), Listen Now placed. Images: fresh Wikimedia/Nationaal Archief sourcing
+(Anefo, Bert Verhoeff, Nov 19 1976 Schiphol), both under 200KB with full srcset. `verify_post.py` clean
+after one Subheading Rule fix (1,380 words, 0.725% density, 86.1% sentences under 20 words, FAQ PASS).
+Table + bullet list + 2 images satisfy the breakup rule. Forward backlink added to ABBA artist page same
+session. Playwright screenshots verified at 1440/375/390px, no console errors, no horizontal scroll.
+Category/hub/sitemap/llms.txt regen run this session (all four generate scripts clean, Songs now 30).

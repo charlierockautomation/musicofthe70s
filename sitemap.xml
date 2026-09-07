@@ -62,13 +62,13 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/archive/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/abba/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/archive/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -429,6 +429,12 @@
   <url>
     <loc>https://musicofthe70s.net/blog/songs/james-brown-get-on-the-good-foot/</loc>
     <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/jive-talkin/</loc>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

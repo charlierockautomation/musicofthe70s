@@ -4,38 +4,43 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-07 (ABBA Knowing Me Knowing You, slot #17, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-07 (Jive Talkin, slot #18, Charlie-approved, pushing to LIVE)
 
 ---
 
 ## Current State (as of 2026-09-07)
 
-- ABBA Knowing Me Knowing You (Songs, slot #17), focus keyword `abba knowing me knowing you`
-  (Charlie-specified directly, no comma, sidesteps real contamination: the exact phrase
-  "Knowing Me, Knowing You" is also the BBC's Alan Partridge show, named after this song).
-  Charlie-approved 2026-09-07, LIVE. `blog/songs/abba-knowing-me-knowing-you/index.html`. Sourced from
-  Wikipedia + abbasite.com official history, cross-checked: released Feb 18 1977 as Arrival's
-  third single; recorded March 23 1976 at Metronome Studios Stockholm, guitar overdubbed by
-  Lasse Wellander May 24 1976; working titles "Ring It In" then "Number One, Number One"
-  before Stig Anderson's title stuck; Frida lead vocal, Agnetha harmony. Distinct angle vs the
-  live ABBA artist page (which already covers this song's "foreshadowed the divorces" story):
-  this post's pillar is the chart gap, #1 in UK/Ireland/West Germany/Mexico/South Africa vs
-  only #14 US Hot 100 (matches site's own year_end_hot100.json), plus the working-titles/
-  session story the artist page never covers. Legacy section covers Mamma Mia! and the BBC
-  Alan Partridge connection, both independently verified. radio_id confirmed
-  (`1977-97-knowing-me-knowing-you`), Listen Now placed. Images: fresh Wikimedia/Nationaal
-  Archief sourcing (Anefo, Bert Verhoeff, Nov 19 1976 Schiphol), both under 200KB with full
-  srcset. `verify_post.py` clean after one Subheading Rule fix (1,380 words, 0.725% density,
-  86.1% sentences under 20 words, FAQ PASS). Table + bullet list + 2 images satisfy the
-  breakup rule. Forward backlink added to ABBA artist page same session. Playwright screenshots
-  verified at 1440/375/390px, no console errors, no horizontal scroll. Category/hub/sitemap/
-  llms.txt regen run this session (all four generate scripts clean, Songs now 30).
+- Jive Talkin (Songs, slot #18), focus keyword `jive talkin` (Charlie-specified directly, literal
+  no-apostrophe form, same split as prior literal-keyword posts: literal form in scored locations,
+  natural "Jive Talkin'" apostrophe form in flowing body prose). Charlie-approved 2026-09-07, LIVE.
+  `blog/songs/jive-talkin/index.html`. Sourced from Wikipedia (Jive Talkin' article)
+  + americansongwriter.com + udiscovermusic.com, cross-checked: recorded Jan 30-Feb 19 1975 at Criteria
+  Studios Miami, produced by Arif Mardin; written/credited to Barry, Robin, and Maurice Gibb; rhythm
+  inspired by tires crossing the Julia Tuttle Causeway on the nightly drive from Biscayne Bay, originally
+  titled "Drive Talkin'" until Barry's vocal was misheard as "jive" (Mardin: US slang for lying), Blue
+  Weaver built the bass line on an ARP 2600 synth rather than bass guitar. Chart pillar: US #1 for 2 weeks
+  (Aug 9-22 1975, confirmed against `data/billboard/hot100_weekly.json`), first US top-10 since How Can
+  You Mend a Broken Heart (1971, 4-year gap), also #1 Cash Box/Record World/Canada, UK/Ireland #5, NZ #4,
+  Australia #14; Gold (US/Canada/NZ) and Silver (UK) certifications. Distinct angle vs the live Bee Gees
+  artist page (which covers the Miami/Arif Mardin reinvention only in broad strokes) and vs How Can You
+  Mend a Broken Heart (different sound era, four years earlier): this post's pillar is the causeway/synth
+  bass production story plus the real chart-drought data, neither covered elsewhere on the site.
+  `verify_post.py` clean on first real pass after one consecutive-sentence-keyword fix (1,382 words,
+  1.592% density, 82.9% sentences under 20 words, FAQ PASS). Table + bullet list + 2 images (both reused
+  existing site assets: bee-gees-1977 featured, bee-gees-1970s body figure) satisfy the breakup rule.
+  Forward backlink added to Bee Gees artist page same session (Slump and Reinvention in Miami H2).
+  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, TOC
+  jump works, radio deep link (`1975-12-jive-talkin`) resolves to the correct jukebox tile, all 6 internal
+  links return 200 locally. Category/hub/sitemap/llms.txt regen run this session (all four generate
+  scripts clean, Songs now 31).
+- ABBA Knowing Me Knowing You (Songs, slot #17) confirmed LIVE 2026-09-07. Full write-up pruned to
+  SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "ABBA Knowing Me Knowing You" there for detail).
 - Give Up the Funk Parliament (Songs, slot #16) confirmed LIVE 2026-09-06. Full write-up
   pruned to SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "Give Up the Funk Parliament" there for
   detail, including the still-open George Clinton Smithsonian-replica flag for Charlie).
 - Slots 13-15 (Georgia on My Mind, Get on the Good Foot, You and I) confirmed LIVE
   2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
-- Songs artist-linked rotation queue: slots 1-17 LIVE. Slot #18 (Jive Talkin', Bee Gees) up next.
+- Songs artist-linked rotation queue: slots 1-18 LIVE. Slot #19 (Somebody to Love, Queen) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -103,7 +108,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-17 LIVE. Slot 18, Jive Talkin' (Bee Gees), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-18 LIVE. Slot 19, Somebody to Love (Queen), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -143,7 +148,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 15. You and I — Rick James — **LIVE 2026-09-06**
 16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above) — **LIVE 2026-09-06**
 17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
-18. Jive Talkin' — Bee Gees
+18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
 19. Somebody to Love — Queen / Brian May and Queen
 20. Best of My Love — Eagles the Band
 21. Tired of Being Alone — Al Green
@@ -171,7 +176,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#17, Knowing Me, Knowing You (ABBA): LIVE 2026-09-07. Next: #18, Jive Talkin' (Bee Gees).**
+**#18, Jive Talkin' (Bee Gees): LIVE 2026-09-07. Next: #19, Somebody to Love (Queen).**
 
 ---
 
@@ -180,7 +185,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 30 | Slots 1-17 of the artist-linked rotation queue LIVE, most recently ABBA Knowing Me Knowing You (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 31 | Slots 1-18 of the artist-linked rotation queue LIVE, most recently Jive Talkin (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
