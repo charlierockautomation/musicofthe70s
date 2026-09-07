@@ -4,43 +4,44 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-07 (Jive Talkin, slot #18, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-07 (Somebody to Love, slot #19, Charlie-approved, pushing to LIVE)
 
 ---
 
 ## Current State (as of 2026-09-07)
 
-- Jive Talkin (Songs, slot #18), focus keyword `jive talkin` (Charlie-specified directly, literal
-  no-apostrophe form, same split as prior literal-keyword posts: literal form in scored locations,
-  natural "Jive Talkin'" apostrophe form in flowing body prose). Charlie-approved 2026-09-07, LIVE.
-  `blog/songs/jive-talkin/index.html`. Sourced from Wikipedia (Jive Talkin' article)
-  + americansongwriter.com + udiscovermusic.com, cross-checked: recorded Jan 30-Feb 19 1975 at Criteria
-  Studios Miami, produced by Arif Mardin; written/credited to Barry, Robin, and Maurice Gibb; rhythm
-  inspired by tires crossing the Julia Tuttle Causeway on the nightly drive from Biscayne Bay, originally
-  titled "Drive Talkin'" until Barry's vocal was misheard as "jive" (Mardin: US slang for lying), Blue
-  Weaver built the bass line on an ARP 2600 synth rather than bass guitar. Chart pillar: US #1 for 2 weeks
-  (Aug 9-22 1975, confirmed against `data/billboard/hot100_weekly.json`), first US top-10 since How Can
-  You Mend a Broken Heart (1971, 4-year gap), also #1 Cash Box/Record World/Canada, UK/Ireland #5, NZ #4,
-  Australia #14; Gold (US/Canada/NZ) and Silver (UK) certifications. Distinct angle vs the live Bee Gees
-  artist page (which covers the Miami/Arif Mardin reinvention only in broad strokes) and vs How Can You
-  Mend a Broken Heart (different sound era, four years earlier): this post's pillar is the causeway/synth
-  bass production story plus the real chart-drought data, neither covered elsewhere on the site.
-  `verify_post.py` clean on first real pass after one consecutive-sentence-keyword fix (1,382 words,
-  1.592% density, 82.9% sentences under 20 words, FAQ PASS). Table + bullet list + 2 images (both reused
-  existing site assets: bee-gees-1977 featured, bee-gees-1970s body figure) satisfy the breakup rule.
-  Forward backlink added to Bee Gees artist page same session (Slump and Reinvention in Miami H2).
-  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, TOC
-  jump works, radio deep link (`1975-12-jive-talkin`) resolves to the correct jukebox tile, all 6 internal
-  links return 200 locally. Category/hub/sitemap/llms.txt regen run this session (all four generate
-  scripts clean, Songs now 31).
+- Somebody to Love (Songs, slot #19), focus keyword `somebody to love` (Charlie-specified directly).
+  Charlie-approved 2026-09-07, pushing to LIVE. `blog/songs/somebody-to-love/index.html`. Sourced from
+  Wikipedia (Somebody to Love (Queen song) + A Day at the Races album articles), Songfacts, and Official
+  Charts, cross-checked: written solely by Freddie Mercury, gospel/Aretha Franklin influence per Roger
+  Taylor's own quote ("Aretha Franklin-influenced... we tried to keep the track in a loose, gospel-type
+  feel"); recorded 1976 during A Day at the Races sessions across The Manor, Sarm East, Wessex Sound, and
+  Advision, tracked in two parts fused Oct 22 1976, mixed at Sarm East Oct 18-24; A Day at the Races was
+  Queen's first fully self-produced album (engineer Mike Stone, assisted by Gary Langan); the "100-voice
+  choir" is Mercury/May/Taylor multitracked. Chart pillar: US Hot 100 #13, UK #2, Netherlands #1 (both
+  charts), Belgium (Flanders) #2, Canada #5; certifications US 5x Platinum, UK 2x Platinum, Italy 2x
+  Platinum, NZ 3x Platinum. Site's own JSON shows year-end rank 88, not real peak, flagged same pattern as
+  prior posts (Jive Talkin, One of These Nights). Distinct angle vs the live Bohemian Rhapsody post and
+  both Queen artist pages: Peter Hince's quote that Mercury considered this song a purer piece of
+  songwriting than Bohemian Rhapsody, which none of those pages cover. `verify_post.py` clean after two
+  fix passes (sentence length and a heading-to-paragraph keyword-adjacency fail, same class as prior
+  posts): 1,426 words, 1.403% density, 100% sentences under 20 words, FAQ PASS. Table + bullet lists (studio
+  list + certifications) + 1 body image satisfy the breakup rule; both images reused existing site assets
+  (queen-1975 featured, queen-1977 body figure). Backlink to Queen Freddie Mercury artist page (not Brian
+  May and Queen, for rotation variety and topical fit to the Mercury-solo angle); forward backlink added
+  to that artist page same session (how-it-began H2). Song-to-song cross-link to Bohemian Rhapsody.
+  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, TOC jump works,
+  radio deep link (`1977-88-somebody-to-love`) confirmed resolving to the correct jukebox tile via DOM
+  inspection, all 6 internal links return 200 locally, video (`kijpcUv-b8M`, official Queen channel)
+  yt-dlp-confirmed public/playable. Category/hub/sitemap/llms.txt regen run this session (all four
+  generate scripts clean, Songs now 32).
+- Jive Talkin (Songs, slot #18) confirmed LIVE 2026-09-07. Full write-up pruned to SESSION-LOG-ARCHIVE.md
+  2026-09-07 (grep "Jive Talkin" there for detail).
 - ABBA Knowing Me Knowing You (Songs, slot #17) confirmed LIVE 2026-09-07. Full write-up pruned to
   SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "ABBA Knowing Me Knowing You" there for detail).
-- Give Up the Funk Parliament (Songs, slot #16) confirmed LIVE 2026-09-06. Full write-up
-  pruned to SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "Give Up the Funk Parliament" there for
-  detail, including the still-open George Clinton Smithsonian-replica flag for Charlie).
-- Slots 13-15 (Georgia on My Mind, Get on the Good Foot, You and I) confirmed LIVE
-  2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
-- Songs artist-linked rotation queue: slots 1-18 LIVE. Slot #19 (Somebody to Love, Queen) up next.
+- Slots 13-16 (Georgia on My Mind, Get on the Good Foot, You and I, Give Up the Funk Parliament) confirmed
+  LIVE 2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
+- Songs artist-linked rotation queue: slots 1-19 LIVE. Slot #20 (Best of My Love, Eagles) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -108,7 +109,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-18 LIVE. Slot 19, Somebody to Love (Queen), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-19 LIVE. Slot 20, Best of My Love (Eagles), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -149,7 +150,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above) — **LIVE 2026-09-06**
 17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
 18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
-19. Somebody to Love — Queen / Brian May and Queen
+19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
 20. Best of My Love — Eagles the Band
 21. Tired of Being Alone — Al Green
 22. Let's Get It On — Marvin Gaye
@@ -176,7 +177,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#18, Jive Talkin' (Bee Gees): LIVE 2026-09-07. Next: #19, Somebody to Love (Queen).**
+**#19, Somebody to Love (Queen): LIVE 2026-09-07. Next: #20, Best of My Love (Eagles).**
 
 ---
 
@@ -185,7 +186,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 31 | Slots 1-18 of the artist-linked rotation queue LIVE, most recently Jive Talkin (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 32 | Slots 1-19 of the artist-linked rotation queue LIVE, most recently Somebody to Love (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

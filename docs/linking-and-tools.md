@@ -169,3 +169,16 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | ABBA Knowing Me Knowing You | Songs | Dancing Queen (song) | /blog/songs/dancing-queen/index.html | Body, "Knowing Me, Knowing You's Long Afterlife" H2, song-to-song cross-link, mid-section not at H2 open/close |
 | ABBA Knowing Me Knowing You | Songs | Music of the 70s | /index.html | Body, final sentence of the "Knowing Me, Knowing You's Long Afterlife" H2, last content line before FAQ |
 | ABBA (artist) | Artists | ABBA Knowing Me Knowing You (song) | /blog/songs/abba-knowing-me-knowing-you/index.html | Body, "The Song That Predicted Its Own Band's Breakup" H2, mid-section, forward link added the session the song post was built |
+| Jive Talkin | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "From Drive Talkin to Jive Talkin" H3, mid-paragraph |
+| Jive Talkin | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Synth Bass That Changed Their Sound" H3, mid-paragraph |
+| Jive Talkin | Songs | Jive Talkin (Listen Now) | /radio/index.html?play=1975-12-jive-talkin | Body, same H3, sentence directly before the video embed |
+| Jive Talkin | Songs | Music of the 70s | /index.html | Body, "Jive Talkin Ended a Four-Year Wait" H2, mid-section, 3rd sentence |
+| Jive Talkin | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the Site's Own Data Shows Rank 12, Not Number One" H3, closing sentence |
+| Jive Talkin | Songs | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "Jive Talkin's Long Shadow" H2, closing-area sentence, song-to-song cross-link |
+| Somebody to Love | Songs | Queen Freddie Mercury (artist) | /blog/artists/queen-freddie-mercury/index.html | Body, "Somebody to Love Was Freddie Mercury's Alone" H3, closing sentence |
+| Somebody to Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Queen's First Fully Self-Produced Album" H3, closing sentence, before the video embed |
+| Somebody to Love | Songs | Somebody to Love (Listen Now) | /radio/index.html?play=1977-88-somebody-to-love | Body, sentence immediately after the video embed, not adjacent-before style used in the last 3 Songs posts |
+| Somebody to Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Somebody to Love's Real Chart Story" H2, closing sentence, before the data table |
+| Somebody to Love | Songs | Music of the 70s | /index.html | Body, "Why This Site's Own Data Shows 88, Not 13" H3, mid-section |
+| Somebody to Love | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, "The Song Freddie Mercury Ranked Above Bohemian Rhapsody" H2, closing sentence, song-to-song cross-link |
+| Queen Freddie Mercury (artist) | Artists | Somebody to Love (song) | /blog/songs/somebody-to-love/index.html | Body, "How Queen Freddie Mercury Actually Began" H2, closing sentence, forward link added the session the song post was built |
