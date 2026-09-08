@@ -182,3 +182,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Somebody to Love | Songs | Music of the 70s | /index.html | Body, "Why This Site's Own Data Shows 88, Not 13" H3, mid-section |
 | Somebody to Love | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, "The Song Freddie Mercury Ranked Above Bohemian Rhapsody" H2, closing sentence, song-to-song cross-link |
 | Queen Freddie Mercury (artist) | Artists | Somebody to Love (song) | /blog/songs/somebody-to-love/index.html | Body, "How Queen Freddie Mercury Actually Began" H2, closing sentence, forward link added the session the song post was built |
+| Best of My Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Guitar Part Came From a Joni Mitchell Tuning" H3, closing sentence |
+| Best of My Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Best of My Love Gave the Eagles Their First Number One" H2, mid-section, after the chart-format bullet list |
+| Best of My Love | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, "The Steel Guitar Sound Best of My Love Almost Cost the Band" H2, mid-section sentence |
+| Best of My Love | Songs | One of These Nights (song) | /blog/songs/one-of-these-nights/index.html | Body, same H2, song-to-song cross-link |
+| Best of My Love | Songs | Best of My Love (Listen Now) | /radio/index.html?play=1975-13-best-of-my-love | Body, "Stream It Yourself" H3, not adjacent to the video embed, several sentences before |
+| Best of My Love | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence directly before the video embed |
+| Eagles the Band (artist) | Artists | Best of My Love (song) | /blog/songs/best-of-my-love/index.html | Body, "The One-Day Swap That Led to Hotel California" H2, opening section, forward link added the session the song post was built |

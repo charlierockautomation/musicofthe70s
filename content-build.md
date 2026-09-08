@@ -4,44 +4,42 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-07 (Somebody to Love, slot #19, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-07 (Best of My Love, slot #20, Charlie-approved, pushing to LIVE)
 
 ---
 
 ## Current State (as of 2026-09-07)
 
-- Somebody to Love (Songs, slot #19), focus keyword `somebody to love` (Charlie-specified directly).
-  Charlie-approved 2026-09-07, pushing to LIVE. `blog/songs/somebody-to-love/index.html`. Sourced from
-  Wikipedia (Somebody to Love (Queen song) + A Day at the Races album articles), Songfacts, and Official
-  Charts, cross-checked: written solely by Freddie Mercury, gospel/Aretha Franklin influence per Roger
-  Taylor's own quote ("Aretha Franklin-influenced... we tried to keep the track in a loose, gospel-type
-  feel"); recorded 1976 during A Day at the Races sessions across The Manor, Sarm East, Wessex Sound, and
-  Advision, tracked in two parts fused Oct 22 1976, mixed at Sarm East Oct 18-24; A Day at the Races was
-  Queen's first fully self-produced album (engineer Mike Stone, assisted by Gary Langan); the "100-voice
-  choir" is Mercury/May/Taylor multitracked. Chart pillar: US Hot 100 #13, UK #2, Netherlands #1 (both
-  charts), Belgium (Flanders) #2, Canada #5; certifications US 5x Platinum, UK 2x Platinum, Italy 2x
-  Platinum, NZ 3x Platinum. Site's own JSON shows year-end rank 88, not real peak, flagged same pattern as
-  prior posts (Jive Talkin, One of These Nights). Distinct angle vs the live Bohemian Rhapsody post and
-  both Queen artist pages: Peter Hince's quote that Mercury considered this song a purer piece of
-  songwriting than Bohemian Rhapsody, which none of those pages cover. `verify_post.py` clean after two
-  fix passes (sentence length and a heading-to-paragraph keyword-adjacency fail, same class as prior
-  posts): 1,426 words, 1.403% density, 100% sentences under 20 words, FAQ PASS. Table + bullet lists (studio
-  list + certifications) + 1 body image satisfy the breakup rule; both images reused existing site assets
-  (queen-1975 featured, queen-1977 body figure). Backlink to Queen Freddie Mercury artist page (not Brian
-  May and Queen, for rotation variety and topical fit to the Mercury-solo angle); forward backlink added
-  to that artist page same session (how-it-began H2). Song-to-song cross-link to Bohemian Rhapsody.
-  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, TOC jump works,
-  radio deep link (`1977-88-somebody-to-love`) confirmed resolving to the correct jukebox tile via DOM
-  inspection, all 6 internal links return 200 locally, video (`kijpcUv-b8M`, official Queen channel)
-  yt-dlp-confirmed public/playable. Category/hub/sitemap/llms.txt regen run this session (all four
-  generate scripts clean, Songs now 32).
-- Jive Talkin (Songs, slot #18) confirmed LIVE 2026-09-07. Full write-up pruned to SESSION-LOG-ARCHIVE.md
-  2026-09-07 (grep "Jive Talkin" there for detail).
-- ABBA Knowing Me Knowing You (Songs, slot #17) confirmed LIVE 2026-09-07. Full write-up pruned to
-  SESSION-LOG-ARCHIVE.md 2026-09-07 (grep "ABBA Knowing Me Knowing You" there for detail).
-- Slots 13-16 (Georgia on My Mind, Get on the Good Foot, You and I, Give Up the Funk Parliament) confirmed
+- Best of My Love (Songs, slot #20), focus keyword `best of my love` (Charlie-specified directly, matches
+  the queue's song title). `blog/songs/best-of-my-love/index.html`. Sourced from Wikipedia (Best of My
+  Love (Eagles song) + On the Border articles), Songfacts, and americansongwriter, cross-checked: written
+  by Don Henley, Glenn Frey, and J.D. Souther, lyrics partly developed at Dan Tana's restaurant in LA,
+  Souther wrote the bridge (Henley called it "perfect"); Frey's signature guitar part traced to a Joni
+  Mitchell open-tuning technique; Asylum Records doubted the track ("too long, too slow, steel guitar, not
+  enough drums") until a Michigan DJ broke it on air; third single from On the Border (Nov 5 1974) after
+  "Already Gone" (#32) and "James Dean" (#77) underperformed; reached #1 Hot 100 March 1 1975 (Eagles'
+  first #1), also #1 US AC, #1 Canada RPM singles and AC, #4 Cash Box, #14 Australia; unauthorized label
+  edit (4:34 to 3:25) provoked manager Irving Azoff's "Golden Hacksaw Award" gold-record protest, Henley
+  demanded the edit pulled from stores. Recorded earlier than the rest of On the Border, produced by Glyn
+  Johns at Olympic Studios London — new member Don Felder does not appear on the track. Site's own JSON
+  year-end rank 13, not real peak, same pattern flagged on prior posts (Jive Talkin, One of These Nights,
+  Somebody to Love). Distinct angle vs the live Eagles the Band artist page and One of These Nights song
+  post: the label-conflict/reluctant-hit story (Golden Hacksaw Award), not covered by either. `verify_post.py`
+  clean after one fix (em dash in a bullet list swapped for colons): 1,539 words, 1.819% density, 79.5%
+  sentences under 20 words, FAQ PASS. Two data tables (singles progression + year-end-vs-real-peak) + 2
+  bullet lists (chart formats + personnel) + 1 body image satisfy the breakup rule; both images reused
+  existing site assets (eagles-1974 featured, eagles-asylum-1975 body). Backlink to Eagles the Band artist
+  page (not the homepage default); forward backlink added to that artist page same session ("The One-Day
+  Swap That Led to Hotel California" H2, opening section). Song-to-song cross-link to One of These Nights.
+  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, all 5 TOC anchors
+  resolve, radio deep link (`1975-13-best-of-my-love`) confirmed resolving to the correct jukebox tile via
+  DOM inspection, video (`76ke25oo0kg`, official Eagles channel) yt-dlp-confirmed public/playable, all
+  internal links 200 locally. Category/hub/sitemap/llms.txt regen run this session (all four generate
+  scripts clean, Songs now 33).
+- Slots 17-19 (ABBA Knowing Me Knowing You, Jive Talkin, Somebody to Love) confirmed LIVE 2026-09-07.
+  Slots 13-16 (Georgia on My Mind, Get on the Good Foot, You and I, Give Up the Funk Parliament) confirmed
   LIVE 2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
-- Songs artist-linked rotation queue: slots 1-19 LIVE. Slot #20 (Best of My Love, Eagles) up next.
+- Songs artist-linked rotation queue: slots 1-20 LIVE. Slot #21 (Tired of Being Alone, Al Green) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -109,7 +107,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-19 LIVE. Slot 20, Best of My Love (Eagles), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-20 LIVE. Slot 21, Tired of Being Alone (Al Green), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -151,7 +149,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
 18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
 19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
-20. Best of My Love — Eagles the Band
+20. Best of My Love — Eagles the Band — **LIVE 2026-09-07**
 21. Tired of Being Alone — Al Green
 22. Let's Get It On — Marvin Gaye
 23. Bad Girls — Donna Summer
@@ -177,7 +175,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#19, Somebody to Love (Queen): LIVE 2026-09-07. Next: #20, Best of My Love (Eagles).**
+**#20, Best of My Love (Eagles): LIVE 2026-09-07. Next: #21, Tired of Being Alone (Al Green).**
 
 ---
 
@@ -186,7 +184,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 32 | Slots 1-19 of the artist-linked rotation queue LIVE, most recently Somebody to Love (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 33 | Slots 1-20 of the artist-linked rotation queue LIVE, most recently Best of My Love (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

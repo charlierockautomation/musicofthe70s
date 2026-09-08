@@ -249,3 +249,30 @@ after one Subheading Rule fix (1,380 words, 0.725% density, 86.1% sentences unde
 Table + bullet list + 2 images satisfy the breakup rule. Forward backlink added to ABBA artist page same
 session. Playwright screenshots verified at 1440/375/390px, no console errors, no horizontal scroll.
 Category/hub/sitemap/llms.txt regen run this session (all four generate scripts clean, Songs now 30).
+
+## Somebody to Love (Songs, slot #19) — full build write-up, pruned from content-build.md 2026-09-07
+
+Focus keyword `somebody to love` (Charlie-specified directly). Charlie-approved 2026-09-07, LIVE.
+`blog/songs/somebody-to-love/index.html`. Sourced from Wikipedia (Somebody to Love (Queen song) + A Day
+at the Races album articles), Songfacts, and Official Charts, cross-checked: written solely by Freddie
+Mercury, gospel/Aretha Franklin influence per Roger Taylor's own quote ("Aretha Franklin-influenced... we
+tried to keep the track in a loose, gospel-type feel"); recorded 1976 during A Day at the Races sessions
+across The Manor, Sarm East, Wessex Sound, and Advision, tracked in two parts fused Oct 22 1976, mixed at
+Sarm East Oct 18-24; A Day at the Races was Queen's first fully self-produced album (engineer Mike Stone,
+assisted by Gary Langan); the "100-voice choir" is Mercury/May/Taylor multitracked. Chart pillar: US Hot
+100 #13, UK #2, Netherlands #1 (both charts), Belgium (Flanders) #2, Canada #5; certifications US 5x
+Platinum, UK 2x Platinum, Italy 2x Platinum, NZ 3x Platinum. Site's own JSON shows year-end rank 88, not
+real peak, flagged same pattern as prior posts (Jive Talkin, One of These Nights). Distinct angle vs the
+live Bohemian Rhapsody post and both Queen artist pages: Peter Hince's quote that Mercury considered this
+song a purer piece of songwriting than Bohemian Rhapsody, which none of those pages cover. `verify_post.py`
+clean after two fix passes (sentence length and a heading-to-paragraph keyword-adjacency fail, same class
+as prior posts): 1,426 words, 1.403% density, 100% sentences under 20 words, FAQ PASS. Table + bullet
+lists (studio list + certifications) + 1 body image satisfy the breakup rule; both images reused existing
+site assets (queen-1975 featured, queen-1977 body figure). Backlink to Queen Freddie Mercury artist page
+(not Brian May and Queen, for rotation variety and topical fit to the Mercury-solo angle); forward
+backlink added to that artist page same session (how-it-began H2). Song-to-song cross-link to Bohemian
+Rhapsody. Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, TOC jump
+works, radio deep link (`1977-88-somebody-to-love`) confirmed resolving to the correct jukebox tile via
+DOM inspection, all 6 internal links return 200 locally, video (`kijpcUv-b8M`, official Queen channel)
+yt-dlp-confirmed public/playable. Category/hub/sitemap/llms.txt regen run this session (all four generate
+scripts clean, Songs now 32).
