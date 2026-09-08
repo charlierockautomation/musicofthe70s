@@ -60,24 +60,6 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Donna Summer | Artists | Random Artist Picker | /pages/random-artist-picker.html | Body, "1974-1976: A Session Singer in Munich Becomes a Star" H2, mid-section |
-| Donna Summer | Artists | Disco Music of the 70s | /blog/genres/disco-music-of-the-70s/index.html | Body, "1977: The Hit Too Influential for the Charts" H2, mid-sentence before the video embed |
-| Donna Summer | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, "1978: An Oscar for a Song from a B-Movie" H2, mid-section |
-| Donna Summer | Artists | Village People | /blog/artists/village-people/index.html | Body, opening sentence of the "1979: Three Number Ones, One Calendar Year" H2 |
-| Al Green | Artists | Marvin Gaye | /blog/artists/marvin-gaye/index.html | Body, "1971-1972: Three Songs, One Year-End Chart" H2, mid-sentence contrast, not at an H2's end |
-| Al Green | Artists | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, end of "1972: The Album That Wouldn't Leave Number One" H2 |
-| Al Green | Artists | Random Artist Picker | /pages/random-artist-picker.html | Body, inside the "1976-1977: Ministry" H2, mid-section |
-| Al Green | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, inside the "Al Green's Real 1970s Chart Record" recap H2 |
-| ABBA Waterloo | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, "Waterloo Wasn't the Real American Breakthrough" H3, opening sentence |
-| ABBA Waterloo | Songs | ABBA vs Queen | /blog/trivia/abba-vs-queen/index.html | Body, same H3 as above, mid-section |
-| ABBA Waterloo | Songs | Waterloo (Listen Now deep link) | /radio/index.html?play=1974-49-waterloo | Body, "The Swedish Tax Law Behind the Costumes" H2, sentence directly before the video embed |
-| ABBA Waterloo | Songs | Music of the 70s | /index.html | Body, end of "Waterloo Wasn't the Real American Breakthrough" H3, closing sentence before FAQ |
-| How Can You Mend a Broken Heart | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "A Songwriting Credit That Took 38 Years to Arrive" H3, closing sentence |
-| How Can You Mend a Broken Heart | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "The Cover That Finished What the Original Couldn't" H2, closing sentence |
-| How Can You Mend a Broken Heart | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "What Maurice Actually Played" H3, mid-section before the radio deep link |
-| How Can You Mend a Broken Heart | Songs | How Can You Mend a Broken Heart (Listen Now) | /radio/index.html?play=1971-5-how-can-you-mend-a-broken-heart | Body, same H3, sentence directly before the video embed |
-| How Can You Mend a Broken Heart | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Chart That Ignored It Completely" H3, closing sentence, mid-post |
-| How Can You Mend a Broken Heart | Songs | Music of the 70s | /index.html | Body, end of "A Second Life in Movie Theaters" H3, closing sentence after the film list |
 | Killer Queen | Songs | Music of the 70s | /index.html | Body, end of the "Killer Queen Was a Deliberate Bet on a Pop Hit" H2 main paragraph, before the H3 quote subhead |
 | Killer Queen | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Four Real Production Choices That Built the Sound" H3, mid-paragraph after the bullet list |
 | Killer Queen | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Database Shows '78,' Not '12'" H3, mid-section question lead-in |
@@ -189,3 +171,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Best of My Love | Songs | Best of My Love (Listen Now) | /radio/index.html?play=1975-13-best-of-my-love | Body, "Stream It Yourself" H3, not adjacent to the video embed, several sentences before |
 | Best of My Love | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence directly before the video embed |
 | Eagles the Band (artist) | Artists | Best of My Love (song) | /blog/songs/best-of-my-love/index.html | Body, "The One-Day Swap That Led to Hotel California" H2, opening section, forward link added the session the song post was built |
+| Al Green Tired of Being Alone | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "Shelved From Green Is Blues" H3, opening sentence |
+| Al Green Tired of Being Alone | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "None of the First Four Cracked the Top 40" H3 area, mid-section after the data table |
+| Al Green Tired of Being Alone | Songs | Music of the 70s | /index.html | Body, "The Song That Finally Made Al Green a Pop Star" H2, mid-section, not opening or closing |
+| Al Green Tired of Being Alone | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Data Shows 12, Not 11" H3, closing sentence |
+| Al Green Tired of Being Alone | Songs | Tired of Being Alone (Listen Now) | /radio/index.html?play=1971-12-tired-of-being-alone | Body, opening sentence of the "Recorded With the Same Band That Built Let's Stay Together" H2, not adjacent to the video embed |
+| Al Green Tired of Being Alone | Songs | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "The Song's Life After 1971" H3, mid-section, song-to-song cross-link |
+| Al Green (artist) | Artists | Al Green Tired of Being Alone (song) | /blog/songs/al-green-tired-of-being-alone/index.html | Body, "1971-1972: Three Songs, One Year-End Chart" H3, on the existing "Tired of Being Alone" mention, forward link added the session the song post was built |

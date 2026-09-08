@@ -4,42 +4,31 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-07 (Best of My Love, slot #20, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-07 (Al Green Tired of Being Alone, slot #21, Charlie-approved, pushing to LIVE)
 
 ---
 
 ## Current State (as of 2026-09-07)
 
-- Best of My Love (Songs, slot #20), focus keyword `best of my love` (Charlie-specified directly, matches
-  the queue's song title). `blog/songs/best-of-my-love/index.html`. Sourced from Wikipedia (Best of My
-  Love (Eagles song) + On the Border articles), Songfacts, and americansongwriter, cross-checked: written
-  by Don Henley, Glenn Frey, and J.D. Souther, lyrics partly developed at Dan Tana's restaurant in LA,
-  Souther wrote the bridge (Henley called it "perfect"); Frey's signature guitar part traced to a Joni
-  Mitchell open-tuning technique; Asylum Records doubted the track ("too long, too slow, steel guitar, not
-  enough drums") until a Michigan DJ broke it on air; third single from On the Border (Nov 5 1974) after
-  "Already Gone" (#32) and "James Dean" (#77) underperformed; reached #1 Hot 100 March 1 1975 (Eagles'
-  first #1), also #1 US AC, #1 Canada RPM singles and AC, #4 Cash Box, #14 Australia; unauthorized label
-  edit (4:34 to 3:25) provoked manager Irving Azoff's "Golden Hacksaw Award" gold-record protest, Henley
-  demanded the edit pulled from stores. Recorded earlier than the rest of On the Border, produced by Glyn
-  Johns at Olympic Studios London — new member Don Felder does not appear on the track. Site's own JSON
-  year-end rank 13, not real peak, same pattern flagged on prior posts (Jive Talkin, One of These Nights,
-  Somebody to Love). Distinct angle vs the live Eagles the Band artist page and One of These Nights song
-  post: the label-conflict/reluctant-hit story (Golden Hacksaw Award), not covered by either. `verify_post.py`
-  clean after one fix (em dash in a bullet list swapped for colons): 1,539 words, 1.819% density, 79.5%
-  sentences under 20 words, FAQ PASS. Two data tables (singles progression + year-end-vs-real-peak) + 2
-  bullet lists (chart formats + personnel) + 1 body image satisfy the breakup rule; both images reused
-  existing site assets (eagles-1974 featured, eagles-asylum-1975 body). Backlink to Eagles the Band artist
-  page (not the homepage default); forward backlink added to that artist page same session ("The One-Day
-  Swap That Led to Hotel California" H2, opening section). Song-to-song cross-link to One of These Nights.
-  Playwright checks passed at 1440/375/390px: no console errors, no horizontal scroll, all 5 TOC anchors
-  resolve, radio deep link (`1975-13-best-of-my-love`) confirmed resolving to the correct jukebox tile via
-  DOM inspection, video (`76ke25oo0kg`, official Eagles channel) yt-dlp-confirmed public/playable, all
-  internal links 200 locally. Category/hub/sitemap/llms.txt regen run this session (all four generate
-  scripts clean, Songs now 33).
-- Slots 17-19 (ABBA Knowing Me Knowing You, Jive Talkin, Somebody to Love) confirmed LIVE 2026-09-07.
-  Slots 13-16 (Georgia on My Mind, Get on the Good Foot, You and I, Give Up the Funk Parliament) confirmed
-  LIVE 2026-09-04/2026-09-06. Full write-ups in SESSION-LOG-ARCHIVE.md (grep title for detail).
-- Songs artist-linked rotation queue: slots 1-20 LIVE. Slot #21 (Tired of Being Alone, Al Green) up next.
+- Al Green Tired of Being Alone (Songs, slot #21), focus keyword `al green tired of being alone`
+  (Charlie-specified). `blog/songs/al-green-tired-of-being-alone/index.html`. **Charlie-approved, LIVE.**
+  Sourced from Wikipedia, Songfacts, and americansongwriter,
+  cross-checked. Angle: four earlier singles from Al Green Gets Next to You missed first (You Say It,
+  Right Now Right Now, I Can't Get Next to You, Driving Wheel) before this one broke through as the
+  fifth, June 1971 (Hot100 #11, UK #4, gold US/UK, platinum NZ) — distinct from the artist page's one-
+  bullet recap and from the different-song Let's Stay Together post. Site JSON year-end rank 12 vs.
+  real peak #11, same not-a-real-peak pattern flagged on prior posts. `verify_post.py` clean after
+  fixes (title trimmed to 48 chars, FAQ reworded for keyword count + dropped a Yes/No opener): 1,561
+  words, 0.769% density, 78.4% under 20 words, FAQ PASS. 2 data tables + 2 bullet lists + 1 body image
+  (both images reused, swapped featured/body vs. the Let's Stay Together and artist-page posts). Al
+  Green artist backlink; forward link added to that artist page same session. Song-to-song cross-link
+  to Let's Stay Together. Playwright clean at 1440/375/390px (no console errors, no horiz scroll, 5 TOC
+  anchors resolve), radio deep link (`1971-12-tired-of-being-alone`) confirmed via DOM, video
+  (`7ll7ocQbH_k`, official channel) yt-dlp-confirmed playable, all internal links 200 locally. Regen
+  scripts clean, Songs now 34.
+- Slots 17-20 (ABBA Knowing Me Knowing You, Jive Talkin, Somebody to Love, Best of My Love) confirmed
+  LIVE 2026-09-07. Full write-ups in SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-21 LIVE. Slot #22 (Let's Get It On, Marvin Gaye) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -107,7 +96,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-20 LIVE. Slot 21, Tired of Being Alone (Al Green), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-21 LIVE. Slot 22, Let's Get It On (Marvin Gaye), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -150,7 +139,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
 19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
 20. Best of My Love — Eagles the Band — **LIVE 2026-09-07**
-21. Tired of Being Alone — Al Green
+21. Tired of Being Alone — Al Green — **LIVE 2026-09-07**
 22. Let's Get It On — Marvin Gaye
 23. Bad Girls — Donna Summer
 24. You Are the Sunshine of My Life — Stevie Wonder
@@ -175,7 +164,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#20, Best of My Love (Eagles): LIVE 2026-09-07. Next: #21, Tired of Being Alone (Al Green).**
+**#21, Tired of Being Alone (Al Green): LIVE 2026-09-07. Next: #22, Let's Get It On (Marvin Gaye).**
 
 ---
 
@@ -184,7 +173,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 33 | Slots 1-20 of the artist-linked rotation queue LIVE, most recently Best of My Love (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 34 | Slots 1-21 of the artist-linked rotation queue LIVE, most recently Al Green Tired of Being Alone (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
