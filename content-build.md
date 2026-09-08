@@ -4,31 +4,30 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-07 (Al Green Tired of Being Alone, slot #21, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-08 (Marvin Gaye Let's Get It On, slot #22, Charlie-approved, pushing to LIVE)
 
 ---
 
-## Current State (as of 2026-09-07)
+## Current State (as of 2026-09-08)
 
-- Al Green Tired of Being Alone (Songs, slot #21), focus keyword `al green tired of being alone`
-  (Charlie-specified). `blog/songs/al-green-tired-of-being-alone/index.html`. **Charlie-approved, LIVE.**
-  Sourced from Wikipedia, Songfacts, and americansongwriter,
-  cross-checked. Angle: four earlier singles from Al Green Gets Next to You missed first (You Say It,
-  Right Now Right Now, I Can't Get Next to You, Driving Wheel) before this one broke through as the
-  fifth, June 1971 (Hot100 #11, UK #4, gold US/UK, platinum NZ) — distinct from the artist page's one-
-  bullet recap and from the different-song Let's Stay Together post. Site JSON year-end rank 12 vs.
-  real peak #11, same not-a-real-peak pattern flagged on prior posts. `verify_post.py` clean after
-  fixes (title trimmed to 48 chars, FAQ reworded for keyword count + dropped a Yes/No opener): 1,561
-  words, 0.769% density, 78.4% under 20 words, FAQ PASS. 2 data tables + 2 bullet lists + 1 body image
-  (both images reused, swapped featured/body vs. the Let's Stay Together and artist-page posts). Al
-  Green artist backlink; forward link added to that artist page same session. Song-to-song cross-link
-  to Let's Stay Together. Playwright clean at 1440/375/390px (no console errors, no horiz scroll, 5 TOC
-  anchors resolve), radio deep link (`1971-12-tired-of-being-alone`) confirmed via DOM, video
-  (`7ll7ocQbH_k`, official channel) yt-dlp-confirmed playable, all internal links 200 locally. Regen
-  scripts clean, Songs now 34.
-- Slots 17-20 (ABBA Knowing Me Knowing You, Jive Talkin, Somebody to Love, Best of My Love) confirmed
-  LIVE 2026-09-07. Full write-ups in SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-21 LIVE. Slot #22 (Let's Get It On, Marvin Gaye) up next.
+- Marvin Gaye Let's Get It On (Songs, slot #22), focus keyword `marvin gaye let's get it on`
+  (Charlie-specified). `blog/songs/marvin-gaye-lets-get-it-on/index.html`. **Charlie-approved, LIVE.**
+  Sourced from Wikipedia and Songfacts, cross-checked against this site's own `hot100_weekly.json` and
+  `rnb.json` (ground truth). Angle: the Hot 100 #1 was interrupted, not a straight run — Sept 8, 1973
+  #1, bumped by Helen Reddy's Delta Dawn the week of Sept 15, reclaimed Sept 22 — plus this site's own
+  R&B chart data showing a separate 11-week #1 run starting Sept 29, distinct from the Marvin Gaye
+  artist page's one-paragraph recap. Also covers Ed Townsend's sobriety-song origin, Kenneth Stover's
+  scrapped political draft, and the Janis Hunter rewrite. `verify_post.py` clean after trimming long
+  sentences: 1,296 words, 0.617% density, 81.8% under 20 words, FAQ PASS. 1 data table + 1 bullet list
+  + 1 body image (both images reused, swapped featured/body vs. the artist page and What's Going On
+  posts). Marvin Gaye artist backlink; forward link added to that artist page same session. Song-to-
+  song cross-link to What's Going On. Playwright clean at 1440/375/390px (no console errors, no horiz
+  scroll, 4 TOC anchors resolve), radio deep link (`1973-4-lets-get-it-on`) confirmed via DOM, video
+  (`AqPBfbLoF_M`, official Marvin Gaye channel, not the radio JSON's non-official pick) yt-dlp-confirmed
+  playable, all internal links 200 locally. Regen scripts clean, Songs now 35.
+- Slot 21 (Al Green Tired of Being Alone) confirmed LIVE 2026-09-07. Full write-up in
+  SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-22 LIVE. Slot #23 (Bad Girls, Donna Summer) up next.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -96,7 +95,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-21 LIVE. Slot 22, Let's Get It On (Marvin Gaye), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-22 LIVE. Slot 23, Bad Girls (Donna Summer), up next. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -140,7 +139,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
 20. Best of My Love — Eagles the Band — **LIVE 2026-09-07**
 21. Tired of Being Alone — Al Green — **LIVE 2026-09-07**
-22. Let's Get It On — Marvin Gaye
+22. Let's Get It On — Marvin Gaye — **LIVE 2026-09-08**
 23. Bad Girls — Donna Summer
 24. You Are the Sunshine of My Life — Stevie Wonder
 25. I Will Always Love You — Dolly Parton
@@ -164,7 +163,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#21, Tired of Being Alone (Al Green): LIVE 2026-09-07. Next: #22, Let's Get It On (Marvin Gaye).**
+**#22, Let's Get It On (Marvin Gaye): LIVE 2026-09-08. Next: #23, Bad Girls (Donna Summer).**
 
 ---
 
@@ -173,7 +172,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 34 | Slots 1-21 of the artist-linked rotation queue LIVE, most recently Al Green Tired of Being Alone (2026-09-07). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 35 | Slots 1-22 of the artist-linked rotation queue LIVE, most recently Marvin Gaye Let's Get It On (2026-09-08). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
