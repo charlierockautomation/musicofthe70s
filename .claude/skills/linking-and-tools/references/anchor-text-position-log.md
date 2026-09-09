@@ -144,3 +144,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | You Are the Sunshine of My Life | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence |
 | Stevie Wonder (artist) | Artists | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Classic Period Hits, Charted Year by Year" list, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
 | Superstition Stevie Wonder | Songs | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Year-End Picture" H3, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
+| Time in a Bottle Jim Croce | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Body, "The Night He Wrote Time in a Bottle" H2, opening sentence |
+| Time in a Bottle Jim Croce | Songs | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "Released Only After His Death" H2, closing-area sentence, song-to-song cross-link |
+| Time in a Bottle Jim Croce | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Song That Crossed Into a New Year" H3, mid-section |
+| Time in a Bottle Jim Croce | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Mood That Took On New Weight" H3, opening sentence |
+| Time in a Bottle Jim Croce | Songs | Time in a Bottle (Listen Now) | /radio/index.html?play=1974-24-time-in-a-bottle | Body, "The Mood That Took On New Weight" H3, mid-section, not adjacent to the video embed |
+| Time in a Bottle Jim Croce | Songs | Music of the 70s | /index.html | Body, "The Mood That Took On New Weight" H3, closing-area sentence |
+| Jim Croce (artist) | Artists | Time in a Bottle Jim Croce (song) | /blog/songs/time-in-a-bottle-jim-croce/index.html | Body, "Three Songs From One Album" H3, on the existing "Time in a Bottle" mention, forward link added the session the song post was built |

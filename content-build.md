@@ -27,7 +27,7 @@
   playable, all internal links 200 locally. Regen scripts clean, Songs now 35.
 - Slot 21 (Al Green Tired of Being Alone) confirmed LIVE 2026-09-07. Full write-up in
   SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-25 LIVE. Slot #26 (Time in a Bottle, Jim Croce) up next.
+- Songs artist-linked rotation queue: slots 1-26 LIVE, most recently Time in a Bottle (Jim Croce, 2026-09-09).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -95,7 +95,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-25 LIVE. Slot 26, Time in a Bottle (Jim Croce), up next. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-26 LIVE. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -143,7 +143,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 23. Bad Girls — Donna Summer — **LIVE 2026-09-08**
 24. You Are the Sunshine of My Life — Stevie Wonder — **LIVE 2026-09-08**
 25. I Will Always Love You — Dolly Parton — **LIVE 2026-09-08**
-26. Time in a Bottle — Jim Croce
+26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
 27. In the Navy — Village People
 28. Blue Eyes Crying in the Rain — Willie Nelson
 29. Flash Light — George Clinton (Parliament, flagged above)
@@ -163,7 +163,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#25, I Will Always Love You (Dolly Parton): LIVE 2026-09-08. Next: #26, Time in a Bottle (Jim Croce).**
+**#26, Time in a Bottle (Jim Croce): LIVE 2026-09-09. Next: #27, In the Navy (Village People).**
 
 ---
 
