@@ -141,17 +141,8 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Bohemian Rhapsody: The Song Nobody Wanted to Release | https://musicofthe70s.net/blog/songs/bohemian-rhapsody/index.html | Songs | Bohemian Rhapsody | Live | 2026-08-07 | Random 70s Song Generator, Mood Song Matcher |
 | Don McLean American Pie: The Real Story Behind It | https://musicofthe70s.net/blog/songs/don-mclean-american-pie/index.html | Songs | don mclean american pie | Live | 2026-08-07 | Random 70s Song Generator, Mood Song Matcher |
 | 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/index.html | Genres | 70s rock | Live | 2026-07-25 | Random Artist Picker, Random 70s Song Generator |
-| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | 2026-07-24 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1971: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1971/index.html | Years | top songs of 1971 | Live | 2026-07-29 | Birthday #1 Song Finder, 70s Decade Wheel |
 | 70s Soul Music: The Artists Who Redefined a Genre | https://musicofthe70s.net/blog/genres/70s-soul-music/index.html | Genres | 70s soul music | Live | 2026-07-29 | Random Artist Picker, Random 70s Song Generator |
-| Top Songs of 1972: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1972/index.html | Years | top songs of 1972 | Live | 2026-07-30 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1973: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1973/index.html | Years | top songs of 1973 | Live | 2026-07-31 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1974: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1974/index.html | Years | top songs of 1974 | Live | 2026-08-01 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1977: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1977/index.html | Years | top songs of 1977 | Live | 2026-08-03 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1979: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1979/index.html | Years | top songs of 1979 | Live | 2026-08-06 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1978: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1978/index.html | Years | top songs of 1978 | Live | 2026-08-05 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1976: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1976/index.html | Years | top songs of 1976 | Live | 2026-08-03 | Birthday #1 Song Finder, 70s Decade Wheel |
-| Top Songs of 1975: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1975/index.html | Years | top songs of 1975 | Live | 2026-08-02 | Birthday #1 Song Finder, 70s Decade Wheel |
+*(All 10 Years series posts — Top Songs of 1970 through 1979, all Live, series complete — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-09 to hold the line count; grep "Years series rows" there for the full table.)*
 
 
 **Planned posts (not yet started — listed so slugs are reserved and duplicates are avoided):**

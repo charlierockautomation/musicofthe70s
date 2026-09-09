@@ -505,3 +505,18 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | How Can You Mend a Broken Heart | Songs | How Can You Mend a Broken Heart (Listen Now) | /radio/index.html?play=1971-5-how-can-you-mend-a-broken-heart | Body, same H3, sentence directly before the video embed |
 | How Can You Mend a Broken Heart | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Chart That Ignored It Completely" H3, closing sentence, mid-post |
 | How Can You Mend a Broken Heart | Songs | Music of the 70s | /index.html | Body, end of "A Second Life in Movie Theaters" H3, closing sentence after the film list |
+
+## Years series rows (pruned from CONTENT-INDEX.md 2026-09-09, series complete/static, all still Live)
+
+| Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
+|---|---|---|---|---|---|---|
+| Top Songs of 1970 | https://musicofthe70s.net/blog/years/top-songs-of-1970/index.html | Years | top songs of 1970 | Live | 2026-07-24 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1971: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1971/index.html | Years | top songs of 1971 | Live | 2026-07-29 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1972: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1972/index.html | Years | top songs of 1972 | Live | 2026-07-30 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1973: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1973/index.html | Years | top songs of 1973 | Live | 2026-07-31 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1974: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1974/index.html | Years | top songs of 1974 | Live | 2026-08-01 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1975: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1975/index.html | Years | top songs of 1975 | Live | 2026-08-02 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1976: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1976/index.html | Years | top songs of 1976 | Live | 2026-08-03 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1977: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1977/index.html | Years | top songs of 1977 | Live | 2026-08-03 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1978: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1978/index.html | Years | top songs of 1978 | Live | 2026-08-05 | Birthday #1 Song Finder, 70s Decade Wheel |
+| Top Songs of 1979: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1979/index.html | Years | top songs of 1979 | Live | 2026-08-06 | Birthday #1 Song Finder, 70s Decade Wheel |
