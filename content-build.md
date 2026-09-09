@@ -141,7 +141,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 21. Tired of Being Alone — Al Green — **LIVE 2026-09-07**
 22. Let's Get It On — Marvin Gaye — **LIVE 2026-09-08**
 23. Bad Girls — Donna Summer — **LIVE 2026-09-08**
-24. You Are the Sunshine of My Life — Stevie Wonder
+24. You Are the Sunshine of My Life — Stevie Wonder — **LIVE 2026-09-08**
 25. I Will Always Love You — Dolly Parton
 26. Time in a Bottle — Jim Croce
 27. In the Navy — Village People
@@ -163,7 +163,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#23, Bad Girls (Donna Summer): LIVE 2026-09-08. Next: #24, You Are the Sunshine of My Life (Stevie Wonder).**
+**#24, You Are the Sunshine of My Life (Stevie Wonder): LIVE 2026-09-08. Next: #25, I Will Always Love You (Dolly Parton).**
 
 ---
 
@@ -172,7 +172,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 36 | Slots 1-23 of the artist-linked rotation queue LIVE, most recently Bad Girls (Donna Summer, 2026-09-08). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 37 | Slots 1-24 of the artist-linked rotation queue LIVE, most recently You Are the Sunshine of My Life (Stevie Wonder, 2026-09-08). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
