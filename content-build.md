@@ -4,30 +4,31 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-08 (I Will Always Love You Dolly Parton, slot #25, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-10 (Blue Eyes Crying in the Rain, Willie Nelson, slot #28, Charlie-approved, pushing to LIVE)
 
 ---
 
-## Current State (as of 2026-09-08)
+## Current State (as of 2026-09-10)
 
-- Marvin Gaye Let's Get It On (Songs, slot #22), focus keyword `marvin gaye let's get it on`
-  (Charlie-specified). `blog/songs/marvin-gaye-lets-get-it-on/index.html`. **Charlie-approved, LIVE.**
-  Sourced from Wikipedia and Songfacts, cross-checked against this site's own `hot100_weekly.json` and
-  `rnb.json` (ground truth). Angle: the Hot 100 #1 was interrupted, not a straight run — Sept 8, 1973
-  #1, bumped by Helen Reddy's Delta Dawn the week of Sept 15, reclaimed Sept 22 — plus this site's own
-  R&B chart data showing a separate 11-week #1 run starting Sept 29, distinct from the Marvin Gaye
-  artist page's one-paragraph recap. Also covers Ed Townsend's sobriety-song origin, Kenneth Stover's
-  scrapped political draft, and the Janis Hunter rewrite. `verify_post.py` clean after trimming long
-  sentences: 1,296 words, 0.617% density, 81.8% under 20 words, FAQ PASS. 1 data table + 1 bullet list
-  + 1 body image (both images reused, swapped featured/body vs. the artist page and What's Going On
-  posts). Marvin Gaye artist backlink; forward link added to that artist page same session. Song-to-
-  song cross-link to What's Going On. Playwright clean at 1440/375/390px (no console errors, no horiz
-  scroll, 4 TOC anchors resolve), radio deep link (`1973-4-lets-get-it-on`) confirmed via DOM, video
-  (`AqPBfbLoF_M`, official Marvin Gaye channel, not the radio JSON's non-official pick) yt-dlp-confirmed
-  playable, all internal links 200 locally. Regen scripts clean, Songs now 35.
-- Slot 21 (Al Green Tired of Being Alone) confirmed LIVE 2026-09-07. Full write-up in
-  SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-26 LIVE, most recently Time in a Bottle (Jim Croce, 2026-09-09).
+- Blue Eyes Crying in the Rain (Songs, slot #28), focus keyword `blue eyes crying in the rain`
+  (Charlie-specified, confirmed with "the" against the real title). `blog/songs/blue-eyes-crying-in-the-rain/index.html`.
+  **Charlie-approved after local review, LIVE.** Sourced from
+  this site's own `country.json` (Oct 1975, 2 weeks at #1) and `artists_country.json`, cross-checked
+  against Wikipedia for pre-Nelson recording history and Grammy/Rolling Stone facts flagged as outside
+  chart history where used. Angle: distinct from the live Georgia on My Mind and Willie Nelson artist
+  posts, focuses on this single's own pre-Nelson recording history (Fred Rose, Elton Britt 1947, Roy
+  Acuff 1947, Hank Williams 1951, Gene Vincent 1958, Conway Twitty 1970) and its role as the first-domino
+  turning point in Nelson's career. `verify_post.py` clean: 1,511 words, 1.257% density, 84.5% under 20
+  words, FAQ PASS. Table + 2 lists + 1 new body image (sourced and optimized this session, Willie Nelson
+  Promotional Photo, Columbia Records 1974, public domain) satisfy the breakup rule. No `radio_id` exists
+  for this song (country-only, not in the Hot100-sourced radio pool), confirmed absent, no Listen Now
+  link. Willie Nelson artist backlink and Georgia on My Mind cross-link both added, reciprocal in both
+  directions same session. Category card regen run (script counts 41 files in blog/songs/, includes
+  non-rotation pages like the hub). Full write-up: SESSION-LOG-ARCHIVE.md.
+- Slot 22 (Marvin Gaye Let's Get It On) and slot 21 (Al Green Tired of Being Alone) confirmed LIVE.
+  Full write-ups in SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-27 LIVE, most recently In the Navy (Village People, 2026-09-09).
+  Slot 28 built this session, pending push.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -145,7 +146,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 25. I Will Always Love You — Dolly Parton — **LIVE 2026-09-08**
 26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
 27. In the Navy — Village People — **LIVE 2026-09-09**
-28. Blue Eyes Crying in the Rain — Willie Nelson
+28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
 29. Flash Light — George Clinton (Parliament, flagged above)
 30. Take a Chance on Me — ABBA
 31. You Should Be Dancing — Bee Gees
@@ -163,7 +164,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#27, In the Navy (Village People): LIVE 2026-09-09. Next: #28, Blue Eyes Crying in the Rain (Willie Nelson).**
+**#28, Blue Eyes Crying in the Rain (Willie Nelson): LIVE 2026-09-10. Next: #29, Flash Light (George Clinton, Parliament credit, flagged above).**
 
 ---
 
@@ -172,7 +173,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 39 | Slots 1-27 of the artist-linked rotation queue LIVE, most recently In the Navy (Village People, 2026-09-09). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 41 | Slots 1-28 of the artist-linked rotation queue LIVE, most recently Blue Eyes Crying in the Rain (Willie Nelson, 2026-09-10). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

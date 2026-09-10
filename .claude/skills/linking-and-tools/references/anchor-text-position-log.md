@@ -151,3 +151,10 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Time in a Bottle Jim Croce | Songs | Time in a Bottle (Listen Now) | /radio/index.html?play=1974-24-time-in-a-bottle | Body, "The Mood That Took On New Weight" H3, mid-section, not adjacent to the video embed |
 | Time in a Bottle Jim Croce | Songs | Music of the 70s | /index.html | Body, "The Mood That Took On New Weight" H3, closing-area sentence |
 | Jim Croce (artist) | Artists | Time in a Bottle Jim Croce (song) | /blog/songs/time-in-a-bottle-jim-croce/index.html | Body, "Three Songs From One Album" H3, on the existing "Time in a Bottle" mention, forward link added the session the song post was built |
+| Blue Eyes Crying in the Rain | Songs | Music of the 70s | /index.html | Intro, closing sentence of the intro block |
+| Blue Eyes Crying in the Rain | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Just a Guitar, a Piano, and a Voice" H3, mid-section |
+| Blue Eyes Crying in the Rain | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Where Blue Eyes Crying in the Rain Landed on the Charts" H2, after the data table |
+| Blue Eyes Crying in the Rain | Songs | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Wanted! The Outlaws Followed Within Months" H3, mid-section, song-to-song cross-link |
+| Blue Eyes Crying in the Rain | Songs | Willie Nelson (artist) | /blog/artists/willie-nelson/index.html | Body, "Rolling Stone Kept Ranking It Decades Later" H3, closing-area sentence |
+| Georgia on My Mind | Songs | Blue Eyes Crying in the Rain (song) | /blog/songs/blue-eyes-crying-in-the-rain/index.html | Body, "A Country No. 1 the Same Year Georgia Adopted the Song" H2, on the existing "Blue Eyes Crying in the Rain" mention, backlink added the session the new song post was built |
+| Willie Nelson (artist) | Artists | Blue Eyes Crying in the Rain (song) | /blog/songs/blue-eyes-crying-in-the-rain/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, on the existing mention, forward link added the session the song post was built |
