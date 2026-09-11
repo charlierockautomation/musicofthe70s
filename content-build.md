@@ -147,7 +147,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
 27. In the Navy — Village People — **LIVE 2026-09-09**
 28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
-29. Flash Light — George Clinton (Parliament, flagged above)
+29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **BUILT-LOCAL 2026-09-10, awaiting Charlie's review per Publish Gate**
 30. Take a Chance on Me — ABBA
 31. You Should Be Dancing — Bee Gees
 32. New Kid in Town — Eagles the Band
@@ -164,7 +164,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#28, Blue Eyes Crying in the Rain (Willie Nelson): LIVE 2026-09-10. Next: #29, Flash Light (George Clinton, Parliament credit, flagged above).**
+**#29, Flash Light (Parliament): BUILT-LOCAL 2026-09-10, previewed, awaiting Charlie's go-ahead before push. Next after approval and push: #30, Take a Chance on Me (ABBA).**
 
 ---
 

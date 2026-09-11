@@ -64,6 +64,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| Flash Light Parliament: The Bass Line That Wasn't a Bass | https://musicofthe70s.net/blog/songs/flash-light-parliament/index.html | Songs | flash light parliament | Built-Local | pending | Random 70s Song Generator, Mood Song Matcher |
 | Blue Eyes Crying in the Rain: Nelson's First No. 1 | https://musicofthe70s.net/blog/songs/blue-eyes-crying-in-the-rain/index.html | Songs | blue eyes crying in the rain | Live | 2026-09-10 | Random 70s Song Generator, Mood Song Matcher |
 | In the Navy Village People: The Song the Navy Almost Used | https://musicofthe70s.net/blog/songs/in-the-navy-village-people/index.html | Songs | in the navy village people | Live | 2026-09-09 | Random 70s Song Generator, Mood Song Matcher |
 | Time in a Bottle Jim Croce: The Number One He Never Heard | https://musicofthe70s.net/blog/songs/time-in-a-bottle-jim-croce/index.html | Songs | time in a bottle jim croce | Live | 2026-09-09 | Random 70s Song Generator, Mood Song Matcher |
