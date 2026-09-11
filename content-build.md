@@ -147,8 +147,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
 27. In the Navy — Village People — **LIVE 2026-09-09**
 28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
-29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **BUILT-LOCAL 2026-09-10, awaiting Charlie's review per Publish Gate**
-30. Take a Chance on Me — ABBA
+29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **LIVE 2026-09-10**
+30. Take a Chance on Me — ABBA — **BUILT-LOCAL 2026-09-11, awaiting Charlie's review per Publish Gate**
 31. You Should Be Dancing — Bee Gees
 32. New Kid in Town — Eagles the Band
 33. Last Dance — Donna Summer
@@ -164,7 +164,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#29, Flash Light (Parliament): BUILT-LOCAL 2026-09-10, previewed, awaiting Charlie's go-ahead before push. Next after approval and push: #30, Take a Chance on Me (ABBA).**
+**#30, Take a Chance on Me (ABBA): BUILT-LOCAL 2026-09-11, previewed, awaiting Charlie's go-ahead before push. Next after approval and push: #31, You Should Be Dancing (Bee Gees).**
 
 ---
 
@@ -173,7 +173,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 41 | Slots 1-28 of the artist-linked rotation queue LIVE, most recently Blue Eyes Crying in the Rain (Willie Nelson, 2026-09-10). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 42 | Slots 1-29 of the artist-linked rotation queue LIVE, most recently Flash Light (Parliament, 2026-09-10). Slot 30, Take a Chance on Me, BUILT-LOCAL 2026-09-11 awaiting review. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

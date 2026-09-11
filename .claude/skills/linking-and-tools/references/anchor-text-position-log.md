@@ -165,3 +165,11 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Flash Light Parliament | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "A Bass Line Sampled More Than the Song Itself" H2, closing-area sentence |
 | Flash Light Parliament | Songs | Music of the 70s | /index.html | Body, "A Chant Borrowed From a Bar Mitzvah" H2, mid-section, opening sentence right after the Bernie Worrell figure |
 | George Clinton (artist) | Artists | Flash Light Parliament (song) | /blog/songs/flash-light-parliament/index.html | Body, "1972: A Bassist Arrives From James Brown's Band" H3, on the existing "Flash Light" mention, forward link added the session the song post was built |
+| Take a Chance on Me | Songs | Take a Chance on Me (Listen Now) | /radio/index.html?play=1978-32-take-a-chance-on-me | Body, "Take a Chance on Me Topped the Charts" H2, mid-section, not adjacent to the video embed |
+| Take a Chance on Me | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Compare That Chart Run to the Rest of ABBA's Decade" H3, opening sentence |
+| Take a Chance on Me | Songs | Knowing Me, Knowing You (song) | /blog/songs/abba-knowing-me-knowing-you/index.html | Body, same H3, mid-section, song-to-song cross-link |
+| Take a Chance on Me | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Erasure Turned It Into a Hit All Over Again" H2, opening sentence |
+| Take a Chance on Me | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, same H2, closing-area sentence |
+| Take a Chance on Me | Songs | Music of the 70s | /index.html | Final closing sentence of the post, after the Related Posts block |
+| ABBA (artist) | Artists | Take a Chance on Me (song) | /blog/songs/take-a-chance-on-me/index.html | Body, "How ABBA Actually Performed on the US Charts" H2, on the existing "Take a Chance on Me" mention, forward link added the session the song post was built |
+| ABBA Knowing Me Knowing You | Songs | Take a Chance on Me (song) | /blog/songs/take-a-chance-on-me/index.html | Body, "Why the US Chart Never Caught Up" H3, on the existing "Take a Chance on Me" mention, forward link added the session the new song post was built |
