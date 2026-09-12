@@ -62,13 +62,13 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/archive/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/abba/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/artists/bee-gees/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -314,13 +314,13 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/abba-knowing-me-knowing-you/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -344,7 +344,7 @@
   </url>
   <url>
     <loc>https://musicofthe70s.net/blog/songs/archive/</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -579,6 +579,12 @@
   <url>
     <loc>https://musicofthe70s.net/blog/songs/you-are-the-sunshine-of-my-life/</loc>
     <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musicofthe70s.net/blog/songs/you-should-be-dancing/</loc>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
