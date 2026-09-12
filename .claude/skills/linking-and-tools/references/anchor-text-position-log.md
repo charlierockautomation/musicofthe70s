@@ -173,3 +173,11 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Take a Chance on Me | Songs | Music of the 70s | /index.html | Final closing sentence of the post, after the Related Posts block |
 | ABBA (artist) | Artists | Take a Chance on Me (song) | /blog/songs/take-a-chance-on-me/index.html | Body, "How ABBA Actually Performed on the US Charts" H2, on the existing "Take a Chance on Me" mention, forward link added the session the song post was built |
 | ABBA Knowing Me Knowing You | Songs | Take a Chance on Me (song) | /blog/songs/take-a-chance-on-me/index.html | Body, "Why the US Chart Never Caught Up" H3, on the existing "Take a Chance on Me" mention, forward link added the session the new song post was built |
+| You Should Be Dancing | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "Blue Weaver Pushed the Bee Gees Toward Disco" H2, opening sentence |
+| You Should Be Dancing | Songs | Jive Talkin (song) | /blog/songs/jive-talkin/index.html | Body, "The Neighbor Who Ended Up on the Track" H3, closing sentence, song-to-song cross-link |
+| You Should Be Dancing | Songs | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "You Should Be Dancing Topped Two Different Billboard Charts" H2, mid-section, song-to-song cross-link |
+| You Should Be Dancing | Songs | Music of the 70s | /index.html | Body, same H2, closing sentence |
+| You Should Be Dancing | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The First Number One on a Brand New Chart" H3, closing sentence, right after the data table |
+| You Should Be Dancing | Songs | You Should Be Dancing (Listen Now) | /radio/index.html?play=1976-31-you-should-be-dancing | Body, "How You Should Be Dancing Ended Up in Saturday Night Fever" H2, opening area, adjacent-before the video embed |
+| You Should Be Dancing | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Scene Travolta Refused to Let the Studio Cut Short" H3, mid-section |
+| Bee Gees (artist) | Artists | You Should Be Dancing (song) | /blog/songs/you-should-be-dancing/index.html | Body, "The Slump and Reinvention in Miami" H2, on the existing falsetto mention, forward link added the session the song post was built |

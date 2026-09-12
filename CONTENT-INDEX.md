@@ -64,7 +64,8 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| Take a Chance on Me: ABBA's Jogging-Born #1 Hit | https://musicofthe70s.net/blog/songs/take-a-chance-on-me/index.html | Songs | take a chance on me | Built-Local | pending | Random 70s Song Generator, Mood Song Matcher |
+| You Should Be Dancing: Where Barry Gibb's Falsetto Began | https://musicofthe70s.net/blog/songs/you-should-be-dancing/index.html | Songs | You Should Be Dancing | Built-Local | pending | Random 70s Song Generator, Mood Song Matcher |
+| Take a Chance on Me: ABBA's Jogging-Born #1 Hit | https://musicofthe70s.net/blog/songs/take-a-chance-on-me/index.html | Songs | take a chance on me | Live | 2026-09-11 | Random 70s Song Generator, Mood Song Matcher |
 | Flash Light Parliament: The Bass Line That Wasn't a Bass | https://musicofthe70s.net/blog/songs/flash-light-parliament/index.html | Songs | flash light parliament | Live | 2026-09-10 | Random 70s Song Generator, Mood Song Matcher |
 | Blue Eyes Crying in the Rain: Nelson's First No. 1 | https://musicofthe70s.net/blog/songs/blue-eyes-crying-in-the-rain/index.html | Songs | blue eyes crying in the rain | Live | 2026-09-10 | Random 70s Song Generator, Mood Song Matcher |
 | In the Navy Village People: The Song the Navy Almost Used | https://musicofthe70s.net/blog/songs/in-the-navy-village-people/index.html | Songs | in the navy village people | Live | 2026-09-09 | Random 70s Song Generator, Mood Song Matcher |
