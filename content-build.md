@@ -4,11 +4,11 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-10 (Blue Eyes Crying in the Rain, Willie Nelson, slot #28, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-12 (You Should Be Dancing, Bee Gees, slot #31, Charlie-approved, pushed to LIVE)
 
 ---
 
-## Current State (as of 2026-09-10)
+## Current State (as of 2026-09-12)
 
 - Blue Eyes Crying in the Rain (Songs, slot #28), focus keyword `blue eyes crying in the rain`
   (Charlie-specified, confirmed with "the" against the real title). `blog/songs/blue-eyes-crying-in-the-rain/index.html`.
@@ -28,7 +28,7 @@
 - Slot 22 (Marvin Gaye Let's Get It On) and slot 21 (Al Green Tired of Being Alone) confirmed LIVE.
   Full write-ups in SESSION-LOG-ARCHIVE.md.
 - Songs artist-linked rotation queue: slots 1-30 LIVE, most recently Take a Chance on Me (ABBA, 2026-09-11).
-  Slot 31, You Should Be Dancing (Bee Gees), built this session, pending Charlie's review and push.
+  Slot 31 (You Should Be Dancing, Bee Gees) LIVE 2026-09-12.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -149,7 +149,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
 29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **LIVE 2026-09-10**
 30. Take a Chance on Me — ABBA — **LIVE 2026-09-11**
-31. You Should Be Dancing — Bee Gees — **BUILT-LOCAL 2026-09-12, awaiting Charlie's review per Publish Gate**
+31. You Should Be Dancing — Bee Gees — **LIVE 2026-09-12**
 32. New Kid in Town — Eagles the Band
 33. Last Dance — Donna Summer
 34. Sir Duke — Stevie Wonder
@@ -164,7 +164,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#31, You Should Be Dancing (Bee Gees): BUILT-LOCAL 2026-09-12, previewed, awaiting Charlie's go-ahead before push. Next after approval and push: #32, New Kid in Town (Eagles the Band).**
+**#31, You Should Be Dancing (Bee Gees): LIVE 2026-09-12. Next: #32, New Kid in Town (Eagles the Band).**
 
 ---
 
@@ -173,7 +173,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 42 | Slots 1-30 of the artist-linked rotation queue LIVE, most recently Take a Chance on Me (ABBA, 2026-09-11). Slot 31, You Should Be Dancing, BUILT-LOCAL 2026-09-12 awaiting review. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 42 | Slots 1-31 of the artist-linked rotation queue LIVE, most recently You Should Be Dancing (Bee Gees, 2026-09-12). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (docs/file-rotation.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-09-10 (Blue Eyes Crying in the Rain, Willie Nelson, Songs slot #28, Charlie-approved, pushing to LIVE)
+# Last Updated: 2026-09-12 (You Should Be Dancing, Bee Gees, Songs slot #31, Charlie-approved, pushed to LIVE)
 
 ---
 
@@ -64,7 +64,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| You Should Be Dancing: Where Barry Gibb's Falsetto Began | https://musicofthe70s.net/blog/songs/you-should-be-dancing/index.html | Songs | You Should Be Dancing | Built-Local | pending | Random 70s Song Generator, Mood Song Matcher |
+| You Should Be Dancing: Where Barry Gibb's Falsetto Began | https://musicofthe70s.net/blog/songs/you-should-be-dancing/index.html | Songs | You Should Be Dancing | Live | 2026-09-12 | Random 70s Song Generator, Mood Song Matcher |
 | Take a Chance on Me: ABBA's Jogging-Born #1 Hit | https://musicofthe70s.net/blog/songs/take-a-chance-on-me/index.html | Songs | take a chance on me | Live | 2026-09-11 | Random 70s Song Generator, Mood Song Matcher |
 | Flash Light Parliament: The Bass Line That Wasn't a Bass | https://musicofthe70s.net/blog/songs/flash-light-parliament/index.html | Songs | flash light parliament | Live | 2026-09-10 | Random 70s Song Generator, Mood Song Matcher |
 | Blue Eyes Crying in the Rain: Nelson's First No. 1 | https://musicofthe70s.net/blog/songs/blue-eyes-crying-in-the-rain/index.html | Songs | blue eyes crying in the rain | Live | 2026-09-10 | Random 70s Song Generator, Mood Song Matcher |
@@ -170,7 +170,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 - Total live tool pages: 9
 - Total live blog hub/category pages: 11
-- Total published (reviewed and pushed) blog posts: 91 (Genres 12, Artists 24, Songs 41, Trivia 4, Years 10, as of 2026-09-10, includes In the Navy Village People and Blue Eyes Crying in the Rain now Live, both previously missing from this table's row list, backfilled this session)
+- Total published (reviewed and pushed) blog posts: 93 (Genres 12, Artists 24, Songs 43, Trivia 4, Years 10, as of 2026-09-12, includes Take a Chance on Me and You Should Be Dancing, Songs slots #30 and #31, both now Live)
 - Total placeholder/in-progress posts: 0
 - Placeholder card slots remaining on category pages: 0
 - Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 65 = 85 as of 2026-08-31, not yet re-verified against a fresh live sitemap crawl
