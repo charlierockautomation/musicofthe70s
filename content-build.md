@@ -4,31 +4,29 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-12 (You Should Be Dancing, Bee Gees, slot #31, Charlie-approved, pushed to LIVE)
+# Last Updated: 2026-09-13 (New Kid in Town, Eagles, slot #32, Charlie-approved, pushed to LIVE)
 
 ---
 
-## Current State (as of 2026-09-12)
+## Current State (as of 2026-09-13)
 
-- Blue Eyes Crying in the Rain (Songs, slot #28), focus keyword `blue eyes crying in the rain`
-  (Charlie-specified, confirmed with "the" against the real title). `blog/songs/blue-eyes-crying-in-the-rain/index.html`.
-  **Charlie-approved after local review, LIVE.** Sourced from
-  this site's own `country.json` (Oct 1975, 2 weeks at #1) and `artists_country.json`, cross-checked
-  against Wikipedia for pre-Nelson recording history and Grammy/Rolling Stone facts flagged as outside
-  chart history where used. Angle: distinct from the live Georgia on My Mind and Willie Nelson artist
-  posts, focuses on this single's own pre-Nelson recording history (Fred Rose, Elton Britt 1947, Roy
-  Acuff 1947, Hank Williams 1951, Gene Vincent 1958, Conway Twitty 1970) and its role as the first-domino
-  turning point in Nelson's career. `verify_post.py` clean: 1,511 words, 1.257% density, 84.5% under 20
-  words, FAQ PASS. Table + 2 lists + 1 new body image (sourced and optimized this session, Willie Nelson
-  Promotional Photo, Columbia Records 1974, public domain) satisfy the breakup rule. No `radio_id` exists
-  for this song (country-only, not in the Hot100-sourced radio pool), confirmed absent, no Listen Now
-  link. Willie Nelson artist backlink and Georgia on My Mind cross-link both added, reciprocal in both
-  directions same session. Category card regen run (script counts 41 files in blog/songs/, includes
-  non-rotation pages like the hub). Full write-up: SESSION-LOG-ARCHIVE.md.
-- Slot 22 (Marvin Gaye Let's Get It On) and slot 21 (Al Green Tired of Being Alone) confirmed LIVE.
-  Full write-ups in SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-30 LIVE, most recently Take a Chance on Me (ABBA, 2026-09-11).
-  Slot 31 (You Should Be Dancing, Bee Gees) LIVE 2026-09-12.
+- New Kid in Town (Songs, slot #32), focus keyword `new kid in town`, never used before.
+  `blog/songs/new-kid-in-town/index.html`. **Charlie-approved after local review, LIVE.**
+  Chart facts sourced from this site's own `hot100_weekly.json`, `year_end_hot100.json`, and
+  `hot_100_songs_1977.json`; writing/personnel/cover-version facts cross-checked against
+  Wikipedia, American Songwriter, and Songfacts. Per the JSON self-contradiction lesson, used
+  the weekly file's "1 week at #1" (Feb 26, 1977) over the year-end file's "two weeks" claim.
+  `verify_post.py` clean: 1,451 words, 1.861% density, 93.5% under 20 words, FAQ PASS. Table +
+  bulleted personnel list + 1 body image satisfy the breakup rule. Listen Now link
+  (`radio_id: 1977-59-new-kid-in-town`), Eagles the Band backlink, and a same-album cross-link
+  to the live Hotel California post all added. Mobile-checked at 375px/390px via Playwright, no
+  horizontal scroll.
+
+- Blue Eyes Crying in the Rain (Songs, slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green
+  Tired of Being Alone (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to
+  SESSION-LOG-ARCHIVE.md 2026-09-13.
+- Songs artist-linked rotation queue: slots 1-31 LIVE, most recently You Should Be Dancing (Bee Gees, 2026-09-12).
+  Slot 32 (New Kid in Town, Eagles the Band) LIVE 2026-09-13.
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -150,7 +148,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **LIVE 2026-09-10**
 30. Take a Chance on Me — ABBA — **LIVE 2026-09-11**
 31. You Should Be Dancing — Bee Gees — **LIVE 2026-09-12**
-32. New Kid in Town — Eagles the Band
+32. New Kid in Town — Eagles the Band — **LIVE 2026-09-13**
 33. Last Dance — Donna Summer
 34. Sir Duke — Stevie Wonder
 35. The Name of the Game — ABBA
@@ -164,7 +162,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#31, You Should Be Dancing (Bee Gees): LIVE 2026-09-12. Next: #32, New Kid in Town (Eagles the Band).**
+**#32, New Kid in Town (Eagles the Band): LIVE 2026-09-13. Next: #33, Last Dance (Donna Summer).**
 
 ---
 
@@ -173,7 +171,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 42 | Slots 1-31 of the artist-linked rotation queue LIVE, most recently You Should Be Dancing (Bee Gees, 2026-09-12). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 44 | Slots 1-32 of the artist-linked rotation queue LIVE, most recently New Kid in Town (Eagles, 2026-09-13). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

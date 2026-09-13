@@ -181,3 +181,9 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | You Should Be Dancing | Songs | You Should Be Dancing (Listen Now) | /radio/index.html?play=1976-31-you-should-be-dancing | Body, "How You Should Be Dancing Ended Up in Saturday Night Fever" H2, opening area, adjacent-before the video embed |
 | You Should Be Dancing | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Scene Travolta Refused to Let the Studio Cut Short" H3, mid-section |
 | Bee Gees (artist) | Artists | You Should Be Dancing (song) | /blog/songs/you-should-be-dancing/index.html | Body, "The Slump and Reinvention in Miami" H2, on the existing falsetto mention, forward link added the session the song post was built |
+| New Kid in Town | Songs | Music of the 70s | /index.html | Intro, second sentence, right after the hook line |
+| New Kid in Town | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, "Glenn Frey Took the Only Lead Vocal Credit on Hotel California" H2, mid-section |
+| New Kid in Town | Songs | New Kid in Town (Listen Now) | /radio/index.html?play=1977-59-new-kid-in-town | Body, "Glenn Frey Took the Only Lead Vocal Credit on Hotel California" H2, closing sentence, adjacent-before the video embed |
+| New Kid in Town | Songs | Hotel California (song) | /blog/songs/hotel-california/index.html | Body, "How It Compares to the Rest of the Album's Chart Run" H3, opening area, song-to-song cross-link |
+| New Kid in Town | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same H3, closing sentence |
+| New Kid in Town | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Nashville Gave New Kid in Town a Second Life in 1993" H2, closing sentence |
