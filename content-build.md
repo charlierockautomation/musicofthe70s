@@ -4,29 +4,29 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-13 (New Kid in Town, Eagles, slot #32, Charlie-approved, pushed to LIVE)
+# Last Updated: 2026-09-15 (Sir Duke, Stevie Wonder, slot #34, Charlie-approved, pushed to LIVE)
 
 ---
 
-## Current State (as of 2026-09-13)
+## Current State (as of 2026-09-15)
 
-- New Kid in Town (Songs, slot #32), focus keyword `new kid in town`, never used before.
-  `blog/songs/new-kid-in-town/index.html`. **Charlie-approved after local review, LIVE.**
-  Chart facts sourced from this site's own `hot100_weekly.json`, `year_end_hot100.json`, and
-  `hot_100_songs_1977.json`; writing/personnel/cover-version facts cross-checked against
-  Wikipedia, American Songwriter, and Songfacts. Per the JSON self-contradiction lesson, used
-  the weekly file's "1 week at #1" (Feb 26, 1977) over the year-end file's "two weeks" claim.
-  `verify_post.py` clean: 1,451 words, 1.861% density, 93.5% under 20 words, FAQ PASS. Table +
-  bulleted personnel list + 1 body image satisfy the breakup rule. Listen Now link
-  (`radio_id: 1977-59-new-kid-in-town`), Eagles the Band backlink, and a same-album cross-link
-  to the live Hotel California post all added. Mobile-checked at 375px/390px via Playwright, no
-  horizontal scroll.
+- Sir Duke (Songs, slot #34), focus keyword `sir duke stevie wonder`, never used before.
+  `blog/songs/sir-duke-stevie-wonder/index.html`. **Charlie-approved after local review, LIVE.**
+  Chart facts from this site's own `hot100_weekly.json` (3 weeks at #1, May 21-June 10, 1977) and
+  `year_end_hot100.json` (#18 for 1977); writing/personnel/Grammy facts cross-checked against
+  Wikipedia, Songfacts, and Far Out Magazine. `verify_post.py` clean: 1,394 words, 0.574% density,
+  81.2% under 20 words, FAQ PASS. Personnel + chart tables, bulleted namecheck list, and one extra
+  body image satisfy the breakup rule. Listen Now link (`radio_id: 1977-18-sir-duke`), Stevie Wonder
+  artist backlink, and cross-links to the live Superstition and You Are the Sunshine of My Life posts
+  all added. Forward link added to the Stevie Wonder artist page's "Sir Duke" bullet the same session.
+  Link/image check via curl against local server: all 200. No headless-browser mobile screenshot this
+  session (no browser tool available); CSS classes reused verbatim from already mobile-verified posts
+  (Last Dance, Superstition).
 
-- Blue Eyes Crying in the Rain (Songs, slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green
-  Tired of Being Alone (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to
-  SESSION-LOG-ARCHIVE.md 2026-09-13.
-- Songs artist-linked rotation queue: slots 1-31 LIVE, most recently You Should Be Dancing (Bee Gees, 2026-09-12).
-  Slot 32 (New Kid in Town, Eagles the Band) LIVE 2026-09-13.
+- New Kid in Town (slot #32), Last Dance (slot #33): both confirmed LIVE, Charlie-approved. Blue Eyes
+  Crying in the Rain (slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green Tired of Being
+  Alone (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-34 LIVE, most recently Sir Duke (Stevie Wonder, 2026-09-15).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -150,7 +150,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 31. You Should Be Dancing — Bee Gees — **LIVE 2026-09-12**
 32. New Kid in Town — Eagles the Band — **LIVE 2026-09-13**
 33. Last Dance — Donna Summer — **LIVE 2026-09-14**
-34. Sir Duke — Stevie Wonder
+34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
 35. The Name of the Game — ABBA
 36. Night Fever — Bee Gees
 37. Heartache Tonight — Eagles the Band
@@ -162,7 +162,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#33, Last Dance (Donna Summer): LIVE 2026-09-14. Next: #34, Sir Duke (Stevie Wonder).**
+**#34, Sir Duke (Stevie Wonder): LIVE 2026-09-15. Next: #35, The Name of the Game (ABBA).**
 
 ---
 

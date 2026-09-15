@@ -10,18 +10,6 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| One of These Nights | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of the "One of These Nights Was a Country Band Chasing an R&B Groove" H2 main text |
-| One of These Nights | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of the "The Disco Beat Henley Admitted To" H3 |
-| One of These Nights | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, second sentence of the "The Lineup That Made It Did Not Last" H2 |
-| One of These Nights | Songs | Hotel California (song) | /blog/songs/hotel-california/index.html | Body, "Joe Walsh and the Road to Hotel California" H3, song-to-song cross-link |
-| One of These Nights | Songs | One of These Nights (Listen Now) | /radio/index.html?play=1975-10-one-of-these-nights | Body, end of the "A Second Number One in the Same Year" H2, sentence directly before the video embed |
-| One of These Nights | Songs | Music of the 70s | /index.html | Body, final sentence of the "Joe Walsh and the Road to Hotel California" H3, last content section before FAQ |
-| Let's Stay Together | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Winos on the Studio Floor" H3, closing sentence |
-| Let's Stay Together | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "A Template for Everything After" H3, closing sentence |
-| Let's Stay Together | Songs | Let's Stay Together (Listen Now) | /radio/index.html?play=1972-11-lets-stay-together | Body, "Why 'Nine Weeks at Number One' Gets Misquoted" H3, the sentence right after the data table, not adjacent to the video embed |
-| Let's Stay Together | Songs | Music of the 70s | /index.html | Body, opening sentence of the "The Song's Second Life" H2 |
-| Let's Stay Together | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "From the Apollo to the Charts Again" H3, closing sentence, last content line before the video embed |
-| Al Green (artist) | Artists | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "Three Songs in One Chart" H3, closing sentence, forward link added the session the song post published |
 | Bee Gees (artist) | Artists | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "The Slump and Reinvention in Miami" H2, opening section |
 | ABBA (artist) | Artists | Waterloo (song) | /blog/songs/abba-waterloo/index.html | Body, "The Contest That Actually Launched ABBA" H2, mid-section |
 | Rick James | Artists | George Clinton | /blog/artists/george-clinton/index.html | Body, "Rick James's Real 1970s Chart Record" H2, mid-section sentence |
@@ -189,3 +177,11 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Last Dance | Songs | Bad Girls (song) | /blog/songs/bad-girls/index.html | Body, "The First of Five Grammys From Seventeen Nominations" H3, mid-section, song-to-song cross-link |
 | Last Dance | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H3, closing sentence |
 | Donna Summer (artist) | Artists | Last Dance (song) | /blog/songs/last-dance/index.html | Body, "An Oscar and a Grammy in the Same Year" H3, on the existing bathroom-story mention, forward link added the session the song post was built |
+| Sir Duke Stevie Wonder | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, "The Guitarist Who Later Had a Hit of His Own" H3, opening reference |
+| Sir Duke Stevie Wonder | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H3, mid-section sentence |
+| Sir Duke Stevie Wonder | Songs | Sir Duke (Listen Now) | /radio/index.html?play=1977-18-sir-duke | Body, "Where Sir Duke Stevie Wonder Landed on the Charts" H2, adjacent-before the video embed |
+| Sir Duke Stevie Wonder | Songs | Music of the 70s | /index.html | Body, "A Grammy Sweep Built Around One Tribute Song" H2, opening sentence |
+| Sir Duke Stevie Wonder | Songs | Superstition Stevie Wonder (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "Part of a Run, Not a One-Off" H3, song-to-song cross-link |
+| Sir Duke Stevie Wonder | Songs | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, same H3, song-to-song cross-link |
+| Sir Duke Stevie Wonder | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same H3, closing sentence |
+| Stevie Wonder (artist) | Artists | Sir Duke (song) | /blog/songs/sir-duke-stevie-wonder/index.html | Body, "The Classic Period Hits, Charted Year by Year" H2 list, on the existing "Sir Duke" bullet, forward link added the session the song post was built |

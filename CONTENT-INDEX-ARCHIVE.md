@@ -539,3 +539,15 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Killer Queen | Songs | Brian May and Queen (artist) | /blog/artists/brian-may-and-queen/index.html | Body, "Why Killer Queen Still Marks Queen's Turning Point" H2, mid-section sentence |
 | Killer Queen | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, same H2, song-to-song cross-link |
 | Killer Queen | Songs | Killer Queen (Listen Now) | /radio/index.html?play=1975-78-killer-queen | Body, same H2, closing section before FAQ, deliberately not adjacent to the video embed |
+| One of These Nights | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of the "One of These Nights Was a Country Band Chasing an R&B Groove" H2 main text |
+| One of These Nights | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of the "The Disco Beat Henley Admitted To" H3 |
+| One of These Nights | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, second sentence of the "The Lineup That Made It Did Not Last" H2 |
+| One of These Nights | Songs | Hotel California (song) | /blog/songs/hotel-california/index.html | Body, "Joe Walsh and the Road to Hotel California" H3, song-to-song cross-link |
+| One of These Nights | Songs | One of These Nights (Listen Now) | /radio/index.html?play=1975-10-one-of-these-nights | Body, end of the "A Second Number One in the Same Year" H2, sentence directly before the video embed |
+| One of These Nights | Songs | Music of the 70s | /index.html | Body, final sentence of the "Joe Walsh and the Road to Hotel California" H3, last content section before FAQ |
+| Let's Stay Together | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Winos on the Studio Floor" H3, closing sentence |
+| Let's Stay Together | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "A Template for Everything After" H3, closing sentence |
+| Let's Stay Together | Songs | Let's Stay Together (Listen Now) | /radio/index.html?play=1972-11-lets-stay-together | Body, "Why 'Nine Weeks at Number One' Gets Misquoted" H3, the sentence right after the data table, not adjacent to the video embed |
+| Let's Stay Together | Songs | Music of the 70s | /index.html | Body, opening sentence of the "The Song's Second Life" H2 |
+| Let's Stay Together | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "From the Apollo to the Charts Again" H3, closing sentence, last content line before the video embed |
+| Al Green (artist) | Artists | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "Three Songs in One Chart" H3, closing sentence, forward link added the session the song post published |
