@@ -520,3 +520,22 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Top Songs of 1977: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1977/index.html | Years | top songs of 1977 | Live | 2026-08-03 | Birthday #1 Song Finder, 70s Decade Wheel |
 | Top Songs of 1978: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1978/index.html | Years | top songs of 1978 | Live | 2026-08-05 | Birthday #1 Song Finder, 70s Decade Wheel |
 | Top Songs of 1979: The Year's Biggest Hits & Trends | https://musicofthe70s.net/blog/years/top-songs-of-1979/index.html | Years | top songs of 1979 | Live | 2026-08-06 | Birthday #1 Song Finder, 70s Decade Wheel |
+
+## Older Genres/Artists rows (pruned from CONTENT-INDEX.md 2026-09-14, still Live)
+
+| Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
+|---|---|---|---|---|---|---|
+| 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/index.html | Genres | 70s rock | Live | 2026-07-25 | Random Artist Picker, Random 70s Song Generator |
+| Bee Gees: The Story of Pop's Most Successful Sibling Act | https://musicofthe70s.net/blog/artists/bee-gees/index.html | Artists | Bee Gees | Live | 2026-07-26 | Random Artist Picker |
+| 70s Soul Music: The Artists Who Redefined a Genre | https://musicofthe70s.net/blog/genres/70s-soul-music/index.html | Genres | 70s soul music | Live | 2026-07-29 | Random Artist Picker, Random 70s Song Generator |
+
+## Anchor Text & Position Log rows (pruned from the linking-and-tools skill 2026-09-14, oldest first)
+
+| Post | Category | Anchor Text | Target | Position |
+|---|---|---|---|---|
+| Killer Queen | Songs | Music of the 70s | /index.html | Body, end of the "Killer Queen Was a Deliberate Bet on a Pop Hit" H2 main paragraph, before the H3 quote subhead |
+| Killer Queen | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Four Real Production Choices That Built the Sound" H3, mid-paragraph after the bullet list |
+| Killer Queen | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Database Shows '78,' Not '12'" H3, mid-section question lead-in |
+| Killer Queen | Songs | Brian May and Queen (artist) | /blog/artists/brian-may-and-queen/index.html | Body, "Why Killer Queen Still Marks Queen's Turning Point" H2, mid-section sentence |
+| Killer Queen | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, same H2, song-to-song cross-link |
+| Killer Queen | Songs | Killer Queen (Listen Now) | /radio/index.html?play=1975-78-killer-queen | Body, same H2, closing section before FAQ, deliberately not adjacent to the video embed |

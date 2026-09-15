@@ -10,12 +10,6 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Killer Queen | Songs | Music of the 70s | /index.html | Body, end of the "Killer Queen Was a Deliberate Bet on a Pop Hit" H2 main paragraph, before the H3 quote subhead |
-| Killer Queen | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Four Real Production Choices That Built the Sound" H3, mid-paragraph after the bullet list |
-| Killer Queen | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Database Shows '78,' Not '12'" H3, mid-section question lead-in |
-| Killer Queen | Songs | Brian May and Queen (artist) | /blog/artists/brian-may-and-queen/index.html | Body, "Why Killer Queen Still Marks Queen's Turning Point" H2, mid-section sentence |
-| Killer Queen | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, same H2, song-to-song cross-link |
-| Killer Queen | Songs | Killer Queen (Listen Now) | /radio/index.html?play=1975-78-killer-queen | Body, same H2, closing section before FAQ, deliberately not adjacent to the video embed |
 | One of These Nights | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of the "One of These Nights Was a Country Band Chasing an R&B Groove" H2 main text |
 | One of These Nights | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of the "The Disco Beat Henley Admitted To" H3 |
 | One of These Nights | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, second sentence of the "The Lineup That Made It Did Not Last" H2 |
@@ -187,3 +181,11 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | New Kid in Town | Songs | Hotel California (song) | /blog/songs/hotel-california/index.html | Body, "How It Compares to the Rest of the Album's Chart Run" H3, opening area, song-to-song cross-link |
 | New Kid in Town | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same H3, closing sentence |
 | New Kid in Town | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Nashville Gave New Kid in Town a Second Life in 1993" H2, closing sentence |
+| Last Dance | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, "Paul Jabara Wouldn't Let Her Say No" H3, closing sentence |
+| Last Dance | Songs | Donna Summer Hot Stuff (song) | /blog/songs/donna-summer-hot-stuff/index.html | Body, "Even Leonard Maltin Couldn't Take the Film Seriously" H3, closing sentence, song-to-song cross-link |
+| Last Dance | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Where Last Dance Actually Landed on the Charts" H2, opening sentence |
+| Last Dance | Songs | Last Dance (Listen Now) | /radio/index.html?play=1978-34-last-dance | Body, adjacent-after the video embed |
+| Last Dance | Songs | Music of the 70s | /index.html | Body, "Three Different Trophies From Three Different Rooms" H3, mid-section sentence |
+| Last Dance | Songs | Bad Girls (song) | /blog/songs/bad-girls/index.html | Body, "The First of Five Grammys From Seventeen Nominations" H3, mid-section, song-to-song cross-link |
+| Last Dance | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H3, closing sentence |
+| Donna Summer (artist) | Artists | Last Dance (song) | /blog/songs/last-dance/index.html | Body, "An Oscar and a Grammy in the Same Year" H3, on the existing bathroom-story mention, forward link added the session the song post was built |
