@@ -65,6 +65,16 @@ def collect_urls():
             "priority": priority,
         })
 
+    # Radio hub: /radio/index.html -> /radio/
+    radio_index = REPO_ROOT / "radio" / "index.html"
+    if radio_index.exists():
+        urls.append({
+            "loc": f"{SITE}/radio/",
+            "lastmod": git_lastmod(radio_index),
+            "changefreq": "monthly",
+            "priority": "0.8",
+        })
+
     # Blog hub: /blog/index.html -> /blog/ (Cloudflare Pages strips
     # index.html and keeps the trailing slash for directory-index files)
     blog_dir = REPO_ROOT / "blog"
