@@ -1,91 +1,23 @@
 /* ============================================================
-   Music of the 70s — Listen Now (radio + jukebox)
-   Player engine ported directly from 1960smusic.net's Radio Dial
-   (tools/radio/radio-player.js), which already works in production:
-   a hidden, audio-only YouTube IFrame Player singleton, real
-   onError/onReadyTimeout handling and auto-advance on ENDED.
+   Music of the 70s: Listen Now (radio + jukebox)
+
+   Uses js/radio-player.js: ONE visible YouTube player (the radio's
+   "screen") shared by the Stations panel and every Jukebox tile.
+   - Playback starts only from a click or tap.
+   - After that, continuous auto-advance runs only while more than half
+     of the player is on screen and the tab is visible. Otherwise it holds
+     until the player is back in view or the listener presses Continue
+     (YouTube Required Minimum Functionality).
+   - Songs whose stored YouTube status says made-for-kids are dropped from
+     the radio and Jukebox; non-embeddable ones are shown as unavailable.
+   Rules: .claude/skills/youtube-compliance/SKILL.md
    ============================================================ */
-
-/* ---------- RadioPlayer: hidden audio-only YouTube IFrame Player singleton ---------- */
-var RadioPlayer = (function () {
-  var player = null;
-  var apiReady = false;
-  var pendingInit = null;
-  var readyTimer = null;
-  var hooks = {};
-
-  window.onYouTubeIframeAPIReady = function () {
-    apiReady = true;
-    if (pendingInit) { var fn = pendingInit; pendingInit = null; fn(); }
-  };
-
-  function clearReadyTimer() {
-    if (readyTimer) { clearTimeout(readyTimer); readyTimer = null; }
-  }
-
-  function create(elementId, firstVideoId) {
-    player = new YT.Player(elementId, {
-      height: '1', width: '1',
-      videoId: firstVideoId,
-      playerVars: { autoplay: 1, controls: 0, disablekb: 1, fs: 0, modestbranding: 1, playsinline: 1 },
-      events: {
-        onReady: function (e) {
-          clearReadyTimer();
-          // playerVars.autoplay alone doesn't reliably start playback on a
-          // freshly-constructed player (browser autoplay quirk) -- only an
-          // explicit JS call does. loadVideoById() (used on every call after
-          // the first) already plays for this reason; force the same
-          // explicit call here so the very first Play click behaves
-          // identically instead of silently "tuning" forever.
-          if (e.target && e.target.playVideo) e.target.playVideo();
-          if (hooks.onReady) hooks.onReady(e);
-        },
-        onStateChange: function (e) { if (hooks.onStateChange) hooks.onStateChange(e); },
-        onError: function (e) { if (hooks.onError) hooks.onError(e); }
-      }
-    });
-  }
-
-  return {
-    init: function (elementId, firstVideoId, opts) {
-      hooks = opts || {};
-      clearReadyTimer();
-      readyTimer = setTimeout(function () {
-        if (hooks.onReadyTimeout) hooks.onReadyTimeout();
-      }, opts.readyTimeoutMs || 9000);
-      var start = function () { create(elementId, firstVideoId); };
-      if (apiReady && window.YT && window.YT.Player) start();
-      else pendingInit = start;
-    },
-    setHooks: function (opts) {
-      hooks = opts || {};
-    },
-    loadVideo: function (id) {
-      if (player && player.loadVideoById) player.loadVideoById(id);
-    },
-    stop: function () {
-      if (player && player.stopVideo) player.stopVideo();
-    },
-    destroy: function () {
-      clearReadyTimer();
-      pendingInit = null;
-      if (player && player.destroy) { try { player.destroy(); } catch (e) {} }
-      player = null;
-    },
-    isActive: function () { return !!player; },
-    getState: function () { return (player && player.getPlayerState) ? player.getPlayerState() : null; },
-    seekNearEnd: function () {
-      if (player && player.getDuration && player.seekTo) {
-        var d = player.getDuration();
-        if (d) player.seekTo(Math.max(0, d - 1.5), true);
-      }
-    }
-  };
-})();
 
 /* ---------- App ---------- */
 (function () {
   var RADIO_DATA_PATH = '/data/radio/radio-songs.json';
+  var STATUS_DATA_PATH = '/data/youtube-status.json';
+  var IDLE_NOTE = 'Pick a station and press Play, or choose any song in the Jukebox Grid.';
   var PAGE_SIZE = 48;
   // Video error codes worth auto-skipping past (matches 1960smusic.net):
   // 2=invalid param, 5=HTML5 error, 100=not found/removed, 101/150=embed
@@ -106,6 +38,9 @@ var RadioPlayer = (function () {
   var loadingEl = document.getElementById('loading');
   var errorEl = document.getElementById('error');
   var toolEl = document.getElementById('radioTool');
+  var screenEl = document.getElementById('ytPlayerHost');
+  var screenNote = document.getElementById('screenNote');
+  var continueBtn = document.getElementById('radioContinueBtn');
 
   var viewStationsBtn = document.getElementById('viewStationsBtn');
   var viewGridBtn = document.getElementById('viewGridBtn');
@@ -130,7 +65,56 @@ var RadioPlayer = (function () {
   var jukeboxResultCount = document.getElementById('jukeboxResultCount');
 
   var allSongs = [];
+  var statusById = {};        // videoId -> {embeddable, madeForKids, checked_at, ...}
+  var heldNext = false;       // auto-advance is waiting for the player to be on screen
   var gridPage = 1;
+
+  /* ---------- YouTube status (data/youtube-status.json) ---------- */
+  function isKids(s) {
+    var st = s.youtube_id && statusById[s.youtube_id];
+    return !!(st && st.madeForKids === true);
+  }
+  function isPlayable(s) {
+    if (!s.youtube_id) return false;
+    var st = statusById[s.youtube_id];
+    return !(st && (st.embeddable === false || st.madeForKids === true));
+  }
+  async function loadStatus() {
+    try {
+      var data = await loadJSON(STATUS_DATA_PATH);
+      statusById = (data && data.videos) || {};
+    } catch (e) { statusById = {}; }
+  }
+
+  /* ---------- Screen note (sits under the player, never over it) ---------- */
+  function setScreenNote(text) { if (screenNote) screenNote.textContent = text; }
+  function renderScreenNote() {
+    if (!currentSong || !source) { setScreenNote(IDLE_NOTE); return; }
+    setScreenNote('Now playing: ' + (currentSong.title || 'Unknown Title') + ' by ' +
+      (currentSong.artist || 'Unknown Artist') + (currentSong.year ? ' (' + currentSong.year + ')' : ''));
+  }
+
+  /* ---------- Hold auto-advance while the player is off screen ---------- */
+  function holdNext() {
+    heldNext = true;
+    continueBtn.classList.remove('hidden');
+    setScreenNote('Next song is ready. It starts when this player is back on screen, or press Continue.');
+    if (stStatus) stStatus.textContent = 'Paused between songs';
+  }
+  function clearHold() {
+    heldNext = false;
+    continueBtn.classList.add('hidden');
+  }
+  /* auto=true: the player moves on by itself (song ended, error skip). */
+  function advance(auto) {
+    if (auto && !ScreenWatch.visible()) { holdNext(); return; }
+    clearHold();
+    nextTrack();
+  }
+  ScreenWatch.onChange(function () {
+    if (heldNext && source && ScreenWatch.visible()) { clearHold(); nextTrack(); }
+  });
+  continueBtn.addEventListener('click', function () { clearHold(); nextTrack(); });
 
   // Playback state -- one shared RadioPlayer instance site-wide, so exactly
   // one thing plays at a time. `source` says whether the Stations panel or
@@ -168,13 +152,14 @@ var RadioPlayer = (function () {
       }
       var candidate = queue[queueIdx++];
       attempts += 1;
-      if (candidate && candidate.youtube_id) { song = candidate; break; }
+      if (candidate && isPlayable(candidate)) { song = candidate; break; }
     }
     if (!song) { stopPlayback(); return; }
     currentSong = song;
     if (source === 'station') activeGenre = song.genre;
     else activeRadioId = song.radio_id;
     renderNowPlaying(true);
+    renderScreenNote();
     updateStationUI();
     updateGridActiveState();
     RadioPlayer.loadVideo(song.youtube_id);
@@ -183,6 +168,7 @@ var RadioPlayer = (function () {
   function startPlayback(songs, shuffleIt, startIndex, src) {
     loadToken += 1;
     var token = loadToken;
+    clearHold();
     source = src;
     consecutiveFails = 0;
     buildQueue(songs, shuffleIt);
@@ -192,8 +178,14 @@ var RadioPlayer = (function () {
     if (src === 'station') { activeGenre = song.genre; activeRadioId = null; }
     else { activeRadioId = song.radio_id; activeGenre = null; }
     renderNowPlaying(true);
+    renderScreenNote();
     updateStationUI();
     updateGridActiveState();
+    // A tile far down the grid can be clicked while the player is off screen:
+    // scroll the player into view so the listener sees what is playing.
+    if (!ScreenWatch.visible() && screenEl.scrollIntoView) {
+      screenEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
 
     var opts = {
       readyTimeoutMs: 9000,
@@ -219,6 +211,7 @@ var RadioPlayer = (function () {
 
   function stopPlayback() {
     loadToken += 1;
+    clearHold();
     RadioPlayer.stop();
     source = null;
     activeGenre = null;
@@ -228,19 +221,68 @@ var RadioPlayer = (function () {
     queueIdx = 0;
     consecutiveFails = 0;
     renderNowPlaying(false);
+    renderScreenNote();
     updateStationUI();
     updateGridActiveState();
   }
 
-  function onPlayerReady() { /* first track autoplays via playerVars.autoplay */ }
+  /* ---------- Volume (own controls next to the player, never over it) ---------- */
+  var VOL_KEY = 'radioVolume';
+  var volSlider = document.getElementById('volSlider');
+  var volMuteBtn = document.getElementById('volMuteBtn');
+  var volIcon = document.getElementById('volIcon');
+  var volValue = document.getElementById('volValue');
+
+  function saveVolume() {
+    try {
+      localStorage.setItem(VOL_KEY, JSON.stringify({ v: RadioPlayer.getVolume(), m: RadioPlayer.isMuted() }));
+    } catch (err) { /* storage blocked: the setting just isn't remembered */ }
+  }
+
+  function renderVolume() {
+    if (!volSlider) return;
+    var m = RadioPlayer.isMuted(), v = RadioPlayer.getVolume();
+    var shown = m ? 0 : v;
+    volSlider.value = shown;
+    volValue.textContent = shown + '%';
+    volIcon.textContent = shown === 0 ? '🔇' : (shown < 50 ? '🔉' : '🔊');
+    volMuteBtn.setAttribute('aria-label', m || v === 0 ? 'Unmute' : 'Mute');
+    volMuteBtn.setAttribute('aria-pressed', m || v === 0 ? 'true' : 'false');
+  }
+
+  function initVolume() {
+    if (!volSlider) return;
+    try {
+      var saved = JSON.parse(localStorage.getItem(VOL_KEY) || 'null');
+      if (saved && typeof saved.v === 'number') { RadioPlayer.setVolume(saved.v); RadioPlayer.setMuted(!!saved.m); }
+    } catch (err) { /* ignore unreadable saved value */ }
+    volSlider.addEventListener('input', function () {
+      RadioPlayer.setVolume(Number(volSlider.value));
+      renderVolume(); saveVolume();
+    });
+    volMuteBtn.addEventListener('click', function () {
+      if (RadioPlayer.isMuted() || RadioPlayer.getVolume() === 0) {
+        if (RadioPlayer.getVolume() === 0) RadioPlayer.setVolume(60);
+        RadioPlayer.setMuted(false);
+      } else {
+        RadioPlayer.setMuted(true);
+      }
+      renderVolume(); saveVolume();
+    });
+    renderVolume();
+  }
+
+  function onPlayerReady() { /* the Play click that created the player starts the first track */ }
 
   function onPlayerStateChange(e) {
+    // Keep our slider in step if the listener used YouTube's own volume control.
+    if (RadioPlayer.syncFromPlayer()) { renderVolume(); saveVolume(); }
     if (e.data === YT.PlayerState.PLAYING) {
       consecutiveFails = 0;
       if (stStatus) stStatus.textContent = 'Playing';
       updateGridActiveState();
     } else if (e.data === YT.PlayerState.ENDED) {
-      nextTrack();
+      advance(true);
     }
   }
 
@@ -252,7 +294,7 @@ var RadioPlayer = (function () {
       stopPlayback();
       return;
     }
-    nextTrack();
+    advance(true);
   }
 
   function onReadyTimeout() {
@@ -281,7 +323,7 @@ var RadioPlayer = (function () {
 
   function updateStationCount() {
     var genre = stationSelect.value;
-    var count = allSongs.filter(function (s) { return s.genre === genre && s.youtube_id; }).length;
+    var count = allSongs.filter(function (s) { return s.genre === genre && isPlayable(s); }).length;
     var totalInGenre = allSongs.filter(function (s) { return s.genre === genre; }).length;
     stationCountEl.textContent = count + ' of ' + totalInGenre + ' songs in this station have a verified video';
   }
@@ -289,14 +331,14 @@ var RadioPlayer = (function () {
 
   stationPlayBtn.addEventListener('click', function () {
     var genre = stationSelect.value;
-    var pool = allSongs.filter(function (s) { return s.genre === genre && s.youtube_id; });
+    var pool = allSongs.filter(function (s) { return s.genre === genre && isPlayable(s); });
     if (!pool.length) {
-      stationCountEl.textContent = 'No playable songs yet for "' + genreLabel(genre) + '" — enrichment still in progress.';
+      stationCountEl.textContent = 'No playable songs yet for "' + genreLabel(genre) + '" — video check still in progress.';
       return;
     }
     startPlayback(pool, true, 0, 'station');
   });
-  stationSkipBtn.addEventListener('click', function () { if (source === 'station') nextTrack(); });
+  stationSkipBtn.addEventListener('click', function () { if (source === 'station') advance(false); });
   stationStopBtn.addEventListener('click', stopPlayback);
 
   /* ---------- Stations dropdown population ---------- */
@@ -356,7 +398,7 @@ var RadioPlayer = (function () {
     jukeboxResultCount.textContent = filtered.length + ' song' + (filtered.length === 1 ? '' : 's') + ' found';
 
     jukeboxGrid.innerHTML = pageSongs.map(function (s) {
-      var playable = !!s.youtube_id;
+      var playable = isPlayable(s);
       return '' +
         '<div class="jukebox-tile" data-radio-id="' + escapeHTML(s.radio_id) + '">' +
         '  <div class="jt-top-row">' +
@@ -372,7 +414,7 @@ var RadioPlayer = (function () {
             '    <button class="jt-skip np-btn" aria-label="Skip" disabled>⏭</button>' +
             '    <button class="jt-stop np-btn" aria-label="Stop" disabled>⏹</button>' +
             '  </div>'
-          : '  <p class="jt-pending">Video pending</p>') +
+          : '  <p class="jt-pending">' + (s.youtube_id ? 'Video unavailable' : 'Video pending') + '</p>') +
         '</div>';
     }).join('');
 
@@ -385,14 +427,14 @@ var RadioPlayer = (function () {
         playBtn.addEventListener('click', function () {
           var idx = lastFiltered.findIndex(function (s) { return s.radio_id === radioId; });
           if (idx === -1) return;
-          var pool = lastFiltered.filter(function (s) { return s.youtube_id; });
+          var pool = lastFiltered.filter(isPlayable);
           var startSong = lastFiltered[idx];
-          if (!startSong.youtube_id) return;
+          if (!isPlayable(startSong)) return;
           var poolIdx = pool.findIndex(function (s) { return s.radio_id === radioId; });
           startPlayback(pool, false, poolIdx, 'grid');
         });
       }
-      if (skipBtn) skipBtn.addEventListener('click', function () { if (source === 'grid') nextTrack(); });
+      if (skipBtn) skipBtn.addEventListener('click', function () { if (source === 'grid') advance(false); });
       if (stopBtn) stopBtn.addEventListener('click', stopPlayback);
     });
 
@@ -439,6 +481,7 @@ var RadioPlayer = (function () {
   /* ---------- View toggle ---------- */
   function setView(view) {
     var isStations = view === 'stations';
+    toolEl.classList.toggle('grid-mode', !isStations);
     stationsView.classList.toggle('hidden', !isStations);
     gridView.classList.toggle('hidden', isStations);
     viewStationsBtn.classList.toggle('active', isStations);
@@ -474,10 +517,18 @@ var RadioPlayer = (function () {
     setTimeout(function () { tile.classList.remove('deep-link-target'); }, 3200);
   }
 
+  /* Sticky screen (desktop Jukebox view) sits just below the sticky site header. */
+  function setHeaderHeightVar() {
+    var header = document.querySelector('.site-header');
+    if (header) document.documentElement.style.setProperty('--header-h', header.offsetHeight + 'px');
+  }
+
   /* ---------- Init ---------- */
   (async function init() {
     try {
       allSongs = await loadJSON(RADIO_DATA_PATH);
+      await loadStatus();
+      allSongs = allSongs.filter(function (s) { return !isKids(s); });
       if (!Array.isArray(allSongs) || !allSongs.length) {
         throw new Error('Radio catalog is empty.');
       }
@@ -487,12 +538,16 @@ var RadioPlayer = (function () {
       updateStationUI();
       loadingEl.classList.add('hidden');
       toolEl.classList.remove('hidden');
+      ScreenWatch.init(screenEl);
+      initVolume();
+      setHeaderHeightVar();
+      window.addEventListener('resize', setHeaderHeightVar);
       applyDeepLink();
+      renderScreenNote();
 
-      // Load the IFrame API script once the rest of the page is ready.
-      var tag = document.createElement('script');
-      tag.src = 'https://www.youtube.com/iframe_api';
-      document.head.appendChild(tag);
+      // Load YouTube's IFrame API script once the rest of the page is ready.
+      // This loads the script only; no player exists until a Play click.
+      RadioPlayer.loadApi();
     } catch (err) {
       console.error('Radio failed to load:', err);
       loadingEl.classList.add('hidden');
@@ -509,7 +564,8 @@ var RadioPlayer = (function () {
       return {
         source: source, activeGenre: activeGenre, activeRadioId: activeRadioId,
         currentSong: currentSong, queueLen: queue.length, queueIdx: queueIdx,
-        consecutiveFails: consecutiveFails, playerState: RadioPlayer.getState()
+        consecutiveFails: consecutiveFails, playerState: RadioPlayer.getState(),
+        held: heldNext, screenVisible: ScreenWatch.visible()
       };
     },
     forceEnded: function () { onPlayerStateChange({ data: YT.PlayerState.ENDED }); },

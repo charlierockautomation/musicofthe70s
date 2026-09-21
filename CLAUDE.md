@@ -1,9 +1,9 @@
 # MusicOfThe70s.net — Master Site Brain
-# Read this file at the start of EVERY session. This is the current rule only —
-# full detail, history, and the "why" behind every rule live in /docs/. The paths
-# below are plain text on purpose (no leading @) so nothing in /docs/ auto-loads
-# into context. Open a doc with the Read tool only when the task actually needs it.
-# Last Updated: 2026-09-02
+# Read this file at the start of EVERY session. This is universal, always-needed
+# content only. Task-specific reference material (SEO rules, post template, prose
+# rules, design system, linking rules, publishing workflow, data sources, session
+# history) lives in .claude/skills/ and loads automatically when a task matches.
+# Last Updated: 2026-09-20
 
 ---
 
@@ -20,81 +20,70 @@ are the separate, lower-stakes "commits only on explicit ask" case.
 Never invent a fact, date, chart position, or quote. Unconfirmed = omit or flag as
 needing verification, never guess.
 
+## YouTube Compliance — ABSOLUTE (full detail: youtube-compliance skill)
+- Every YouTube embed is visible, unobscured, at least 200x200 (aim 480x270), never a
+  hidden or background audio player. Nothing may overlay it.
+- Playback starts only from a user action. Auto-advance only while the player is on screen.
+- Every YouTube ID has embeddable + madeForKids status on record no more than 30 days old:
+  `python3 scripts/youtube_status.py --report` must pass before any push.
+- Before AdSense is applied for: every player page has substantial non-YouTube content, no ad
+  sits on or overlaps a player (check anchor/vignette auto-ad formats), and the Privacy Policy
+  is first updated to disclose third-party ads and cookies.
+- API key: env var only, from the site's own Google Cloud project. Never print, write or commit it.
+
 ## Site Type
 Static site, Cloudflare Pages, deployed via GitHub push. NOT WordPress — no REST
 API, no database, no SEO plugin. All SEO is hand-built into the HTML.
 
 ## Repo & Deploy
 - Local repo: ~/musicofthe70s.net | GA tag `G-ZY77Y8DHV1` in every `<head>`
+- Deploy: git push → GitHub (charlierockautomation) → Cloudflare Pages auto-deploys (~60s)
 - Preview before every push: `cd ~/musicofthe70s.net && python3 -m http.server 8000 &`
-- Full credentials, GitHub/Cloudflare detail: docs/repo-deploy.md
-
-## Design System & URL Structure
-Do not deviate from fonts/colors/CSS classes without approval. Category folders are
-singular content types — don't keyword-stuff slugs.
-Full tokens, classes, spacing, URL map: docs/design-system.md
-
-## Keyword Rule — NON-NEGOTIABLE
-Focus keyword = real search phrasing (verified against volume data, not guessed).
-Slug matches keyword word order exactly. Density 0.5–2% (uses ÷ words × 100), must
-appear in title/meta/first-100-words/≥1 H2/slug, never stuffed.
-Full 5-point rule + the SEO Scoring Target checklist: docs/seo-rules.md
-
-## Blog Post Template
-Fixed order, no exceptions: **H1 → intro → featured image → rest.** Never an image
-between H1 and intro. FAQ (4–5 Q&As), real video embed, ≥1 internal tool link,
-1,200+ words minimum. Internal link anchors = brand or focus keyword only, never
-generic; anchor + position must rotate, never same spot as recent same-category posts.
-Full 15-step template + internal tool linking map + anchor rotation rule: docs/post-template.md
-
-## Prose & Image Rules
-No em dashes. One sentence per `<p>`. 75%+ sentences under 20 words. No AI-cliché
-words. Long H2 sections get real H3 subheads. Images under 200KB, WebP, responsive
-srcset, verified real rendering (not just CSS).
-Full protocol + image optimization/sourcing detail: docs/prose-image-rules.md
-
-## Data Sources
-Validated Billboard JSON lives in `~/musicofthe70s.net/data/billboard/` — ground
-truth, never contradict it. Never invent a fact not in source material.
-Full file list + NotebookLM research process: docs/data-sources.md
-
-## Publishing Workflow
-1. Write per template 2. Run `scripts/verify_post.py <path> "<keyword>"`
-3. Preview locally 4. Full SEO checklist 5. Mobile check (375px/390px) 6. Report,
-get approval 7. Commit + push 8. Verify live (~60s wait, hard refresh)
-Full workflow, Blog Hub rotation mechanics, tool-to-blog linking tiers: docs/publishing-workflow.md
-
-## Master Content Plan
-Years series (1970–1979) is COMPLETE, no further posts planned. Artists batch (4)
-and Songs batch (4) are both complete and Live. Genres is thin — next queued item
-is a 70s Soft Rock post, pending keyword-volume re-verification.
-Full status, standing batch rules, Years series table: docs/content-plan.md
+- Full credentials, GitHub/Cloudflare detail: repo-deploy skill
 
 ## File Size Rule — keeps session token burn down
 Every file a session loads at start (this file, content-build.md, CONTENT-INDEX.md,
-keyword-research-log.md, plus any docs/ spoke actually opened) stays at or under
-195 lines. Never let one cross 195. When one nears it, prune the oldest completed
-entries out to that file's archive (SESSION-LOG-ARCHIVE.md, CONTENT-INDEX-ARCHIVE.md,
+keyword-research-log.md) stays at or under 195 lines. Never let one cross 195. At
+session start run `wc -l CLAUDE.md content-build.md CONTENT-INDEX.md keyword-research-log.md`
+and prune anything over. When one nears it, prune the oldest completed entries out to
+that file's archive (SESSION-LOG-ARCHIVE.md, CONTENT-INDEX-ARCHIVE.md,
 keyword-research-archive.md) so the living file stays lean. Archives are grep-only,
 never read whole, and are exempt from the line cap.
-Full mechanic + current line counts: docs/file-rotation.md
+Full mechanic: file-rotation skill. Tracker ownership, session handoff, and the
+resume-prompt template: session-protocol skill.
 
-## Session Protocol
-1. Start: read this file, then content-build.md + CONTENT-INDEX.md. Run
-   `wc -l CLAUDE.md content-build.md CONTENT-INDEX.md keyword-research-log.md` —
-   anything over 195, prune it per the File Size Rule before doing anything else.
-2. New batch: get explicit approval before writing (unless keywords already specified)
-3. End of session: update content-build.md and CONTENT-INDEX.md directly — never
-   wait for Charlie to paste in edits
-4. End of session: state the next Rotation Queue item, then wait for Charlie's
-   confirmation before starting it — don't build ahead
-5. Full session history and the "why" behind every rule above: docs/session-log.md
-   — check it before assuming a past fix wasn't already made
-6. Full resume-prompt template + new-batch checklist: docs/session-protocol.md
+## Auto-Go Rule
+Defined in content-build.md: if a focus keyword has never been used as another live
+post's focus keyword on this site, AND the angle is confirmed structurally distinct
+from every existing post touching the same subject, that post is a go, no separate
+approval checkpoint needed before building. This does not remove the content-gap
+check or the PUBLISH GATE above, it only removes the extra "confirm before starting"
+step once both conditions are independently verified true.
 
----
-Reference docs (loaded only when the task needs them):
-docs/repo-deploy.md · docs/design-system.md · docs/seo-rules.md ·
-docs/post-template.md · docs/prose-image-rules.md · docs/data-sources.md ·
-docs/publishing-workflow.md · docs/content-plan.md · docs/session-log.md ·
-docs/session-protocol.md · docs/linking-and-tools.md · docs/file-rotation.md
+## Session Discipline
+
+1. ONE TASK PER SESSION. Build or edit one piece of content per session.
+   When done, report what was built and STOP — do not propose, queue, or
+   hold open "what's next" as an ongoing thread. Charlie starts a new
+   session (or runs /clear) himself when ready for the next task.
+
+2. DO NOT ask Charlie to pick the next item when content-build.md or
+   CONTENT-INDEX.md already states a clear next-in-line item or rotation
+   order. Follow it automatically. Only ask when there's a genuine
+   ambiguity requiring Charlie's judgment (conflicting keyword data, a
+   content-gap question the Auto-Go Rule doesn't resolve, a real tradeoff)
+   — not a routine "which post next."
+
+3. NO NARRATION FLOURISHES. Skip session-timer callouts, restated recap
+   paragraphs, or personality flourishes in the final report unless Charlie
+   explicitly asks for a summary. End with a plain, closed statement of
+   what was done.
+
+4. END STATE = DONE, NOT PENDING. The last message of a session should read
+   as a completed status report, not an open question or a menu of options.
+
+This does not change the PUBLISH GATE rule — a completed build session
+still stops and waits for Charlie's explicit go-ahead before anything goes
+live. "One task per session" and "don't hold open a queue" are about not
+padding the conversation with extra rounds, not about skipping the
+required human review checkpoint.

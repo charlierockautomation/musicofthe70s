@@ -5,3 +5,7 @@ scripts/.env
 
 # OS / editor cruft
 .DS_Store
+
+# Local Claude Code state (may contain command output or pasted secrets)
+.claude/settings.local.json
+.claude/bash-logs/

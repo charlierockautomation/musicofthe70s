@@ -179,6 +179,14 @@ function initBackToTop() {
       const overlapPx = window.innerHeight - footerTop;
       btn.style.bottom = overlapPx > 0 ? `${overlapPx + 16}px` : '';
     }
+    /* YouTube rule: nothing may sit in front of any part of a player.
+       Hide the button while it would overlap one. */
+    const b = btn.getBoundingClientRect();
+    const covers = Array.from(document.querySelectorAll('.video-embed, .radio-screen-frame')).some((el) => {
+      const r = el.getBoundingClientRect();
+      return r.width > 0 && r.left < b.right && r.right > b.left && r.top < b.bottom && r.bottom > b.top;
+    });
+    btn.classList.toggle('covering', covers);
   };
   window.addEventListener('scroll', update, { passive: true });
   window.addEventListener('resize', update);

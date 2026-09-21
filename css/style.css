@@ -407,7 +407,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .category-note p:last-child { margin-bottom: 0; }
 
 .video-embed {
-  position: relative; width: 100%; aspect-ratio: 16 / 9;
+  position: relative; width: 100%; aspect-ratio: 16 / 9; min-height: 202px; /* iframe = box minus 1px borders, so >= 200px: YouTube minimum player viewport is 200x200 */
   background: var(--bg-elevated); border: 1px solid var(--border-subtle);
   border-radius: var(--radius); overflow: hidden; margin: 1.75rem 0;
   display: flex; align-items: center; justify-content: center;
@@ -482,6 +482,8 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
   transition: opacity 0.25s, transform 0.25s, visibility 0.25s;
 }
 .back-to-top.visible { opacity: 1; visibility: visible; transform: translateY(0); }
+/* Never sits in front of a YouTube player (set from js/main.js). Must stay after .visible. */
+.back-to-top.covering { opacity: 0; visibility: hidden; pointer-events: none; }
 .back-to-top:hover { background: var(--accent-warm); }
 @media (max-width: 480px) {
   .back-to-top { right: 1rem; bottom: 1rem; width: 44px; height: 44px; font-size: 1.25rem; }
@@ -615,4 +617,64 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
   .jukebox-tile { padding: 1rem; }
 }
 
-.yt-player-host { position: fixed; width: 1px; height: 1px; overflow: hidden; bottom: 0; left: 0; opacity: 0.01; pointer-events: none; }
+
+/* ---------- Radio screen: the visible YouTube player ----------
+   RULES (see .claude/skills/youtube-compliance/SKILL.md): the player is never
+   hidden, never smaller than 200x200, and nothing (overlay, pseudo-element,
+   bar, button) is ever positioned over it. The bezel is padding + border
+   AROUND the frame; the note and Continue button sit BELOW it. */
+.radio-screen { width: min(100%, 512px); margin: 0 auto 1.5rem; box-sizing: border-box; }
+.radio-bezel {
+  box-sizing: border-box; padding: 14px 14px 10px;
+  background: linear-gradient(180deg, #2a2f52, #171a30);
+  border: 2px solid var(--accent-gold); border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.45);
+}
+.radio-screen-frame {
+  position: relative; width: 100%; aspect-ratio: 16 / 9; min-height: 200px;
+  background: #000; border-radius: 6px; overflow: hidden;
+}
+.radio-screen-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.radio-screen-idle {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  padding: 1rem; text-align: center; color: var(--text-muted);
+}
+.radio-bezel-strip {
+  display: flex; align-items: center; justify-content: center; gap: 0.5rem;
+  margin-top: 8px; font-size: 0.78rem; letter-spacing: 0.04em; color: var(--text-muted);
+}
+.radio-led { width: 8px; height: 8px; border-radius: 50%; background: var(--accent-gold); box-shadow: 0 0 8px var(--accent-gold); }
+.radio-volume { display: flex; align-items: center; justify-content: center; gap: 0.6rem; margin-top: 0.6rem; }
+.radio-vol-btn {
+  min-width: 44px; min-height: 44px; border-radius: 50%; cursor: pointer; font-size: 1.15rem; line-height: 1;
+  background: var(--bg-card, transparent); color: var(--text-primary); border: 1px solid var(--border-subtle);
+}
+.radio-vol-btn:hover, .radio-vol-btn:focus-visible { border-color: var(--accent-gold); }
+.radio-vol-slider { flex: 0 1 220px; min-width: 100px; height: 44px; accent-color: var(--accent-gold); cursor: pointer; }
+.radio-vol-value { min-width: 3.2em; font-size: 0.85rem; color: var(--text-muted); text-align: left; }
+.radio-screen-note { text-align: center; color: var(--text-muted); margin: 0.75rem 0 0; min-height: 1.5em; }
+.radio-screen-actions { display: flex; justify-content: center; margin-top: 0.6rem; }
+
+/* Desktop Jukebox view: the screen stays pinned under the site header while the
+   grid scrolls beneath it, so the player stays on screen and auto-advance can run. */
+@media (min-width: 721px) {
+  .grid-mode .radio-screen {
+    position: sticky; top: var(--header-h, 72px); z-index: 30;
+    background: var(--bg-primary); padding: 0.5rem 0 0.25rem;
+  }
+}
+
+/* ---------- Radio: station guide (independent, data-derived content) ---------- */
+.station-guide-intro { max-width: 760px; margin: 0 auto 1.5rem; }
+.station-guide-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); }
+.station-card {
+  background: var(--bg-card); border: 1px solid var(--border-subtle);
+  border-radius: var(--radius); padding: 1.1rem 1.2rem;
+}
+.station-card h3 { margin: 0 0 0.4rem; color: var(--accent-gold); }
+.station-card p { margin: 0 0 0.6rem; color: var(--text-primary); font-size: 0.95rem; }
+.station-card .sc-meta { color: var(--text-muted); font-size: 0.88rem; }
+.chart-table-wrap { overflow-x: auto; margin: 1rem 0 1.5rem; }
+.chart-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.chart-table th, .chart-table td { text-align: left; padding: 0.55rem 0.75rem; border-bottom: 1px solid var(--border-subtle); }
+.chart-table th { color: var(--accent-gold); }

@@ -10,8 +10,12 @@ were re-run by hand on four straight posts. Run this instead of
 re-deriving the numbers from scratch each time.
 
 Usage: python3 scripts/verify_post.py <path/to/post/index.html> "<focus keyword>"
+
+Also fails (exit 1) if any YouTube ID embedded in the post has no status record,
+a status older than 30 days, or is blocked (see scripts/youtube_status.py).
 """
 import json
+import os
 import re
 import sys
 
@@ -173,6 +177,19 @@ def main():
     # internal links found
     links = re.findall(r'<a href="([^"]+)"', article)
     print(f"\nLinks in article: {links}")
+
+    # YouTube compliance: every embedded ID needs a status record (embeddable,
+    # madeForKids) checked within the last 30 days. Fix with scripts/youtube_status.py.
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from youtube_status import EMBED_RE, status_problems
+    yt_ids = sorted(set(EMBED_RE.findall(html)))
+    yt_problems = status_problems(yt_ids)
+    print(f"\n--- YouTube status ({len(yt_ids)} embedded ID(s)) ---")
+    for line in yt_problems:
+        print(f"FAIL {line}")
+    print(f"YouTube status: {'FAIL' if yt_problems else 'PASS'}")
+    if yt_problems:
+        sys.exit(1)
 
 
 if __name__ == "__main__":

@@ -14,6 +14,9 @@ Usage:
     YOUTUBE_API_KEY=... python3 scripts/enrich_youtube_ids.py [--limit N]
 
 Reads scripts/.env for YOUTUBE_API_KEY if not already in the environment.
+Use a key from a Google Cloud project dedicated to this site, never another
+project's. After enriching, run scripts/youtube_status.py so every new ID gets
+a status record (embeddable, madeForKids, checked_at).
 """
 import argparse
 import json
@@ -99,7 +102,8 @@ def find_embeddable_video(api_key, query):
 
     for item in videos_res.get("items", []):
         status = item.get("status", {})
-        if status.get("embeddable") and status.get("privacyStatus") == "public":
+        if (status.get("embeddable") and status.get("privacyStatus") == "public"
+                and status.get("madeForKids") is False):  # never use made-for-kids videos
             return item["id"], None
 
     return None, "no embeddable/public candidate among search results"
