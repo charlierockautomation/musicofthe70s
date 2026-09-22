@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-22 (MacArthur Park, Donna Summer, slot #38, BUILT LOCAL, awaiting Charlie's review)
+# Last Updated: 2026-09-22 (MacArthur Park, Donna Summer, slot #38, LIVE)
 
 ---
 
@@ -14,7 +14,8 @@
   1,900/mo, informational intent, low competition, vs. 90,500/mo for bare `macarthur park` which is
   navigational and dominated by the 1968 Richard Harris original / the literal LA park, wrong intent for
   this post's Donna Summer angle), never used before. `blog/songs/macarthur-park-donna-summer/index.html`.
-  **Built local, NOT pushed, awaiting Charlie's review per Publish Gate.** Angle: corrects this site's own
+  **LIVE 2026-09-22 (commit 081a94d, pushed to origin/main, live-verified: post 200 via clean-URL
+  redirect, sitemap/blog-hub/Songs-category/artist-page forward link all confirmed).** Angle: corrects this site's own
   year-end JSON, which oddly calls the song Summer's "third number one of 1978-1979" even though it charted
   first (Nov 1978, three weeks at #1), predating Hot Stuff and Bad Girls (summer 1979); matches the
   correction already live on the Donna Summer artist page. Side-by-side table compares the 1968 Richard
@@ -30,8 +31,8 @@
   added; forward link added the same session to the artist page's existing "MacArthur Park's Real Place
   in the Timeline" H3. Playwright screenshot check at desktop/375px/390px passed, zero console errors
   (a first pass flagged 4 "broken" lazy-loaded images; re-checked after scroll, all loaded fine, false
-  alarm from checking `img.complete` before the images entered the viewport). Awaiting Charlie's
-  go-ahead before commit/push.
+  alarm from checking `img.complete` before the images entered the viewport). Reviewed and pushed once
+  Charlie confirmed.
 
 - Heartache Tonight (Songs, slot #37): focus keyword `heartache tonight`. **LIVE 2026-09-22 (commit
   3b6d756, pushed to origin/main, live-verified).** Full build write-up pruned to SESSION-LOG-ARCHIVE.md
@@ -41,8 +42,8 @@
   Name of the Game (slot #35), Blue Eyes Crying in the Rain (slot #28), Marvin Gaye Let's Get It On
   (slot #22), and Al Green Tired of Being Alone (slot #21): all confirmed LIVE, Charlie-approved. Full
   write-ups pruned to SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-37 LIVE, slot #38 (MacArthur Park) built local. Most recent
-  LIVE post: Heartache Tonight (Eagles the Band, 2026-09-22).
+- Songs artist-linked rotation queue: slots 1-38 LIVE. Most recent LIVE post: MacArthur Park (Donna
+  Summer, 2026-09-22).
 - Note: local main preserves an unpushed CI-workflow commit (709eda5) on local branch
   `ci-workflow-pending`, not on remote per the standing PAT-scope call (Charlie-approved).
 - Genres Rotation Queue is fully clear. Years series complete (10/10). Trivia has no cap.
@@ -168,7 +169,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 35. The Name of the Game — ABBA — **LIVE 2026-09-17**
 36. Night Fever — Bee Gees — **LIVE 2026-09-21**
 37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
-38. MacArthur Park — Donna Summer — **BUILT LOCAL 2026-09-22, awaiting Charlie's review**
+38. MacArthur Park — Donna Summer — **LIVE 2026-09-22**
 39. Living for the City — Stevie Wonder
 40. How Deep Is Your Love — Bee Gees
 41. Too Much Heaven — Bee Gees
@@ -176,9 +177,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#37, Heartache Tonight (Eagles the Band): LIVE 2026-09-22. #38, MacArthur Park (Donna Summer): built
-local 2026-09-22, awaiting Charlie's review before push. Next after that: #39, Living for the City
-(Stevie Wonder).**
+**#38, MacArthur Park (Donna Summer): LIVE 2026-09-22. Next: #39, Living for the City (Stevie Wonder).**
 
 ---
 
