@@ -305,3 +305,27 @@ non-rotation pages like the hub).
 
 Slot 22 (Marvin Gaye Let's Get It On) and slot 21 (Al Green Tired of Being Alone) confirmed LIVE, same
 session as the above.
+
+### Night Fever (Songs, slot #36) — full build write-up (pruned from content-build.md 2026-09-22)
+Focus keyword `night fever` (Charlie-specified directly), never used before.
+`blog/songs/night-fever/index.html`. LIVE 2026-09-21 (commit 5fbd9da, pushed to origin/main).
+Angle: the song's title got folded into the film's own name (Saturday Night Fever), distinct from the
+Stayin' Alive post's fake-magazine-story angle despite same soundtrack/era. Chart facts from this
+site's own `hot100_weekly.json` (8 weeks at #1, week of Mar 18 - week ending May 12, 1978) and
+`year_end_hot100.json` (#2 for 1978); writing/production/Grammy/title-origin facts cross-checked
+against Wikipedia, Songfacts, and beegees.com. `verify_post.py` clean: 1,565 words, 1.47% density,
+93.1% under 20 words, FAQ PASS, YouTube status PASS. Chart data table, personnel/session H3s, and one
+extra body image satisfy the breakup rule. Listen Now link (`radio_id: 1978-2-night-fever`), Bee Gees
+artist backlink, Stayin' Alive and You Should Be Dancing cross-links all added. Forward link added to
+the Bee Gees artist page's "The Fever Peak" H2 the same session. Featured/body images reuse existing
+`bee-gees-1970s`/`bee-gees-1977` files (established reuse precedent already on site: Stayin' Alive
+also uses `bee-gees-1977`); no free-licensed disco-era Bee Gees group photo exists beyond what's
+already on the site (checked Wikimedia Commons and Wikipedia's own Bee Gees article image list).
+Link/image check via curl against local server: all 200. No headless-browser mobile screenshot that
+session (no browser tool available at the time); CSS classes reused verbatim from already
+mobile-verified posts (You Should Be Dancing, Stayin' Alive).
+
+CONTENT-INDEX.md/content-build.md were stale by one slot going into the 2026-09-21 session: The Name of
+the Game ABBA (slot #35) had already shipped LIVE 2026-09-17 (confirmed via git log) but was never added
+to either tracker. Backfilled that session; pruned 12 of the oldest Live rows from CONTENT-INDEX.md to
+CONTENT-INDEX-ARCHIVE.md to hold the line count (193 -> 182 lines) since it was already near cap.

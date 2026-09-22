@@ -2,35 +2,34 @@
 # CLAUDE / CLAUDE CODE: Read this alongside CLAUDE.md and CONTENT-INDEX.md before planning any session.
 # Full build write-ups + completed queue history: SESSION-LOG-ARCHIVE.md (grep it, don't open whole).
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
-#   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
-# Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-21 (Night Fever, Bee Gees, slot #36, built local, awaiting Charlie's review)
+#   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
+# Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
+# Last Updated: 2026-09-22 (Heartache Tonight, Eagles the Band, slot #37, built local, awaiting review)
 
 ---
 
-## Current State (as of 2026-09-21)
+## Current State (as of 2026-09-22)
 
-- Night Fever (Songs, slot #36), focus keyword `night fever` (Charlie-specified directly), never used
-  before. `blog/songs/night-fever/index.html`. **Built local, awaiting Charlie's review before push.**
-  Angle: the song's title got folded into the film's own name (Saturday Night Fever), distinct from the
-  Stayin' Alive post's fake-magazine-story angle despite same soundtrack/era. Chart facts from this
-  site's own `hot100_weekly.json` (8 weeks at #1, week of Mar 18 - week ending May 12, 1978) and
-  `year_end_hot100.json` (#2 for 1978); writing/production/Grammy/title-origin facts cross-checked
-  against Wikipedia, Songfacts, and beegees.com. `verify_post.py` clean: 1,565 words, 1.47% density,
-  93.1% under 20 words, FAQ PASS, YouTube status PASS. Chart data table, personnel/session H3s, and one
-  extra body image satisfy the breakup rule. Listen Now link (`radio_id: 1978-2-night-fever`), Bee Gees
-  artist backlink, Stayin' Alive and You Should Be Dancing cross-links all added. Forward link added to
-  the Bee Gees artist page's "The Fever Peak" H2 the same session. Featured/body images reuse existing
-  `bee-gees-1970s`/`bee-gees-1977` files (established reuse precedent already on site: Stayin' Alive
-  also uses `bee-gees-1977`); no free-licensed disco-era Bee Gees group photo exists beyond what's
-  already on the site (checked Wikimedia Commons and Wikipedia's own Bee Gees article image list).
-  Link/image check via curl against local server: all 200. No headless-browser mobile screenshot this
-  session (no browser tool available); CSS classes reused verbatim from already mobile-verified posts
-  (You Should Be Dancing, Stayin' Alive).
-- **CONTENT-INDEX.md/content-build.md were stale by one slot going into this session**: The Name of the
-  Game ABBA (slot #35) had already shipped LIVE 2026-09-17 (confirmed via git log) but was never added
-  to either tracker. Backfilled this session; pruned 12 of the oldest Live rows from CONTENT-INDEX.md to
-  CONTENT-INDEX-ARCHIVE.md to hold the line count (193 -> 182 lines) since it was already near cap.
+- Heartache Tonight (Songs, slot #37), focus keyword `heartache tonight` (Charlie-specified directly),
+  never used before. `blog/songs/heartache-tonight/index.html`. **Built local, awaiting Charlie's review
+  before push.** Angle: the band's fifth and final Hot 100 #1, written from a five-minute phone call
+  between Glenn Frey and Bob Seger, distinct from the prior three Eagles posts (reluctant-release,
+  Nashville-cover-afterlife, country-band-chasing-R&B angles). Chart facts from this site's own
+  `hot100_weekly.json` (#1 the week of Nov 10, 1979); songwriting/session/Grammy/cover-version facts
+  cross-checked against Wikipedia, American Songwriter, and Songfacts. `verify_post.py` clean: 1,289
+  words, 1.71% density, 81.0% under 20 words, FAQ PASS, YouTube status PASS (video ID `jBte_o5JpJA`,
+  oEmbed-verified against the sandbox video-test limitation per session-log skill). Chart data table
+  (all five Eagles #1s), songwriter/personnel bullet lists, and one extra body image satisfy the
+  breakup rule. No `radio_id` exists for this track in `data/radio/radio-songs.json`, so no Listen Now
+  link this post, first Eagles Songs post without one. Eagles the Band artist backlink, and song-to-song
+  cross-links to Best of My Love / One of These Nights / New Kid in Town / Hotel California all added.
+  Forward link added to the Eagles the Band artist page's "The Album That Passed Thriller" H2 the same
+  session. Featured/body images reuse existing `eagles-1974`/`eagles-asylum-1975` files (established
+  reuse precedent: only 3 Eagles images exist across 4 now-live Eagles Songs posts). Playwright screenshot
+  check at desktop/375px/390px passed, zero console errors. Reviewed and pushed once Charlie confirms.
+
+- Night Fever (Songs, slot #36): focus keyword `night fever`. **LIVE 2026-09-21 (commit 5fbd9da, pushed
+  to origin/main).** Full build write-up pruned to SESSION-LOG-ARCHIVE.md 2026-09-22.
 
 - New Kid in Town (slot #32), Last Dance (slot #33), Sir Duke (slot #34), The Name of the Game (slot
   #35): all confirmed LIVE, Charlie-approved. Blue Eyes Crying in the Rain (slot #28), Marvin Gaye
@@ -51,15 +50,15 @@
 
 1. Before writing anything new, check CONTENT-INDEX.md for what's already live — never duplicate.
 2. Pick the next item from the Rotation Queue below. If a category has no ready item, skip to the next rather than forcing it.
-3. Every new post links to at least one Tool (Tools-as-Pillars table: docs/linking-and-tools.md).
-4. Every new post checks the "link owed" table (docs/linking-and-tools.md) for a cross-category opportunity, and logs its internal links in the Anchor Text & Position Log there.
+3. Every new post links to at least one Tool (Tools-as-Pillars table: .claude/skills/linking-and-tools/SKILL.md).
+4. Every new post checks the "link owed" table (.claude/skills/linking-and-tools/SKILL.md) for a cross-category opportunity, and logs its internal links in the Anchor Text & Position Log there.
 5. Update this file's Current State block and prune shipped rows to SESSION-LOG-ARCHIVE.md every session, per the Content Tracker Ownership rule in CLAUDE.md.
 
 ---
 
 ## Path Forward — Pillars, Rotation, and Linking (added 2026-08-22)
 
-**Pillars.** The site's two permanent pillar types are the homepage and the six interactive tools (Tools-as-Pillars table: docs/linking-and-tools.md). Every new post links to whichever pillar its content actually supports — not the homepage by default, and not a mismatched tool for the sake of having a tool link.
+**Pillars.** The site's two permanent pillar types are the homepage and the six interactive tools (Tools-as-Pillars table: .claude/skills/linking-and-tools/SKILL.md). Every new post links to whichever pillar its content actually supports — not the homepage by default, and not a mismatched tool for the sake of having a tool link.
 
 **Active rotation set.** Genres, Songs, Artists, Trivia. Years is a closed, complete 1970-1979 series (no cap, no further posts planned) and sits outside active rotation unless a genuinely new Years angle comes up. Rotate across the four active categories rather than clearing one before starting the next; if a category has no keyword-checked, non-overlapping angle ready, skip it for that turn instead of forcing a thin post (already the rule in item 2 above — restated here as it applies specifically to rotation planning).
 
@@ -71,7 +70,7 @@
 **Every post's linking checklist:**
 1. Link up to its own category hub page.
 2. Link to at least one relevant Tool (a pillar).
-3. Check the "link owed" table (docs/linking-and-tools.md) for a cross-category link to close, and close it in both directions the same session.
+3. Check the "link owed" table (.claude/skills/linking-and-tools/SKILL.md) for a cross-category link to close, and close it in both directions the same session.
 4. Never repeat the same internal link target twice within one post (standing rule).
 
 **Database growth.** Every new post's angle comes from a real, verified content-gap check — live SERP plus this site's own JSON data — not a generic keyword-driven post. This is the actual mechanism that has kept every post on the site distinct (30+ distinct structures logged across the archives) while still growing the database on a steady rotation, and it's what keeps the site clear of Google's scaled-content-abuse risk (see the standing guardrail in profile/topic notes). Don't relax this check for the sake of rotation speed.
@@ -163,8 +162,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 33. Last Dance — Donna Summer — **LIVE 2026-09-14**
 34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
 35. The Name of the Game — ABBA — **LIVE 2026-09-17**
-36. Night Fever — Bee Gees — **Built local 2026-09-21, awaiting Charlie's review**
-37. Heartache Tonight — Eagles the Band
+36. Night Fever — Bee Gees — **LIVE 2026-09-21**
+37. Heartache Tonight — Eagles the Band — **Built local 2026-09-22, awaiting Charlie's review**
 38. MacArthur Park — Donna Summer
 39. Living for the City — Stevie Wonder
 40. How Deep Is Your Love — Bee Gees
@@ -173,8 +172,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#35, The Name of the Game (ABBA): LIVE 2026-09-17. #36, Night Fever (Bee Gees): built local
-2026-09-21, awaiting Charlie's review. Next after approval: #37, Heartache Tonight (Eagles the Band).**
+**#37, Heartache Tonight (Eagles the Band): built local 2026-09-22, awaiting Charlie's review. Next after
+approval: #38, MacArthur Park (Donna Summer).**
 
 ---
 
@@ -183,7 +182,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 48 | Slots 1-35 of the artist-linked rotation queue LIVE, most recently The Name of the Game (ABBA, 2026-09-17); slot #36 (Night Fever) built local, awaiting review. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 49 | Slots 1-36 of the artist-linked rotation queue LIVE, most recently Night Fever (Bee Gees, 2026-09-21). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

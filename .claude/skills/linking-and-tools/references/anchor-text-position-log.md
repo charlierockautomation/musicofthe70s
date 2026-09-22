@@ -174,3 +174,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Night Fever | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Best Pop Vocal Performance by a Duo or Group" H3, closing sentence |
 | Night Fever | Songs | You Should Be Dancing (song) | /blog/songs/you-should-be-dancing/index.html | Body, "The Live B-Side Nobody Remembers" H3, closing sentence, song-to-song cross-link |
 | Bee Gees (artist) | Artists | Night Fever (song) | /blog/songs/night-fever/index.html | Body, "The Fever Peak" H2, opening area, forward link added the session the song post was built |
+| Heartache Tonight | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, "A Five-Minute Phone Call Wrote the Chorus" H3, closing sentence |
+| Heartache Tonight | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Who Played What on the Session" H3, closing sentence |
+| Heartache Tonight | Songs | Best of My Love / One of These Nights / New Kid in Town / Hotel California (songs) | /blog/songs/best-of-my-love/, one-of-these-nights/, new-kid-in-town/, hotel-california/ | Body, "Heartache Tonight Closed Out a Run of Five Number Ones" H2, data-table row links, song-to-song cross-links |
+| Heartache Tonight | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "It Reached Beyond the Hot 100 Too" H3, closing sentence, adjacent-before the video embed |
+| Heartache Tonight | Songs | Music of the 70s | /index.html | Body, "Best Rock Performance by a Duo or Group With Vocal" H3, closing sentence |
+| Eagles the Band (artist) | Artists | Heartache Tonight (song) | /blog/songs/heartache-tonight/index.html | Body, "The Album That Passed Thriller" H2, forward link added the session the song post was built |
