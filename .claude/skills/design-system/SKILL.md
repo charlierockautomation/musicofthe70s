@@ -1,3 +1,8 @@
+---
+name: design-system
+description: Site design tokens (fonts, colors, CSS classes) and URL/slug structure by category. Use when writing or editing HTML/CSS, choosing a class for a new element, picking a URL path or slug for a new page, or checking whether a color/font is on-brand.
+---
+
 # Design System & URL Structure — Full Detail
 
 ## Design System (do not deviate without explicit approval)

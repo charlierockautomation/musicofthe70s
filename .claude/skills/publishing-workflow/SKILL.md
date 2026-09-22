@@ -1,3 +1,8 @@
+---
+name: publishing-workflow
+description: Step-by-step publish sequence (verify_post.py, preview, SEO checklist, mobile check, commit/push, live verify), Blog Hub "Latest Posts" auto-rotation mechanics, and the tool-to-blog linking tier plan. Use when about to publish or update a post, when regenerating blog/index.html cards, or when discussing linking tools to blog content.
+---
+
 # Publishing Workflow — Full Detail
 
 ## Blog Hub "Latest Posts" Rotation
@@ -42,10 +47,10 @@ Verify in Chrome DevTools responsive mode at 375px (iPhone SE) and 390px (iPhone
 Report pass/fail explicitly before a post is considered ready to push.
 
 ## Publishing Workflow
-1. Write/generate post content following the full template (post-template.md)
+1. Write/generate post content following the full template (post-template skill)
 2. Run `python3 scripts/verify_post.py <path/to/post/index.html> "<focus keyword>"` — checks word count, keyword density, sentence-length distribution, em-dash count (correctly distinguishing the list-item numeric-separator exception from prose), banned words, FAQ schema/visible match, heading hierarchy, and keyword placement in one pass. Built 2026-07-31 after the same checks were re-derived by hand on four straight posts; use it instead of re-deriving them manually.
-3. Preview locally (see repo-deploy.md)
-4. Run through the full SEO checklist — every box checked (seo-rules.md)
+3. Preview locally (see repo-deploy skill)
+4. Run through the full SEO checklist — every box checked (seo-rules skill)
 5. Run the mobile check
 6. Report checklist + mobile results before asking for approval to commit
 7. Once approved: `git add -A && git commit -m "[description]" && git push`

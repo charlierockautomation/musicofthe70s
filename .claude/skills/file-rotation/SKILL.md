@@ -1,3 +1,8 @@
+---
+name: file-rotation
+description: The two-tier file-size discipline system (195-line hard cap on session-loaded trackers, grep-only archives) and the living-file-to-archive map. Use when a tracker file (CLAUDE.md, content-build.md, CONTENT-INDEX.md, keyword-research-log.md) is at or near 195 lines and needs pruning, or when deciding what belongs in a living file vs. an archive.
+---
+
 # File Rotation & Size Discipline — Full Detail
 
 Why this exists: every file a session loads at start burns input tokens on every
@@ -12,7 +17,6 @@ that keeps that from happening.
 - `content-build.md`
 - `CONTENT-INDEX.md`
 - `keyword-research-log.md`
-- any `docs/*.md` spoke a task actually opens
 
 Rule: never let one cross 195 lines (safety line; the real ceiling is 199, 195
 gives margin). Check at session start:
@@ -52,12 +56,12 @@ Rules for archives:
 | CONTENT-INDEX.md       | CONTENT-INDEX-ARCHIVE.md   | full per-post research/build notes (the lean lookup row stays) |
 | keyword-research-log.md| keyword-research-archive.md| pulls whose focus keyword is now on a Live post |
 
-`docs/linking-and-tools.md` holds the Tools-as-Pillars table, the Internal Linking
-Strategy, and the Anchor Text & Position Log — pulled out of content-build.md
+The linking-and-tools skill holds the Tools-as-Pillars table, the Internal Linking
+Strategy, and the Anchor Text & Position Log, pulled out of content-build.md
 because they are only needed during the internal-linking step of a build, not
-every session. Load it then, not at session start. The Anchor Text & Position Log
-grows one row per internal link; when that file nears 195 lines, prune its oldest
-rows to CONTENT-INDEX-ARCHIVE.md the same way.
+every session. The Anchor Text & Position Log grows one row per internal link;
+when it nears 195 lines, prune its oldest rows to CONTENT-INDEX-ARCHIVE.md the
+same way.
 
 ## Current line counts (update when you prune)
 
@@ -66,8 +70,7 @@ Last checked 2026-09-02, right after the big prune:
 - content-build.md: (target < 180)
 - CONTENT-INDEX.md: (target < 160)
 - keyword-research-log.md: (target < 150)
-- docs/linking-and-tools.md: (target < 180)
-- every other docs/*.md: under 80, no action
+- linking-and-tools skill: (target < 180)
 
 ## History
 
@@ -80,3 +83,8 @@ duplicated Blog Posts block) back under cap; moved the shipped write-ups and
 completed queue rows to the archives; split the linking/tools material into
 docs/linking-and-tools.md. Session-start load dropped from roughly 52k tokens to
 roughly 9k.
+
+2026-09-08: docs/*.md spokes converted to Claude Code Skills (.claude/skills/).
+Skills load on demand by description match rather than by manual path reference,
+so this doc's own "how to reference docs/" mechanic no longer applies; the Tier 1
+hard-cap and Tier 2 archive rules above are unchanged.

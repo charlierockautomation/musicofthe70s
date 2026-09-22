@@ -1,3 +1,8 @@
+---
+name: post-template
+description: The fixed 15-step blog post structure (H1 → intro → featured image → rest), the internal tool linking map by post type, and the internal-link anchor text/position rotation rule. Use when writing a new blog post, restructuring an existing one, or deciding which tool/anchor text/position to link internally.
+---
+
 # Blog Post Template — Full Structure
 
 Every post, no exceptions.
@@ -12,14 +17,14 @@ Never place an image (including the featured image) between the H1 and the intro
 5. Featured image + descriptive alt text (goes here, AFTER the intro — never before it)
 6. Table of Contents block
 7. 3+ H2 sections, ~200–300 words each, focus keyword appears naturally in at least one heading
-8. FAQ section (H3 questions, `.faq-block` styling, 4–5 Q&As, AI-answer-ready per seo-rules.md)
+8. FAQ section (H3 questions, `.faq-block` styling, 4–5 Q&As, AI-answer-ready per seo-rules skill)
 9. Real YouTube video embed (never a placeholder note at publish time)
 10. At least one internal link to a site tool — see mapping below
 11. Related Posts block — 3 real cards once posts exist in those categories; never link to a post that doesn't exist yet
 12. Breadcrumbs: Home › Blog › [Category] › [Post]
 13. Word count: 1,200+ minimum
-14. Full SEO checklist above, verified before submission (seo-rules.md)
-15. Full Prose & Readability Protocol below, verified before submission (prose-image-rules.md)
+14. Full SEO checklist above, verified before submission (seo-rules skill)
+15. Full Prose & Readability Protocol below, verified before submission (prose-image-rules skill)
 
 ## Internal Tool Linking Map
 Match the post's topic to the most relevant tool and link it naturally in-context, not just tacked on at the end:
@@ -38,7 +43,7 @@ Trivia posts → 70s Music Trivia Quiz, Birthday #1 Song Finder
 Applies to every internal link: tool links, same-category related posts, cross-category links.
 
 - Anchor text = brand phrase "Music of the 70s" OR the target's own focus keyword. Never generic ("click here," "this post," "read more").
-- Anchor text choice AND its position in the post (intro / which H2 / FAQ / related-posts block) must differ from the last 3–5 posts in the same category. Check the Anchor Text & Position Log in content-build.md before placing links; log new entries there after.
+- Anchor text choice AND its position in the post (intro / which H2 / FAQ / related-posts block) must differ from the last 3–5 posts in the same category. Check the Anchor Text & Position Log in the linking-and-tools skill before placing links; log new entries there after.
 - Place links where the reference occurs naturally in a sentence. Never a fixed template slot (e.g. always end of intro).
 - Not a ranking guarantee. This follows Google's real internal-linking guidance (descriptive anchor text, natural placement, no manipulative patterns) — it supports discoverability/E-E-A-T, it does not promise top-of-SERP or AI-search placement, no linking system can.
 - Log starts 2026-08-28 going forward; pre-existing posts not retroactively audited (token cost).

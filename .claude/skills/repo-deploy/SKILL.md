@@ -1,3 +1,8 @@
+---
+name: repo-deploy
+description: Repo location, GitHub/Cloudflare Pages deploy mechanics, GA tag requirement, and the local preview workflow. Use when pushing changes, setting up a local preview server, checking deploy status, or verifying the GA tag on a page.
+---
+
 # Repo & Deploy — Full Detail
 
 - Local repo: ~/musicofthe70s.net (Crostini Linux)

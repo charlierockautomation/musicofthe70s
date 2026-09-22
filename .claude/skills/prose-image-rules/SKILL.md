@@ -1,3 +1,8 @@
+---
+name: prose-image-rules
+description: Prose/readability protocol (no em-dashes, one sentence per paragraph, subheading and list formatting rules, table and wall-of-text breakup rules) plus image optimization and sourcing requirements. Use when drafting or editing post body text, or when sourcing, cropping, compressing, or captioning any image for the site.
+---
+
 # Prose, Readability & Image Rules — Full Detail
 
 ## Prose & Readability Protocol (STRICT ADHERENCE)

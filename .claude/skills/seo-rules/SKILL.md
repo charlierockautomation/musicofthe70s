@@ -1,3 +1,8 @@
+---
+name: seo-rules
+description: The non-negotiable focus-keyword rule (search-phrasing verification, slug word order, density formula), the full manual SEO Scoring Target checklist, FAQ/AI-answer-engine optimization rules, and required schema markup. Use when picking a focus keyword, checking keyword density/placement, writing FAQ entries, or running the SEO checklist before a post ships.
+---
+
 # SEO Rules — Full Detail
 
 ## THE KEYWORD RULE — NON-NEGOTIABLE
@@ -38,24 +43,24 @@ Because this is a static site with no Rank Math or Yoast, "the high 90s" means h
 - [ ] 2–3 secondary keywords woven naturally throughout
 - [ ] Meta description ≤155 characters, includes keyword, written to earn the click (not just descriptive)
 - [ ] Title tag ≤60 characters where possible
-- [ ] At least one internal link to a site tool (see post-template.md)
+- [ ] At least one internal link to a site tool (see post-template skill)
 - [ ] At least one internal link to a related blog post (once one exists in that category)
 - [ ] Featured image has descriptive alt text containing the keyword or a close variant
 - [ ] All images have alt text — none blank, none generic ("image1.jpg")
 - [ ] H1 used exactly once per page, matches or closely echoes the title
 - [ ] Heading hierarchy is clean — no skipped levels (H2 before H3, never H3 before H2)
-- [ ] No wall-of-text H2 sections — long unbroken paragraph runs get real, specific H3 subheadings (see Subheading Rule in prose-image-rules.md)
-- [ ] At least one real `<table class="data-table">` where the post has tabular data (chart, timeline, comparison) — see Table Rule in prose-image-rules.md
-- [ ] Long text broken up with H3 subheads, real bulleted/numbered lists, and extra in-body images (alt text on all) — see Wall-of-Text Breakup Rule in prose-image-rules.md
+- [ ] No wall-of-text H2 sections — long unbroken paragraph runs get real, specific H3 subheadings (see Subheading Rule in prose-image-rules skill)
+- [ ] At least one real `<table class="data-table">` where the post has tabular data (chart, timeline, comparison) — see Table Rule in prose-image-rules skill
+- [ ] Long text broken up with H3 subheads, real bulleted/numbered lists, and extra in-body images (alt text on all) — see Wall-of-Text Breakup Rule in prose-image-rules skill
 - [ ] Schema markup present: Article + FAQPage + BreadcrumbList (see below)
 - [ ] Word count 1,200+ for blog posts
 - [ ] FAQ section present, written for direct AI/answer-engine extraction (see below)
-- [ ] Mobile check passed at 375px and 390px (see publishing-workflow.md)
+- [ ] Mobile check passed at 375px and 390px (see publishing-workflow skill)
 - [ ] No broken links, no placeholder text of any kind remaining
 - [ ] Page loads with no console errors
 - [ ] Content order correct: H1 → intro paragraph → featured image → rest (image never sits before the intro)
-- [ ] Prose & Readability Protocol followed (see prose-image-rules.md)
-- [ ] All images optimized per prose-image-rules.md
+- [ ] Prose & Readability Protocol followed (see prose-image-rules skill)
+- [ ] All images optimized per prose-image-rules skill
 
 A post is not "done" until every box above is checked. Report the checklist status when a post is submitted for review.
 
@@ -77,3 +82,11 @@ Every blog post needs JSON-LD schema in the `<head>` covering:
 - `BreadcrumbList` (matching the visible breadcrumb trail)
 
 Do not let schema content drift from visible page content — they must match exactly or it's a liability, not a benefit.
+
+**Closed decision (2026-09-17): MusicRecording rejected for Songs category.** Considered
+adding schema.org `MusicRecording` (byArtist, duration, ISRC) to Songs posts since they're
+each about one specific song. Rejected: these pages are editorial write-ups about a song, not
+pages built around the playable recording itself (no embed, no ISRC, no duration data), and
+there's no general-web rich result tied to `MusicRecording` anyway, so it wouldn't gain
+anything. Article + FAQPage + BreadcrumbList remains the standard for every blog post,
+Songs included. Don't re-raise this post by post.

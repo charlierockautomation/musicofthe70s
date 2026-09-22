@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/verify_post.py *)",
+      "mcp__claude_ai_Data_For_SEO_MCP__merchant_amazon_asin_live_advanced",
+      "mcp__claude_ai_Data_For_SEO_MCP__merchant_amazon_products_live_advanced"
+    ]
+  }
+}

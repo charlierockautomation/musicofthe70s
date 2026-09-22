@@ -1,3 +1,8 @@
+---
+name: content-plan
+description: Master ordered publishing queue and status for the Years series, plus standing content-gap/batching/no-repeated-template rules for Genres, Songs, Artists, and Trivia. Use when deciding what content to build next, proposing a new batch, or checking whether a category/year is already Live.
+---
+
 # Master Content Plan — Full Detail
 
 Tracks the ordered publishing queue for multi-part series, so "what's next" never has to be re-derived from CONTENT-INDEX.md by hand.
