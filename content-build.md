@@ -4,43 +4,47 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-22 (Heartache Tonight, Eagles the Band, slot #37, LIVE)
+# Last Updated: 2026-09-22 (MacArthur Park, Donna Summer, slot #38, BUILT LOCAL, awaiting Charlie's review)
 
 ---
 
 ## Current State (as of 2026-09-22)
 
-- Heartache Tonight (Songs, slot #37), focus keyword `heartache tonight` (Charlie-specified directly),
-  never used before. `blog/songs/heartache-tonight/index.html`. **LIVE 2026-09-22 (commit 3b6d756,
-  pushed to origin/main, live-verified).** Angle: the band's fifth and final Hot 100 #1, written from a five-minute phone call
-  between Glenn Frey and Bob Seger, distinct from the prior three Eagles posts (reluctant-release,
-  Nashville-cover-afterlife, country-band-chasing-R&B angles). Chart facts from this site's own
-  `hot100_weekly.json` (#1 the week of Nov 10, 1979); songwriting/session/Grammy/cover-version facts
-  cross-checked against Wikipedia, American Songwriter, and Songfacts. `verify_post.py` clean: 1,289
-  words, 1.71% density, 81.0% under 20 words, FAQ PASS, YouTube status PASS (video ID `jBte_o5JpJA`,
-  oEmbed-verified against the sandbox video-test limitation per session-log skill). Chart data table
-  (all five Eagles #1s), songwriter/personnel bullet lists, and one extra body image satisfy the
-  breakup rule. No `radio_id` exists for this track in `data/radio/radio-songs.json`, so no Listen Now
-  link this post, first Eagles Songs post without one. Eagles the Band artist backlink, and song-to-song
-  cross-links to Best of My Love / One of These Nights / New Kid in Town / Hotel California all added.
-  Forward link added to the Eagles the Band artist page's "The Album That Passed Thriller" H2 the same
-  session. Featured/body images reuse existing `eagles-1974`/`eagles-asylum-1975` files (established
-  reuse precedent: only 3 Eagles images exist across 4 now-live Eagles Songs posts). Playwright screenshot
-  check at desktop/375px/390px passed, zero console errors. Reviewed and pushed once Charlie confirms.
+- MacArthur Park (Songs, slot #38), focus keyword `macarthur park donna summer` (verified via DataForSEO:
+  1,900/mo, informational intent, low competition, vs. 90,500/mo for bare `macarthur park` which is
+  navigational and dominated by the 1968 Richard Harris original / the literal LA park, wrong intent for
+  this post's Donna Summer angle), never used before. `blog/songs/macarthur-park-donna-summer/index.html`.
+  **Built local, NOT pushed, awaiting Charlie's review per Publish Gate.** Angle: corrects this site's own
+  year-end JSON, which oddly calls the song Summer's "third number one of 1978-1979" even though it charted
+  first (Nov 1978, three weeks at #1), predating Hot Stuff and Bad Girls (summer 1979); matches the
+  correction already live on the Donna Summer artist page. Side-by-side table compares the 1968 Richard
+  Harris original (Jimmy Webb write, 7:21, #2 peak, won a 1969 Grammy for arrangement) against Summer's
+  1978 version (17:47 full suite on Live and More, 3:59 single edit, #1 peak, Grammy-nominated but no win).
+  Facts cross-checked against Wikipedia (song and Live and More album pages) on top of this site's own
+  `hot100_weekly.json` (weeks 45-47, Nov 1978) and `year_end_hot100.json` (1979 rank 12). `verify_post.py`
+  clean: 1,594 words, 0.878% density, 85.5% under 20 words, FAQ PASS, YouTube status PASS (video ID
+  `hDD7t2Mj_aQ`, already on record embeddable/not-made-for-kids, checked 2026-09-21). Chart comparison
+  table, two bulleted/numbered lists (Grammy timeline, her real #1 order), and one extra body image
+  (reused `donna-summer-sudano-moroder-2007`, ties to Moroder's production role) satisfy the breakup rule.
+  `radio_id` exists (`1979-12-macarthur-park`), Listen Now link included. Donna Summer artist backlink
+  added; forward link added the same session to the artist page's existing "MacArthur Park's Real Place
+  in the Timeline" H3. Playwright screenshot check at desktop/375px/390px passed, zero console errors
+  (a first pass flagged 4 "broken" lazy-loaded images; re-checked after scroll, all loaded fine, false
+  alarm from checking `img.complete` before the images entered the viewport). Awaiting Charlie's
+  go-ahead before commit/push.
 
-- Night Fever (Songs, slot #36): focus keyword `night fever`. **LIVE 2026-09-21 (commit 5fbd9da, pushed
-  to origin/main).** Full build write-up pruned to SESSION-LOG-ARCHIVE.md 2026-09-22.
+- Heartache Tonight (Songs, slot #37): focus keyword `heartache tonight`. **LIVE 2026-09-22 (commit
+  3b6d756, pushed to origin/main, live-verified).** Full build write-up pruned to SESSION-LOG-ARCHIVE.md
+  2026-09-22.
 
-- New Kid in Town (slot #32), Last Dance (slot #33), Sir Duke (slot #34), The Name of the Game (slot
-  #35): all confirmed LIVE, Charlie-approved. Blue Eyes Crying in the Rain (slot #28), Marvin Gaye
-  Let's Get It On (slot #22), and Al Green Tired of Being Alone (slot #21): all confirmed LIVE,
-  Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-35 LIVE, slot #36 (Night Fever) built local. Most recent
-  LIVE post: The Name of the Game (ABBA, 2026-09-17).
-- Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
-  update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
-  it (Charlie-approved); the workflow commit is preserved on local branch
-  `ci-workflow-pending`, not lost, still not on remote per the standing PAT-scope call.
+- Night Fever (slot #36), New Kid in Town (slot #32), Last Dance (slot #33), Sir Duke (slot #34), The
+  Name of the Game (slot #35), Blue Eyes Crying in the Rain (slot #28), Marvin Gaye Let's Get It On
+  (slot #22), and Al Green Tired of Being Alone (slot #21): all confirmed LIVE, Charlie-approved. Full
+  write-ups pruned to SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-37 LIVE, slot #38 (MacArthur Park) built local. Most recent
+  LIVE post: Heartache Tonight (Eagles the Band, 2026-09-22).
+- Note: local main preserves an unpushed CI-workflow commit (709eda5) on local branch
+  `ci-workflow-pending`, not on remote per the standing PAT-scope call (Charlie-approved).
 - Genres Rotation Queue is fully clear. Years series complete (10/10). Trivia has no cap.
 - Standing flags for Charlie (not blocking any build):
   - Rock Trivia Game (7th tool) is built but NOT shipped — decided against 2026-08-27. Stays built and
@@ -164,7 +168,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 35. The Name of the Game — ABBA — **LIVE 2026-09-17**
 36. Night Fever — Bee Gees — **LIVE 2026-09-21**
 37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
-38. MacArthur Park — Donna Summer
+38. MacArthur Park — Donna Summer — **BUILT LOCAL 2026-09-22, awaiting Charlie's review**
 39. Living for the City — Stevie Wonder
 40. How Deep Is Your Love — Bee Gees
 41. Too Much Heaven — Bee Gees
@@ -172,7 +176,9 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#37, Heartache Tonight (Eagles the Band): LIVE 2026-09-22. Next: #38, MacArthur Park (Donna Summer).**
+**#37, Heartache Tonight (Eagles the Band): LIVE 2026-09-22. #38, MacArthur Park (Donna Summer): built
+local 2026-09-22, awaiting Charlie's review before push. Next after that: #39, Living for the City
+(Stevie Wonder).**
 
 ---
 

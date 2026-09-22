@@ -329,3 +329,25 @@ CONTENT-INDEX.md/content-build.md were stale by one slot going into the 2026-09-
 the Game ABBA (slot #35) had already shipped LIVE 2026-09-17 (confirmed via git log) but was never added
 to either tracker. Backfilled that session; pruned 12 of the oldest Live rows from CONTENT-INDEX.md to
 CONTENT-INDEX-ARCHIVE.md to hold the line count (193 -> 182 lines) since it was already near cap.
+
+---
+
+## Heartache Tonight (Songs, slot #37) - full build write-up, pruned from content-build.md 2026-09-22
+
+Focus keyword `heartache tonight` (Charlie-specified directly), never used before.
+`blog/songs/heartache-tonight/index.html`. **LIVE 2026-09-22 (commit 3b6d756, pushed to origin/main,
+live-verified).** Angle: the band's fifth and final Hot 100 #1, written from a five-minute phone call
+between Glenn Frey and Bob Seger, distinct from the prior three Eagles posts (reluctant-release,
+Nashville-cover-afterlife, country-band-chasing-R&B angles). Chart facts from this site's own
+`hot100_weekly.json` (#1 the week of Nov 10, 1979); songwriting/session/Grammy/cover-version facts
+cross-checked against Wikipedia, American Songwriter, and Songfacts. `verify_post.py` clean: 1,289
+words, 1.71% density, 81.0% under 20 words, FAQ PASS, YouTube status PASS (video ID `jBte_o5JpJA`,
+oEmbed-verified against the sandbox video-test limitation per session-log skill). Chart data table
+(all five Eagles #1s), songwriter/personnel bullet lists, and one extra body image satisfy the
+breakup rule. No `radio_id` exists for this track in `data/radio/radio-songs.json`, so no Listen Now
+link this post, first Eagles Songs post without one. Eagles the Band artist backlink, and song-to-song
+cross-links to Best of My Love / One of These Nights / New Kid in Town / Hotel California all added.
+Forward link added to the Eagles the Band artist page's "The Album That Passed Thriller" H2 the same
+session. Featured/body images reuse existing `eagles-1974`/`eagles-asylum-1975` files (established
+reuse precedent: only 3 Eagles images exist across 4 now-live Eagles Songs posts). Playwright screenshot
+check at desktop/375px/390px passed, zero console errors.

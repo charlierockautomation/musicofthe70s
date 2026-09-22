@@ -180,3 +180,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Heartache Tonight | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "It Reached Beyond the Hot 100 Too" H3, closing sentence, adjacent-before the video embed |
 | Heartache Tonight | Songs | Music of the 70s | /index.html | Body, "Best Rock Performance by a Duo or Group With Vocal" H3, closing sentence |
 | Eagles the Band (artist) | Artists | Heartache Tonight (song) | /blog/songs/heartache-tonight/index.html | Body, "The Album That Passed Thriller" H2, forward link added the session the song post was built |
+| MacArthur Park Donna Summer | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, "Donna Summer and Giorgio Moroder Built a Seventeen-Minute Disco Suite" H2, opening sentence |
+| MacArthur Park Donna Summer | Songs | MacArthur Park (Listen Now) | /radio/index.html?play=1979-12-macarthur-park | Body, "Where MacArthur Park Donna Summer Landed on the Charts" H2, closing sentence |
+| MacArthur Park Donna Summer | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same H2, mid-section sentence |
+| MacArthur Park Donna Summer | Songs | Hot Stuff (song) | /blog/songs/donna-summer-hot-stuff/index.html | Body, "The Grammy Nomination Two Other Versions Already Won" H2, closing sentence, song-to-song cross-link |
+| MacArthur Park Donna Summer | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "A Song That Keeps Finding New Rooms" H3, mid-section sentence |
+| MacArthur Park Donna Summer | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence |
+| Donna Summer (artist) | Artists | MacArthur Park (song) | /blog/songs/macarthur-park-donna-summer/index.html | Body, "MacArthur Park's Real Place in the Timeline" H3, on the existing "MacArthur Park" mention, forward link added the session the song post was built |
