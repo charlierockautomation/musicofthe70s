@@ -4,15 +4,15 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-22 (Heartache Tonight, Eagles the Band, slot #37, built local, awaiting review)
+# Last Updated: 2026-09-22 (Heartache Tonight, Eagles the Band, slot #37, LIVE)
 
 ---
 
 ## Current State (as of 2026-09-22)
 
 - Heartache Tonight (Songs, slot #37), focus keyword `heartache tonight` (Charlie-specified directly),
-  never used before. `blog/songs/heartache-tonight/index.html`. **Built local, awaiting Charlie's review
-  before push.** Angle: the band's fifth and final Hot 100 #1, written from a five-minute phone call
+  never used before. `blog/songs/heartache-tonight/index.html`. **LIVE 2026-09-22 (commit 3b6d756,
+  pushed to origin/main, live-verified).** Angle: the band's fifth and final Hot 100 #1, written from a five-minute phone call
   between Glenn Frey and Bob Seger, distinct from the prior three Eagles posts (reluctant-release,
   Nashville-cover-afterlife, country-band-chasing-R&B angles). Chart facts from this site's own
   `hot100_weekly.json` (#1 the week of Nov 10, 1979); songwriting/session/Grammy/cover-version facts
@@ -163,7 +163,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
 35. The Name of the Game — ABBA — **LIVE 2026-09-17**
 36. Night Fever — Bee Gees — **LIVE 2026-09-21**
-37. Heartache Tonight — Eagles the Band — **Built local 2026-09-22, awaiting Charlie's review**
+37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
 38. MacArthur Park — Donna Summer
 39. Living for the City — Stevie Wonder
 40. How Deep Is Your Love — Bee Gees
@@ -172,8 +172,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#37, Heartache Tonight (Eagles the Band): built local 2026-09-22, awaiting Charlie's review. Next after
-approval: #38, MacArthur Park (Donna Summer).**
+**#37, Heartache Tonight (Eagles the Band): LIVE 2026-09-22. Next: #38, MacArthur Park (Donna Summer).**
 
 ---
 
@@ -182,7 +181,7 @@ approval: #38, MacArthur Park (Donna Summer).**
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 49 | Slots 1-36 of the artist-linked rotation queue LIVE, most recently Night Fever (Bee Gees, 2026-09-21). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 50 | Slots 1-37 of the artist-linked rotation queue LIVE, most recently Heartache Tonight (Eagles, 2026-09-22). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
