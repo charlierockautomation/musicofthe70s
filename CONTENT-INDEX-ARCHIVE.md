@@ -551,3 +551,48 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Let's Stay Together | Songs | Music of the 70s | /index.html | Body, opening sentence of the "The Song's Second Life" H2 |
 | Let's Stay Together | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "From the Apollo to the Charts Again" H3, closing sentence, last content line before the video embed |
 | Al Green (artist) | Artists | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "Three Songs in One Chart" H3, closing sentence, forward link added the session the song post published |
+
+## Older Songs/Artists/Genres rows (pruned from CONTENT-INDEX.md 2026-09-21, still Live)
+
+| Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
+|---|---|---|---|---|---|---|
+| ABBA: The Band That Needed Permission for Its Own Name | https://musicofthe70s.net/blog/artists/abba/index.html | Artists | ABBA | Live | 2026-08-10 | 70s Music Trivia Quiz |
+| Eagles the Band: The Lineup Swap That Changed Everything | https://musicofthe70s.net/blog/artists/eagles-the-band/index.html | Artists | Eagles the Band | Live | 2026-08-10 | Random Artist Picker |
+| Queen Freddie Mercury: Two Nights That Defined Their 70s | https://musicofthe70s.net/blog/artists/queen-freddie-mercury/index.html | Artists | Queen Freddie Mercury | Live | 2026-08-09 | Random Artist Picker |
+| Talking Heads: Built From Found Objects, Not a Plan | https://musicofthe70s.net/blog/artists/talking-heads/index.html | Artists | Talking Heads | Live | 2026-08-06 | Random Artist Picker, 70s Music Trivia Quiz |
+| Village People in the 70s: The Disco Act Everyone Missed | https://musicofthe70s.net/blog/artists/village-people/index.html | Artists | Village People in the 70s | Live | 2026-08-06 | Random Artist Picker, 70s Music Trivia Quiz |
+| Grateful Dead in the 70s: The Band the Charts Missed | https://musicofthe70s.net/blog/artists/grateful-dead/index.html | Artists | Grateful Dead in the 70s | Live | 2026-08-06 | Random Artist Picker, 70s Music Trivia Quiz |
+| James Brown in the 70s: How He Became the Godfather of Soul | https://musicofthe70s.net/blog/artists/james-brown/index.html | Artists | James Brown in the 70s | Live | 2026-08-06 | Random Artist Picker, 70s Music Trivia Quiz |
+| 70s Soft Rock: The Sound Built to Calm the Decade Down | https://musicofthe70s.net/blog/genres/70s-soft-rock/index.html | Genres | 70s soft rock | Live | 2026-08-09 | Random Artist Picker, Random 70s Song Generator |
+| Dancing Queen: The Song ABBA Played for a King First | https://musicofthe70s.net/blog/songs/dancing-queen/index.html | Songs | Dancing Queen | Live | 2026-08-08 | Random 70s Song Generator, Mood Song Matcher |
+| Hotel California: What It Really Means (And What It Doesn't) | https://musicofthe70s.net/blog/songs/hotel-california/index.html | Songs | Hotel California | Live | 2026-08-08 | Random 70s Song Generator, Mood Song Matcher |
+| Bohemian Rhapsody: The Song Nobody Wanted to Release | https://musicofthe70s.net/blog/songs/bohemian-rhapsody/index.html | Songs | Bohemian Rhapsody | Live | 2026-08-07 | Random 70s Song Generator, Mood Song Matcher |
+| Don McLean American Pie: The Real Story Behind It | https://musicofthe70s.net/blog/songs/don-mclean-american-pie/index.html | Songs | don mclean american pie | Live | 2026-08-07 | Random 70s Song Generator, Mood Song Matcher |
+| Bee Gees (artist) | Artists | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "The Slump and Reinvention in Miami" H2, opening section |
+| ABBA (artist) | Artists | Waterloo (song) | /blog/songs/abba-waterloo/index.html | Body, "The Contest That Actually Launched ABBA" H2, mid-section |
+| Rick James | Artists | George Clinton | /blog/artists/george-clinton/index.html | Body, "Rick James's Real 1970s Chart Record" H2, mid-section sentence |
+| Rick James | Artists | 70s Funk | /blog/genres/70s-funk/index.html | Body, "Rick James's Real 1970s Chart Record" H2, sentence after the George Clinton link |
+| Marvin Gaye | Artists | James Brown in the 70s | /blog/artists/james-brown/index.html | Body, end of the "1971: The Album Berry Gordy Tried to Bury" H2 |
+| Marvin Gaye | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, end of the "1973: Let's Get It On" H2 |
+| Marvin Gaye | Artists | Random Artist Picker | /pages/random-artist-picker.html | Body, end of the "Diana & Marvin" H2 |
+| Marvin Gaye | Artists | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, after the video embed in the "Got to Give It Up" H2 |
+| What's Going On Marvin Gaye | Songs | Marvin Gaye (artist) | /blog/artists/marvin-gaye/index.html | Body, "Why Marvin Gaye Took It On" H3, closing sentence |
+| What's Going On Marvin Gaye | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Saxophone Line That Was Just a Warm-Up" H3, closing sentence |
+| What's Going On Marvin Gaye | Songs | What's Going On (Listen Now) | /radio/index.html?play=1971-21-whats-going-on | Body, end of the "How the Record Got Made by Accident" H2, not adjacent to the video embed |
+| What's Going On Marvin Gaye | Songs | Music of the 70s | /index.html | Body, "Where the Song Landed on the Charts" H2, third sentence |
+| What's Going On Marvin Gaye | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why the Song Still Gets Played" H2, mid-section |
+| What's Going On Marvin Gaye | Songs | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, "Why the Song Still Gets Played" H2, closing sentence |
+| Marvin Gaye (artist) | Artists | What's Going On (song) | /blog/songs/whats-going-on-marvin-gaye/index.html | Body, "A Refusal, Then a Strike" H3, closing sentence, forward link added and pushed the session the song post went live (012d3af) |
+| Donna Summer Hot Stuff | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, opening sentence of the "Donna Summer Wanted a Rock Record, Not Another Disco Single" H2 |
+| Donna Summer Hot Stuff | Songs | Hot Stuff (Listen Now) | /radio/index.html?play=1979-7-hot-stuff | Body, "One Take on a Clearance-Bin Guitar" H3, mid-section, several sentences before the video embed |
+| Donna Summer Hot Stuff | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, opening of the "The Grammy a Disco Record Was Not Supposed to Win" H2 |
+| Donna Summer Hot Stuff | Songs | Music of the 70s | /index.html | Body, mid-sentence in the "What Donna Summer Brought to It" H3 |
+| Donna Summer Hot Stuff | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, end of the "The Year-End Picture" H3 |
+| Donna Summer Hot Stuff | Songs | I Will Survive (song) | /blog/songs/i-will-survive/index.html | Body, "The Year-End Picture" H3, song-to-song cross-link |
+| Superstition Stevie Wonder | Songs | Superstition (Listen Now) | /radio/index.html?play=1973-26-superstition | Intro, sentence before the "Motown had other plans" line, not adjacent to the video embed |
+| Superstition Stevie Wonder | Songs | What's Going On (song) | /blog/songs/whats-going-on-marvin-gaye/index.html | Body, "The Trade That Never Paid Off for Beck" H3, mid-section, song-to-song cross-link |
+| Superstition Stevie Wonder | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, mid-paragraph in the "How Stevie Wonder Built Superstition Almost Entirely Alone" H2, not opening or closing sentence |
+| Superstition Stevie Wonder | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H2, mid-section after the personnel list |
+| Superstition Stevie Wonder | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, end of the "The Year-End Picture" H3 |
+| Superstition Stevie Wonder | Songs | Music of the 70s | /index.html | Body, "Why Superstition Still Reunites Its Original Creators" H2, mid-section |
+| Stevie Wonder (artist) | Artists | Superstition (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "The Classic Period Hits, Charted Year by Year" H3, list item anchor, forward link added the session the song post published |

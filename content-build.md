@@ -4,29 +4,40 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   docs/linking-and-tools.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see docs/file-rotation.md).
-# Last Updated: 2026-09-15 (Sir Duke, Stevie Wonder, slot #34, Charlie-approved, pushed to LIVE)
+# Last Updated: 2026-09-21 (Night Fever, Bee Gees, slot #36, built local, awaiting Charlie's review)
 
 ---
 
-## Current State (as of 2026-09-15)
+## Current State (as of 2026-09-21)
 
-- Sir Duke (Songs, slot #34), focus keyword `sir duke stevie wonder`, never used before.
-  `blog/songs/sir-duke-stevie-wonder/index.html`. **Charlie-approved after local review, LIVE.**
-  Chart facts from this site's own `hot100_weekly.json` (3 weeks at #1, May 21-June 10, 1977) and
-  `year_end_hot100.json` (#18 for 1977); writing/personnel/Grammy facts cross-checked against
-  Wikipedia, Songfacts, and Far Out Magazine. `verify_post.py` clean: 1,394 words, 0.574% density,
-  81.2% under 20 words, FAQ PASS. Personnel + chart tables, bulleted namecheck list, and one extra
-  body image satisfy the breakup rule. Listen Now link (`radio_id: 1977-18-sir-duke`), Stevie Wonder
-  artist backlink, and cross-links to the live Superstition and You Are the Sunshine of My Life posts
-  all added. Forward link added to the Stevie Wonder artist page's "Sir Duke" bullet the same session.
+- Night Fever (Songs, slot #36), focus keyword `night fever` (Charlie-specified directly), never used
+  before. `blog/songs/night-fever/index.html`. **Built local, awaiting Charlie's review before push.**
+  Angle: the song's title got folded into the film's own name (Saturday Night Fever), distinct from the
+  Stayin' Alive post's fake-magazine-story angle despite same soundtrack/era. Chart facts from this
+  site's own `hot100_weekly.json` (8 weeks at #1, week of Mar 18 - week ending May 12, 1978) and
+  `year_end_hot100.json` (#2 for 1978); writing/production/Grammy/title-origin facts cross-checked
+  against Wikipedia, Songfacts, and beegees.com. `verify_post.py` clean: 1,565 words, 1.47% density,
+  93.1% under 20 words, FAQ PASS, YouTube status PASS. Chart data table, personnel/session H3s, and one
+  extra body image satisfy the breakup rule. Listen Now link (`radio_id: 1978-2-night-fever`), Bee Gees
+  artist backlink, Stayin' Alive and You Should Be Dancing cross-links all added. Forward link added to
+  the Bee Gees artist page's "The Fever Peak" H2 the same session. Featured/body images reuse existing
+  `bee-gees-1970s`/`bee-gees-1977` files (established reuse precedent already on site: Stayin' Alive
+  also uses `bee-gees-1977`); no free-licensed disco-era Bee Gees group photo exists beyond what's
+  already on the site (checked Wikimedia Commons and Wikipedia's own Bee Gees article image list).
   Link/image check via curl against local server: all 200. No headless-browser mobile screenshot this
   session (no browser tool available); CSS classes reused verbatim from already mobile-verified posts
-  (Last Dance, Superstition).
+  (You Should Be Dancing, Stayin' Alive).
+- **CONTENT-INDEX.md/content-build.md were stale by one slot going into this session**: The Name of the
+  Game ABBA (slot #35) had already shipped LIVE 2026-09-17 (confirmed via git log) but was never added
+  to either tracker. Backfilled this session; pruned 12 of the oldest Live rows from CONTENT-INDEX.md to
+  CONTENT-INDEX-ARCHIVE.md to hold the line count (193 -> 182 lines) since it was already near cap.
 
-- New Kid in Town (slot #32), Last Dance (slot #33): both confirmed LIVE, Charlie-approved. Blue Eyes
-  Crying in the Rain (slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green Tired of Being
-  Alone (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-34 LIVE, most recently Sir Duke (Stevie Wonder, 2026-09-15).
+- New Kid in Town (slot #32), Last Dance (slot #33), Sir Duke (slot #34), The Name of the Game (slot
+  #35): all confirmed LIVE, Charlie-approved. Blue Eyes Crying in the Rain (slot #28), Marvin Gaye
+  Let's Get It On (slot #22), and Al Green Tired of Being Alone (slot #21): all confirmed LIVE,
+  Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
+- Songs artist-linked rotation queue: slots 1-35 LIVE, slot #36 (Night Fever) built local. Most recent
+  LIVE post: The Name of the Game (ABBA, 2026-09-17).
 - Note: local main had an unpushed CI-workflow commit (709eda5, `.github/workflows/
   update-generated-files.yml`) sitting ahead of remote. Rebased this session's push around
   it (Charlie-approved); the workflow commit is preserved on local branch
@@ -94,7 +105,7 @@ Rotation Queue History" plus the 2026-09-02 prune section). Only what is still o
 
 | Category | Content | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-26 LIVE. Full ordered list in the next section. |
+| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-35 LIVE, slot #36 built local. Full ordered list in the next section. |
 | Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
 | Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
 | Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
@@ -151,8 +162,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 32. New Kid in Town — Eagles the Band — **LIVE 2026-09-13**
 33. Last Dance — Donna Summer — **LIVE 2026-09-14**
 34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
-35. The Name of the Game — ABBA
-36. Night Fever — Bee Gees
+35. The Name of the Game — ABBA — **LIVE 2026-09-17**
+36. Night Fever — Bee Gees — **Built local 2026-09-21, awaiting Charlie's review**
 37. Heartache Tonight — Eagles the Band
 38. MacArthur Park — Donna Summer
 39. Living for the City — Stevie Wonder
@@ -162,7 +173,8 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#34, Sir Duke (Stevie Wonder): LIVE 2026-09-15. Next: #35, The Name of the Game (ABBA).**
+**#35, The Name of the Game (ABBA): LIVE 2026-09-17. #36, Night Fever (Bee Gees): built local
+2026-09-21, awaiting Charlie's review. Next after approval: #37, Heartache Tonight (Eagles the Band).**
 
 ---
 
@@ -171,7 +183,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 46 | Slots 1-33 of the artist-linked rotation queue LIVE, most recently Last Dance (Donna Summer, 2026-09-14). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 48 | Slots 1-35 of the artist-linked rotation queue LIVE, most recently The Name of the Game (ABBA, 2026-09-17); slot #36 (Night Fever) built local, awaiting review. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

@@ -7,37 +7,11 @@ generic. Log new entries here after placing links. Log starts 2026-08-28; prior
 posts not backfilled.
 
 When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.md.
+Rows through Stevie Wonder (artist) / Superstition were pruned 2026-09-21; grep "Anchor Text &
+Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Bee Gees (artist) | Artists | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "The Slump and Reinvention in Miami" H2, opening section |
-| ABBA (artist) | Artists | Waterloo (song) | /blog/songs/abba-waterloo/index.html | Body, "The Contest That Actually Launched ABBA" H2, mid-section |
-| Rick James | Artists | George Clinton | /blog/artists/george-clinton/index.html | Body, "Rick James's Real 1970s Chart Record" H2, mid-section sentence |
-| Rick James | Artists | 70s Funk | /blog/genres/70s-funk/index.html | Body, "Rick James's Real 1970s Chart Record" H2, sentence after the George Clinton link |
-| Marvin Gaye | Artists | James Brown in the 70s | /blog/artists/james-brown/index.html | Body, end of the "1971: The Album Berry Gordy Tried to Bury" H2 |
-| Marvin Gaye | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, end of the "1973: Let's Get It On" H2 |
-| Marvin Gaye | Artists | Random Artist Picker | /pages/random-artist-picker.html | Body, end of the "Diana & Marvin" H2 |
-| Marvin Gaye | Artists | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, after the video embed in the "Got to Give It Up" H2 |
-| What's Going On Marvin Gaye | Songs | Marvin Gaye (artist) | /blog/artists/marvin-gaye/index.html | Body, "Why Marvin Gaye Took It On" H3, closing sentence |
-| What's Going On Marvin Gaye | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Saxophone Line That Was Just a Warm-Up" H3, closing sentence |
-| What's Going On Marvin Gaye | Songs | What's Going On (Listen Now) | /radio/index.html?play=1971-21-whats-going-on | Body, end of the "How the Record Got Made by Accident" H2, not adjacent to the video embed |
-| What's Going On Marvin Gaye | Songs | Music of the 70s | /index.html | Body, "Where the Song Landed on the Charts" H2, third sentence |
-| What's Going On Marvin Gaye | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why the Song Still Gets Played" H2, mid-section |
-| What's Going On Marvin Gaye | Songs | 70s Soul Music | /blog/genres/70s-soul-music/index.html | Body, "Why the Song Still Gets Played" H2, closing sentence |
-| Marvin Gaye (artist) | Artists | What's Going On (song) | /blog/songs/whats-going-on-marvin-gaye/index.html | Body, "A Refusal, Then a Strike" H3, closing sentence, forward link added and pushed the session the song post went live (012d3af) |
-| Donna Summer Hot Stuff | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, opening sentence of the "Donna Summer Wanted a Rock Record, Not Another Disco Single" H2 |
-| Donna Summer Hot Stuff | Songs | Hot Stuff (Listen Now) | /radio/index.html?play=1979-7-hot-stuff | Body, "One Take on a Clearance-Bin Guitar" H3, mid-section, several sentences before the video embed |
-| Donna Summer Hot Stuff | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, opening of the "The Grammy a Disco Record Was Not Supposed to Win" H2 |
-| Donna Summer Hot Stuff | Songs | Music of the 70s | /index.html | Body, mid-sentence in the "What Donna Summer Brought to It" H3 |
-| Donna Summer Hot Stuff | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, end of the "The Year-End Picture" H3 |
-| Donna Summer Hot Stuff | Songs | I Will Survive (song) | /blog/songs/i-will-survive/index.html | Body, "The Year-End Picture" H3, song-to-song cross-link |
-| Superstition Stevie Wonder | Songs | Superstition (Listen Now) | /radio/index.html?play=1973-26-superstition | Intro, sentence before the "Motown had other plans" line, not adjacent to the video embed |
-| Superstition Stevie Wonder | Songs | What's Going On (song) | /blog/songs/whats-going-on-marvin-gaye/index.html | Body, "The Trade That Never Paid Off for Beck" H3, mid-section, song-to-song cross-link |
-| Superstition Stevie Wonder | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, mid-paragraph in the "How Stevie Wonder Built Superstition Almost Entirely Alone" H2, not opening or closing sentence |
-| Superstition Stevie Wonder | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H2, mid-section after the personnel list |
-| Superstition Stevie Wonder | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, end of the "The Year-End Picture" H3 |
-| Superstition Stevie Wonder | Songs | Music of the 70s | /index.html | Body, "Why Superstition Still Reunites Its Original Creators" H2, mid-section |
-| Stevie Wonder (artist) | Artists | Superstition (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "The Classic Period Hits, Charted Year by Year" H3, list item anchor, forward link added the session the song post published |
 | Jolene | Songs | Dolly Parton (artist) | /blog/artists/dolly-parton/index.html | Body, "The Fan Who Gave It a Name" H3, mid-paragraph, not opening or closing sentence |
 | Jolene | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the Country Hit Barely Touched Pop" H3, closing sentence, before the year-end table section |
 | Jolene | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Chart Record Jolene Just Broke in 2026" H2, mid-section, opening of the third sentence |
@@ -185,3 +159,18 @@ When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.m
 | Sir Duke Stevie Wonder | Songs | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, same H3, song-to-song cross-link |
 | Sir Duke Stevie Wonder | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same H3, closing sentence |
 | Stevie Wonder (artist) | Artists | Sir Duke (song) | /blog/songs/sir-duke-stevie-wonder/index.html | Body, "The Classic Period Hits, Charted Year by Year" H2 list, on the existing "Sir Duke" bullet, forward link added the session the song post was built |
+| The Name of the Game ABBA | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, "A Fragment Called 'A Bit of Myself'" H3, closing sentence |
+| The Name of the Game ABBA | Songs | The Name of the Game (Listen Now) | /radio/index.html?play=1978-97-the-name-of-the-game | Body, "Four Weeks at #1 in Britain" H3, closing sentence, not adjacent to the video embed |
+| The Name of the Game ABBA | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, mid-section between the chart table and video embed, opening sentence of a standalone paragraph |
+| The Name of the Game ABBA | Songs | Take a Chance on Me (song) | /blog/songs/take-a-chance-on-me/index.html | Body, same mid-section, closing sentence, song-to-song cross-link |
+| The Name of the Game ABBA | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Fugees Turn It Into a Sample" H3, opening sentence |
+| The Name of the Game ABBA | Songs | Music of the 70s | /index.html | Body, "The Fugees Turn It Into a Sample" H3, closing sentence |
+| ABBA (artist) | Artists | The Name of the Game (song) | /blog/songs/the-name-of-the-game-abba/index.html | Body, "How ABBA Actually Performed on the US Charts" H2, on the existing "The Name of the Game" mention, forward link added the session the song post was built |
+| Night Fever | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "A Magazine Article, Renamed Twice Before the Cameras Rolled" H3, closing sentence |
+| Night Fever | Songs | Night Fever (Listen Now) | /radio/index.html?play=1978-2-night-fever | Body, "The Musicians Who Played on the Session" H3, mid-section, not adjacent to the video embed (which sits in a separate H2 section entirely) |
+| Night Fever | Songs | Stayin' Alive (song) | /blog/songs/stayin-alive/index.html | Body, "Not Even the Only Bee Gees Hit of the Same Stretch" H3, opening sentence, song-to-song cross-link |
+| Night Fever | Songs | Music of the 70s | /index.html | Body, immediately after the data table, opening sentence of a standalone paragraph, not adjacent to FAQ |
+| Night Fever | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, sentence immediately after the video embed, adjacent-after |
+| Night Fever | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Best Pop Vocal Performance by a Duo or Group" H3, closing sentence |
+| Night Fever | Songs | You Should Be Dancing (song) | /blog/songs/you-should-be-dancing/index.html | Body, "The Live B-Side Nobody Remembers" H3, closing sentence, song-to-song cross-link |
+| Bee Gees (artist) | Artists | Night Fever (song) | /blog/songs/night-fever/index.html | Body, "The Fever Peak" H2, opening area, forward link added the session the song post was built |
