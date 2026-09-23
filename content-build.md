@@ -170,14 +170,14 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 36. Night Fever — Bee Gees — **LIVE 2026-09-21**
 37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
 38. MacArthur Park — Donna Summer — **LIVE 2026-09-22**
-39. Living for the City — Stevie Wonder
+39. Living for the City — Stevie Wonder — **LIVE 2026-09-23**
 40. How Deep Is Your Love — Bee Gees
 41. Too Much Heaven — Bee Gees
 42. Tragedy — Bee Gees
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
-**#38, MacArthur Park (Donna Summer): LIVE 2026-09-22. Next: #39, Living for the City (Stevie Wonder).**
+**#39, Living for the City (Stevie Wonder): LIVE 2026-09-23. Next: #40, How Deep Is Your Love (Bee Gees).**
 
 ---
 
@@ -186,7 +186,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 50 | Slots 1-37 of the artist-linked rotation queue LIVE, most recently Heartache Tonight (Eagles, 2026-09-22). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 52 | Slots 1-39 of the artist-linked rotation queue LIVE, most recently Living for the City (Stevie Wonder, 2026-09-23). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |
