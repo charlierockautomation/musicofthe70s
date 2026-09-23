@@ -7,30 +7,11 @@ generic. Log new entries here after placing links. Log starts 2026-08-28; prior
 posts not backfilled.
 
 When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.md.
-Rows through Stevie Wonder (artist) / Superstition were pruned 2026-09-21; grep "Anchor Text &
+Rows through Carole King (artist) / Carole King It's Too Late were pruned 2026-09-23; grep "Anchor Text &
 Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Jolene | Songs | Dolly Parton (artist) | /blog/artists/dolly-parton/index.html | Body, "The Fan Who Gave It a Name" H3, mid-paragraph, not opening or closing sentence |
-| Jolene | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the Country Hit Barely Touched Pop" H3, closing sentence, before the year-end table section |
-| Jolene | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Chart Record Jolene Just Broke in 2026" H2, mid-section, opening of the third sentence |
-| Jolene | Songs | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, "Three Covers, Three Very Different Outcomes" H3, closing sentence |
-| Jolene | Songs | Music of the 70s | /index.html | Body, "A Chart Table That Took Five Decades to Fill In" H3, closing sentence, mid-post |
-| Bad Bad Leroy Brown | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Intro, opening sentence of the "The Real Leroy Brown Jim Croce Met in the Army" H2 |
-| Bad Bad Leroy Brown | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, mid-section of the "A Strong Year-End Finish" H3, not a closing sentence |
-| Bad Bad Leroy Brown | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of "The Song He Never Got to Hear at the Top" H3 |
-| Bad Bad Leroy Brown | Songs | Bad Bad Leroy Brown (Listen Now) | /radio/index.html?play=bad-bad-leroy-brown | Body, "A Folk-Rock Storyteller's Biggest Hit" H3, sentence directly before close, adjacent style not used in the last 4 Songs posts |
-| Bad Bad Leroy Brown | Songs | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, closing sentence of the "Grammy Recognition and What Came After" H2 |
-| Bad Bad Leroy Brown | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "A Folk-Rock Storyteller's Biggest Hit" H3, mid-section, secondary destination |
-| Jim Croce (artist) | Artists | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "A Character Sketch Becomes His Biggest Hit Yet" H3, closing sentence, forward link added the session the song post published |
-| Carole King It's Too Late | Songs | Carole King (artist) | /blog/artists/carole-king/index.html | Body, "Carole King It's Too Late Started as Two Separate Songs" H2, 2nd paragraph, mid-sentence |
-| Carole King It's Too Late | Songs | It's Too Late / I Feel the Earth Move (Listen Now) | /radio/index.html?play=1971-3-its-too-late-i-feel-the-earth-move | Body, closing sentence of "The Musicians Behind Both Sides of the Single" H2, not adjacent to the video embed |
-| Carole King It's Too Late | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Platinum Single From a Diamond Album" H3, closing sentence |
-| Carole King It's Too Late | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of "One Grammy Award for Two Songs" H2 |
-| Carole King It's Too Late | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Cover Version an Earthquake Ended" H2, last content line before FAQ |
-| Carole King It's Too Late | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "The Cover Version an Earthquake Ended" H2, mid-section, secondary destination |
-| Carole King (artist) | Artists | Carole King It's Too Late (song) | /blog/songs/carole-king-its-too-late/index.html | Body, "Five Weeks at Number One on the Hot 100" H3, mid-sentence, forward link added the session the song post published |
 | Song YMCA | Songs | Music of the 70s | /index.html | Body, closing sentence of "Song YMCA Started With a Question About What YMCA Even Meant" H2, mid-post, not adjacent to FAQ |
 | Song YMCA | Songs | Village People (artist) | /blog/artists/village-people/index.html | Body, "Recorded at Sigma Sound, Released on Cruisin'" H3, mid-sentence |
 | Song YMCA | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing of "Randy Jones's Misunderstanding Theory" H3, directly before the video embed |
@@ -187,3 +168,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | MacArthur Park Donna Summer | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "A Song That Keeps Finding New Rooms" H3, mid-section sentence |
 | MacArthur Park Donna Summer | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence |
 | Donna Summer (artist) | Artists | MacArthur Park (song) | /blog/songs/macarthur-park-donna-summer/index.html | Body, "MacArthur Park's Real Place in the Timeline" H3, on the existing "MacArthur Park" mention, forward link added the session the song post was built |
+| Living for the City | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "What the Year-End Chart Number Doesn't Show About Living for the City" H2, opening sentence |
+| Living for the City | Songs | Living for the City (Listen Now) | /radio/index.html?play=1974-45-living-for-the-city | Body, "The Move to New York and the Frame-Up" H3, mid-section, not adjacent to the video embed |
+| Living for the City | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "How Stevie Wonder Built the Sound Alone" H2, opening sentence |
+| Living for the City | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, "The Grammys It Won, and the History It Made" H2, closing sentence |
+| Living for the City | Songs | Music of the 70s | /index.html | Body, "Where It Sits in Stevie Wonder's Catalog" H2, opening sentence |
+| Living for the City | Songs | Superstition / You Are the Sunshine of My Life / Sir Duke (songs) | /blog/songs/superstition-stevie-wonder/, you-are-the-sunshine-of-my-life/, sir-duke-stevie-wonder/ | Body, same H2, bullet-list song-to-song cross-links |
+| Stevie Wonder (artist) | Artists | Living for the City (song) | /blog/songs/living-for-the-city/index.html | Body, "The Classic Period Hits, Charted Year by Year" H2 list, on the existing "Living for the City" bullet, forward link added the session the song post was built |

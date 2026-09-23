@@ -596,3 +596,22 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Superstition Stevie Wonder | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, end of the "The Year-End Picture" H3 |
 | Superstition Stevie Wonder | Songs | Music of the 70s | /index.html | Body, "Why Superstition Still Reunites Its Original Creators" H2, mid-section |
 | Stevie Wonder (artist) | Artists | Superstition (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "The Classic Period Hits, Charted Year by Year" H3, list item anchor, forward link added the session the song post published |
+| Jolene | Songs | Dolly Parton (artist) | /blog/artists/dolly-parton/index.html | Body, "The Fan Who Gave It a Name" H3, mid-paragraph, not opening or closing sentence |
+| Jolene | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the Country Hit Barely Touched Pop" H3, closing sentence, before the year-end table section |
+| Jolene | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Chart Record Jolene Just Broke in 2026" H2, mid-section, opening of the third sentence |
+| Jolene | Songs | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, "Three Covers, Three Very Different Outcomes" H3, closing sentence |
+| Jolene | Songs | Music of the 70s | /index.html | Body, "A Chart Table That Took Five Decades to Fill In" H3, closing sentence, mid-post |
+| Bad Bad Leroy Brown | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Intro, opening sentence of the "The Real Leroy Brown Jim Croce Met in the Army" H2 |
+| Bad Bad Leroy Brown | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, mid-section of the "A Strong Year-End Finish" H3, not a closing sentence |
+| Bad Bad Leroy Brown | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of "The Song He Never Got to Hear at the Top" H3 |
+| Bad Bad Leroy Brown | Songs | Bad Bad Leroy Brown (Listen Now) | /radio/index.html?play=bad-bad-leroy-brown | Body, "A Folk-Rock Storyteller's Biggest Hit" H3, sentence directly before close, adjacent style not used in the last 4 Songs posts |
+| Bad Bad Leroy Brown | Songs | 70s Music Trivia Quiz | /pages/70s-trivia-quiz.html | Body, closing sentence of the "Grammy Recognition and What Came After" H2 |
+| Bad Bad Leroy Brown | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "A Folk-Rock Storyteller's Biggest Hit" H3, mid-section, secondary destination |
+| Jim Croce (artist) | Artists | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "A Character Sketch Becomes His Biggest Hit Yet" H3, closing sentence, forward link added the session the song post published |
+| Carole King It's Too Late | Songs | Carole King (artist) | /blog/artists/carole-king/index.html | Body, "Carole King It's Too Late Started as Two Separate Songs" H2, 2nd paragraph, mid-sentence |
+| Carole King It's Too Late | Songs | It's Too Late / I Feel the Earth Move (Listen Now) | /radio/index.html?play=1971-3-its-too-late-i-feel-the-earth-move | Body, closing sentence of "The Musicians Behind Both Sides of the Single" H2, not adjacent to the video embed |
+| Carole King It's Too Late | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Platinum Single From a Diamond Album" H3, closing sentence |
+| Carole King It's Too Late | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing sentence of "One Grammy Award for Two Songs" H2 |
+| Carole King It's Too Late | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Cover Version an Earthquake Ended" H2, last content line before FAQ |
+| Carole King It's Too Late | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "The Cover Version an Earthquake Ended" H2, mid-section, secondary destination |
+| Carole King (artist) | Artists | Carole King It's Too Late (song) | /blog/songs/carole-king-its-too-late/index.html | Body, "Five Weeks at Number One on the Hot 100" H3, mid-sentence, forward link added the session the song post published |
