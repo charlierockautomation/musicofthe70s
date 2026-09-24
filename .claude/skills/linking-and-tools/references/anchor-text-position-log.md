@@ -182,3 +182,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | How Deep Is Your Love | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / Night Fever (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, night-fever/ | Body, same H2, bullet-list song-to-song cross-links |
 | How Deep Is Your Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Where How Deep Is Your Love Sits in the Bee Gees' Catalog" H2, closing sentence |
 | Bee Gees (artist) | Artists | How Deep Is Your Love (song) | /blog/songs/how-deep-is-your-love/index.html | Body, "The Fever Peak" H2, on the existing "Night Fever" mention, forward link added the session the song post was built |
+| Too Much Heaven | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "Too Much Heaven Was Written for UNICEF, Not for Sale" H2, mid-section sentence |
+| Too Much Heaven | Songs | Music of the 70s | /index.html | Body, "Two Weeks at Number One, Sandwiched by Le Freak" H2, closing sentence after the data table |
+| Too Much Heaven | Songs | Too Much Heaven (Listen Now) | /radio/index.html?play=1979-11-too-much-heaven | Body, "Where It Fits on Spirits Having Flown" H2, closing sentence, not adjacent to the video embed |
+| Too Much Heaven | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Bee Gees' Three-Song Grip on 1979" H2, opening sentence |
+| Too Much Heaven | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / How Deep Is Your Love / Night Fever (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, how-deep-is-your-love/, night-fever/ | Body, "Where It Sits in the Bee Gees' Catalog" H2, bullet-list song-to-song cross-links |
+| Too Much Heaven | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H2, mid-section sentence |
+| Bee Gees (artist) | Artists | Too Much Heaven (song) | /blog/songs/too-much-heaven/index.html | Body, "The Fever Peak" H2, on the existing "Spirits Having Flown" mention, forward link added the session the song post was built |
