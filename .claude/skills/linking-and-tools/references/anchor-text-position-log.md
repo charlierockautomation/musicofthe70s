@@ -175,3 +175,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Living for the City | Songs | Music of the 70s | /index.html | Body, "Where It Sits in Stevie Wonder's Catalog" H2, opening sentence |
 | Living for the City | Songs | Superstition / You Are the Sunshine of My Life / Sir Duke (songs) | /blog/songs/superstition-stevie-wonder/, you-are-the-sunshine-of-my-life/, sir-duke-stevie-wonder/ | Body, same H2, bullet-list song-to-song cross-links |
 | Stevie Wonder (artist) | Artists | Living for the City (song) | /blog/songs/living-for-the-city/index.html | Body, "The Classic Period Hits, Charted Year by Year" H2 list, on the existing "Living for the City" bullet, forward link added the session the song post was built |
+| How Deep Is Your Love | Songs | How Deep Is Your Love (Listen Now) | /radio/index.html?play=1978-6-how-deep-is-your-love | Body, "A Dinner Table in France and a Change of Plans at Criteria" H2, mid-section, not adjacent to the video embed |
+| How Deep Is Your Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The First of Three Straight Number Ones" H2, opening sentence |
+| How Deep Is Your Love | Songs | Music of the 70s | /index.html | Body, "Grammy Night and the Competition It Beat" H2, closing sentence |
+| How Deep Is Your Love | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "Where How Deep Is Your Love Sits in the Bee Gees' Catalog" H2, opening sentence |
+| How Deep Is Your Love | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / Night Fever (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, night-fever/ | Body, same H2, bullet-list song-to-song cross-links |
+| How Deep Is Your Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Where How Deep Is Your Love Sits in the Bee Gees' Catalog" H2, closing sentence |
+| Bee Gees (artist) | Artists | How Deep Is Your Love (song) | /blog/songs/how-deep-is-your-love/index.html | Body, "The Fever Peak" H2, on the existing "Night Fever" mention, forward link added the session the song post was built |
