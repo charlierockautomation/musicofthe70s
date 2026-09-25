@@ -64,6 +64,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Night Fever: The Bee Gees Song That Renamed a Movie | https://musicofthe70s.net/blog/songs/night-fever/index.html | Songs | night fever | Live | 2026-09-21 | Random 70s Song Generator, Mood Song Matcher |

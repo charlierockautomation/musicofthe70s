@@ -4,35 +4,18 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-25 (Tragedy, Bee Gees, slot #42, built local, awaiting review)
+# Last Updated: 2026-09-25 (Tragedy, Bee Gees, slot #42, LIVE, queue complete)
 
 ---
 
 ## Current State (as of 2026-09-25)
 
-- Tragedy (Songs, slot #42, final slot in the 42-song queue), focus keyword `tragedy bee gees`
-  (verified via DataForSEO: 6,600/mo, informational, low competition, vs. 60,500/mo for bare
-  `tragedy`, rejected as a generic dictionary word polluted further by Steps' 1998 cover
-  competing for the same term, same wrong-intent call as MacArthur Park's bare-keyword reject),
-  never used before. `blog/songs/tragedy-bee-gees/index.html`. **Built local 2026-09-25, NOT yet
-  committed or pushed, awaiting Charlie's review/go-ahead per the PUBLISH GATE.** Angle:
-  structurally distinct from the site's other 6 Bee Gees Songs posts, side-by-side comparison of
-  the 1979 Bee Gees original (RSO, #1 Hot 100 for 2 weeks Mar 24-Apr 6 1979, #1 in 7 countries,
-  this site's own year-end JSON fun_fact on the deliberate disco/country chord blend and the
-  Karl Richardson explosion-effect production technique) against Steps' 1998 cover (Jive, double
-  A-side with "Heartbeat," UK #1 Jan 1999, 1.21M UK copies sold, more than their prior 3 singles
-  combined, 87th-biggest UK seller of all time per Official Charts 2023). Facts cross-checked
-  against Wikipedia (song and Spirits Having Flown pages) and American Songwriter on top of this
-  site's own `hot100_weekly.json` (weeks 10-14, 1979) and `year_end_hot100.json` (1979 rank 16).
-  `verify_post.py` clean: 1,543 words, 0.648% density, 80.8% under 20 words, FAQ PASS, YouTube
-  status PASS (video ID `I248-SyRDnU`, embeddable/not-made-for-kids, checked 2026-09-21). Two
-  data-tables (weekly chart bracket vs. Gloria Gaynor's I Will Survive; original-vs-cover
-  comparison), one extra body image, one H3 breakup satisfy the breakup rule. `radio_id` exists
-  (`1979-16-tragedy`), Listen Now link included. Bee Gees artist backlink added; forward link
-  added the same session to the artist page's "Backlash and Songwriting Mastery" H2 (new H2, not
-  the repeated "Fever Peak" H2 used by the prior two Bee Gees forward links). Playwright check at
-  desktop/375px/390px passed, zero console errors, no horizontal scroll. This was the last open
-  slot in the 42-song artist-linked rotation queue; queue is now fully built pending review.
+- Tragedy (Songs, slot #42, final slot in the 42-song queue): focus keyword `tragedy bee gees`
+  (6,600/mo, informational, vs. 60,500/mo bare `tragedy` rejected as generic-word/Steps-cover
+  wrong-intent, same call as MacArthur Park). **LIVE 2026-09-25 (commit 61c51d7, pushed to
+  origin/main, live-verified; regen commit 0a31f17).** Full build write-up: SESSION-LOG-ARCHIVE.md.
+  This was the last open slot in the 42-song artist-linked rotation queue; queue is now
+  complete, all 42 slots LIVE.
 
 - MacArthur Park (Songs, slot #38): focus keyword `macarthur park donna summer`. **LIVE 2026-09-22
   (commit 081a94d, pushed to origin/main, live-verified).** Full build write-up pruned to
@@ -42,8 +25,8 @@
   #32), Last Dance (slot #33), Sir Duke (slot #34), The Name of the Game (slot #35), Blue Eyes Crying
   in the Rain (slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green Tired of Being Alone
   (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: slots 1-41 LIVE, slot #42 (Tragedy) built local awaiting review,
-  the queue's final slot. Most recent LIVE post: Too Much Heaven (Bee Gees, 2026-09-24).
+- Songs artist-linked rotation queue: all 42 slots LIVE, queue complete. Most recent LIVE post:
+  Tragedy (Bee Gees, 2026-09-25).
 - Note: local main preserves an unpushed CI-workflow commit (709eda5) on local branch
   `ci-workflow-pending`, not on remote per the standing PAT-scope call (Charlie-approved).
 - Genres Rotation Queue is fully clear. Years series complete (10/10). Trivia has no cap.
@@ -173,7 +156,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 39. Living for the City — Stevie Wonder — **LIVE 2026-09-23**
 40. How Deep Is Your Love — Bee Gees — **LIVE 2026-09-23**
 41. Too Much Heaven — Bee Gees — **LIVE 2026-09-24**
-42. Tragedy — Bee Gees — **Built local 2026-09-25, awaiting Charlie's review/go-ahead.**
+42. Tragedy — Bee Gees — **LIVE 2026-09-25**
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
 
@@ -184,7 +167,7 @@ each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSIO
 | Category | Live Posts | State |
 |---|---|---|
 | Years | 10 | Series complete, no further posts planned |
-| Songs | 54 | Slots 1-41 LIVE, slot #42 (Tragedy) built local awaiting review, the queue's final slot. Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
+| Songs | 55 | All 42 slots of the artist-linked rotation queue LIVE, queue complete, most recently Tragedy (Bee Gees, 2026-09-25). Over its 6-post cap since 2026-08-16 by design; still thin relative to the 1,000-record song database |
 | Artists | 24 | George Clinton (funk bucket) published 2026-08-27, first Artists post in the funk bucket. Jim Croce published the same day, first post under the folk-rock/singer-songwriter camp. Rick James (funk bucket, second post) published 2026-08-29. Marvin Gaye (soul bucket, first post) published 2026-08-29. Al Green (soul bucket, second post) published 2026-08-30. Donna Summer (disco bucket, second post) published 2026-08-31. Thin relative to the 601-artist JSON pool — real tool dead-end risk (grep "Sitemap-Verified Findings" SESSION-LOG-ARCHIVE.md) |
 | Trivia | 4 | No cap (Charlie-confirmed 2026-08-24): 70s Music Trivia, 70s Music Quiz, ABBA vs Queen, Banned Songs of the 70s |
 | Genres | 12 | Rotation Queue fully clear; every real, coherent Genres angle surfaced so far has shipped |

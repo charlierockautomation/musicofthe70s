@@ -376,3 +376,29 @@ in the Timeline" H3. Playwright screenshot check at desktop/375px/390px passed, 
 (a first pass flagged 4 "broken" lazy-loaded images; re-checked after scroll, all loaded fine, false
 alarm from checking `img.complete` before the images entered the viewport). Reviewed and pushed once
 Charlie confirmed.
+
+## Tragedy (Songs, slot #42) — full build write-up, LIVE 2026-09-25
+Tragedy (Songs, slot #42, final slot in the 42-song queue), focus keyword `tragedy bee gees`
+(verified via DataForSEO: 6,600/mo, informational, low competition, vs. 60,500/mo for bare
+`tragedy`, rejected as a generic dictionary word polluted further by Steps' 1998 cover
+competing for the same term, same wrong-intent call as MacArthur Park's bare-keyword reject),
+never used before. `blog/songs/tragedy-bee-gees/index.html`. **LIVE 2026-09-25 (commit 61c51d7,
+pushed to origin/main; regen commit 0a31f17, live-verified: post 200, artist-page cross-link
+confirmed, sitemap/llms.txt/blog-hub/Songs-category/homepage-latest all regenerated).** Angle:
+structurally distinct from the site's other 6 Bee Gees Songs posts, side-by-side comparison of
+the 1979 Bee Gees original (RSO, #1 Hot 100 for 2 weeks Mar 24-Apr 6 1979, #1 in 7 countries,
+this site's own year-end JSON fun_fact on the deliberate disco/country chord blend and the
+Karl Richardson explosion-effect production technique) against Steps' 1998 cover (Jive, double
+A-side with "Heartbeat," UK #1 Jan 1999, 1.21M UK copies sold, more than their prior 3 singles
+combined, 87th-biggest UK seller of all time per Official Charts 2023). Facts cross-checked
+against Wikipedia (song and Spirits Having Flown pages) and American Songwriter on top of this
+site's own `hot100_weekly.json` (weeks 10-14, 1979) and `year_end_hot100.json` (1979 rank 16).
+`verify_post.py` clean: 1,543 words, 0.648% density, 80.8% under 20 words, FAQ PASS, YouTube
+status PASS (video ID `I248-SyRDnU`, embeddable/not-made-for-kids, checked 2026-09-21). Two
+data-tables (weekly chart bracket vs. Gloria Gaynor's I Will Survive; original-vs-cover
+comparison), one extra body image, one H3 breakup satisfy the breakup rule. `radio_id` exists
+(`1979-16-tragedy`), Listen Now link included. Bee Gees artist backlink added; forward link
+added the same session to the artist page's "Backlash and Songwriting Mastery" H2 (new H2, not
+the repeated "Fever Peak" H2 used by the prior two Bee Gees forward links). Playwright check at
+desktop/375px/390px passed, zero console errors, no horizontal scroll. This was the last open
+slot in the 42-song artist-linked rotation queue; queue is now complete, all 42 slots LIVE.
