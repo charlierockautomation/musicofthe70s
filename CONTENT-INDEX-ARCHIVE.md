@@ -615,3 +615,19 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Carole King It's Too Late | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Cover Version an Earthquake Ended" H2, last content line before FAQ |
 | Carole King It's Too Late | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/index.html | Body, "The Cover Version an Earthquake Ended" H2, mid-section, secondary destination |
 | Carole King (artist) | Artists | Carole King It's Too Late (song) | /blog/songs/carole-king-its-too-late/index.html | Body, "Five Weeks at Number One on the Hot 100" H3, mid-sentence, forward link added the session the song post published |
+
+## Anchor Text & Position Log rows pruned 2026-09-25 (Song YMCA, Georgia on My Mind)
+| Post | Category | Anchor Text | Target | Position |
+|---|---|---|---|---|
+| Song YMCA | Songs | Music of the 70s | /index.html | Body, closing sentence of "Song YMCA Started With a Question About What YMCA Even Meant" H2, mid-post, not adjacent to FAQ |
+| Song YMCA | Songs | Village People (artist) | /blog/artists/village-people/index.html | Body, "Recorded at Sigma Sound, Released on Cruisin'" H3, mid-sentence |
+| Song YMCA | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing of "Randy Jones's Misunderstanding Theory" H3, directly before the video embed |
+| Song YMCA | Songs | Y.M.C.A. (Listen Now) | /radio/index.html?play=1979-8-ymca | Body, sentence immediately after the video embed, not adjacent-before style used in the last 4 Songs posts |
+| Song YMCA | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of "Sales That Outran Its Own Chart Peak" H3 |
+| Song YMCA | Songs | Disco Music of the 70s (genre) | /blog/genres/disco-music-of-the-70s/index.html | Body, closing sentence of "The Library of Congress Called It Historically Significant" H2, secondary destination |
+| Village People (artist) | Artists | Song YMCA (song) | /blog/songs/song-ymca/index.html | Body, "Village People in the 70s: Y.M.C.A. Got Bigger Than Anyone Expected" H2, closing sentence, forward link added the session the song post was built |
+| Georgia on My Mind | Songs | Willie Nelson (artist) | /blog/artists/willie-nelson/index.html | Body, closing sentence of "Ten Songs, All Older Than His Outlaw Reputation" H3 |
+| Georgia on My Mind | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence after the video embed, "A Mobile Studio in a Living Room" H3 section |
+| Georgia on My Mind | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Two Very Different Stages for the Same Song" H3, opening sentence |
+| Georgia on My Mind | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Same Song, Two Very Different Legacies" H3, last content line before FAQ |
+| Willie Nelson (artist) | Artists | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, forward link added the session the song post was built |

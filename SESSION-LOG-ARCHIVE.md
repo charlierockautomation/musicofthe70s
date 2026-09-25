@@ -351,3 +351,28 @@ Forward link added to the Eagles the Band artist page's "The Album That Passed T
 session. Featured/body images reuse existing `eagles-1974`/`eagles-asylum-1975` files (established
 reuse precedent: only 3 Eagles images exist across 4 now-live Eagles Songs posts). Playwright screenshot
 check at desktop/375px/390px passed, zero console errors.
+
+## MacArthur Park (Songs, slot #38) — full build write-up, pruned from content-build.md 2026-09-25
+MacArthur Park (Songs, slot #38), focus keyword `macarthur park donna summer` (verified via DataForSEO:
+1,900/mo, informational intent, low competition, vs. 90,500/mo for bare `macarthur park` which is
+navigational and dominated by the 1968 Richard Harris original / the literal LA park, wrong intent for
+this post's Donna Summer angle), never used before. `blog/songs/macarthur-park-donna-summer/index.html`.
+**LIVE 2026-09-22 (commit 081a94d, pushed to origin/main, live-verified: post 200 via clean-URL
+redirect, sitemap/blog-hub/Songs-category/artist-page forward link all confirmed).** Angle: corrects this site's own
+year-end JSON, which oddly calls the song Summer's "third number one of 1978-1979" even though it charted
+first (Nov 1978, three weeks at #1), predating Hot Stuff and Bad Girls (summer 1979); matches the
+correction already live on the Donna Summer artist page. Side-by-side table compares the 1968 Richard
+Harris original (Jimmy Webb write, 7:21, #2 peak, won a 1969 Grammy for arrangement) against Summer's
+1978 version (17:47 full suite on Live and More, 3:59 single edit, #1 peak, Grammy-nominated but no win).
+Facts cross-checked against Wikipedia (song and Live and More album pages) on top of this site's own
+`hot100_weekly.json` (weeks 45-47, Nov 1978) and `year_end_hot100.json` (1979 rank 12). `verify_post.py`
+clean: 1,594 words, 0.878% density, 85.5% under 20 words, FAQ PASS, YouTube status PASS (video ID
+`hDD7t2Mj_aQ`, already on record embeddable/not-made-for-kids, checked 2026-09-21). Chart comparison
+table, two bulleted/numbered lists (Grammy timeline, her real #1 order), and one extra body image
+(reused `donna-summer-sudano-moroder-2007`, ties to Moroder's production role) satisfy the breakup rule.
+`radio_id` exists (`1979-12-macarthur-park`), Listen Now link included. Donna Summer artist backlink
+added; forward link added the same session to the artist page's existing "MacArthur Park's Real Place
+in the Timeline" H3. Playwright screenshot check at desktop/375px/390px passed, zero console errors
+(a first pass flagged 4 "broken" lazy-loaded images; re-checked after scroll, all loaded fine, false
+alarm from checking `img.complete` before the images entered the viewport). Reviewed and pushed once
+Charlie confirmed.

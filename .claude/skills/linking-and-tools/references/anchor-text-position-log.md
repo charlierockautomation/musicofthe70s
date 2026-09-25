@@ -7,23 +7,11 @@ generic. Log new entries here after placing links. Log starts 2026-08-28; prior
 posts not backfilled.
 
 When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.md.
-Rows through Carole King (artist) / Carole King It's Too Late were pruned 2026-09-23; grep "Anchor Text &
+Rows through Willie Nelson (artist) / Georgia on My Mind were pruned 2026-09-25; grep "Anchor Text &
 Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Song YMCA | Songs | Music of the 70s | /index.html | Body, closing sentence of "Song YMCA Started With a Question About What YMCA Even Meant" H2, mid-post, not adjacent to FAQ |
-| Song YMCA | Songs | Village People (artist) | /blog/artists/village-people/index.html | Body, "Recorded at Sigma Sound, Released on Cruisin'" H3, mid-sentence |
-| Song YMCA | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, closing of "Randy Jones's Misunderstanding Theory" H3, directly before the video embed |
-| Song YMCA | Songs | Y.M.C.A. (Listen Now) | /radio/index.html?play=1979-8-ymca | Body, sentence immediately after the video embed, not adjacent-before style used in the last 4 Songs posts |
-| Song YMCA | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence of "Sales That Outran Its Own Chart Peak" H3 |
-| Song YMCA | Songs | Disco Music of the 70s (genre) | /blog/genres/disco-music-of-the-70s/index.html | Body, closing sentence of "The Library of Congress Called It Historically Significant" H2, secondary destination |
-| Village People (artist) | Artists | Song YMCA (song) | /blog/songs/song-ymca/index.html | Body, "Village People in the 70s: Y.M.C.A. Got Bigger Than Anyone Expected" H2, closing sentence, forward link added the session the song post was built |
-| Georgia on My Mind | Songs | Willie Nelson (artist) | /blog/artists/willie-nelson/index.html | Body, closing sentence of "Ten Songs, All Older Than His Outlaw Reputation" H3 |
-| Georgia on My Mind | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, closing sentence after the video embed, "A Mobile Studio in a Living Room" H3 section |
-| Georgia on My Mind | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Two Very Different Stages for the Same Song" H3, opening sentence |
-| Georgia on My Mind | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Same Song, Two Very Different Legacies" H3, last content line before FAQ |
-| Willie Nelson (artist) | Artists | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, forward link added the session the song post was built |
 | Give Up the Funk Parliament | Songs | Music of the 70s | /index.html | Body, "Give Up the Funk Parliament Credited to Three Real Songwriters" H2, mid-section closing of main paragraph, before the H3 credits list (not adjacent to FAQ, distinct from last 4 Songs posts) |
 | Give Up the Funk Parliament | Songs | Give Up the Funk (Listen Now) | /radio/index.html?play=1976-93-give-up-the-funk-tear-the-roof-off-the-sucker | Body, "Three Charts, One Gold Single" H2, not adjacent to the video embed (last 3 Songs posts placed it directly before/after the embed) |
 | Give Up the Funk Parliament | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Bigger Hit on Black Radio Than Pop Radio" H3, opening sentence |
@@ -189,3 +177,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Too Much Heaven | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / How Deep Is Your Love / Night Fever (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, how-deep-is-your-love/, night-fever/ | Body, "Where It Sits in the Bee Gees' Catalog" H2, bullet-list song-to-song cross-links |
 | Too Much Heaven | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same H2, mid-section sentence |
 | Bee Gees (artist) | Artists | Too Much Heaven (song) | /blog/songs/too-much-heaven/index.html | Body, "The Fever Peak" H2, on the existing "Spirits Having Flown" mention, forward link added the session the song post was built |
+| Tragedy Bee Gees | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "Tragedy Bee Gees Blended Disco With a Country Chord Change" H2, closing sentence, new H2 not used by prior Songs backlinks |
+| Tragedy Bee Gees | Songs | Tragedy (Listen Now) | /radio/index.html?play=1979-16-tragedy | Body, "Two Weeks at Number One, Boxed In by I Will Survive" H2, mid-section, not adjacent to the video embed |
+| Tragedy Bee Gees | Songs | Music of the 70s | /index.html | Body, "Steps Sent Tragedy Back to Number One in 1998" H2, mid-section, new H2 not used by prior Songs Music-of-the-70s links |
+| Tragedy Bee Gees | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, same "Steps..." H2, closing sentence, not opening (last 3 Songs posts all used H2 opening) |
+| Tragedy Bee Gees | Songs | Too Much Heaven (song) | /blog/songs/too-much-heaven/index.html | Body, "Where Tragedy Fits on Spirits Having Flown" H2, mid-section, song-to-song cross-link |
+| Tragedy Bee Gees | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same "Where Tragedy Fits..." H2, closing sentence |
+| Tragedy Bee Gees | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / How Deep Is Your Love / Night Fever / Too Much Heaven (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, how-deep-is-your-love/, night-fever/, too-much-heaven/ | Body, "Where It Sits in the Bee Gees' Catalog" H2, bullet-list song-to-song cross-links |
+| Bee Gees (artist) | Artists | Tragedy (song) | /blog/songs/tragedy-bee-gees/index.html | Body, "Backlash and Songwriting Mastery" H2, new H2 (prior 2 Bee Gees forward links both used "Fever Peak"), forward link added the session the song post was built |
