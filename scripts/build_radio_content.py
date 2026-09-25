@@ -111,7 +111,7 @@ def build(rows):
           </tbody>
         </table>
       </div>
-      <p>Want the stories behind the songs? Browse the <a href="/blog/years/index.html">year-by-year charts</a>, the <a href="/blog/genres/index.html">genre guides</a>, the <a href="/blog/artists/index.html">artist profiles</a> and the <a href="/blog/songs/index.html">song deep dives</a>.</p>
+      <p>Want the stories behind the songs? Browse the <a href="/blog/years/">year-by-year charts</a>, the <a href="/blog/genres/">genre guides</a>, the <a href="/blog/artists/">artist profiles</a> and the <a href="/blog/songs/">song deep dives</a>.</p>
     </section>
 '''
 

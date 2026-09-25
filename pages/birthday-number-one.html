@@ -14,7 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>What Was #1 The Week You Were Born? | 70s Birthday Song Finder</title>
   <meta name="description" content="Enter your 1970s birthday and discover what song topped the Billboard Hot 100 the week you were born. Your personal piece of music history.">
-  <link rel="canonical" href="https://musicofthe70s.net/pages/birthday-number-one.html">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/birthday-number-one">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -23,7 +23,7 @@
 
   <meta property="og:title" content="What Was #1 The Week You Were Born? | 70s Birthday Song Finder">
   <meta property="og:description" content="Enter your 1970s birthday and discover what song topped the Billboard Hot 100 the week you were born.">
-  <meta property="og:url" content="https://musicofthe70s.net/pages/birthday-number-one.html">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/birthday-number-one">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Music of the 70s">
 
@@ -37,7 +37,7 @@
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "70s Birthday #1 Song Finder",
-    "url": "https://musicofthe70s.net/pages/birthday-number-one.html",
+    "url": "https://musicofthe70s.net/pages/birthday-number-one",
     "applicationCategory": "EntertainmentApplication",
     "description": "Find the Billboard Hot 100 number one song from the week you were born in the 1970s.",
     "operatingSystem": "Any"
@@ -49,7 +49,7 @@
     "@type": "BreadcrumbList",
     "itemListElement": [
       {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
-      {"@type": "ListItem", "position": 2, "name": "Birthday #1 Song Finder", "item": "https://musicofthe70s.net/pages/birthday-number-one.html"}
+      {"@type": "ListItem", "position": 2, "name": "Birthday #1 Song Finder", "item": "https://musicofthe70s.net/pages/birthday-number-one"}
     ]
   }
   </script>
@@ -71,7 +71,7 @@
 
   <main>
     <div class="container">
-      <nav class="breadcrumb"><a href="/index.html">Home</a> › Birthday #1 Song Finder</nav>
+      <nav class="breadcrumb"><a href="/">Home</a> › Birthday #1 Song Finder</nav>
       <div class="page-intro">
         <h1>What Was #1 The Week You Were Born?</h1>
         <p>Pick your 1970s birthday and uncover the song that ruled the Billboard Hot 100 that very week.</p>
@@ -231,7 +231,7 @@
       const e = current.entry;
       const text = `I was born when "${e.title}" by ${e.artist} was #1! Discover yours at musicofthe70s.net`;
       const status = await shareOrCopy(
-        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/birthday-number-one.html' },
+        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/birthday-number-one' },
         text
       );
       if (status === 'copied') { shareBtn.textContent = '✓ Copied!'; }

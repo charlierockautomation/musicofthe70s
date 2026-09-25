@@ -14,7 +14,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Random 70s Song Generator | Discover Classic 70s Music</title>
   <meta name="description" content="Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link. Rock, disco, soul, country and more.">
-  <link rel="canonical" href="https://musicofthe70s.net/pages/random-70s-song.html">
+  <link rel="canonical" href="https://musicofthe70s.net/pages/random-70s-song">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -23,7 +23,7 @@
 
   <meta property="og:title" content="Random 70s Song Generator | Discover Classic 70s Music">
   <meta property="og:description" content="Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link.">
-  <meta property="og:url" content="https://musicofthe70s.net/pages/random-70s-song.html">
+  <meta property="og:url" content="https://musicofthe70s.net/pages/random-70s-song">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Music of the 70s">
 
@@ -37,7 +37,7 @@
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Random 70s Song Generator",
-    "url": "https://musicofthe70s.net/pages/random-70s-song.html",
+    "url": "https://musicofthe70s.net/pages/random-70s-song",
     "applicationCategory": "EntertainmentApplication",
     "description": "Spin and discover a random iconic 70s song with artist, year, genre and a YouTube search link.",
     "operatingSystem": "Any"
@@ -49,7 +49,7 @@
     "@type": "BreadcrumbList",
     "itemListElement": [
       {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
-      {"@type": "ListItem", "position": 2, "name": "Random 70s Song Generator", "item": "https://musicofthe70s.net/pages/random-70s-song.html"}
+      {"@type": "ListItem", "position": 2, "name": "Random 70s Song Generator", "item": "https://musicofthe70s.net/pages/random-70s-song"}
     ]
   }
   </script>
@@ -71,7 +71,7 @@
 
   <main>
     <div class="container">
-      <nav class="breadcrumb"><a href="/index.html">Home</a> › Random 70s Song Generator</nav>
+      <nav class="breadcrumb"><a href="/">Home</a> › Random 70s Song Generator</nav>
       <div class="page-intro">
         <h1>Random 70s Song Generator</h1>
         <p>Spin the record and let the decade surprise you. Every result is a real Billboard charting hit from 1970–1979.</p>
@@ -204,7 +204,7 @@
       if (!current) return;
       const text = `🎵 ${current.title} by ${current.artist} (${current.year || '70s'}) — discovered on Music of the 70s! musicofthe70s.net`;
       const status = await shareOrCopy(
-        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/random-70s-song.html' },
+        { title: 'Music of the 70s', text, url: 'https://musicofthe70s.net/pages/random-70s-song' },
         text
       );
       if (status === 'copied') { shareBtn.textContent = '✓ Copied!'; setTimeout(() => shareBtn.textContent = '↗ Share', 1800); }

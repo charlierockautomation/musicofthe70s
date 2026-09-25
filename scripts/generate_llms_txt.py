@@ -112,7 +112,7 @@ def find_posts_by_category():
                 "headline": headline,
                 "date": date_published,
                 "description": description,
-                "url": f"{SITE}/blog/{cat_dir.name}/{post_dir.name}/index.html",
+                "url": f"{SITE}/blog/{cat_dir.name}/{post_dir.name}/",
             })
         by_cat[cat_dir.name].sort(key=lambda p: p["date"], reverse=True)
     return by_cat

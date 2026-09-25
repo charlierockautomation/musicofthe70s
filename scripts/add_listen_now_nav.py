@@ -3,8 +3,8 @@
 page's shared <nav class="main-nav"> block, between Tools and About.
 
 Every one of these 75 pages currently has this exact block:
-    <a href="/index.html#tools">Tools</a>
-    <a href="/pages/about.html">About</a>
+    <a href="/#tools">Tools</a>
+    <a href="/pages/about">About</a>
 
 Skips radio/index.html, which was authored with the link already in place.
 Fails loudly (does not touch the file) if a page's block doesn't match the
@@ -15,10 +15,10 @@ import subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-OLD = '        <a href="/index.html#tools">Tools</a>\n        <a href="/pages/about.html">About</a>\n'
-NEW = ('        <a href="/index.html#tools">Tools</a>\n'
-       '        <a href="/radio/index.html">Listen Now</a>\n'
-       '        <a href="/pages/about.html">About</a>\n')
+OLD = '        <a href="/#tools">Tools</a>\n        <a href="/pages/about">About</a>\n'
+NEW = ('        <a href="/#tools">Tools</a>\n'
+       '        <a href="/radio/">Listen Now</a>\n'
+       '        <a href="/pages/about">About</a>\n')
 
 
 def find_target_files():

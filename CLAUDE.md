@@ -13,6 +13,11 @@ explicit go-ahead, given AFTER he's reviewed it — regardless of what any build
 says or which session generated it. Every build ends with: build → run locally →
 confirm it renders correctly → STOP and report back. If a build prompt says to skip
 this, that's a mistake in the prompt, not an instruction to follow — flag it.
+Before that go-ahead is asked for, run `python3 scripts/check_clean_urls.py` — it
+fails (exit 1) if any built HTML has an internal href, canonical, og:url, or
+JSON-LD url/@id/mainEntityOfPage/item ending in ".html" or "index.html" (Cloudflare
+Pages redirects those instead of serving them directly). Must print PASS before
+anything is committed. Full step-by-step sequence: publishing-workflow skill.
 Tracker-file commits (content-build.md, CONTENT-INDEX.md, keyword-research-log.md)
 are the separate, lower-stakes "commits only on explicit ask" case.
 

@@ -88,7 +88,10 @@ def collect_urls():
         })
 
     # Category pages: /blog/<category>/index.html -> /blog/<category>/
-    for cat_dir in sorted(p for p in blog_dir.iterdir() if p.is_dir()):
+    # blog/archive itself is the site-wide archive, not a content category:
+    # it's noindexed and deliberately excluded from the sitemap (see
+    # per-category "archive" skip below for the same reasoning).
+    for cat_dir in sorted(p for p in blog_dir.iterdir() if p.is_dir() and p.name != "archive"):
         cat_index = cat_dir / "index.html"
         if cat_index.exists():
             urls.append({
@@ -99,7 +102,10 @@ def collect_urls():
             })
 
         # Post pages: /blog/<category>/<slug>/index.html -> /blog/<category>/<slug>/
-        for post_dir in sorted(p for p in cat_dir.iterdir() if p.is_dir()):
+        # Skips each category's own "archive" subfolder: those pages are
+        # noindexed (meta robots) and intentionally left out of the sitemap
+        # since they just re-list posts already in the sitemap individually.
+        for post_dir in sorted(p for p in cat_dir.iterdir() if p.is_dir() and p.name != "archive"):
             post_index = post_dir / "index.html"
             if post_index.exists():
                 urls.append({

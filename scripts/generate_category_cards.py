@@ -82,7 +82,7 @@ def find_posts(cat_dir: Path, cat_label: str):
             "thumb_height": thumb_height,
             "alt": alt,
             "category": cat_label,
-            "url": f"/blog/{cat_dir.name}/{post_dir.name}/index.html",
+            "url": f"/blog/{cat_dir.name}/{post_dir.name}/",
         })
     posts.sort(key=lambda p: p["date"], reverse=True)
     return posts
@@ -108,7 +108,7 @@ def render_card(p):
 
 
 def render_note(cat_name, cat_label, total, cap, kept_count):
-    archive_url = f"/blog/{cat_name}/archive/index.html"
+    archive_url = f"/blog/{cat_name}/archive/"
     if cap is not None and total > cap:
         status = (f"<p>Showing the {kept_count} most recent {cat_label} posts, "
                    f"out of <strong>{total} total</strong>. Cards rotate automatically "
@@ -154,9 +154,10 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, follow">
   <title>{label} Archive | Music of the 70s Blog</title>
   <meta name="description" content="Every {label_lower} post on Music of the 70s, {total} total, newest first.">
-  <link rel="canonical" href="https://musicofthe70s.net/blog/{cat_name}/archive/index.html">
+  <link rel="canonical" href="https://musicofthe70s.net/blog/{cat_name}/archive/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -165,7 +166,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <meta property="og:title" content="{label} Archive | Music of the 70s Blog">
   <meta property="og:description" content="Every {label_lower} post on Music of the 70s, {total} total, newest first.">
-  <meta property="og:url" content="https://musicofthe70s.net/blog/{cat_name}/archive/index.html">
+  <meta property="og:url" content="https://musicofthe70s.net/blog/{cat_name}/archive/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Music of the 70s">
 
@@ -177,13 +178,13 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <a href="/" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
       <nav class="main-nav">
-        <a href="/index.html">Home</a>
-        <a href="/index.html#tools">Tools</a>
-        <a href="/radio/index.html">Listen Now</a>
-        <a href="/pages/about.html">About</a>
-        <a href="/blog/index.html">Blog</a>
+        <a href="/">Home</a>
+        <a href="/#tools">Tools</a>
+        <a href="/radio/">Listen Now</a>
+        <a href="/pages/about">About</a>
+        <a href="/blog/">Blog</a>
       </nav>
       <button class="nav-toggle" aria-label="Menu">☰</button>
     </div>
@@ -191,7 +192,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <main>
     <div class="container">
-      <nav class="breadcrumb"><a href="/index.html">Home</a> › <a href="/blog/index.html">Blog</a> › <a href="/blog/{cat_name}/index.html">{label}</a> › Archive</nav>
+      <nav class="breadcrumb"><a href="/">Home</a> › <a href="/blog/">Blog</a> › <a href="/blog/{cat_name}/">{label}</a> › Archive</nav>
 
       <div class="page-intro">
         <h1>{label} Archive</h1>
@@ -206,8 +207,8 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <footer class="site-footer">
     <p>© 2026 Music of the 70s |
-      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
-      <a href="/pages/about.html">About</a>
+      <a href="/pages/privacy-policy">Privacy Policy</a> |
+      <a href="/pages/about">About</a>
     </p>
   </footer>
 

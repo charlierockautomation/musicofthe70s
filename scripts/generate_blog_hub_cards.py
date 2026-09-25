@@ -75,7 +75,7 @@ def find_posts():
                 "thumb_height": thumb_height,
                 "alt": alt,
                 "category": cat_dir.name.capitalize(),
-                "url": f"/blog/{cat_dir.name}/{post_dir.name}/index.html",
+                "url": f"/blog/{cat_dir.name}/{post_dir.name}/",
             })
     posts.sort(key=lambda p: p["date"], reverse=True)
     return posts
@@ -114,7 +114,7 @@ def render_note(total, kept_count):
         status = f"<p>All <strong>{total} posts</strong> are shown below.</p>"
     return f'''<div class="category-note">
         {status}
-        <p><a class="btn-secondary" href="/blog/archive/index.html">Browse the Full Blog Archive →</a></p>
+        <p><a class="btn-secondary" href="/blog/archive/">Browse the Full Blog Archive →</a></p>
       </div>'''
 
 
@@ -132,9 +132,10 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, follow">
   <title>Blog Archive | Music of the 70s</title>
   <meta name="description" content="Every post on the Music of the 70s blog, {total} total, newest first.">
-  <link rel="canonical" href="https://musicofthe70s.net/blog/archive/index.html">
+  <link rel="canonical" href="https://musicofthe70s.net/blog/archive/">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -143,7 +144,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <meta property="og:title" content="Blog Archive | Music of the 70s">
   <meta property="og:description" content="Every post on the Music of the 70s blog, {total} total, newest first.">
-  <meta property="og:url" content="https://musicofthe70s.net/blog/archive/index.html">
+  <meta property="og:url" content="https://musicofthe70s.net/blog/archive/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Music of the 70s">
 
@@ -155,13 +156,13 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a href="/index.html" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
+      <a href="/" class="site-logo"><span class="logo-vinyl">♪</span> Music of the 70s</a>
       <nav class="main-nav">
-        <a href="/index.html">Home</a>
-        <a href="/index.html#tools">Tools</a>
-        <a href="/radio/index.html">Listen Now</a>
-        <a href="/pages/about.html">About</a>
-        <a href="/blog/index.html">Blog</a>
+        <a href="/">Home</a>
+        <a href="/#tools">Tools</a>
+        <a href="/radio/">Listen Now</a>
+        <a href="/pages/about">About</a>
+        <a href="/blog/">Blog</a>
       </nav>
       <button class="nav-toggle" aria-label="Menu">☰</button>
     </div>
@@ -169,7 +170,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <main>
     <div class="container">
-      <nav class="breadcrumb"><a href="/index.html">Home</a> › <a href="/blog/index.html">Blog</a> › Archive</nav>
+      <nav class="breadcrumb"><a href="/">Home</a> › <a href="/blog/">Blog</a> › Archive</nav>
 
       <div class="page-intro">
         <h1>Blog Archive</h1>
@@ -184,8 +185,8 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 
   <footer class="site-footer">
     <p>© 2026 Music of the 70s |
-      <a href="/pages/privacy-policy.html">Privacy Policy</a> |
-      <a href="/pages/about.html">About</a>
+      <a href="/pages/privacy-policy">Privacy Policy</a> |
+      <a href="/pages/about">About</a>
     </p>
   </footer>
 
