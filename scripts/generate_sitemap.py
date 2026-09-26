@@ -65,6 +65,19 @@ def collect_urls():
             "priority": priority,
         })
 
+    # About pages: /about/<name>/index.html -> /about/<name>/
+    about_dir = REPO_ROOT / "about"
+    if about_dir.exists():
+        for sub in sorted(p for p in about_dir.iterdir() if p.is_dir()):
+            about_index = sub / "index.html"
+            if about_index.exists():
+                urls.append({
+                    "loc": f"{SITE}/about/{sub.name}/",
+                    "lastmod": git_lastmod(about_index),
+                    "changefreq": "yearly",
+                    "priority": "0.5",
+                })
+
     # Radio hub: /radio/index.html -> /radio/
     radio_index = REPO_ROOT / "radio" / "index.html"
     if radio_index.exists():
