@@ -56,6 +56,9 @@ keyword-research-archive.md) so the living file stays lean. Archives are grep-on
 never read whole, and are exempt from the line cap.
 Full mechanic: file-rotation skill. Tracker ownership, session handoff, and the
 resume-prompt template: session-protocol skill.
+STRATEGY-2026.md is a reference file, exempt from the 195-line cap like the
+archives — open it by section only, never whole. content-build.md's Strategy
+Queue says what's next.
 
 ## Auto-Go Rule
 Defined in content-build.md: if a focus keyword has never been used as another live

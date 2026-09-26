@@ -402,3 +402,58 @@ added the same session to the artist page's "Backlash and Songwriting Mastery" H
 the repeated "Fever Peak" H2 used by the prior two Bee Gees forward links). Playwright check at
 desktop/375px/390px passed, zero console errors, no horizontal scroll. This was the last open
 slot in the 42-song artist-linked rotation queue; queue is now complete, all 42 slots LIVE.
+
+---
+
+## Songs Rotation Queue — artist-linked batch, full ordered list (pruned from content-build.md 2026-09-25, queue complete, all 42 LIVE)
+
+42 songs, chart-verified against `data/billboard/` (Hot100 year-end/weekly + country #1, real singles only, no album-chart entries) for artists with a Live Artists page, minus songs already Live in Songs. Order is round-robin across artists, not grouped, so consecutive posts don't repeat an artist. Each post links back to its artist page; each artist page gets a body-text link forward to the song page once it's Live (add on the same session the song publishes, not as a follow-up).
+
+**Standard form, every post in this queue from Waterloo on (Charlie-confirmed 2026-08-31)**: in addition to the artist backlink and the two Tool links, every post also gets (1) a text link, anchor the song title, to `/radio/index.html?play=<radio_id>` where that song has a `radio_id` in `data/radio/radio-songs.json` (see post-template.md's Internal Tool Linking Map and js/radio.js `applyDeepLink()`), and (2) a text link, anchor "Music of the 70s", to `/index.html`. Both natural in-context, not fixed slots.
+
+**George Clinton mapping**: "Give Up the Funk" and "Flash Light" are chart-credited to Parliament, not George Clinton by name. His artist page covers Parliament-Funkadelic and took the backlink for both.
+
+1. Waterloo — ABBA — **LIVE 2026-08-31**
+2. How Can You Mend a Broken Heart — Bee Gees — **LIVE 2026-08-31**
+3. Killer Queen — Queen / Brian May and Queen — **LIVE 2026-09-01**
+4. One of These Nights — Eagles the Band — **LIVE 2026-09-01**
+5. Let's Stay Together — Al Green — **LIVE 2026-09-01**
+6. What's Going On — Marvin Gaye — **LIVE 2026-09-02**
+7. Hot Stuff — Donna Summer — **LIVE 2026-09-02**
+8. Superstition — Stevie Wonder — **LIVE 2026-09-03**
+9. Jolene — Dolly Parton — **LIVE 2026-09-03**
+10. Bad, Bad Leroy Brown — Jim Croce — **LIVE 2026-09-03**
+11. It's Too Late / I Feel the Earth Move — Carole King — **LIVE 2026-09-03**
+12. Y.M.C.A. — Village People — **LIVE 2026-09-04**
+13. Georgia on My Mind — Willie Nelson — **LIVE 2026-09-04**
+14. Get on the Good Foot — James Brown — **LIVE 2026-09-04**
+15. You and I — Rick James — **LIVE 2026-09-06**
+16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament) — **LIVE 2026-09-06**
+17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
+18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
+19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
+20. Best of My Love — Eagles the Band — **LIVE 2026-09-07**
+21. Tired of Being Alone — Al Green — **LIVE 2026-09-07**
+22. Let's Get It On — Marvin Gaye — **LIVE 2026-09-08**
+23. Bad Girls — Donna Summer — **LIVE 2026-09-08**
+24. You Are the Sunshine of My Life — Stevie Wonder — **LIVE 2026-09-08**
+25. I Will Always Love You — Dolly Parton — **LIVE 2026-09-08**
+26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
+27. In the Navy — Village People — **LIVE 2026-09-09**
+28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
+29. Flash Light — Parliament (George Clinton mapping) — **LIVE 2026-09-10**
+30. Take a Chance on Me — ABBA — **LIVE 2026-09-11**
+31. You Should Be Dancing — Bee Gees — **LIVE 2026-09-12**
+32. New Kid in Town — Eagles the Band — **LIVE 2026-09-13**
+33. Last Dance — Donna Summer — **LIVE 2026-09-14**
+34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
+35. The Name of the Game — ABBA — **LIVE 2026-09-17**
+36. Night Fever — Bee Gees — **LIVE 2026-09-21**
+37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
+38. MacArthur Park — Donna Summer — **LIVE 2026-09-22**
+39. Living for the City — Stevie Wonder — **LIVE 2026-09-23**
+40. How Deep Is Your Love — Bee Gees — **LIVE 2026-09-23**
+41. Too Much Heaven — Bee Gees — **LIVE 2026-09-24**
+42. Tragedy — Bee Gees — **LIVE 2026-09-25**
+
+**Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.

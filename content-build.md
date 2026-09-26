@@ -60,6 +60,8 @@
 2. Link to at least one relevant Tool (a pillar).
 3. Check the "link owed" table (.claude/skills/linking-and-tools/SKILL.md) for a cross-category link to close, and close it in both directions the same session.
 4. Never repeat the same internal link target twice within one post (standing rule).
+5. Link to the song's year page and its genre pillar (STRATEGY-2026.md section 5).
+6. Every new post gets a visible byline, published/updated dates, and 3+ external source links (STRATEGY-2026.md section 8, items 3 and 7).
 
 **Database growth.** Every new post's angle comes from a real, verified content-gap check — live SERP plus this site's own JSON data — not a generic keyword-driven post. This is the actual mechanism that has kept every post on the site distinct (30+ distinct structures logged across the archives) while still growing the database on a steady rotation, and it's what keeps the site clear of Google's scaled-content-abuse risk (see the standing guardrail in profile/topic notes). Don't relax this check for the sake of rotation speed.
 
@@ -85,80 +87,60 @@
 
 ---
 
-## Category Rotation Queue (current / open items only)
+## Strategy Queue (2026-09-25)
 
-Completed and decided-against slots live in SESSION-LOG-ARCHIVE.md ("Completed & Decided-Against
-Rotation Queue History" plus the 2026-09-02 prune section). Only what is still open is below.
+Source of truth: STRATEGY-2026.md (approved 2026-09-25 rebuild plan). Reference file, exempt from
+the 195-line cap — open only the section named below, never the whole file. This section replaces
+the old Category Rotation Queue table and the Artists genre-rotation rule; completed/decided-against
+history for both stays in SESSION-LOG-ARCHIVE.md.
 
-| Category | Content | Status |
+**Phase 0 — technical/trust fixes (STRATEGY-2026.md section 8), one per session, in order:**
+1. Confirm clean-URL fix is live, resubmit sitemap, request indexing (item 1)
+2. Fix the GSC "Redirect error" URLs (item 2)
+3. Visible byline + published/updated dates on every post, matched in schema (item 3)
+4. Author page for Charlie (item 4)
+5. Methodology / editorial policy page (item 5)
+6. Category hubs list every post (item 6)
+7. 3+ external source links on existing posts, rolling 5/session (item 7)
+8. robots.txt AI-crawler review; llms.txt refresh (item 9)
+9. Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)
+10. Core Web Vitals on /radio/ and tools, click-to-load facade (item 11)
+
+(Item 8 in STRATEGY-2026.md, Bing Webmaster Tools/IndexNow, is Charlie's own action, not a session
+build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance rule once 1-6 land.)
+
+**Weekly rhythm, once Phase 0 clears (repeats):**
+- Mon — flagship data page or upgrade page
+- Tue — Artist
+- Wed — Song
+- Thu — "This Week in 1970s Music" (STRATEGY-2026.md section 6G)
+- Fri — Song, or a source-citation pass (Phase 0 item 7 continuation)
+
+**Ordering within each slot:**
+- Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
+- Upgrades (Mon, alternating with flagships): STRATEGY-2026.md section 6B, table order
+- 70s Country pillar: STRATEGY-2026.md section 6C
+- Artists (Tue): STRATEGY-2026.md section 6D, table order, then the "then:" list after it
+- Songs (Wed/Fri): STRATEGY-2026.md section 6E, drawn only from live 6D artists
+- Listening pages (fold into Mon or Fri as needed): STRATEGY-2026.md section 6F, cap 4
+
+**Pause:** no ABBA or Bee Gees posts before 2026-11-25 (STRATEGY-2026.md section 6D).
+
+**Flagged, not in rotation (Charlie's call, unaffected by the strategy queue):**
+| Item | Detail | Status |
 |---|---|---|
-| Songs (rotation, artist-linked) | 42-song artist round-robin queue | Slots 1-35 LIVE, slot #36 built local. Full ordered list in the next section. |
-| Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Flagged, not queued: a structural edit to a live post (NotebookLM idea: make it a nav hub). Charlie's call. |
-| Trivia UX overlap | static 64-question post vs scored 50-question quiz | Flagged, not queued: an edit to live content. Charlie's call. |
-| Artists genre-rotation | Led Zeppelin, Pink Floyd, Yes, Genesis (rock buckets) | Zero-coverage gaps still needing sorting into the genre-rotation order below. |
-
-Artists rotation rule (2026-08-24): rotate future Artists posts by genre bucket, working through the 10
-real data/artists/ files, not names off a flat list. Buckets done so far: country (Dolly Parton, Willie
-Nelson), soft-rock/folk (Carole King, Jim Croce), funk (George Clinton, Rick James), soul (Marvin Gaye,
-Al Green), disco (Village People, Donna Summer). Duplicate-ID artists placed by Charlie's direct call
-each time. Full per-post build write-ups: grep CONTENT-INDEX-ARCHIVE.md / SESSION-LOG-ARCHIVE.md.
+| Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | Structural edit to a live post (NotebookLM idea: make it a nav hub). |
+| Trivia UX overlap | static 64-question post vs scored 50-question quiz | Edit to live content. |
 
 ---
 
-## Songs Rotation Queue — artist-linked batch (added 2026-08-31)
+## Songs Rotation Queue — artist-linked batch (added 2026-08-31, complete)
 
-42 songs, chart-verified against `data/billboard/` (Hot100 year-end/weekly + country #1, real singles only, no album-chart entries) for artists with a Live Artists page, minus songs already Live in Songs. Order is round-robin across artists, not grouped, so consecutive posts don't repeat an artist. Each post links back to its artist page; each artist page gets a body-text link forward to the song page once it's Live (add on the same session the song publishes, not as a follow-up).
-
-**Standard form, every post in this queue from Waterloo on (Charlie-confirmed 2026-08-31)**: in addition to the artist backlink and the two Tool links, every post also gets (1) a text link, anchor the song title, to `/radio/index.html?play=<radio_id>` where that song has a `radio_id` in `data/radio/radio-songs.json` (see post-template.md's Internal Tool Linking Map and js/radio.js `applyDeepLink()`), and (2) a text link, anchor "Music of the 70s", to `/index.html`. Both natural in-context, not fixed slots.
-
-**Before writing each one**: real focus-keyword volume check (Keyword Rule, non-negotiable) and content-gap analysis (content-plan.md standing rules) still apply, same as every other post. Batch is quality-gated: if a candidate doesn't have enough real story substance for 1,200+ words, drop it rather than pad it, same call as KC and the Sunshine Band getting dropped from the Artists batch. Build one at a time; report before moving to the next.
-
-**George Clinton mapping flagged, not auto-confirmed**: "Give Up the Funk" and "Flash Light" are chart-credited to Parliament, not George Clinton by name. Included here on the assumption his artist page covers Parliament-Funkadelic and can take the backlink; confirm before building #16/#29 or drop them.
-
-1. Waterloo — ABBA — **LIVE 2026-08-31**
-2. How Can You Mend a Broken Heart — Bee Gees — **LIVE 2026-08-31**
-3. Killer Queen — Queen / Brian May and Queen — **LIVE 2026-09-01**
-4. One of These Nights — Eagles the Band — **LIVE 2026-09-01**
-5. Let's Stay Together — Al Green — **LIVE 2026-09-01**
-6. What's Going On — Marvin Gaye — **LIVE 2026-09-02**
-7. Hot Stuff — Donna Summer — **LIVE 2026-09-02**
-8. Superstition — Stevie Wonder — **LIVE 2026-09-03**
-9. Jolene — Dolly Parton — **LIVE 2026-09-03**
-10. Bad, Bad Leroy Brown — Jim Croce — **LIVE 2026-09-03**
-11. It's Too Late / I Feel the Earth Move — Carole King — **LIVE 2026-09-03**
-12. Y.M.C.A. — Village People — **LIVE 2026-09-04**
-13. Georgia on My Mind — Willie Nelson — **LIVE 2026-09-04**
-14. Get on the Good Foot — James Brown — **LIVE 2026-09-04**
-15. You and I — Rick James — **LIVE 2026-09-06**
-16. Give Up the Funk (Tear the Roof off the Sucker) — George Clinton (Parliament, flagged above) — **LIVE 2026-09-06**
-17. Knowing Me, Knowing You — ABBA — **LIVE 2026-09-07**
-18. Jive Talkin' — Bee Gees — **LIVE 2026-09-07**
-19. Somebody to Love — Queen / Brian May and Queen — **LIVE 2026-09-07**
-20. Best of My Love — Eagles the Band — **LIVE 2026-09-07**
-21. Tired of Being Alone — Al Green — **LIVE 2026-09-07**
-22. Let's Get It On — Marvin Gaye — **LIVE 2026-09-08**
-23. Bad Girls — Donna Summer — **LIVE 2026-09-08**
-24. You Are the Sunshine of My Life — Stevie Wonder — **LIVE 2026-09-08**
-25. I Will Always Love You — Dolly Parton — **LIVE 2026-09-08**
-26. Time in a Bottle — Jim Croce — **LIVE 2026-09-09**
-27. In the Navy — Village People — **LIVE 2026-09-09**
-28. Blue Eyes Crying in the Rain — Willie Nelson — **LIVE 2026-09-10**
-29. Flash Light — Parliament (George Clinton mapping resolved: keyword `flash light parliament` follows chart credit and the #16 Give Up the Funk precedent) — **LIVE 2026-09-10**
-30. Take a Chance on Me — ABBA — **LIVE 2026-09-11**
-31. You Should Be Dancing — Bee Gees — **LIVE 2026-09-12**
-32. New Kid in Town — Eagles the Band — **LIVE 2026-09-13**
-33. Last Dance — Donna Summer — **LIVE 2026-09-14**
-34. Sir Duke — Stevie Wonder — **LIVE 2026-09-15**
-35. The Name of the Game — ABBA — **LIVE 2026-09-17**
-36. Night Fever — Bee Gees — **LIVE 2026-09-21**
-37. Heartache Tonight — Eagles the Band — **LIVE 2026-09-22**
-38. MacArthur Park — Donna Summer — **LIVE 2026-09-22**
-39. Living for the City — Stevie Wonder — **LIVE 2026-09-23**
-40. How Deep Is Your Love — Bee Gees — **LIVE 2026-09-23**
-41. Too Much Heaven — Bee Gees — **LIVE 2026-09-24**
-42. Tragedy — Bee Gees — **LIVE 2026-09-25**
-
-**Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
+42-song artist round-robin queue, chart-verified against `data/billboard/`. All 42 slots LIVE as
+of Tragedy (Bee Gees, 2026-09-25); queue complete. Full ordered list, standard-form linking rule,
+and zero-candidate artist notes pruned to SESSION-LOG-ARCHIVE.md 2026-09-25 (grep "Songs Rotation
+Queue — artist-linked batch, full ordered list"). New Songs picks now come from the Strategy Queue
+above (STRATEGY-2026.md section 6E, drawn from live 6D artists).
 
 ---
 
