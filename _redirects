@@ -1,6 +1,20 @@
-# Cloudflare Pages redirects — placeholder
-# Add redirect rules here when needed.
+# Cloudflare Pages redirects
 # Format: /old-path  /new-path  301
+#
+# Category archive pages retired 2026-09-26 — every category hub now
+# lists every post in that category, so the noindexed overflow pages
+# are gone. Both trailing-slash and no-slash forms redirect so nothing
+# 404s or chains through the (now-removed) directory-index mechanic.
+/blog/songs/archive/     /blog/songs/     301
+/blog/songs/archive      /blog/songs/     301
+/blog/artists/archive/   /blog/artists/   301
+/blog/artists/archive    /blog/artists/   301
+/blog/genres/archive/    /blog/genres/    301
+/blog/genres/archive     /blog/genres/    301
+/blog/trivia/archive/    /blog/trivia/    301
+/blog/trivia/archive     /blog/trivia/    301
+/blog/archive/           /blog/           301
+/blog/archive            /blog/           301
 #
 # Example friendly URLs (optional — uncomment to enable):
 # /random-song        /pages/random-70s-song.html       301

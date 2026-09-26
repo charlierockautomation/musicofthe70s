@@ -409,6 +409,15 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .category-note strong { color: var(--text-primary); }
 .category-note p:last-child { margin-bottom: 0; }
 
+.post-full-list { list-style: disc; padding-left: 1.3rem; margin: 1.75rem 0; }
+.post-full-list li { margin-bottom: 0.65rem; color: var(--text-muted); line-height: 1.5; }
+.post-full-list a { color: var(--text-primary); font-weight: 600; }
+.post-full-list a:hover { color: var(--accent-gold); }
+
+.pagination-nav { display: flex; justify-content: space-between; margin: 1.75rem 0 0; }
+.pagination-nav a { color: var(--text-primary); font-weight: 600; }
+.pagination-nav a:hover { color: var(--accent-gold); }
+
 .video-embed {
   position: relative; width: 100%; aspect-ratio: 16 / 9; min-height: 202px; /* iframe = box minus 1px borders, so >= 200px: YouTube minimum player viewport is 200x200 */
   background: var(--bg-elevated); border: 1px solid var(--border-subtle);
