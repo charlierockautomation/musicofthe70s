@@ -362,6 +362,9 @@ select:focus, input:focus { outline: none; border-color: var(--accent-gold); }
 }
 img.post-featured-img { display: block; height: auto; object-fit: cover; padding: 0; }
 .post-img-caption { color: var(--text-muted); font-size: 0.85rem; text-align: center; margin: -1rem 0 1.5rem; }
+.post-byline { color: var(--text-muted); font-size: 0.9rem; margin: 0.5rem 0 1.25rem; }
+.post-byline a { color: var(--text-muted); text-decoration: underline; }
+.post-byline a:hover { color: var(--text-primary); }
 .post-intro { font-size: 1.1rem; color: var(--text-primary); }
 
 .post-body-figure { max-width: 340px; margin: 1.75rem auto; text-align: center; }
