@@ -105,13 +105,15 @@ history for both stays in SESSION-LOG-ARCHIVE.md.
 7. 3+ external source links on existing posts, rolling 5/session (item 7)
    Batch 1 LIVE 2026-09-27 (7cdff89): Top Songs of 1970-1974. Next batch: 1975-1979, then Best Songs
    of the 70s, then the rest. Rolling, continues in the Friday slot; not a single-session item.
-8. robots.txt AI-crawler review; llms.txt refresh (item 9)
+8. ~~robots.txt AI-crawler review; llms.txt refresh (item 9)~~ DONE, LIVE 2026-09-27 (PR #2, 2fc6d2d).
+   Same PR: functions/_middleware.js now 404s internal repo files (*.md, .claude/, scripts/) on the live site.
 9. ~~Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)~~ DONE, LIVE 2026-09-27
    (PR #1, merge 7f5fe9e): shared WebSite + Organization @ids, post author/publisher -> shared @ids,
    6 hubs CollectionPage + ItemList + BreadcrumbList. MusicRecording/MusicGroup deliberately NOT added.
    New gate: `python3 scripts/check_schema.py` alongside check_clean_urls.py before every push (both PASS).
    New posts: re-run `python3 scripts/apply_schema.py --apply`.
-10. Core Web Vitals on /radio/ and tools, click-to-load facade (item 11)
+10. Core Web Vitals on /radio/ and tools, click-to-load facade (item 11) — BUILT 2026-09-27 (3bde65e),
+   awaiting Charlie's review: CLS fix on /radio/ + Decade Wheel, YouTube API loads on intent.
 
 (Item 8 in STRATEGY-2026.md, Bing Webmaster Tools/IndexNow, is Charlie's own action, not a session
 build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance rule once 1-6 land.)
