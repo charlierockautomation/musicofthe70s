@@ -403,6 +403,19 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .sortable-table thead th[aria-sort="ascending"] button::after { content: " \2191"; color: var(--accent-gold); }
 .sortable-table thead th[aria-sort="descending"] button::after { content: " \2193"; color: var(--accent-gold); }
 .sortable-table td a { color: var(--accent-gold); }
+/* In-page player rows (js/number-one-player.js) */
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.data-table td.n1-listen { padding-right: 0.25rem; }
+.n1-play, .n1-close {
+  background: none; border: 1px solid var(--accent-gold); color: var(--accent-gold); border-radius: 999px;
+  padding: 0.3rem 0.8rem; font: inherit; font-size: 0.85rem; cursor: pointer; white-space: nowrap;
+}
+.n1-play[aria-expanded="true"], .n1-play:hover, .n1-close:hover { background: var(--accent-gold); color: var(--bg-primary); }
+.n1-play:focus-visible, .n1-close:focus-visible { outline: 2px solid var(--accent-gold); outline-offset: 2px; }
+.data-table tbody tr.n1-player-row td { background: var(--bg-primary); text-align: center; padding: 0; }
+.n1-player-inner { position: sticky; left: 1rem; max-width: 100%; }
+.n1-player { max-width: 640px; margin: 0.5rem auto 0.75rem; }
+.n1-unavailable { color: var(--text-muted); margin: 0.5rem 0 0.75rem; }
 
 .toc-block {
   background: var(--bg-card); border: 1px solid var(--border-subtle);

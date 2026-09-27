@@ -16,6 +16,8 @@
     // Numbers read best biggest-first on the first click.
     if (type === 'num' && !th.hasAttribute('aria-sort')) dir = 'descending';
     var tbody = table.tBodies[0];
+    // Detail rows (e.g. an open player) belong to another row; drop them.
+    Array.prototype.slice.call(tbody.querySelectorAll('tr.detail-row')).forEach(function (r) { r.parentNode.removeChild(r); });
     var rows = Array.prototype.slice.call(tbody.rows);
     rows.forEach(function (r, i) { r._pos = i; });
     rows.sort(function (a, b) {

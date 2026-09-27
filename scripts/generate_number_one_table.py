@@ -9,9 +9,10 @@ Weeks at #1 are counted from the weekly rows, NOT the file's
 weeks_at_number_one field: that field disagrees with the rows for 9
 songs (e.g. Superstition says 2, the chart shows 1 week).
 
-Each row links to the song's Listen Now tile when the song is in
-data/radio/radio-songs.json, and to its Songs post when one exists
-(found through the /radio/?play=<radio_id> link every Songs post carries).
+Each row gets a Play button when the song is in data/radio/radio-songs.json
+with a YouTube ID (js/number-one-player.js opens the video under the row,
+checking data/youtube-status.json first), and links to its Songs post when
+one exists.
 
 Rewrites the block between <!-- NUMBER-ONES-START --> and
 <!-- NUMBER-ONES-END --> in the page.
@@ -42,6 +43,7 @@ def main():
 
     radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
     radio_by_song = {}
+    radio_yt = {x["radio_id"]: x.get("youtube_id") for x in radio}
     for s in radio:
         radio_by_song.setdefault((norm(s["title"]), norm(s["artist"])), s["radio_id"])
         radio_by_song.setdefault((norm(s["title"]), ""), s["radio_id"])
@@ -102,13 +104,22 @@ def main():
         post = f"/blog/songs/{slug}/" if slug else None
         t = html.escape(title)
         song_cell = f'<a href="{post}">{t}</a>' if post else t
-        play_cell = f'<a href="/radio/?play={rid}" aria-label="Play {t} on Listen Now">Play</a>' if rid else ""
+        yt = radio_yt.get(rid) if rid else None
+        if yt:
+            # Plays in place, in a player opened under this row (js/number-one-player.js).
+            play_cell = (f'<button type="button" class="n1-play" data-yt="{yt}" '
+                         f'aria-label="Play {t} here">&#9654; Play</button>')
+        elif rid:
+            play_cell = f'<a href="/radio/?play={rid}" aria-label="Find {t} on Listen Now">Listen Now</a>'
+        else:
+            play_cell = ""
         n_radio += bool(rid)
         n_post += bool(post)
         out.append(
-            f'<tr><td data-sort="{info["first"]}">{d.strftime("%b")} {d.day}, {d.year}</td>'
-            f"<td>{song_cell}</td><td>{html.escape(artist)}</td>"
-            f'<td data-sort="{info["weeks"]}">{info["weeks"]}</td><td>{play_cell}</td></tr>'
+            f'<tr><td class="n1-listen">{play_cell}</td>'
+            f'<td class="n1-song">{song_cell}</td><td class="n1-artist">{html.escape(artist)}</td>'
+            f'<td data-sort="{info["weeks"]}">{info["weeks"]}</td>'
+            f'<td data-sort="{info["first"]}">{d.strftime("%b")} {d.day}, {d.year}</td></tr>'
         )
 
     page = PAGE.read_text(encoding="utf-8")
@@ -117,7 +128,7 @@ def main():
     body = "\n".join("              " + line for line in out)
     new = re.sub(re.escape(START) + ".*?" + re.escape(END), START + "\n" + body + "\n              " + END, page, flags=re.S)
     PAGE.write_text(new, encoding="utf-8")
-    print(f"{len(out)} songs, {n_radio} with Listen Now links, {n_post} with Songs posts")
+    print(f"{len(out)} songs, {n_radio} with play/listen links, {n_post} with Songs posts")
 
 
 if __name__ == "__main__":

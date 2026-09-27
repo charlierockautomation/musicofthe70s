@@ -64,7 +64,9 @@ Re-read the current wording before relying on anything here:
   (Year-End position) only; `billboard_peak` in this catalog just mirrors rank.
 
 ## Playback starts only from a user action
-- Nothing may start on page load. Do not add `autoplay=1` to embeds. The `?play=<radio_id>`
+- Nothing may start on page load. Do not add `autoplay=1` to embeds. Only exception: a player created by
+  the listener's own click (js/number-one-player.js on /blog/songs/70s-number-one-hits/ builds the iframe
+  inside the Play click, checks data/youtube-status.json first, one player at a time, class .video-embed). The `?play=<radio_id>`
   deep link only scrolls to and highlights a tile.
 - Automatic playback (song ended, error skip) may start only when the tab is visible and more than half
   of the player is visible: "An API Client must not initiate an automatic playback until the player is
