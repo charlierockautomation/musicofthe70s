@@ -17,8 +17,10 @@ there's no separate "browse everything" archive at the Hub level either
 through the relevant category hub, which is linked right below.
 
 Only touches the block between the LATEST-POSTS-START/END markers in
-blog/index.html. Everything else on the Hub page (hero, category grid,
-footer) is left untouched.
+blog/index.html, plus the CollectionPage + ItemList (of the cards shown)
++ BreadcrumbList JSON-LD between the SCHEMA-START/END markers in <head>.
+Everything else on the Hub page (hero, category grid, footer) is left
+untouched.
 
 Run manually with: python3 scripts/generate_blog_hub_cards.py
 Also run automatically on every push to main via
@@ -27,6 +29,8 @@ Also run automatically on every push to main via
 import re
 import sys
 from pathlib import Path
+
+from schema_common import SITE, hub_schema_blocks, upsert_head_schema
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = REPO_ROOT / "blog"
@@ -131,6 +135,9 @@ def main():
         return 1
 
     new_html = pattern.sub(lambda _: new_block, html, count=1)
+    crumbs = [("Home", f"{SITE}/"), ("Blog", f"{SITE}/blog/")]
+    new_html = upsert_head_schema(new_html, "scripts/generate_blog_hub_cards.py",
+                                  hub_schema_blocks(new_html, crumbs, kept))
     hub_changed = new_html != html
     BLOG_INDEX.write_text(new_html, encoding="utf-8")
 
