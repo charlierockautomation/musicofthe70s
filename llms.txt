@@ -11,6 +11,17 @@ Sitemap: https://musicofthe70s.net/sitemap.xml
 - [Random 70s Song Generator](https://musicofthe70s.net/pages/random-70s-song): Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link. Rock, disco, soul, country and more.
 - [What Was #1 The Week You Were Born?](https://musicofthe70s.net/pages/birthday-number-one): Enter your 1970s birthday and discover what song topped the Billboard Hot 100 the week you were born. Your personal piece of music history.
 
+## Listen
+- [70s Music Radio and Jukebox](https://musicofthe70s.net/radio/): Watch and listen to free 70s music on genre radio stations, or browse the full 1,000-song Billboard jukebox from 1970-1979. Disco, soul, rock, country, funk and more.
+
+## Blog Hubs
+- [Blog: all posts](https://musicofthe70s.net/blog/): Deep dives into 70s music — genres, songs, artists, year-by-year retrospectives and trivia from the greatest decade in music.
+- [Genres hub](https://musicofthe70s.net/blog/genres/): Explore 70s music by genre — rock, disco, soul, funk, prog, punk and every sound the decade produced.
+- [Years hub](https://musicofthe70s.net/blog/years/): Year-by-year retrospectives from 1970 through 1979.
+- [Artists hub](https://musicofthe70s.net/blog/artists/): The bands and performers behind the 70s decade's greatest records.
+- [Songs hub](https://musicofthe70s.net/blog/songs/): Deep dives into the singles that defined the 70s, one track at a time.
+- [Trivia hub](https://musicofthe70s.net/blog/trivia/): Fun facts, forgotten stories and trivia from the greatest decade in music.
+
 ## Genres
 - [Folk Rock in the 70s: Bob Dylan Never Made This Chart](https://musicofthe70s.net/blog/genres/70s-folk-rock/): Folk rock in the 70s produced legends like Bob Dylan, yet three of its biggest names never touched this site's own US chart archive.
 - [70s Progressive Rock: The Genre That Barely Had Hits](https://musicofthe70s.net/blog/genres/70s-progressive-rock/): 70s progressive rock rarely charted as singles. Discover why concept albums built its real legacy, and the scenes most lists skip.
@@ -125,3 +136,9 @@ Sitemap: https://musicofthe70s.net/sitemap.xml
 - [70s Music Quiz: Test Your Knowledge of the Decade](https://musicofthe70s.net/blog/trivia/70s-music-quiz/): Take this 70s music quiz: 50 real multiple-choice questions, instant feedback, and a running score. Completely free, no signup.
 - [Banned Songs of the 70s: The Real Story](https://musicofthe70s.net/blog/trivia/banned-songs-of-the-70s/): Discover the real banned songs of the 70s: who banned them, why, and which famous bans turned out to be myths.
 - [70s Music Trivia: 64 Questions to Test How Well You Really Know the Decade](https://musicofthe70s.net/blog/trivia/70s-music-trivia/): Test your 70s music trivia knowledge with 64 real questions on disco, punk, funk, and prog rock, each with a short explanation behind the answer.
+
+## About
+- [About Music of the 70s](https://musicofthe70s.net/pages/about): Music of the 70s is a free interactive resource dedicated to the greatest decade in popular music — 1970 to 1979.
+- [About the Author](https://musicofthe70s.net/about/author/): Meet Charlie, the writer behind Music of the 70s: a retired content strategist in Blackfalds, Alberta who researches and writes every article on the site.
+- [How We Research and Write (Methodology)](https://musicofthe70s.net/about/methodology/): How Music of the 70s checks facts, writes articles and picks songs for its lists: the sources used, the role of AI tools, and how corrections work.
+- [Contact](https://musicofthe70s.net/pages/contact): How to reach Music of the 70s with corrections, licensing questions, or feedback on the site's tools.

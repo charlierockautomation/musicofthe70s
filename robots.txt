@@ -1,4 +1,21 @@
 User-agent: *
 Allow: /
 
+# AI search and answer-engine crawlers, allowed explicitly
+# (STRATEGY-2026.md section 7, Site-level). Same rule as above.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://musicofthe70s.net/sitemap.xml
