@@ -103,6 +103,8 @@ history for both stays in SESSION-LOG-ARCHIVE.md.
 5. ~~Methodology / editorial policy page (item 5)~~ DONE (d9710ca)
 6. ~~Category hubs list every post (item 6)~~ DONE (b9b8d54)
 7. 3+ external source links on existing posts, rolling 5/session (item 7)
+   Batch 1 LIVE 2026-09-27 (7cdff89): Top Songs of 1970-1974. Next batch: 1975-1979, then Best Songs
+   of the 70s, then the rest. Rolling, continues in the Friday slot; not a single-session item.
 8. robots.txt AI-crawler review; llms.txt refresh (item 9)
 9. ~~Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)~~ DONE, LIVE 2026-09-27
    (PR #1, merge 7f5fe9e): shared WebSite + Organization @ids, post author/publisher -> shared @ids,
