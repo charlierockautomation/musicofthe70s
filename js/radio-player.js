@@ -65,16 +65,19 @@ var RadioPlayer = (function () {
     });
   }
 
+  /* Load YouTube's IFrame API script once. Does not create a player. */
+  function loadApi() {
+    if (apiRequested) return;
+    apiRequested = true;
+    var tag = document.createElement('script');
+    tag.src = 'https://www.youtube.com/iframe_api';
+    document.head.appendChild(tag);
+  }
+
   return {
-    /* Load YouTube's IFrame API script once. Does not create a player. */
-    loadApi: function () {
-      if (apiRequested) return;
-      apiRequested = true;
-      var tag = document.createElement('script');
-      tag.src = 'https://www.youtube.com/iframe_api';
-      document.head.appendChild(tag);
-    },
+    loadApi: loadApi,
     init: function (elementId, firstVideoId, opts) {
+      loadApi();
       hooks = opts || {};
       clearReadyTimer();
       readyTimer = setTimeout(function () {

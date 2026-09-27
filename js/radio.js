@@ -545,9 +545,14 @@
       applyDeepLink();
       renderScreenNote();
 
-      // Load YouTube's IFrame API script once the rest of the page is ready.
-      // This loads the script only; no player exists until a Play click.
-      RadioPlayer.loadApi();
+      // Load YouTube's IFrame API script only once the listener heads for
+      // the controls (pointer, touch or keyboard inside the tool), so a
+      // visit that never plays anything never downloads it. RadioPlayer.init
+      // also loads it, so a Play click always works. No player exists until
+      // a Play click either way.
+      ['pointerover', 'touchstart', 'focusin'].forEach(function (evt) {
+        toolEl.addEventListener(evt, RadioPlayer.loadApi, { once: true, passive: true });
+      });
     } catch (err) {
       console.error('Radio failed to load:', err);
       loadingEl.classList.add('hidden');
