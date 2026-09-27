@@ -251,10 +251,14 @@
   }
 
   /* iPhone and iPad fix media volume to the hardware buttons: a page can't
-     change it, so YouTube's setVolume does nothing there. Test the browser
-     directly (an audio element that won't take a new volume) rather than
-     guessing from the device name. */
+     change it, so YouTube's setVolume does nothing there. Macs are fine. */
   function canSetVolume() {
+    // Recent iOS versions echo back a volume they then ignore, so name the
+    // devices too. Every iPhone/iPad browser is WebKit with the same limit;
+    // iPadOS reports itself as a Mac, so check for a touch screen.
+    var ua = navigator.userAgent || '';
+    if (/iPad|iPhone|iPod/.test(ua)) return false;
+    if (/Macintosh/.test(ua) && navigator.maxTouchPoints > 0) return false;
     try {
       var probe = document.createElement('audio');
       probe.volume = 0.5;
