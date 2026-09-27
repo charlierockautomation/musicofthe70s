@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-25 (Tragedy, Bee Gees, slot #42, LIVE, queue complete)
+# Last Updated: 2026-09-27 (Phase 0 #9 schema audit marked DONE; #3-6 marked DONE)
 
 ---
 
@@ -97,13 +97,17 @@ history for both stays in SESSION-LOG-ARCHIVE.md.
 **Phase 0 — technical/trust fixes (STRATEGY-2026.md section 8), one per session, in order:**
 1. Confirm clean-URL fix is live, resubmit sitemap, request indexing (item 1)
 2. Fix the GSC "Redirect error" URLs (item 2)
-3. Visible byline + published/updated dates on every post, matched in schema (item 3)
-4. Author page for Charlie (item 4)
-5. Methodology / editorial policy page (item 5)
-6. Category hubs list every post (item 6)
+3. ~~Visible byline + published/updated dates on every post, matched in schema (item 3)~~ DONE (6be7dc9)
+4. ~~Author page for Charlie (item 4)~~ DONE (3f28389)
+5. ~~Methodology / editorial policy page (item 5)~~ DONE (d9710ca)
+6. ~~Category hubs list every post (item 6)~~ DONE (b9b8d54)
 7. 3+ external source links on existing posts, rolling 5/session (item 7)
 8. robots.txt AI-crawler review; llms.txt refresh (item 9)
-9. Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)
+9. ~~Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)~~ DONE, LIVE 2026-09-27
+   (PR #1, merge 7f5fe9e): shared WebSite + Organization @ids, post author/publisher -> shared @ids,
+   6 hubs CollectionPage + ItemList + BreadcrumbList. MusicRecording/MusicGroup deliberately NOT added.
+   New gate: `python3 scripts/check_schema.py` alongside check_clean_urls.py before every push (both PASS).
+   New posts: re-run `python3 scripts/apply_schema.py --apply`.
 10. Core Web Vitals on /radio/ and tools, click-to-load facade (item 11)
 
 (Item 8 in STRATEGY-2026.md, Bing Webmaster Tools/IndexNow, is Charlie's own action, not a session
