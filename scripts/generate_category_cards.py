@@ -25,14 +25,19 @@ first by Article schema datePublished.
 
 Only touches the block between the CATEGORY-CARDS-START/END markers in
 each blog/<category>/index.html, plus writes any /blog/<category>/page/N/
-overflow pages. Everything else on a category page (intro, header,
-footer) is left untouched.
+overflow pages, plus the CollectionPage + ItemList + BreadcrumbList
+JSON-LD between the SCHEMA-START/END markers in <head> (built from the
+same post list, so the schema can't drift from what's listed).
+Everything else on a category page (intro, header, footer) is left
+untouched.
 
 Run manually with: python3 scripts/generate_category_cards.py
 """
 import re
 import sys
 from pathlib import Path
+
+from schema_common import hub_schema_blocks, upsert_head_schema
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BLOG_DIR = REPO_ROOT / "blog"
@@ -172,6 +177,10 @@ def update_category_page(cat_name, cat_label, cap, posts):
         new_block = START_MARKER + grid + note + "\n      " + END_MARKER
 
     new_html = pattern.sub(lambda _: new_block, html, count=1)
+    listed = main_page_posts if split else posts
+    crumbs = [("Home", f"{SITE}/"), ("Blog", f"{SITE}/blog/"), (cat_label, f"{SITE}/blog/{cat_name}/")]
+    new_html = upsert_head_schema(new_html, "scripts/generate_category_cards.py",
+                                  hub_schema_blocks(new_html, crumbs, listed))
     changed = new_html != html
     cat_index.write_text(new_html, encoding="utf-8")
     return changed
