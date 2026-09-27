@@ -1,0 +1,1056 @@
+{
+  "_definition": "An act with exactly one US Top 40 hit (Billboard Hot 100) in their whole career, not just the 1970s.",
+  "_methodology": [
+    "Start: every artist with exactly one entry in data/billboard/year_end_hot100.json across 1970-1979 (368 candidates).",
+    "Cross-check: independently listed in Wikipedia's 'List of one-hit wonders in the United States', 1970s section, which requires 2+ citations per entry (162 acts matched both).",
+    "Verify: each of the 162 acts' full career Billboard Hot 100 chart history checked via Wikipedia discography tables and/or prose (any other Hot 100 entry peaking 1-40, any year, disqualifies). 15 dropped for a confirmed second Top 40 hit; 147 confirmed."
+  ],
+  "_dropped_for_second_top40_hit": {
+    "The Knack": "Good Girls Don't (#11, 1979)",
+    "Lee Michaels": "Can I Get a Witness (#39, 1971)",
+    "The Stampeders": "Hit the Road Jack (#40, 1975)",
+    "Looking Glass": "Jimmy Loves Mary-Anne (#33, 1973)",
+    "Billy Paul": "Thanks for Saving My Life (#37, 1974)",
+    "Stealers Wheel": "Star (#29, 1974)",
+    "Edward Bear": "Close Your Eyes (#37, 1973)",
+    "Brownsville Station": "Kings of the Party (#31, 1974)",
+    "Ozark Mountain Daredevils": "If You Wanna Get to Heaven (Top 30, 1974)",
+    "Andrea True Connection": "N.Y., You Got Me Dancing (#27, 1977)",
+    "C. W. McCall": "Wolf Creek Pass (#40, 1975)",
+    "Mary MacGregor": "Good Friend (#39, 1979)",
+    "Rex Smith": "Everlasting Love (#32, 1981, with Rachel Sweet)",
+    "Henry Gross": "Springtime Mama (#37, 1976)",
+    "Dwight Twilley Band": "Girls (#16, 1984, as solo Dwight Twilley)"
+  },
+  "acts": [
+    {
+      "artist": "Five Stairsteps",
+      "song": "O-o-h Child",
+      "year_end_year": 1970,
+      "year_end_rank": 21,
+      "fun_fact": "This uplifting soul ballad has since been sampled and covered countless times, gaining a whole new generation of fans after its prominent use in the 2014 Marvel film Guardians of the Galaxy."
+    },
+    {
+      "artist": "Norman Greenbaum",
+      "song": "Spirit in the Sky",
+      "year_end_year": 1970,
+      "year_end_rank": 22,
+      "fun_fact": "Written by a Jewish singer about a Christian afterlife, this one-hit wonder featured a distinctive fuzz guitar riff and spent two weeks at #1 on the Hot 100."
+    },
+    {
+      "artist": "Free",
+      "song": "All Right Now",
+      "year_end_year": 1970,
+      "year_end_rank": 27,
+      "fun_fact": "Featuring Paul Rodgers on vocals, this hard rock staple was written in about 15 minutes before a concert and has remained a classic rock radio fixture for over 50 years."
+    },
+    {
+      "artist": "Blues Image",
+      "song": "Ride Captain Ride",
+      "year_end_year": 1970,
+      "year_end_rank": 32,
+      "fun_fact": "This psychedelic pop song about escape and freedom reached #4 on the Hot 100 and remains the only major hit for the Blues Image, a Florida-based rock band."
+    },
+    {
+      "artist": "Shocking Blue",
+      "song": "Venus",
+      "year_end_year": 1970,
+      "year_end_rank": 33,
+      "fun_fact": "Originally a Dutch rock hit from 1969, Shocking Blue's 'Venus' became a global phenomenon and was later revived in 1986 by Bananarama, giving the song a second life at the top of the charts."
+    },
+    {
+      "artist": "Edison Lighthouse",
+      "song": "Love Grows (Where My Rosemary Goes)",
+      "year_end_year": 1970,
+      "year_end_rank": 40,
+      "fun_fact": "A British studio group assembled specifically for this single, Edison Lighthouse topped charts across Europe and reached #5 in the US despite never successfully following up with a second hit."
+    },
+    {
+      "artist": "Marmalade",
+      "song": "Reflections of My Life",
+      "year_end_year": 1970,
+      "year_end_rank": 43,
+      "fun_fact": "Recorded by this Scottish pop group, the song's sweeping orchestral arrangement gave it an emotional weight that crossed it over to American audiences, reaching #10 on the Hot 100."
+    },
+    {
+      "artist": "Eddie Holman",
+      "song": "Hey There Lonely Girl",
+      "year_end_year": 1970,
+      "year_end_rank": 44,
+      "fun_fact": "A gender-swapped remake of Ruby & the Romantics' 1963 hit 'Hey There Lonely Boy,' Eddie Holman's falsetto-driven version reached #2 on the Hot 100."
+    },
+    {
+      "artist": "The Jaggerz",
+      "song": "The Rapper",
+      "year_end_year": 1970,
+      "year_end_rank": 45,
+      "fun_fact": "This was the biggest hit for the Pittsburgh-based Jaggerz, reaching #2 on the Hot 100; the group also featured Donnie Iris, who later had a successful solo career in the early 1980s."
+    },
+    {
+      "artist": "Alive N Kickin'",
+      "song": "Tighter, Tighter",
+      "year_end_year": 1970,
+      "year_end_rank": 47,
+      "fun_fact": "This was the sole major charting hit for this New York City pop group, reaching #7 on the Hot 100 in the summer of 1970 before the group faded from the charts."
+    },
+    {
+      "artist": "Mungo Jerry",
+      "song": "In the Summertime",
+      "year_end_year": 1970,
+      "year_end_rank": 53,
+      "fun_fact": "This jug band-influenced British novelty track became one of the best-selling singles of 1970 worldwide, topping charts in multiple countries and spending 13 weeks at #1 in the UK."
+    },
+    {
+      "artist": "R. Dean Taylor",
+      "song": "Indiana Wants Me",
+      "year_end_year": 1970,
+      "year_end_rank": 54,
+      "fun_fact": "A dramatic narrative about a fugitive on the run, this song was notable for featuring actual police sirens at the end of the recording and reached #5 on the Hot 100."
+    },
+    {
+      "artist": "Frijid Pink",
+      "song": "The House of the Rising Sun",
+      "year_end_year": 1970,
+      "year_end_rank": 60,
+      "fun_fact": "This Detroit band's heavy, distorted cover of the Animals' 1964 classic reached #7 on the Hot 100 and is considered one of the earliest proto-metal recordings to chart significantly."
+    },
+    {
+      "artist": "White Plains",
+      "song": "My Baby Loves Lovin'",
+      "year_end_year": 1970,
+      "year_end_rank": 62,
+      "fun_fact": "A British bubblegum pop hit crafted by Roger Cook and Roger Greenaway, 'My Baby Loves Lovin'' reached #13 on the Hot 100 and gave this studio-assembled group their biggest US moment."
+    },
+    {
+      "artist": "Mountain",
+      "song": "Mississippi Queen",
+      "year_end_year": 1970,
+      "year_end_rank": 78,
+      "fun_fact": "Opening with one of rock's most recognizable cowbell riffs, this track by Leslie West and Mountain is widely cited as an early landmark in the development of heavy metal."
+    },
+    {
+      "artist": "Tee-Set",
+      "song": "Ma Belle Amie",
+      "year_end_year": 1970,
+      "year_end_rank": 81,
+      "fun_fact": "A Dutch pop song sung partially in French, Tee-Set's 'Ma Belle Amie' reached #5 on the Hot 100, making it one of the more unlikely European crossovers of 1970."
+    },
+    {
+      "artist": "Christie",
+      "song": "Yellow River",
+      "year_end_year": 1970,
+      "year_end_rank": 83,
+      "fun_fact": "Written by Jeff Christie as a reflection on the desire to escape the Vietnam War and return home, this British pop hit topped charts in the UK before crossing over to the US market."
+    },
+    {
+      "artist": "100 Proof (Aged in Soul)",
+      "song": "Somebody's Been Sleeping",
+      "year_end_year": 1970,
+      "year_end_rank": 84,
+      "fun_fact": "Produced by Holland-Dozier-Holland associates at Hot Wax Records, this funk-soul track reached #8 on the Hot 100 and #3 on the R&B chart in the summer of 1970."
+    },
+    {
+      "artist": "The Ides of March",
+      "song": "Vehicle",
+      "year_end_year": 1970,
+      "year_end_rank": 85,
+      "fun_fact": "Featuring a dramatic brass arrangement, this horn-driven rock track reached #2 on the Hot 100 and was the only top 10 hit for The Ides of March, a Chicago band."
+    },
+    {
+      "artist": "The Pipkins",
+      "song": "Gimme Dat Ding",
+      "year_end_year": 1970,
+      "year_end_rank": 86,
+      "fun_fact": "A novelty song featuring two cartoon-like characters trading verses, 'Gimme Dat Ding' reached #9 on the Hot 100 in the spring of 1970 and was the sole US hit for The Pipkins."
+    },
+    {
+      "artist": "Robin McNamara",
+      "song": "Lay a Little Lovin' on Me",
+      "year_end_year": 1970,
+      "year_end_rank": 87,
+      "fun_fact": "Produced by Jeff Barry, this sunshine pop track reached #11 on the Hot 100 and was the biggest solo moment for McNamara, who had been a member of the Hair Broadway cast."
+    },
+    {
+      "artist": "Pacific Gas & Electric",
+      "song": "Are You Ready?",
+      "year_end_year": 1970,
+      "year_end_rank": 93,
+      "fun_fact": "Featuring a heavy gospel and soul influence unusual for a rock band, this track reached #14 on the Hot 100 and was the biggest hit for this San Francisco blues-rock group."
+    },
+    {
+      "artist": "The Undisputed Truth",
+      "song": "Smiling Faces Sometimes",
+      "year_end_year": 1971,
+      "year_end_rank": 14,
+      "fun_fact": "Produced by Norman Whitfield with a dark psychedelic soul arrangement, this warning about false friends and hidden motives captured the political distrust of the early 1970s perfectly."
+    },
+    {
+      "artist": "Jean Knight",
+      "song": "Mr. Big Stuff",
+      "year_end_year": 1971,
+      "year_end_rank": 18,
+      "fun_fact": "Recorded at Malaco Studios in Jackson, Mississippi and reaching #2 on the Hot 100 and #1 on the R&B chart, this defiant funk classic has been sampled extensively in hip-hop and remains an enduring soul anthem."
+    },
+    {
+      "artist": "Five Man Electrical Band",
+      "song": "Signs",
+      "year_end_year": 1971,
+      "year_end_rank": 24,
+      "fun_fact": "Written by Canadian artist Les Emmerson as a protest against social and class divisions, this song was later covered by Tesla in 1990 and reintroduced to a new generation at #8 on the Hot 100."
+    },
+    {
+      "artist": "The Free Movement",
+      "song": "I've Found Someone of My Own",
+      "year_end_year": 1971,
+      "year_end_rank": 26,
+      "fun_fact": "This Los Angeles gospel-soul group's only major hit reached #5 on the Hot 100 with its rich vocal harmonies and joyful, uplifting arrangement that drew heavily from church music traditions."
+    },
+    {
+      "artist": "Ocean",
+      "song": "Put Your Hand in the Hand",
+      "year_end_year": 1971,
+      "year_end_rank": 33,
+      "fun_fact": "This Canadian Christian pop song reached #2 on the Hot 100 and reportedly sold over two million copies in North America alone, making it one of the surprise commercial hits of early 1971."
+    },
+    {
+      "artist": "Daddy Dewdrop",
+      "song": "Chick-A-Boom (Don't Ya Jes' Love It)",
+      "year_end_year": 1971,
+      "year_end_rank": 34,
+      "fun_fact": "This quirky novelty song reached #9 on the Hot 100 and remains the sole notable chart entry for Daddy Dewdrop, a pseudonym used by singer-songwriter Dick Monda."
+    },
+    {
+      "artist": "Sammi Smith",
+      "song": "Help Me Make It Through the Night",
+      "year_end_year": 1971,
+      "year_end_rank": 37,
+      "fun_fact": "Written by Kris Kristofferson, this song won the Grammy for Best Female Country Vocal Performance and its frank portrayal of loneliness and desire was considered daring for country radio at the time."
+    },
+    {
+      "artist": "Lynn Anderson",
+      "song": "Rose Garden",
+      "year_end_year": 1971,
+      "year_end_rank": 41,
+      "fun_fact": "This became an international phenomenon, reaching #3 on the Hot 100 and #3 in the UK while topping country charts for multiple weeks, eventually selling over 50 million copies worldwide."
+    },
+    {
+      "artist": "The Fuzz",
+      "song": "I Love You for All Seasons",
+      "year_end_year": 1971,
+      "year_end_rank": 45,
+      "fun_fact": "Charting in early 1971, this was the standout hit from this R&B vocal group, whose smooth harmonies were shaped by the Philadelphia soul tradition that was gaining commercial momentum nationwide."
+    },
+    {
+      "artist": "The Bells",
+      "song": "Stay Awhile",
+      "year_end_year": 1971,
+      "year_end_rank": 57,
+      "fun_fact": "A Canadian pop group from Montreal, The Bells scored their biggest hit with this gentle, piano-driven ballad that reached #7 on the Hot 100 and gave Canada another significant pop crossover moment."
+    },
+    {
+      "artist": "Brewer & Shipley",
+      "song": "One Toke Over the Line",
+      "year_end_year": 1971,
+      "year_end_rank": 63,
+      "fun_fact": "Despite being banned by some radio stations for its drug references, this counterculture anthem reached #10 on the Hot 100; Vice President Spiro Agnew publicly denounced it, which only boosted its notoriety."
+    },
+    {
+      "artist": "Freddie Hart",
+      "song": "Easy Loving",
+      "year_end_year": 1971,
+      "year_end_rank": 68,
+      "fun_fact": "Freddie Hart's smooth country hit won the CMA Single of the Year award in 1971, and its polished, pop-friendly production was part of the early wave of the Countrypolitan sound that would define Nashville for years."
+    },
+    {
+      "artist": "Mac and Katie Kissoon",
+      "song": "Chirpy Chirpy Cheep Cheep",
+      "year_end_year": 1971,
+      "year_end_rank": 71,
+      "fun_fact": "While Middle of the Road's version dominated the UK charts, the Mac and Katie Kissoon version charted in the United States, making this the rare song to have two different versions simultaneously charting in different countries."
+    },
+    {
+      "artist": "The Beginning of the End",
+      "song": "Funky Nassau",
+      "year_end_year": 1971,
+      "year_end_rank": 75,
+      "fun_fact": "Recorded in Nassau, Bahamas by a group of local musicians, this track introduced Caribbean rhythms to American funk and reached #15 on the Hot 100, foreshadowing the global fusion sounds that would emerge later in the decade."
+    },
+    {
+      "artist": "Matthews Southern Comfort",
+      "song": "Woodstock",
+      "year_end_year": 1971,
+      "year_end_rank": 79,
+      "fun_fact": "Iain Matthews's British folk-rock interpretation of Joni Mitchell's song topped the UK charts and reached #23 on the Hot 100, becoming one of the most commercially successful versions of a song that existed in several notable recordings."
+    },
+    {
+      "artist": "Denise LaSalle",
+      "song": "Trapped by a Thing Called Love",
+      "year_end_year": 1971,
+      "year_end_rank": 85,
+      "fun_fact": "This was Denise LaSalle's debut hit, reaching #13 on the Hot 100 and #1 on the R&B chart, launching the career of an artist who would go on to become one of the most revered performers in Southern blues and soul."
+    },
+    {
+      "artist": "The Buoys",
+      "song": "Timothy",
+      "year_end_year": 1971,
+      "year_end_rank": 87,
+      "fun_fact": "This controversial story song about survivors of a mine collapse who resort to cannibalism reached #17 on the Hot 100 despite being banned by many radio stations, proving that notoriety could still drive sales in the early 1970s."
+    },
+    {
+      "artist": "Richie Havens",
+      "song": "Here Comes the Sun",
+      "year_end_year": 1971,
+      "year_end_rank": 95,
+      "fun_fact": "Folk singer Richie Havens, who famously opened Woodstock in 1969 with an extended improvisational performance, brought his own warm interpretation to George Harrison's Beatles classic, reaching #16 on the Hot 100."
+    },
+    {
+      "artist": "Wadsworth Mansion",
+      "song": "Sweet Mary",
+      "year_end_year": 1971,
+      "year_end_rank": 96,
+      "fun_fact": "This Connecticut band's only major hit reached #7 on the Hot 100 in early 1971, but despite the promising debut the group was unable to follow it up and faded from the charts almost as quickly as they had appeared."
+    },
+    {
+      "artist": "Mouth & MacNeal",
+      "song": "How Do You Do",
+      "year_end_year": 1972,
+      "year_end_rank": 25,
+      "fun_fact": "A Dutch pop duo's catchy international hit, this crossed the Atlantic to reach #8 on the Hot 100, making Mouth and MacNeal one of the more unlikely European crossover stories of the era."
+    },
+    {
+      "artist": "Hot Butter",
+      "song": "Popcorn",
+      "year_end_year": 1972,
+      "year_end_rank": 28,
+      "fun_fact": "Based on Gershon Kingsley's 1969 electronic composition, this Moog synthesizer instrumental became a mainstream pop hit by reaching #9 on the Hot 100 and introduced synthesizers to mass audiences."
+    },
+    {
+      "artist": "Climax",
+      "song": "Precious and Few",
+      "year_end_year": 1972,
+      "year_end_rank": 30,
+      "fun_fact": "This soft rock ballad from an Atlanta-based group reached #3 on the Hot 100 and was written by Walter Nims, becoming the only top 10 hit Climax ever scored."
+    },
+    {
+      "artist": "Jonathan Edwards",
+      "song": "Sunshine",
+      "year_end_year": 1972,
+      "year_end_rank": 37,
+      "fun_fact": "This mellow folk-rock track reached #4 on the Hot 100 in early 1972 and remains the sole major charting single for Jonathan Edwards, a Vermont-based singer-songwriter."
+    },
+    {
+      "artist": "Daniel Boone",
+      "song": "Beautiful Sunday",
+      "year_end_year": 1972,
+      "year_end_rank": 42,
+      "fun_fact": "This British singer's cheerful pop track became an unexpected international phenomenon, reaching #15 on the Hot 100 after topping charts across Europe and remaining popular in Asia for decades."
+    },
+    {
+      "artist": "Arlo Guthrie",
+      "song": "City of New Orleans",
+      "year_end_year": 1972,
+      "year_end_rank": 45,
+      "fun_fact": "Written by Steve Goodman as an ode to the iconic Illinois Central train, Arlo Guthrie's version reached #18 on the Hot 100 and the song later became a #1 country hit for Willie Nelson."
+    },
+    {
+      "artist": "Argent",
+      "song": "Hold Your Head Up",
+      "year_end_year": 1972,
+      "year_end_rank": 50,
+      "fun_fact": "Written by Rod Argent and Chris White, this album rock anthem reached #5 on the Hot 100 and became a cornerstone of early 1970s FM radio programming, where album cuts ruled over singles."
+    },
+    {
+      "artist": "The Chakachas",
+      "song": "Jungle Fever",
+      "year_end_year": 1972,
+      "year_end_rank": 51,
+      "fun_fact": "This Belgian group's suggestive instrumental reached #8 on the Hot 100 despite many radio stations banning it due to the suggestive vocal sounds woven into the track."
+    },
+    {
+      "artist": "T. Rex",
+      "song": "Bang a Gong (Get It On)",
+      "year_end_year": 1972,
+      "year_end_rank": 56,
+      "fun_fact": "Marc Bolan's glam rock anthem reached #10 on the Hot 100 and introduced American audiences to T. Rex, though the title was changed from the UK version 'Get It On' to avoid confusion with a Chase song."
+    },
+    {
+      "artist": "Derek and the Dominos",
+      "song": "Layla",
+      "year_end_year": 1972,
+      "year_end_rank": 60,
+      "fun_fact": "Originally released in 1970, this finally charted as a single in 1972; Eric Clapton wrote it about his unrequited love for Pattie Boyd, who was then married to his close friend George Harrison."
+    },
+    {
+      "artist": "Commander Cody and His Lost Planet Airmen",
+      "song": "Hot Rod Lincoln",
+      "year_end_year": 1972,
+      "year_end_rank": 69,
+      "fun_fact": "A faithful cover of Charlie Ryan's 1960 original about a race between a hot rod and a Lincoln, this comedic country-rock track reached #9 on the Hot 100 for Commander Cody."
+    },
+    {
+      "artist": "Apollo 100",
+      "song": "Joy",
+      "year_end_year": 1972,
+      "year_end_rank": 71,
+      "fun_fact": "A synthesized pop adaptation of Bach's 'Jesu, Joy of Man's Desiring,' this British instrumental crossed over to reach #6 on the Hot 100 and brought baroque classical music briefly into the top 10."
+    },
+    {
+      "artist": "Sailcat",
+      "song": "Motorcycle Mama",
+      "year_end_year": 1972,
+      "year_end_rank": 89,
+      "fun_fact": "The sole charting hit from this Florida duo, 'Motorcycle Mama' reached #12 on the Hot 100 with its easygoing country-rock swagger and disappeared almost as quickly as it had arrived."
+    },
+    {
+      "artist": "The Hillside Singers",
+      "song": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
+      "year_end_year": 1972,
+      "year_end_rank": 97,
+      "fun_fact": "The original recording used directly in the Coca-Cola 'Hilltop' ad, this charted simultaneously with the New Seekers' competing version in a remarkable moment of twin-single chart competition."
+    },
+    {
+      "artist": "Vicki Lawrence",
+      "song": "The Night the Lights Went Out in Georgia",
+      "year_end_year": 1973,
+      "year_end_rank": 11,
+      "fun_fact": "Written by Bobby Russell and originally offered to Cher, who declined, this murder ballad spent two weeks at #1 and became the unexpected commercial breakthrough for actress Vicki Lawrence of the Carol Burnett Show."
+    },
+    {
+      "artist": "Clint Holmes",
+      "song": "Playground in My Mind",
+      "year_end_year": 1973,
+      "year_end_rank": 12,
+      "fun_fact": "This novelty pop track featuring a child's voice reached #2 on the Hot 100 and was the only major charting single for Clint Holmes, who has since built a long career in Las Vegas entertainment."
+    },
+    {
+      "artist": "Stories",
+      "song": "Brother Louie",
+      "year_end_year": 1973,
+      "year_end_rank": 13,
+      "fun_fact": "A cover of the Hot Chocolate original addressing interracial romance, Stories' version spent two weeks at #1 on the Hot 100 and sparked controversy for its frank treatment of a still-sensitive social topic."
+    },
+    {
+      "artist": "Dr. John",
+      "song": "Right Place Wrong Time",
+      "year_end_year": 1973,
+      "year_end_rank": 24,
+      "fun_fact": "Recorded at Allen Toussaint's Sea-Saint Studios in New Orleans with the Meters as the backing band, this funky New Orleans classic reached #9 on the Hot 100 and remains Dr. John's biggest commercial hit."
+    },
+    {
+      "artist": "Skylark",
+      "song": "Wildflower",
+      "year_end_year": 1973,
+      "year_end_rank": 25,
+      "fun_fact": "This Canadian soft rock group's only hit featured a then-unknown David Foster on keyboards and reached #9 on the Hot 100; Foster would later become one of the most successful music producers in history."
+    },
+    {
+      "artist": "King Harvest",
+      "song": "Dancing in the Moonlight",
+      "year_end_year": 1973,
+      "year_end_rank": 37,
+      "fun_fact": "Written by Sherman Kelly after he was stabbed and mugged, this joyful track celebrates community and reached #13 on the Hot 100 as the sole significant chart entry for King Harvest."
+    },
+    {
+      "artist": "New York City",
+      "song": "I'm Doin' Fine Now",
+      "year_end_year": 1973,
+      "year_end_rank": 46,
+      "fun_fact": "This Philadelphia soul production by Thom Bell reached #17 on the Hot 100 and was the biggest hit for New York City, a group whose smooth harmonies anticipated the quiet storm R&B sound of the late 1970s."
+    },
+    {
+      "artist": "Hurricane Smith",
+      "song": "Oh, Babe, What Would You Say?",
+      "year_end_year": 1973,
+      "year_end_rank": 57,
+      "fun_fact": "EMI recording engineer Norman Smith, who had worked with The Beatles during the Sgt. Pepper era, recorded this vaudeville-flavored pop track under the name Hurricane Smith and reached #3 on the Hot 100."
+    },
+    {
+      "artist": "Eric Weissberg & Steve Mandell",
+      "song": "Dueling Banjos",
+      "year_end_year": 1973,
+      "year_end_rank": 61,
+      "fun_fact": "From the film Deliverance, this traditional bluegrass piece reached #2 on the Hot 100 in early 1973 and sparked a nationwide revival of interest in bluegrass and old-time American acoustic music."
+    },
+    {
+      "artist": "B.W. Stevenson",
+      "song": "My Maria",
+      "year_end_year": 1973,
+      "year_end_rank": 64,
+      "fun_fact": "Written by Daniel Moore and B.W. Stevenson, this breezy pop track reached #9 on the Hot 100 for its obscure Texas singer; B.J. Thomas and Brooks & Dunn would later take cover versions to new heights of success."
+    },
+    {
+      "artist": "Focus",
+      "song": "Hocus Pocus",
+      "year_end_year": 1973,
+      "year_end_rank": 69,
+      "fun_fact": "Dutch progressive rock band Focus created this extraordinary track featuring virtuoso guitarist Jan Akkerman and vocalist Thijs van Leer's operatic yodeling, reaching #9 on the Hot 100."
+    },
+    {
+      "artist": "Timmy Thomas",
+      "song": "Why Can't We Live Together",
+      "year_end_year": 1973,
+      "year_end_rank": 75,
+      "fun_fact": "Recorded using only a Lowrey organ and drum machine with no other instruments, this minimalist anti-war protest song reached #3 on the Hot 100 and remains a remarkable example of achieving maximum emotional impact with minimal means."
+    },
+    {
+      "artist": "Jud Strunk",
+      "song": "Daisy a Day",
+      "year_end_year": 1973,
+      "year_end_rank": 89,
+      "fun_fact": "This sentimental folk song about a lifelong romance reached #14 on the Hot 100 and was one of the more unlikely hits of 1973, performed by a Maine comedian and folk singer better known for his work on Laugh-In."
+    },
+    {
+      "artist": "Deodato",
+      "song": "Also Sprach Zarathustra (2001)",
+      "year_end_year": 1973,
+      "year_end_rank": 90,
+      "fun_fact": "Brazilian arranger Eumir Deodato's jazz-funk reimagining of the Richard Strauss fanfare made famous by 2001: A Space Odyssey reached #2 on the Hot 100 and won the Grammy for Best Pop Instrumental Performance."
+    },
+    {
+      "artist": "Terry Jacks",
+      "song": "Seasons in the Sun",
+      "year_end_year": 1974,
+      "year_end_rank": 2,
+      "fun_fact": "Adapted from Jacques Brel's 'Le Moribond' with English lyrics by Rod McKuen, this melancholy farewell song spent three weeks at #1 and sold over six million copies worldwide despite Terry Jacks being a virtually unknown Canadian musician."
+    },
+    {
+      "artist": "Maria Muldaur",
+      "song": "Midnight at the Oasis",
+      "year_end_year": 1974,
+      "year_end_rank": 13,
+      "fun_fact": "David Nichtern wrote this gentle desert fantasy about a romantic encounter, and Maria Muldaur's warm, intimate vocal took it to #6 on the Hot 100 in what became her signature recording."
+    },
+    {
+      "artist": "David Essex",
+      "song": "Rock On",
+      "year_end_year": 1974,
+      "year_end_rank": 17,
+      "fun_fact": "British actor and singer David Essex created this atmospheric glam rock track using an unconventional production approach with double bass, cellos, and minimal drums; it reached #5 on the Hot 100."
+    },
+    {
+      "artist": "Blue Swede",
+      "song": "Hooked on a Feeling",
+      "year_end_year": 1974,
+      "year_end_rank": 20,
+      "fun_fact": "Swedish band Blue Swede's cover of B.J. Thomas's 1969 hit added the now-iconic 'ooga chaka' chant intro borrowed from Jonathan King's earlier version, spending one week at #1 and later becoming famous through the Guardians of the Galaxy trailer."
+    },
+    {
+      "artist": "George McCrae",
+      "song": "Rock Your Baby",
+      "year_end_year": 1974,
+      "year_end_rank": 38,
+      "fun_fact": "Produced by Harry Wayne Casey and Richard Finch of KC and the Sunshine Band as a demo for their own group, they gave it to George McCrae instead; it spent two weeks at #1 and is considered one of disco's foundational recordings."
+    },
+    {
+      "artist": "Paper Lace",
+      "song": "The Night Chicago Died",
+      "year_end_year": 1974,
+      "year_end_rank": 47,
+      "fun_fact": "British pop group Paper Lace's fictional account of a battle between Al Capone's gang and the Chicago police spent one week at #1 on the Hot 100, though Chicago historians noted numerous historical inaccuracies in the lyrics."
+    },
+    {
+      "artist": "Marvin Hamlisch",
+      "song": "The Entertainer",
+      "year_end_year": 1974,
+      "year_end_rank": 48,
+      "fun_fact": "Adapted from Scott Joplin's 1902 ragtime composition for the film The Sting, Hamlisch's modern arrangement reached #3 on the Hot 100 and sparked a nationwide revival of interest in Scott Joplin's ragtime catalog."
+    },
+    {
+      "artist": "William DeVaughn",
+      "song": "Be Thankful for What You Got",
+      "year_end_year": 1974,
+      "year_end_rank": 60,
+      "fun_fact": "Written and recorded entirely by William DeVaughn, a Washington D.C. architectural draftsman with no record label support, this self-financed soul recording reached #4 on the Hot 100 in an extraordinary independent success story."
+    },
+    {
+      "artist": "Johnny Bristol",
+      "song": "Hang on in There Baby",
+      "year_end_year": 1974,
+      "year_end_rank": 61,
+      "fun_fact": "Written and produced by Johnny Bristol, who had previously written Motown hits for Marvin Gaye and Tammi Terrell, this sensuous recording reached #8 on the Hot 100 and launched his performing career."
+    },
+    {
+      "artist": "Mocedades",
+      "song": "Eres t\u00fa",
+      "year_end_year": 1974,
+      "year_end_rank": 62,
+      "fun_fact": "A Spanish pop group's entry in the Eurovision Song Contest, this romantic song sung in Spanish reached #9 on the Hot 100, one of the very few non-English language recordings to crack the US top 10."
+    },
+    {
+      "artist": "Dave Loggins",
+      "song": "Please Come to Boston",
+      "year_end_year": 1974,
+      "year_end_rank": 65,
+      "fun_fact": "Written by Dave Loggins about his actual experience asking a woman in Boston, Denver, and L.A. to join him, this charming folk-pop narrative reached #5 on the Hot 100 and was his only major hit."
+    },
+    {
+      "artist": "Mike Oldfield",
+      "song": "Tubular Bells",
+      "year_end_year": 1974,
+      "year_end_rank": 79,
+      "fun_fact": "An excerpt from Mike Oldfield's debut album, which was the first release on Richard Branson's Virgin Records label, this reached #7 on the Hot 100 after being used as the main theme for the film The Exorcist."
+    },
+    {
+      "artist": "Tom T. Hall",
+      "song": "I Love",
+      "year_end_year": 1974,
+      "year_end_rank": 83,
+      "fun_fact": "Country songwriter Tom T. Hall's simple, charming list of life's small pleasures reached #12 on the Hot 100 in a rare crossover moment for an artist more typically associated with story songs on the country chart."
+    },
+    {
+      "artist": "Sister Janet Mead",
+      "song": "The Lord's Prayer",
+      "year_end_year": 1974,
+      "year_end_rank": 86,
+      "fun_fact": "Australian nun Sister Janet Mead's rock arrangement of the Lord's Prayer reached #4 on the Hot 100 and earned a Grammy nomination, becoming the most commercially successful sacred music recording of the decade."
+    },
+    {
+      "artist": "The First Class",
+      "song": "Beach Baby",
+      "year_end_year": 1974,
+      "year_end_rank": 94,
+      "fun_fact": "A British studio group's loving tribute to the Beach Boys' early California sound reached #4 on the Hot 100 and was a perfectly realized exercise in pop nostalgia, capturing the essence of early 1960s surf music."
+    },
+    {
+      "artist": "Minnie Riperton",
+      "song": "Lovin' You",
+      "year_end_year": 1975,
+      "year_end_rank": 14,
+      "fun_fact": "Written by Minnie Riperton and her husband Richard Rudolph as a lullaby for their daughter Maya (later Maya Rudolph of Saturday Night Live), this spent one week at #1 on the Hot 100 and showcased Riperton's extraordinary five-octave vocal range."
+    },
+    {
+      "artist": "Carl Douglas",
+      "song": "Kung Fu Fighting",
+      "year_end_year": 1975,
+      "year_end_rank": 15,
+      "fun_fact": "Carl Douglas wrote and recorded this in about ten minutes as a B-side filler, but it reached #1 on the Hot 100 and became one of the best-selling singles in UK history, capitalizing on the martial arts craze inspired by Bruce Lee films."
+    },
+    {
+      "artist": "Major Harris",
+      "song": "Love Won't Let Me Wait",
+      "year_end_year": 1975,
+      "year_end_rank": 25,
+      "fun_fact": "This sensuous Philadelphia soul ballad reached #5 on the Hot 100 and featured production by Bobby Eli that created an atmosphere of such intimacy some radio programmers briefly hesitated to add it to daytime rotations."
+    },
+    {
+      "artist": "Pilot",
+      "song": "Magic",
+      "year_end_year": 1975,
+      "year_end_rank": 32,
+      "fun_fact": "Written by David Paton and Billy Lyall of the Scottish pop group Pilot, this reached #5 on the Hot 100 and was co-produced by Alan Parsons, who would later achieve fame with the Alan Parsons Project."
+    },
+    {
+      "artist": "Jessi Colter",
+      "song": "I'm Not Lisa",
+      "year_end_year": 1975,
+      "year_end_rank": 41,
+      "fun_fact": "Written by Jessi Colter, wife of outlaw country pioneer Waylon Jennings, about being compared unfavorably to a previous love, this reached #4 on the Hot 100 and was one of the few outlaw country recordings to cross over to mainstream pop."
+    },
+    {
+      "artist": "Billy Swan",
+      "song": "I Can Help",
+      "year_end_year": 1975,
+      "year_end_rank": 44,
+      "fun_fact": "Billy Swan wrote this irresistible rockabilly-flavored track in 20 minutes and recorded it with a tiny Farfisa organ riff that became one of 1974's most distinctive sounds; it reached #1 on the Hot 100."
+    },
+    {
+      "artist": "Morris Albert",
+      "song": "Feelings",
+      "year_end_year": 1975,
+      "year_end_rank": 46,
+      "fun_fact": "Brazilian singer Morris Albert's international ballad, which he wrote in French and English simultaneously at age 17, spent several weeks in the top 10 of the Hot 100 and became one of the most covered songs of the decade."
+    },
+    {
+      "artist": "Sammy Johns",
+      "song": "Chevy Van",
+      "year_end_year": 1975,
+      "year_end_rank": 48,
+      "fun_fact": "This ode to freedom and romantic adventure on the open road reached #5 on the Hot 100 and became a radio staple that perfectly captured the van culture and free-spirited ethos of mid-1970s America."
+    },
+    {
+      "artist": "Bazuka",
+      "song": "Dynomite",
+      "year_end_year": 1975,
+      "year_end_rank": 52,
+      "fun_fact": "This funk instrumental reached #10 on the Hot 100 and featured the explosive sounds of a bomb going off throughout the track, making it one of the more viscerally exciting funk recordings of the mid-1970s."
+    },
+    {
+      "artist": "Phoebe Snow",
+      "song": "Poetry Man",
+      "year_end_year": 1975,
+      "year_end_rank": 57,
+      "fun_fact": "Phoebe Snow's jazz-influenced debut single reached #5 on the Hot 100 and introduced listeners to her extraordinary multi-octave voice and sophisticated songwriting sensibility, though she struggled to follow it with comparable commercial success."
+    },
+    {
+      "artist": "Ace",
+      "song": "How Long?",
+      "year_end_year": 1975,
+      "year_end_rank": 58,
+      "fun_fact": "Paul Carrack's plaintive vocals on this British pub rock group's debut single about romantic betrayal reached #3 on the Hot 100; Carrack later became one of rock's most in-demand session vocalists."
+    },
+    {
+      "artist": "Carol Douglas",
+      "song": "Doctor's Orders",
+      "year_end_year": 1975,
+      "year_end_rank": 64,
+      "fun_fact": "Written by Roger Cook, Roger Greenaway, and Geoff Stephens, this Brooklyn singer's disco track reached #11 on the Hot 100 and was one of the early crossover disco recordings to succeed on mainstream pop radio."
+    },
+    {
+      "artist": "Amazing Rhythm Aces",
+      "song": "Third Rate Romance",
+      "year_end_year": 1975,
+      "year_end_rank": 97,
+      "fun_fact": "Written by Russell Smith about a mundane motel room encounter between two strangers, this wry country-rock narrative reached #14 on the Hot 100 for this Memphis-based group."
+    },
+    {
+      "artist": "Wild Cherry",
+      "song": "Play That Funky Music",
+      "year_end_year": 1976,
+      "year_end_rank": 5,
+      "fun_fact": "Rob Parissi wrote this after an audience member shouted 'play that funky music, white boy' at his band's show; it spent three weeks at #1 on the Hot 100 and was the only major hit for Wild Cherry."
+    },
+    {
+      "artist": "Walter Murphy & The Big Apple Band",
+      "song": "A Fifth of Beethoven",
+      "year_end_year": 1976,
+      "year_end_rank": 10,
+      "fun_fact": "Walter Murphy's disco adaptation of Beethoven's Fifth Symphony spent one week at #1 on the Hot 100 and was featured in the film Saturday Night Fever, exposing it to an even wider audience than its initial chart run."
+    },
+    {
+      "artist": "Starland Vocal Band",
+      "song": "Afternoon Delight",
+      "year_end_year": 1976,
+      "year_end_rank": 12,
+      "fun_fact": "Written by Bill Danoff about brunch at a Washington D.C. restaurant and a subsequent romantic daydream, this spent two weeks at #1 on the Hot 100 and won the Grammy for Best New Artist despite its overt double meaning being debated."
+    },
+    {
+      "artist": "Nazareth",
+      "song": "Love Hurts",
+      "year_end_year": 1976,
+      "year_end_rank": 23,
+      "fun_fact": "A cover of the Everly Brothers' 1960 recording, Nazareth's heavy rock interpretation reached #8 on the Hot 100 and became one of the defining power ballads of the hard rock era."
+    },
+    {
+      "artist": "Starbuck",
+      "song": "Moonlight Feels Right",
+      "year_end_year": 1976,
+      "year_end_rank": 34,
+      "fun_fact": "This Atlanta pop group's only major hit featured a marimba solo that became one of the more distinctive instrumental moments of 1976, and the track reached #3 on the Hot 100."
+    },
+    {
+      "artist": "Vicki Sue Robinson",
+      "song": "Turn the Beat Around",
+      "year_end_year": 1976,
+      "year_end_rank": 38,
+      "fun_fact": "Written by Gerald Jackson and Peter Jackson Jr., this disco anthem reached #10 on the Hot 100 and became a club staple whose endurance was confirmed when Gloria Estefan's 1994 cover version also became a top 10 hit."
+    },
+    {
+      "artist": "Elvin Bishop",
+      "song": "Fooled Around and Fell in Love",
+      "year_end_year": 1976,
+      "year_end_rank": 56,
+      "fun_fact": "Featuring lead vocals by Mickey Thomas (later of Starship), not Elvin Bishop himself, this reached #3 on the Hot 100 and was the career commercial peak for Bishop, a founding member of the Paul Butterfield Blues Band."
+    },
+    {
+      "artist": "John Sebastian",
+      "song": "Welcome Back",
+      "year_end_year": 1976,
+      "year_end_rank": 58,
+      "fun_fact": "Written and recorded in two weeks for the television series Welcome Back, Kotter, John Sebastian's theme song spent one week at #1 on the Hot 100 and gave the former Lovin' Spoonful frontman his most successful solo recording."
+    },
+    {
+      "artist": "Silver",
+      "song": "Wham Bam",
+      "year_end_year": 1976,
+      "year_end_rank": 71,
+      "fun_fact": "Boz Scaggs associate John Hewitt recorded this under the name Silver, and the track reached #16 on the Hot 100 with its polished California sound."
+    },
+    {
+      "artist": "Keith Carradine",
+      "song": "I'm Easy",
+      "year_end_year": 1976,
+      "year_end_rank": 72,
+      "fun_fact": "Keith Carradine wrote and performed this intimate folk song for Robert Altman's film Nashville, performing it in character in an unforgettable scene; it won the Academy Award for Best Original Song and reached #17 on the Hot 100."
+    },
+    {
+      "artist": "Thin Lizzy",
+      "song": "The Boys Are Back in Town",
+      "year_end_year": 1976,
+      "year_end_rank": 87,
+      "fun_fact": "Phil Lynott wrote this celebration of his old friends in Dublin, and it reached #12 on the Hot 100, becoming one of hard rock's most anthemic recordings and introducing Thin Lizzy's twin-guitar attack to American audiences."
+    },
+    {
+      "artist": "Larry Groce",
+      "song": "Junk Food Junkie",
+      "year_end_year": 1976,
+      "year_end_rank": 94,
+      "fun_fact": "This comedic folk song about a health food devotee who secretly craves junk food reached #9 on the Hot 100 and was a one-hit wonder that captured the nation's nascent obsession with natural foods and the counterculture of health eating."
+    },
+    {
+      "artist": "Rick Dees & His Cast of Idiots",
+      "song": "Disco Duck",
+      "year_end_year": 1976,
+      "year_end_rank": 97,
+      "fun_fact": "Memphis DJ Rick Dees recorded this novelty parody of disco culture as a joke and it spent one week at #1 on the Hot 100, becoming both a celebration and gentle mockery of the disco craze simultaneously."
+    },
+    {
+      "artist": "Hot",
+      "song": "Angel in Your Arms",
+      "year_end_year": 1977,
+      "year_end_rank": 5,
+      "fun_fact": "This Alabama trio's only major hit reached #6 on the Hot 100 with its Southern soul sound and stands as a perfectly crafted example of the kind of radio-friendly soul-pop that defined AM radio in the late 1970s."
+    },
+    {
+      "artist": "Thelma Houston",
+      "song": "Don't Leave Me This Way",
+      "year_end_year": 1977,
+      "year_end_rank": 7,
+      "fun_fact": "A cover of Harold Melvin and the Blue Notes' 1975 recording, Thelma Houston's more urgent, polished version spent one week at #1 on the Hot 100 and won the Grammy for Best R&B Vocal Performance, Female."
+    },
+    {
+      "artist": "Alan O'Day",
+      "song": "Undercover Angel",
+      "year_end_year": 1977,
+      "year_end_rank": 9,
+      "fun_fact": "Alan O'Day, better known as the writer of 'Rock and Roll Heaven' for the Righteous Brothers, spent one week at #1 on the Hot 100 with this dream-sequence pop fantasy as a performer in his only major chart success."
+    },
+    {
+      "artist": "David Soul",
+      "song": "Don't Give Up on Us",
+      "year_end_year": 1977,
+      "year_end_rank": 29,
+      "fun_fact": "British-American actor David Soul, known for playing Hutch on Starsky and Hutch, spent one week at #1 on the Hot 100 with this easy listening ballad, one of the more unlikely pop chart victories by a television star."
+    },
+    {
+      "artist": "Sanford-Townsend Band",
+      "song": "Smoke from a Distant Fire",
+      "year_end_year": 1977,
+      "year_end_rank": 67,
+      "fun_fact": "This Alabama duo's only major hit reached #9 on the Hot 100 with a sound that blended Southern rock with the blue-eyed soul influences that were becoming commercially dominant in the late 1970s."
+    },
+    {
+      "artist": "Dean Friedman",
+      "song": "Ariel",
+      "year_end_year": 1977,
+      "year_end_rank": 69,
+      "fun_fact": "Dean Friedman's charming, conversational pop song about meeting a girl at a farmer's market reached #26 on the Hot 100 but performed far better in the UK, reaching #1 and making him briefly one of Britain's most unexpected pop sensations."
+    },
+    {
+      "artist": "Meco",
+      "song": "Star Wars Theme/Cantina Band",
+      "year_end_year": 1977,
+      "year_end_rank": 71,
+      "fun_fact": "Producers Harold Wheeler and Meco Monardo created this disco arrangement of John Williams's Star Wars score, spending two weeks at #1 on the Hot 100 and becoming one of the fastest-selling singles in 20th Century Records' history."
+    },
+    {
+      "artist": "The Floaters",
+      "song": "Float On",
+      "year_end_year": 1977,
+      "year_end_rank": 72,
+      "fun_fact": "Each member of this Detroit vocal group introduces himself by his astrological sign before singing to a woman born under that sign; the result reached #2 on the Hot 100 and was one of the most charmingly unusual conceptual approaches to a pop single."
+    },
+    {
+      "artist": "Debby Boone",
+      "song": "You Light Up My Life",
+      "year_end_year": 1978,
+      "year_end_rank": 3,
+      "fun_fact": "Joe Brooks wrote this song and it spent ten weeks at #1 on the Hot 100 in 1977, making it one of the longest-running chart-toppers in pop history; Debby Boone's devout Christian interpretation gave it a spiritual dimension its composer had not originally intended."
+    },
+    {
+      "artist": "Exile",
+      "song": "Kiss You All Over",
+      "year_end_year": 1978,
+      "year_end_rank": 5,
+      "fun_fact": "British songwriting team Mike Chapman and Nicky Chinn wrote this for the Kentucky country band Exile, and it spent four weeks at #1 on the Hot 100, a remarkable commercial crossover for a group that had been a struggling club act just months earlier."
+    },
+    {
+      "artist": "Samantha Sang",
+      "song": "Emotion",
+      "year_end_year": 1978,
+      "year_end_rank": 14,
+      "fun_fact": "Written and produced by Barry and Robin Gibb, who also provided backing vocals, this reached #3 on the Hot 100 and was the biggest hit for Australian singer Samantha Sang, who was a close friend of the Gibb family."
+    },
+    {
+      "artist": "Nick Gilder",
+      "song": "Hot Child in the City",
+      "year_end_year": 1978,
+      "year_end_rank": 22,
+      "fun_fact": "Written by Nick Gilder and James McCulloch about runaway teenagers on Hollywood Boulevard, this reached #1 on the Hot 100 and was Gilder's only major US hit despite his considerable success in Canada."
+    },
+    {
+      "artist": "Walter Egan",
+      "song": "Magnet and Steel",
+      "year_end_year": 1978,
+      "year_end_rank": 40,
+      "fun_fact": "Stevie Nicks and Lindsey Buckingham provided background vocals on this track, inspired by Egan's feelings for Nicks herself; it reached #8 on the Hot 100 and was the only major US hit for this California singer-songwriter."
+    },
+    {
+      "artist": "Randy Newman",
+      "song": "Short People",
+      "year_end_year": 1978,
+      "year_end_rank": 41,
+      "fun_fact": "Randy Newman wrote this as obvious satire of prejudice and bigotry, but many listeners took it literally and the Little People of America protested it; despite or because of the controversy, it spent one week at #2 on the Hot 100."
+    },
+    {
+      "artist": "John Paul Young",
+      "song": "Love Is in the Air",
+      "year_end_year": 1978,
+      "year_end_rank": 46,
+      "fun_fact": "Written by Harry Vanda and George Young (older brothers of AC/DC's Angus and Malcolm Young), this Australian pop track reached #7 on the Hot 100 and became one of the decade's most enduring radio staples outside its home country."
+    },
+    {
+      "artist": "Toby Beau",
+      "song": "My Angel Baby",
+      "year_end_year": 1978,
+      "year_end_rank": 53,
+      "fun_fact": "This Texas group's only major hit reached #13 on the Hot 100 with a smooth country-pop production that was perfectly calibrated for the late-1970s adult contemporary radio format."
+    },
+    {
+      "artist": "Patti Smith Group",
+      "song": "Because the Night",
+      "year_end_year": 1978,
+      "year_end_rank": 72,
+      "fun_fact": "Bruce Springsteen gave Patti Smith this unfinished song and she completed the lyrics; it reached #13 on the Hot 100 and remains Patti Smith's biggest commercial hit, a rare intersection of punk credibility and mainstream pop appeal."
+    },
+    {
+      "artist": "LeBlanc & Carr",
+      "song": "Falling",
+      "year_end_year": 1978,
+      "year_end_rank": 79,
+      "fun_fact": "Nashville duo Lenny LeBlanc and Pete Carr scored their only major hit with this atmospheric ballad that reached #13 on the Hot 100, with Carr's distinctive guitar work providing its most memorable musical element."
+    },
+    {
+      "artist": "Chris Rea",
+      "song": "Fool (If You Think It's Over)",
+      "year_end_year": 1978,
+      "year_end_rank": 84,
+      "fun_fact": "Sunderland-born Chris Rea's debut American hit reached #12 on the Hot 100 and introduced his warm, gravelly vocal style to US audiences, though his commercial breakthrough in America remained limited compared to his sustained European success."
+    },
+    {
+      "artist": "Alicia Bridges",
+      "song": "I Love the Nightlife",
+      "year_end_year": 1978,
+      "year_end_rank": 88,
+      "fun_fact": "Alicia Bridges wrote this declaration of disco devotion in about 20 minutes after her songwriting partner Susan Hutcheson suggested the hook; it reached #5 on the Hot 100 and became a gay club anthem that has remained in rotation for over four decades."
+    },
+    {
+      "artist": "High Inergy",
+      "song": "You Can't Turn Me Off (In the Middle of Turning Me On)",
+      "year_end_year": 1978,
+      "year_end_rank": 89,
+      "fun_fact": "This Motown girl group's upbeat soul track reached #12 on the Hot 100 and was produced by Hal Davis in a style that recalled the classic Motown sound while incorporating contemporary late-1970s disco production values."
+    },
+    {
+      "artist": "Odyssey",
+      "song": "Native New Yorker",
+      "year_end_year": 1978,
+      "year_end_rank": 91,
+      "fun_fact": "Written by Sandy Linzer and Denny Randell, Odyssey's dramatic tale of New York City's effect on a young woman reached #21 on the Hot 100 but performed so strongly in clubs and on R&B radio that it earned a place in the year-end chart."
+    },
+    {
+      "artist": "Eruption",
+      "song": "I Can't Stand the Rain",
+      "year_end_year": 1978,
+      "year_end_rank": 95,
+      "fun_fact": "British group Eruption's cover of Ann Peebles's 1973 soul classic reached #18 on the Hot 100 with a disco-influenced arrangement that stripped away the original's raw emotion in favor of a polished dance floor appeal."
+    },
+    {
+      "artist": "Anita Ward",
+      "song": "Ring My Bell",
+      "year_end_year": 1979,
+      "year_end_rank": 9,
+      "fun_fact": "Written by Frederick Knight for an eleven-year-old girl's album and completely repurposed by Anita Ward as an adult disco statement, this spent two weeks at #1 on the Hot 100 in an unlikely chart-topping moment for a Memphis soul singer new to the disco market."
+    },
+    {
+      "artist": "David Naughton",
+      "song": "Makin' It",
+      "year_end_year": 1979,
+      "year_end_rank": 14,
+      "fun_fact": "Actor David Naughton recorded this disco track as the theme for a television series and it reached #5 on the Hot 100; Naughton later starred in An American Werewolf in London, making this one of rock's more unusual connections to horror film history."
+    },
+    {
+      "artist": "Amii Stewart",
+      "song": "Knock on Wood",
+      "year_end_year": 1979,
+      "year_end_rank": 22,
+      "fun_fact": "British singer Amii Stewart's disco update of Eddie Floyd's 1966 Stax recording spent one week at #1 on the Hot 100 and introduced this classic soul song to an entire generation of listeners who had been too young for the original."
+    },
+    {
+      "artist": "Suzi Quatro & Chris Norman",
+      "song": "Stumblin' In",
+      "year_end_year": 1979,
+      "year_end_rank": 23,
+      "fun_fact": "The rock-credentialed Suzi Quatro and Smokie's Chris Norman created an unlikely pop pairing that reached #4 on the Hot 100 with this gentle duet, quite different from either artist's usual harder-edged musical territory."
+    },
+    {
+      "artist": "Randy VanWarmer",
+      "song": "Just When I Needed You Most",
+      "year_end_year": 1979,
+      "year_end_rank": 29,
+      "fun_fact": "Randy VanWarmer wrote this at age sixteen after his father's death and it took years before he recorded it; the finished single spent one week at #4 on the Hot 100 and was his only major commercial success despite its craft and emotional impact."
+    },
+    {
+      "artist": "Nicolette Larson",
+      "song": "Lotta Love",
+      "year_end_year": 1979,
+      "year_end_rank": 41,
+      "fun_fact": "Written by Neil Young after his relationship with Carole Ann Harris ended, Young gave the song to Larson, his then-girlfriend, and her recording reached #8 on the Hot 100 in a sunny pop arrangement that bore little resemblance to Young's spare demo."
+    },
+    {
+      "artist": "Frank Mills",
+      "song": "Music Box Dancer",
+      "year_end_year": 1979,
+      "year_end_rank": 49,
+      "fun_fact": "Canadian pianist Frank Mills composed this delicate instrumental in the early 1970s but it found its commercial moment when re-released in 1979, reaching #3 on the Hot 100 and becoming one of the best-selling instrumental singles of the decade."
+    },
+    {
+      "artist": "Bobby Caldwell",
+      "song": "What You Won't Do for Love",
+      "year_end_year": 1979,
+      "year_end_rank": 59,
+      "fun_fact": "Bobby Caldwell's label initially feared that revealing he was white would hurt the song's chances on R&B radio, so his image was deliberately withheld; the strategy worked, and the track reached #9 on the Hot 100 and #6 on the R&B chart."
+    },
+    {
+      "artist": "Ace Frehley",
+      "song": "New York Groove",
+      "year_end_year": 1979,
+      "year_end_rank": 60,
+      "fun_fact": "KISS guitarist Ace Frehley's cover of Hello's 1975 glam rock track reached #13 on the Hot 100 and remains the most commercially successful solo recording by any member of KISS outside of their work together as a group."
+    },
+    {
+      "artist": "Rickie Lee Jones",
+      "song": "Chuck E.'s in Love",
+      "year_end_year": 1979,
+      "year_end_rank": 63,
+      "fun_fact": "Rickie Lee Jones wrote this character study about a mutual friend's new romantic obsession; it reached #4 on the Hot 100 and introduced her jazz-influenced bohemian pop sensibility to mainstream audiences in one of the year's most critically acclaimed debut recordings."
+    },
+    {
+      "artist": "McFadden & Whitehead",
+      "song": "Ain't No Stoppin' Us Now",
+      "year_end_year": 1979,
+      "year_end_rank": 65,
+      "fun_fact": "Written by Gene McFadden, John Whitehead, and Jerry Cohen, this Philadelphia soul anthem reached #13 on the Hot 100 and has since become one of the most frequently played songs at sporting events, political rallies, and graduation ceremonies."
+    },
+    {
+      "artist": "Cheryl Lynn",
+      "song": "Got to Be Real",
+      "year_end_year": 1979,
+      "year_end_rank": 69,
+      "fun_fact": "Cheryl Lynn's debut single was produced by David Paich and David Foster and reached #12 on the Hot 100, introducing a powerhouse vocal talent who had auditioned unsuccessfully for Star Search before finding success through more traditional industry channels."
+    },
+    {
+      "artist": "Patrick Hernandez",
+      "song": "Born to Be Alive",
+      "year_end_year": 1979,
+      "year_end_rank": 70,
+      "fun_fact": "French singer Patrick Hernandez's only hit spent twelve weeks at #1 in France before reaching #16 on the Hot 100; the song's recording sessions reportedly introduced Patrick Hernandez to a young woman named Madonna Ciccone who was working as a dancer."
+    },
+    {
+      "artist": "Roger Voudouris",
+      "song": "Get Used to It",
+      "year_end_year": 1979,
+      "year_end_rank": 83,
+      "fun_fact": "Roger Voudouris's only major hit reached #21 on the Hot 100 with a smooth California sound influenced by the yacht rock genre that was becoming one of adult contemporary radio's dominant aesthetics in the late 1970s."
+    }
+  ]
+}

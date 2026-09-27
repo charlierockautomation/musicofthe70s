@@ -416,6 +416,18 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .n1-player-inner { position: sticky; left: 1rem; max-width: 100%; }
 .n1-player { max-width: 640px; margin: 0.5rem auto 0.75rem; }
 .n1-unavailable { color: var(--text-muted); margin: 0.5rem 0 0.75rem; }
+/* In-page player rows (js/one-hit-wonder-player.js), same pattern as n1- above */
+.data-table td.ohw-listen { padding-right: 0.25rem; }
+.ohw-play, .ohw-close {
+  background: none; border: 1px solid var(--accent-gold); color: var(--accent-gold); border-radius: 999px;
+  padding: 0.3rem 0.8rem; font: inherit; font-size: 0.85rem; cursor: pointer; white-space: nowrap;
+}
+.ohw-play[aria-expanded="true"], .ohw-play:hover, .ohw-close:hover { background: var(--accent-gold); color: var(--bg-primary); }
+.ohw-play:focus-visible, .ohw-close:focus-visible { outline: 2px solid var(--accent-gold); outline-offset: 2px; }
+.data-table tbody tr.ohw-player-row td { background: var(--bg-primary); text-align: center; padding: 0; }
+.ohw-player-inner { position: sticky; left: 1rem; max-width: 100%; }
+.ohw-player { max-width: 640px; margin: 0.5rem auto 0.75rem; }
+.ohw-unavailable { color: var(--text-muted); margin: 0.5rem 0 0.75rem; }
 
 .toc-block {
   background: var(--bg-card); border: 1px solid var(--border-subtle);

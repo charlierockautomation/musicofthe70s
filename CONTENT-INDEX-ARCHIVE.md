@@ -631,3 +631,33 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Georgia on My Mind | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Two Very Different Stages for the Same Song" H3, opening sentence |
 | Georgia on My Mind | Songs | Music of the 70s | /index.html | Body, closing sentence of "The Same Song, Two Very Different Legacies" H3, last content line before FAQ |
 | Willie Nelson (artist) | Artists | Georgia on My Mind (song) | /blog/songs/georgia-on-my-mind/index.html | Body, "Every Number One Country Hit Willie Nelson Had in the 70s" H2, list-item anchor, forward link added the session the song post was built |
+
+## Anchor Text & Position Log rows pruned 2026-09-27 (Give Up the Funk Parliament through Somebody to Love/Queen)
+
+| Give Up the Funk Parliament | Songs | Music of the 70s | /index.html | Body, "Give Up the Funk Parliament Credited to Three Real Songwriters" H2, mid-section closing of main paragraph, before the H3 credits list (not adjacent to FAQ, distinct from last 4 Songs posts) |
+| Give Up the Funk Parliament | Songs | Give Up the Funk (Listen Now) | /radio/index.html?play=1976-93-give-up-the-funk-tear-the-roof-off-the-sucker | Body, "Three Charts, One Gold Single" H2, not adjacent to the video embed (last 3 Songs posts placed it directly before/after the embed) |
+| Give Up the Funk Parliament | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Bigger Hit on Black Radio Than Pop Radio" H3, opening sentence |
+| Give Up the Funk Parliament | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Give Up the Funk Parliament's Afterlife in Hip-Hop" H2, mid-section |
+| Give Up the Funk Parliament | Songs | George Clinton (artist) | /blog/artists/george-clinton/index.html | Body, "Read More About the Tour Built Around the Same Album" H3, mid-sentence |
+| Give Up the Funk Parliament | Songs | 70s Funk (genre) | /blog/genres/70s-funk/index.html | Body, same H3 as above, closing sentence, secondary destination |
+| George Clinton (artist) | Artists | Give Up the Funk Parliament (song) | /blog/songs/give-up-the-funk-parliament/index.html | Body, "Mothership Connection Sets Up the Mythology" H3, mid-section, forward link added the session the song post was built |
+| ABBA Knowing Me Knowing You | Songs | ABBA Knowing Me Knowing You (Listen Now) | /radio/index.html?play=1977-97-knowing-me-knowing-you | Body, "A Global #1 That Barely Cracked the US Top 15" H2, mid-section after the data table, not adjacent to the video embed |
+| ABBA Knowing Me Knowing You | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the US Chart Never Caught Up" H3, mid-section |
+| ABBA Knowing Me Knowing You | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, sentence directly after the video embed |
+| ABBA Knowing Me Knowing You | Songs | ABBA (artist) | /blog/artists/abba/index.html | Body, "A British Comedy Borrowed the Title, Not the Song's Sadness" H3, closing sentence |
+| ABBA Knowing Me Knowing You | Songs | Dancing Queen (song) | /blog/songs/dancing-queen/index.html | Body, "Knowing Me, Knowing You's Long Afterlife" H2, song-to-song cross-link, mid-section not at H2 open/close |
+| ABBA Knowing Me Knowing You | Songs | Music of the 70s | /index.html | Body, final sentence of the "Knowing Me, Knowing You's Long Afterlife" H2, last content line before FAQ |
+| ABBA (artist) | Artists | ABBA Knowing Me Knowing You (song) | /blog/songs/abba-knowing-me-knowing-you/index.html | Body, "The Song That Predicted Its Own Band's Breakup" H2, mid-section, forward link added the session the song post was built |
+| Jive Talkin | Songs | Bee Gees (artist) | /blog/artists/bee-gees/index.html | Body, "From Drive Talkin to Jive Talkin" H3, mid-paragraph |
+| Jive Talkin | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Synth Bass That Changed Their Sound" H3, mid-paragraph |
+| Jive Talkin | Songs | Jive Talkin (Listen Now) | /radio/index.html?play=1975-12-jive-talkin | Body, same H3, sentence directly before the video embed |
+| Jive Talkin | Songs | Music of the 70s | /index.html | Body, "Jive Talkin Ended a Four-Year Wait" H2, mid-section, 3rd sentence |
+| Jive Talkin | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Why the Site's Own Data Shows Rank 12, Not Number One" H3, closing sentence |
+| Jive Talkin | Songs | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/index.html | Body, "Jive Talkin's Long Shadow" H2, closing-area sentence, song-to-song cross-link |
+| Somebody to Love | Songs | Queen Freddie Mercury (artist) | /blog/artists/queen-freddie-mercury/index.html | Body, "Somebody to Love Was Freddie Mercury's Alone" H3, closing sentence |
+| Somebody to Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Queen's First Fully Self-Produced Album" H3, closing sentence, before the video embed |
+| Somebody to Love | Songs | Somebody to Love (Listen Now) | /radio/index.html?play=1977-88-somebody-to-love | Body, sentence immediately after the video embed, not adjacent-before style used in the last 3 Songs posts |
+| Somebody to Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Somebody to Love's Real Chart Story" H2, closing sentence, before the data table |
+| Somebody to Love | Songs | Music of the 70s | /index.html | Body, "Why This Site's Own Data Shows 88, Not 13" H3, mid-section |
+| Somebody to Love | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, "The Song Freddie Mercury Ranked Above Bohemian Rhapsody" H2, closing sentence, song-to-song cross-link |
+| Queen Freddie Mercury (artist) | Artists | Somebody to Love (song) | /blog/songs/somebody-to-love/index.html | Body, "How Queen Freddie Mercury Actually Began" H2, closing sentence, forward link added the session the song post was built |
