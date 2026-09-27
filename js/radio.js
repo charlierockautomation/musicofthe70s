@@ -250,8 +250,28 @@
     volMuteBtn.setAttribute('aria-pressed', m || v === 0 ? 'true' : 'false');
   }
 
+  /* iPhone and iPad fix media volume to the hardware buttons: a page can't
+     change it, so YouTube's setVolume does nothing there. Test the browser
+     directly (an audio element that won't take a new volume) rather than
+     guessing from the device name. */
+  function canSetVolume() {
+    try {
+      var probe = document.createElement('audio');
+      probe.volume = 0.5;
+      return probe.volume === 0.5;
+    } catch (err) { return false; }
+  }
+
   function initVolume() {
     if (!volSlider) return;
+    if (!canSetVolume()) {
+      // Hide the whole control and skip any saved volume/mute, so a mute
+      // saved on another device can't leave the player silent here with
+      // no way to undo it. YouTube's own player controls stay available.
+      var volGroup = volSlider.closest('.radio-volume');
+      if (volGroup) volGroup.classList.add('hidden');
+      return;
+    }
     try {
       var saved = JSON.parse(localStorage.getItem(VOL_KEY) || 'null');
       if (saved && typeof saved.v === 'number') { RadioPlayer.setVolume(saved.v); RadioPlayer.setMuted(!!saved.m); }
