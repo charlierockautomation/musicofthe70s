@@ -395,6 +395,14 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .data-table tbody td { color: var(--text-primary); font-size: 0.95rem; }
 .data-table tbody tr:last-child td { border-bottom: none; }
 .data-table tbody tr.row-highlight td { background: rgba(245, 166, 35, 0.08); }
+/* Sortable tables (js/sortable-table.js): header buttons look like the
+   plain header text, with an arrow showing the current sort. */
+.sortable-table thead th button { all: unset; cursor: pointer; font: inherit; color: inherit; white-space: nowrap; }
+.sortable-table thead th button:focus-visible { outline: 2px solid var(--accent-gold); outline-offset: 2px; }
+.sortable-table thead th button::after { content: " \2195"; color: var(--text-muted); }
+.sortable-table thead th[aria-sort="ascending"] button::after { content: " \2191"; color: var(--accent-gold); }
+.sortable-table thead th[aria-sort="descending"] button::after { content: " \2193"; color: var(--accent-gold); }
+.sortable-table td a { color: var(--accent-gold); }
 
 .toc-block {
   background: var(--bg-card); border: 1px solid var(--border-subtle);

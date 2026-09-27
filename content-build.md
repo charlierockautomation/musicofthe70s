@@ -112,8 +112,9 @@ history for both stays in SESSION-LOG-ARCHIVE.md.
    6 hubs CollectionPage + ItemList + BreadcrumbList. MusicRecording/MusicGroup deliberately NOT added.
    New gate: `python3 scripts/check_schema.py` alongside check_clean_urls.py before every push (both PASS).
    New posts: re-run `python3 scripts/apply_schema.py --apply`.
-10. Core Web Vitals on /radio/ and tools, click-to-load facade (item 11) — BUILT 2026-09-27 (3bde65e),
-   awaiting Charlie's review: CLS fix on /radio/ + Decade Wheel, YouTube API loads on intent.
+10. ~~Core Web Vitals on /radio/ and tools, click-to-load facade (item 11)~~ DONE, LIVE 2026-09-27 (PR #3):
+   CLS fix on /radio/ + Decade Wheel, YouTube API loads on intent. PRs #4-#5: volume control hidden on iPhone/iPad.
+   **Phase 0 complete.** Charlie 2026-09-27: no fixed weekly schedule, he builds when he has time.
 
 (Item 8 in STRATEGY-2026.md, Bing Webmaster Tools/IndexNow, is Charlie's own action, not a session
 build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance rule once 1-6 land.)
@@ -124,6 +125,9 @@ build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance ru
 - Wed — Song
 - Thu — "This Week in 1970s Music" (STRATEGY-2026.md section 6G)
 - Fri — Song, or a source-citation pass (Phase 0 item 7 continuation)
+
+**Flagships (6A):** #1 Every #1 Hit BUILT 2026-09-27 as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
+~50/mo, Charlie's Keyword Planner pull). Table regenerates via scripts/generate_number_one_table.py. Next: #2 One-Hit Wonders.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6

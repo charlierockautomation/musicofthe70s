@@ -4,7 +4,7 @@
 # the raw data those decisions get made from. A term can sit here unused for a long time before
 # it becomes a Rotation Queue slot — that's expected, not stale.
 # Shipped pulls (focus keyword now on a Live post) live in keyword-research-archive.md (grep-only).
-# Last Updated: 2026-09-02
+# Last Updated: 2026-09-27
 
 ---
 
@@ -76,3 +76,14 @@ Source: WordStream, supplied by Charlie, 2026-08-11, search term "Classic Rock o
 **Not logged as a confirmed focus keyword yet.** Unlike the Soft Rock/Disco/Country Rock pulls, which surfaced genuinely distinct subgenre search terms, most of this pull's real volume clusters around phrasing that's a near-synonym of "70s rock," the keyword already in use on the live "70s Rock: The Sound That Defined a Decade" post. That's the real reason this Rotation Queue slot needs a content decision (is this a genuinely distinct data pillar or a data-labeling overlap with the live post?) before any keyword gets confirmed here, not just a keyword check. Full content-decision writeup: grep "Classic Rock of the 70s" SESSION-LOG-ARCHIVE.md.
 
 ---
+
+## 70s number one hits — Google Keyword Planner pull, 2026-09-27 (Charlie; CAD account, likely Canada)
+Every candidate came back at the planner's lowest bucket (~50/mo): 70s number one hits, number one songs
+of the 70s, 1970s number one hits, every number one song of the 70s, billboard number one hits 1970s,
+70s number 1 hits, number 1 songs of the 70s, and ~25 close variants. Only real outlier: "top 100 hits
+1970" 500/mo (Years intent, covered by Top Songs of 1970). DataForSEO out of credit (402).
+| Term | Volume/mo | Status |
+|---|---|---|
+| 70s number one hits | ~50 | confirmed focus keyword, /blog/songs/70s-number-one-hits/ |
+| number one songs 70s | n/a | already Birthday #1 Song Finder's focus keyword, excluded |
+

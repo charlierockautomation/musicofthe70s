@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-09-22 (MacArthur Park, Donna Summer, Songs slot #38, LIVE)
+# Last Updated: 2026-09-27 (70s Number One Hits, Charts flagship #1, Built-Local)
 
 ---
 
@@ -64,6 +64,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| 70s Number One Hits: Every Billboard #1, 1970 to 1979 | https://musicofthe70s.net/blog/songs/70s-number-one-hits/ | Songs (Charts flagship #1) | 70s number one hits | Built-Local | 2026-09-27 | Birthday #1 Song Finder, 70s Decade Wheel |
 | Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |

@@ -185,3 +185,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Tragedy Bee Gees | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, same "Where Tragedy Fits..." H2, closing sentence |
 | Tragedy Bee Gees | Songs | How Can You Mend a Broken Heart / Jive Talkin' / You Should Be Dancing / How Deep Is Your Love / Night Fever / Too Much Heaven (songs) | /blog/songs/how-can-you-mend-a-broken-heart/, jive-talkin/, you-should-be-dancing/, how-deep-is-your-love/, night-fever/, too-much-heaven/ | Body, "Where It Sits in the Bee Gees' Catalog" H2, bullet-list song-to-song cross-links |
 | Bee Gees (artist) | Artists | Tragedy (song) | /blog/songs/tragedy-bee-gees/index.html | Body, "Backlash and Songwriting Mastery" H2, new H2 (prior 2 Bee Gees forward links both used "Fever Peak"), forward link added the session the song post was built |
+| 70s Number One Hits | Songs (Charts flagship) | Bee Gees (artist) | /blog/artists/bee-gees/ | Body, "Which Artists Had the Most Number Ones" H2, "The Bee Gees' Nine" H3, closing sentence after the song list |
+| 70s Number One Hits | Songs (Charts flagship) | 70s Decade Wheel | /pages/70s-decade-wheel | Body, "Year by Year" H2, "Revolving Door of 1974 and 1975" H3, closing sentence |
+| 70s Number One Hits | Songs (Charts flagship) | Birthday #1 Song Finder | /pages/birthday-number-one | Body, same H2, "Blockbuster Years" H3, closing sentence (primary destination) |
+| 70s Number One Hits | Songs (Charts flagship) | Listen Now | /radio/ | Body, "Every 70s Number One Hit, Sortable" H2, intro sentence; plus 236 per-song Play links in the generated table |
+| 70s Number One Hits | Songs (Charts flagship) | 29 Songs posts | /blog/songs/<slug>/ | Generated table, song-title cells (scripts/generate_number_one_table.py) |
+| 70s Number One Hits | Songs (Charts flagship) | Methodology / Music of the 70s | /about/methodology/, / | Body, "How This List Was Built" H2, last two sentences |
