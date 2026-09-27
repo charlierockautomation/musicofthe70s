@@ -95,8 +95,9 @@ the old Category Rotation Queue table and the Artists genre-rotation rule; compl
 history for both stays in SESSION-LOG-ARCHIVE.md.
 
 **Phase 0 — technical/trust fixes (STRATEGY-2026.md section 8), one per session, in order:**
-1. Confirm clean-URL fix is live, resubmit sitemap, request indexing (item 1)
-2. Fix the GSC "Redirect error" URLs (item 2)
+1. ~~Confirm clean-URL fix is live, resubmit sitemap, request indexing (item 1)~~ DONE (c711e0d, 2026-09-24)
+2. ~~Fix the GSC "Redirect error" URLs (item 2)~~ DONE (c711e0d; URL list supplied in a prior chat,
+   fixed by the clean-URL pass; Charlie-confirmed 2026-09-27)
 3. ~~Visible byline + published/updated dates on every post, matched in schema (item 3)~~ DONE (6be7dc9)
 4. ~~Author page for Charlie (item 4)~~ DONE (3f28389)
 5. ~~Methodology / editorial policy page (item 5)~~ DONE (d9710ca)
