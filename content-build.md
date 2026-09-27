@@ -126,7 +126,7 @@ build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance ru
 - Thu — "This Week in 1970s Music" (STRATEGY-2026.md section 6G)
 - Fri — Song, or a source-citation pass (Phase 0 item 7 continuation)
 
-**Flagships (6A):** #1 Every #1 Hit BUILT 2026-09-27 as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
+**Flagships (6A):** #1 Every #1 Hit LIVE 2026-09-27 (PR #6, 7e07d0d; Charlie live-verified incl. in-page Play) as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
 ~50/mo, Charlie's Keyword Planner pull). Table regenerates via scripts/generate_number_one_table.py. Next: #2 One-Hit Wonders.
 
 **Ordering within each slot:**
