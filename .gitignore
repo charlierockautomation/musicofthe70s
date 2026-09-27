@@ -9,3 +9,6 @@ scripts/.env
 # Local Claude Code state (may contain command output or pasted secrets)
 .claude/settings.local.json
 .claude/bash-logs/
+
+# Python bytecode
+__pycache__/

@@ -5,8 +5,13 @@ philosophy as scripts/generate_sitemap.py and
 scripts/generate_blog_hub_cards.py: the filesystem is the source of
 truth, so this can never drift from CONTENT-INDEX.md.
 
-Sections: Tools (6 permanent pillar pages, pages/*.html) then one
+Sections: Tools (6 permanent pillar pages, pages/*.html), Listen
+(/radio/), Blog Hubs (/blog/ and the 5 category hubs), then one
 section per live blog category (Genres, Years, Artists, Songs, Trivia),
+then About (site About, author, methodology, contact). The fixed
+sections pull each page's meta description from disk, so edits to
+those pages carry through; entries whose file is missing are skipped
+with a warning.
 each entry sourced from that post's own Article schema headline +
 datePublished + meta description. Categories with a real datePublished
 sort newest-first; Tools have no publish date so they sort alphabetically
@@ -47,6 +52,25 @@ TOOL_FILES = {
     "random-artist-picker.html",
 }
 
+# Fixed non-post pages: (label, path on disk, clean URL path).
+LISTEN_PAGES = [
+    ("70s Music Radio and Jukebox", "radio/index.html", "/radio/"),
+]
+HUB_PAGES = [
+    ("Blog: all posts", "blog/index.html", "/blog/"),
+    ("Genres hub", "blog/genres/index.html", "/blog/genres/"),
+    ("Years hub", "blog/years/index.html", "/blog/years/"),
+    ("Artists hub", "blog/artists/index.html", "/blog/artists/"),
+    ("Songs hub", "blog/songs/index.html", "/blog/songs/"),
+    ("Trivia hub", "blog/trivia/index.html", "/blog/trivia/"),
+]
+ABOUT_PAGES = [
+    ("About Music of the 70s", "pages/about.html", "/pages/about"),
+    ("About the Author", "about/author/index.html", "/about/author/"),
+    ("How We Research and Write (Methodology)", "about/methodology/index.html", "/about/methodology/"),
+    ("Contact", "pages/contact.html", "/pages/contact"),
+]
+
 CATEGORY_ORDER = ["genres", "years", "artists", "songs", "trivia"]
 CATEGORY_LABELS = {
     "genres": "Genres",
@@ -85,6 +109,21 @@ def find_tools():
         })
     tools.sort(key=lambda t: t["title"])
     return tools
+
+
+def find_fixed_pages(entries):
+    pages = []
+    for label, rel_path, url_path in entries:
+        f = REPO_ROOT / rel_path
+        if not f.exists():
+            print(f"WARNING: expected page missing: {f}", file=sys.stderr)
+            continue
+        description = _extract(r'<meta name="description" content="([^"]*)"', f.read_text(encoding="utf-8"))
+        if not description:
+            print(f"WARNING: skipping {f}, missing description", file=sys.stderr)
+            continue
+        pages.append({"title": label, "description": description, "url": f"{SITE}{url_path}"})
+    return pages
 
 
 def find_posts_by_category():
@@ -141,8 +180,8 @@ def render_section(label, posts):
     return "\n".join(lines)
 
 
-def render_tools_section(tools):
-    lines = ["## Tools"]
+def render_tools_section(tools, label="Tools"):
+    lines = [f"## {label}"]
     for t in tools:
         lines.append(f"- [{t['title']}]({t['url']}): {t['description']}")
     return "\n".join(lines)
@@ -161,10 +200,16 @@ def main():
         "",
         render_tools_section(tools),
         "",
+        render_tools_section(find_fixed_pages(LISTEN_PAGES), "Listen"),
+        "",
+        render_tools_section(find_fixed_pages(HUB_PAGES), "Blog Hubs"),
+        "",
     ]
     for cat in CATEGORY_ORDER:
         parts.append(render_section(CATEGORY_LABELS[cat], by_cat[cat]))
         parts.append("")
+    parts.append(render_tools_section(find_fixed_pages(ABOUT_PAGES), "About"))
+    parts.append("")
 
     content = "\n".join(parts).rstrip() + "\n"
 

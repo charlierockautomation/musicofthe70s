@@ -10,6 +10,9 @@ description: Repo location, GitHub/Cloudflare Pages deploy mechanics, GA tag req
 - Credential helper already configured (`credential.helper store`) — no auth prompts expected
 - GA tag: `G-ZY77Y8DHV1` — must be present in `<head>` on every page, no duplicates, no exceptions
 - Google Search Console: verified and linked to GA4
+- Cloudflare Pages publishes the whole repo root. `functions/_middleware.js` returns 404 for internal
+  files: any `*.md`, `/.claude/`, `/scripts/`, `/sources/`, `QUICK_START.*`, `musicofthe70s_fixes.tar.gz`.
+  A new internal file of any other type needs adding to that list, or it goes public on push.
 
 ## Preview Workflow (every time, before pushing)
 ```
