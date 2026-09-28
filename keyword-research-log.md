@@ -86,4 +86,4 @@ of the 70s, 1970s number one hits, every number one song of the 70s, billboard n
 |---|---|---|
 | 70s number one hits | ~50 | confirmed focus keyword, /blog/songs/70s-number-one-hits/ |
 | number one songs 70s | n/a | already Birthday #1 Song Finder's focus keyword, excluded |
-
+| 70s singers | 1,900 | confirmed focus keyword (STRATEGY-2026.md 6A), /blog/artists/70s-singers/; SERP 2026-09-28 = individual-singer lists, so solo-only angle |

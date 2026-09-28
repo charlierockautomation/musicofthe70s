@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-27 (Flagship #2, 70s One-Hit Wonders, BUILT pending Charlie's review)
+# Last Updated: 2026-09-28 (Flagship #3, 70s Singers, BUILT pending Charlie's review)
 
 ---
 
@@ -128,7 +128,7 @@ build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance ru
 
 **Flagships (6A):** #1 Every #1 Hit LIVE 2026-09-27 (PR #6, 7e07d0d; Charlie live-verified incl. in-page Play) as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
 ~50/mo, Charlie's Keyword Planner pull). Table regenerates via scripts/generate_number_one_table.py.
-#2 One-Hit Wonders BUILT 2026-09-27, not yet pushed, awaiting Charlie's review (Publish Gate) as
+#2 One-Hit Wonders on origin/main 2026-09-27 (53cd042 + regen a17533c) as
 /blog/songs/70s-one-hit-wonders/ (keyword `70s one hit wonders`, 5,400/mo, pulled 2026-09-25 per
 STRATEGY-2026.md). Definition: exactly one US Top 40 Hot 100 hit, whole career. Built from 368
 acts appearing once in data/billboard/year_end_hot100.json 1970-1979, cross-checked against
@@ -138,7 +138,16 @@ second Top 40 hit (incl. The Knack, "My Sharona" vs. "Good Girls Don't" #11 -- s
 "Acts We Checked and Dropped" section). Data: data/billboard/one_hit_wonders_70s.json. Table
 regenerates via scripts/generate_one_hit_wonders_table.py; player is js/one-hit-wonder-player.js
 (same pattern as js/number-one-player.js, own class prefix `ohw-`). verify_post.py and
-check_clean_urls.py both PASS. Next: #3 Biggest Artists of the 1970s.
+check_clean_urls.py both PASS.
+#3 Biggest Artists BUILT 2026-09-28 on branch claude/optimistic-planck-ded3zy, NOT on main, awaiting
+Charlie's review (Publish Gate) as /blog/artists/70s-singers/ (keyword `70s singers`, 1,900/mo).
+Angle call: SOLO singers only (live SERP for "70s singers" is individual-singer lists; groups left to
+#4 Bands so the two don't overlap). 48 singers with 3+ solo year-end Hot 100 hits; Elton John 12,
+Stevie Wonder 10, Barry Manilow 9. Duets and singer+band credits shown, not counted; Alice Cooper's
+band-era "School's Out" excluded. Table: scripts/generate_70s_singers_table.py (SINGERS list inside);
+player: js/table-player.js (generic, any table[data-inline-player], reuses .ohw-* CSS). Also fixed
+.data-table-wrap (position: relative) so a hidden header label can't cause page-wide sideways scroll.
+Next: #4 The Biggest 70s Bands (`70s bands`, 12,100).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6

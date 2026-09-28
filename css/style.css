@@ -381,7 +381,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .post-body-figure .post-body-caption { color: var(--text-muted); font-size: 0.85rem; margin: 0.6rem 0 0; }
 .post-body-figure .post-body-caption + .post-body-caption { margin-top: 0.15rem; }
 
-.data-table-wrap { overflow-x: auto; margin: 1.75rem 0; }
+.data-table-wrap { overflow-x: auto; margin: 1.75rem 0; position: relative; }
 .data-table {
   width: 100%; border-collapse: collapse; min-width: 480px;
   background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: var(--radius);
@@ -729,3 +729,5 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .chart-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
 .chart-table th, .chart-table td { text-align: left; padding: 0.55rem 0.75rem; border-bottom: 1px solid var(--border-subtle); }
 .chart-table th { color: var(--accent-gold); }
+/* Small inline note inside a data-table cell (e.g. year and rank after a song) */
+.data-table .table-note { color: var(--text-muted); font-size: 0.85em; white-space: nowrap; }

@@ -103,6 +103,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://musicofthe70s.net/blog/artists/70s-singers/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://musicofthe70s.net/blog/artists/abba/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>

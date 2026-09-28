@@ -661,3 +661,22 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Somebody to Love | Songs | Music of the 70s | /index.html | Body, "Why This Site's Own Data Shows 88, Not 13" H3, mid-section |
 | Somebody to Love | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/index.html | Body, "The Song Freddie Mercury Ranked Above Bohemian Rhapsody" H2, closing sentence, song-to-song cross-link |
 | Queen Freddie Mercury (artist) | Artists | Somebody to Love (song) | /blog/songs/somebody-to-love/index.html | Body, "How Queen Freddie Mercury Actually Began" H2, closing sentence, forward link added the session the song post was built |
+
+## 70s Singers: The Biggest Solo Artists, by the Charts (Charts flagship #3) — built 2026-09-28
+- URL /blog/artists/70s-singers/, keyword `70s singers` (1,900/mo, STRATEGY-2026.md 6A). Title 52 chars, meta 150.
+- Angle: solo singers only. Live SERP for "70s singers" (2026-09-28) is individual-singer lists; groups
+  left to flagship #4 (70s bands) so the pages don't overlap. Bee Gees (12) and Carpenters (11) mentioned
+  for context only.
+- Data: year_end_hot100.json (count of solo credits, ties by chart points = sum of 101 - rank) and
+  hot100_weekly.json (No. 1s and weeks counted from rows). 48 singers with 3+. Counting calls stated on
+  page: duets (8 year-end entries) shown in own table, not counted; singer+band credits excluded;
+  Alice Cooper's 1972 band-era "School's Out" excluded; weekly "Elton John Band" = Elton John.
+- Outside facts, web-verified: Andy Gibb first solo artist with first three singles at No. 1 (Wikipedia,
+  citing Billboard Book of Number One Hits); "Philadelphia Freedom" written for Billie Jean King of the
+  Philadelphia Freedoms. External links: Wikipedia 1975 year-end list, 1970s No. 1s list, Andy Gibb, Billboard Hot 100.
+- Images: original bar chart (matplotlib, site palette, legible at 400w); reused Stevie Wonder 1973
+  Motown photo (public domain, credit on page). Wikimedia is blocked from the build container.
+- Embed: Elton John "Philadelphia Freedom" sOF6_kHBkyg (status fresh 2026-09-21; oEmbed channel check
+  not possible, youtube.com blocked from container). Every table row has in-page Play (js/table-player.js).
+- verify_post.py PASS (3,124 words, 18 uses, 0.576%), check_clean_urls PASS, check_schema PASS, youtube_status PASS.
+  Mobile 375/390 no sideways scroll after the .data-table-wrap position fix.

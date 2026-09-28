@@ -170,3 +170,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s One Hit Wonders | Songs (Charts flagship) | Seasons in the Sun (song) | /blog/songs/seasons-in-the-sun/ | Body, "Terry Jacks Beat the Field" H3, closing sentence |
 | 70s One Hit Wonders | Songs (Charts flagship) | Top Songs of 1977 | /blog/years/top-songs-of-1977/ | Body, "1977 Had the Fewest" H3, closing sentence |
 | 70s One Hit Wonders | Songs (Charts flagship) | Methodology / Music of the 70s | /about/methodology/, / | Body, "How This List Was Built" H2, two separate closing sentences (methodology mid-section, homepage after the trailing CTA paragraphs) |
+| 70s Singers | Artists (Charts flagship #3) | Random Artist Picker | /pages/random-artist-picker | Body, "All 70s Singers With 3 or More Year-End Hits, Sortable" H2, intro sentence before the table (primary destination) |
+| 70s Singers | Artists (Charts flagship #3) | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, closing CTA after the FAQ |
+| 70s Singers | Artists (Charts flagship #3) | top songs of 1979 | /blog/years/top-songs-of-1979/ | Body, "The Top 70s Singers, Year by Year" H2, "Donna Summer Closed the Decade" H3, closing sentence |
+| 70s Singers | Artists (Charts flagship #3) | 5 artist posts + 5 Songs posts | /blog/artists/<slug>/, /blog/songs/<slug>/ | Generated table, singer and biggest-hit cells (scripts/generate_70s_singers_table.py) |
+| 70s Singers | Artists (Charts flagship #3) | Methodology / Music of the 70s | /about/methodology/, / | Body, "How This Ranking Was Built" H2 closing sentence; homepage in the closing CTA |
