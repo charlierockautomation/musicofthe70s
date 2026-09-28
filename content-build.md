@@ -128,7 +128,7 @@ build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance ru
 
 **Flagships (6A):** #1 Every #1 Hit LIVE 2026-09-27 (PR #6, 7e07d0d; Charlie live-verified incl. in-page Play) as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
 ~50/mo, Charlie's Keyword Planner pull). Table regenerates via scripts/generate_number_one_table.py.
-#2 One-Hit Wonders BUILT 2026-09-27, not yet pushed, awaiting Charlie's review (Publish Gate) as
+#2 One-Hit Wonders PUSHED to main 2026-09-27 (53cd042 page; a17533c hub/cards/sitemap/llms.txt); Charlie live-verify (incl. in-page Play) still owed, as
 /blog/songs/70s-one-hit-wonders/ (keyword `70s one hit wonders`, 5,400/mo, pulled 2026-09-25 per
 STRATEGY-2026.md). Definition: exactly one US Top 40 Hot 100 hit, whole career. Built from 368
 acts appearing once in data/billboard/year_end_hot100.json 1970-1979, cross-checked against
