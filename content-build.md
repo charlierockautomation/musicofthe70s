@@ -4,29 +4,18 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-28 (Flagship #3, 70s Singers, LIVE, Charlie-approved)
+# Last Updated: 2026-09-28 (Flagship #4, 70s Bands, pushed to claude/pensive-faraday-4kxiay, not yet on main)
 
 ---
 
 ## Current State (as of 2026-09-25)
 
-- Tragedy (Songs, slot #42, final slot in the 42-song queue): focus keyword `tragedy bee gees`
-  (6,600/mo, informational, vs. 60,500/mo bare `tragedy` rejected as generic-word/Steps-cover
-  wrong-intent, same call as MacArthur Park). **LIVE 2026-09-25 (commit 61c51d7, pushed to
-  origin/main, live-verified; regen commit 0a31f17).** Full build write-up: SESSION-LOG-ARCHIVE.md.
-  This was the last open slot in the 42-song artist-linked rotation queue; queue is now
-  complete, all 42 slots LIVE.
-
-- MacArthur Park (Songs, slot #38): focus keyword `macarthur park donna summer`. **LIVE 2026-09-22
-  (commit 081a94d, pushed to origin/main, live-verified).** Full build write-up pruned to
-  SESSION-LOG-ARCHIVE.md 2026-09-25.
-
-- Heartache Tonight (slot #37, `heartache tonight`), Night Fever (slot #36), New Kid in Town (slot
-  #32), Last Dance (slot #33), Sir Duke (slot #34), The Name of the Game (slot #35), Blue Eyes Crying
-  in the Rain (slot #28), Marvin Gaye Let's Get It On (slot #22), and Al Green Tired of Being Alone
-  (slot #21): all confirmed LIVE, Charlie-approved. Full write-ups pruned to SESSION-LOG-ARCHIVE.md.
-- Songs artist-linked rotation queue: all 42 slots LIVE, queue complete. Most recent LIVE post:
-  Tragedy (Bee Gees, 2026-09-25).
+- Songs artist-linked rotation queue (42 slots): complete, all LIVE. Closing post was Tragedy
+  (Bee Gees, slot #42, `tragedy bee gees`, 2026-09-25, commit 61c51d7). Full per-slot detail
+  (MacArthur Park, Heartache Tonight, Night Fever, New Kid in Town, Last Dance, Sir Duke, The
+  Name of the Game, Blue Eyes Crying in the Rain, Marvin Gaye Let's Get It On, Al Green Tired
+  of Being Alone, etc.) pruned to SESSION-LOG-ARCHIVE.md 2026-09-25. New Songs picks now come
+  from the Strategy Queue below (STRATEGY-2026.md section 6E).
 - Note: local main preserves an unpushed CI-workflow commit (709eda5) on local branch
   `ci-workflow-pending`, not on remote per the standing PAT-scope call (Charlie-approved).
 - Genres Rotation Queue is fully clear. Years series complete (10/10). Trivia has no cap.
@@ -147,7 +136,18 @@ Stevie Wonder 10, Barry Manilow 9. Duets and singer+band credits shown, not coun
 band-era "School's Out" excluded. Table: scripts/generate_70s_singers_table.py (SINGERS list inside);
 player: js/table-player.js (generic, any table[data-inline-player], reuses .ohw-* CSS). Also fixed
 .data-table-wrap (position: relative) so a hidden header label can't cause page-wide sideways scroll.
-Next: #4 The Biggest 70s Bands (`70s bands`, 12,100).
+Next: #4 The Biggest 70s Bands (`70s bands`, 12,100). Built 2026-09-28: 47 groups/duo acts,
+3+ year-end Hot 100 hits, from data/billboard/. Bee Gees lead with 12, Wings and The
+Carpenters tied at 11 (Wings and Dr. Hook credit-spelling variants merged into single
+entries, counting call stated on-page). Table: scripts/generate_70s_bands_table.py;
+charts: scripts/generate_70s_bands_chart.py, scripts/generate_70s_bands_weeks_chart.py
+(matplotlib, since Wikimedia Commons was network-blocked this session, no sourced photo).
+verify_post.py, check_clean_urls.py, check_schema.py, youtube_status.py --report all
+PASS. Charlie said "go ahead and deploy" without opening the local preview link.
+Committed and pushed to claude/pensive-faraday-4kxiay (134c2f1, ea20dcd) but NOT on
+origin/main yet, this session's branch rules don't allow pushing there directly and no
+PR has been opened, Charlie needs to say whether to open one or merge it himself.
+Next: #5 70s Female Singers (`70s female singers`, 4,400).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
