@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-28 (Flagship #3, 70s Singers, BUILT pending Charlie's review)
+# Last Updated: 2026-09-28 (Flagship #3, 70s Singers, LIVE, Charlie-approved)
 
 ---
 
@@ -139,8 +139,8 @@ second Top 40 hit (incl. The Knack, "My Sharona" vs. "Good Girls Don't" #11 -- s
 regenerates via scripts/generate_one_hit_wonders_table.py; player is js/one-hit-wonder-player.js
 (same pattern as js/number-one-player.js, own class prefix `ohw-`). verify_post.py and
 check_clean_urls.py both PASS.
-#3 Biggest Artists BUILT 2026-09-28 on branch claude/optimistic-planck-ded3zy, NOT on main, awaiting
-Charlie's review (Publish Gate) as /blog/artists/70s-singers/ (keyword `70s singers`, 1,900/mo).
+#3 Biggest Artists LIVE 2026-09-28 (Charlie reviewed locally and approved; fast-forwarded to main)
+as /blog/artists/70s-singers/ (keyword `70s singers`, 1,900/mo).
 Angle call: SOLO singers only (live SERP for "70s singers" is individual-singer lists; groups left to
 #4 Bands so the two don't overlap). 48 singers with 3+ solo year-end Hot 100 hits; Elton John 12,
 Stevie Wonder 10, Barry Manilow 9. Duets and singer+band credits shown, not counted; Alice Cooper's
