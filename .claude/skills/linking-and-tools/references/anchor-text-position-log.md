@@ -175,3 +175,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Singers | Artists (Charts flagship #3) | top songs of 1979 | /blog/years/top-songs-of-1979/ | Body, "The Top 70s Singers, Year by Year" H2, "Donna Summer Closed the Decade" H3, closing sentence |
 | 70s Singers | Artists (Charts flagship #3) | 5 artist posts + 5 Songs posts | /blog/artists/<slug>/, /blog/songs/<slug>/ | Generated table, singer and biggest-hit cells (scripts/generate_70s_singers_table.py) |
 | 70s Singers | Artists (Charts flagship #3) | Methodology / Music of the 70s | /about/methodology/, / | Body, "How This Ranking Was Built" H2 closing sentence; homepage in the closing CTA |
+| 70s Female Singers | Artists (Charts flagship #5) | 70s Singers | /blog/artists/70s-singers/ | Body, "Why the Bar Had to Drop" H2, closing sentence (primary destination) |
+| 70s Female Singers | Artists (Charts flagship #5) | 70s Bands | /blog/artists/70s-bands/ | Body, "Women Who Charted as Bands, Not Solo" H2, closing sentence, varies position from Singers/Bands' before-table and closing-CTA placements |
+| 70s Female Singers | Artists (Charts flagship #5) | Random Artist Picker | /pages/random-artist-picker | Body, "Four Women's Groups That Clear Neither Bar" H3, closing sentence |
+| 70s Female Singers | Artists (Charts flagship #5) | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Duets and Shared Credits" H2, mid-section sentence (not closing CTA, varies from 70s Singers placement) |
+| 70s Female Singers | Artists (Charts flagship #5) | I Will Survive (song) | /radio/?play=1979-6-i-will-survive | Body, "The Eleven Names That Bar Adds" H3, closing sentence |
+| 70s Female Singers | Artists (Charts flagship #5) | 1 artist post + 2 Songs posts | /blog/artists/donna-summer/, /blog/songs/bad-girls/, /blog/songs/i-will-survive/ | Generated table cells (scripts/generate_70s_female_singers_table.py) plus Related Posts cards |
+| 70s Female Singers | Artists (Charts flagship #5) | Methodology / 70s Singers / Music of the 70s | /about/methodology/, /blog/artists/70s-singers/, / | Body, "How This Ranking Was Built" H2 closing sentences; homepage in the closing CTA |
