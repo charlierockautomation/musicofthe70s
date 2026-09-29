@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-29 (Flagships #3 Singers and #4 Bands both LIVE, live-verified on main)
+# Last Updated: 2026-09-29 (Flagships #3 Singers, #4 Bands, #5 Female Singers all LIVE, live-verified on main)
 
 ---
 
@@ -128,24 +128,23 @@ second Top 40 hit (incl. The Knack, "My Sharona" vs. "Good Girls Don't" #11 -- s
 regenerates via scripts/generate_one_hit_wonders_table.py; player is js/one-hit-wonder-player.js
 (same pattern as js/number-one-player.js, own class prefix `ohw-`). verify_post.py and
 check_clean_urls.py both PASS.
-#3 Biggest Artists LIVE 2026-09-28 (Charlie reviewed locally and approved; fast-forwarded to main)
-as /blog/artists/70s-singers/ (keyword `70s singers`, 1,900/mo).
-Angle call: SOLO singers only (live SERP for "70s singers" is individual-singer lists; groups left to
-#4 Bands so the two don't overlap). 48 singers with 3+ solo year-end Hot 100 hits; Elton John 12,
-Stevie Wonder 10, Barry Manilow 9. Duets and singer+band credits shown, not counted; Alice Cooper's
-band-era "School's Out" excluded. Table: scripts/generate_70s_singers_table.py (SINGERS list inside);
-player: js/table-player.js (generic, any table[data-inline-player], reuses .ohw-* CSS). Also fixed
-.data-table-wrap (position: relative) so a hidden header label can't cause page-wide sideways scroll.
-Next: #4 The Biggest 70s Bands (`70s bands`, 12,100). Built 2026-09-28: 47 groups/duo acts,
-3+ year-end Hot 100 hits, from data/billboard/. Bee Gees lead with 12, Wings and The
-Carpenters tied at 11 (Wings and Dr. Hook credit-spelling variants merged into single
-entries, counting call stated on-page). Table: scripts/generate_70s_bands_table.py;
-charts: scripts/generate_70s_bands_chart.py, scripts/generate_70s_bands_weeks_chart.py
-(matplotlib, since Wikimedia Commons was network-blocked this session, no sourced photo).
-verify_post.py, check_clean_urls.py, check_schema.py, youtube_status.py --report all
-PASS. Charlie said "go ahead and deploy" without opening the local preview link.
-LIVE on origin/main via PR #8 (1fb5935), live-verified 2026-09-29 at /blog/artists/70s-bands/.
-Next: #5 70s Female Singers (`70s female singers`, 4,400).
+#3 Biggest Artists LIVE 2026-09-28 as /blog/artists/70s-singers/ (`70s singers`, 1,900/mo),
+48 solo singers, 3+ year-end hits, Elton John leads with 12. Full write-up: SESSION-LOG-ARCHIVE.md.
+#4 The Biggest 70s Bands LIVE 2026-09-29 (PR #8, 1fb5935) as /blog/artists/70s-bands/
+(`70s bands`, 12,100), 47 groups/duos, 3+ year-end hits, Bee Gees lead with 12.
+Full write-up: SESSION-LOG-ARCHIVE.md.
+
+Flagship #5 70s Female Singers (`70s female singers`, 4,400) built 2026-09-29: 22 solo
+women with 2+ year-end Hot 100 hits (bar dropped from Singers page's 3, since only 11
+women clear it), from data/billboard/. Olivia Newton-John leads with 8. Table:
+scripts/generate_70s_female_singers_table.py; charts: _chart.py, _weeks_chart.py
+(matplotlib). Also added a "Quick Listen" top-5 mini-table near the top of this page
+plus the live 70s Bands and 70s Singers pages, Charlie flagged the full sortable table
+sitting too deep for search-intent "listen" traffic. verify_post.py, check_clean_urls.py,
+youtube_status.py --report all PASS on all three. Charlie approved after local preview.
+LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
+/blog/artists/70s-female-singers/.
+Next: #6 70s #1 Hits Timeline (`top songs of the 70s`, check vs Best Songs, 6,600).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6

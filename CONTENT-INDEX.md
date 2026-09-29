@@ -66,6 +66,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 |---|---|---|---|---|---|---|
 | 70s Singers: The Biggest Solo Artists, by the Charts | https://musicofthe70s.net/blog/artists/70s-singers/ | Artists (Charts flagship #3) | 70s singers | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
 | 70s Bands: The Biggest Groups of the Decade, by the Charts | https://musicofthe70s.net/blog/artists/70s-bands/ | Artists (Charts flagship #4) | 70s bands | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
+| 70s Female Singers: The Biggest Solo Women, by the Charts | https://musicofthe70s.net/blog/artists/70s-female-singers/ | Artists (Charts flagship #5) | 70s female singers | Live | 2026-09-29 | Random Artist Picker, 70s Music Trivia Quiz |
 | 70s One Hit Wonders: 147 Verified, One Chart Hit Each | https://musicofthe70s.net/blog/songs/70s-one-hit-wonders/ | Songs (Charts flagship #2) | 70s one hit wonders | Live | 2026-09-27 | Random 70s Song Generator, Mood Song Matcher |
 | 70s Number One Hits: Every Billboard #1, 1970 to 1979 | https://musicofthe70s.net/blog/songs/70s-number-one-hits/ | Songs (Charts flagship #1) | 70s number one hits | Live | 2026-09-27 | Birthday #1 Song Finder, 70s Decade Wheel |
 | Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |

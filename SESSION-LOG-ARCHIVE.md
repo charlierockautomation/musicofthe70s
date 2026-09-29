@@ -457,3 +457,24 @@ slot in the 42-song artist-linked rotation queue; queue is now complete, all 42 
 42. Tragedy — Bee Gees — **LIVE 2026-09-25**
 
 **Zero-candidate artists, no song slot possible from current data**: Grateful Dead, Iggy Pop, Talking Heads, Agnetha Faltskog, Anni-Frid Lyngstad, Benny Andersson, Bjorn Ulvaeus — no confirmed Hot100/country single in the JSON, matches the "zero chart entries" angle already used in their Live posts.
+
+## Flagships #3 and #4 full build write-ups (pruned from content-build.md 2026-09-29)
+
+**#3 Biggest Artists** LIVE 2026-09-28 (Charlie reviewed locally and approved; fast-forwarded to main)
+as /blog/artists/70s-singers/ (keyword `70s singers`, 1,900/mo).
+Angle call: SOLO singers only (live SERP for "70s singers" is individual-singer lists; groups left to
+#4 Bands so the two don't overlap). 48 singers with 3+ solo year-end Hot 100 hits; Elton John 12,
+Stevie Wonder 10, Barry Manilow 9. Duets and singer+band credits shown, not counted; Alice Cooper's
+band-era "School's Out" excluded. Table: scripts/generate_70s_singers_table.py (SINGERS list inside);
+player: js/table-player.js (generic, any table[data-inline-player], reuses .ohw-* CSS). Also fixed
+.data-table-wrap (position: relative) so a hidden header label can't cause page-wide sideways scroll.
+
+**#4 The Biggest 70s Bands** (`70s bands`, 12,100). Built 2026-09-28: 47 groups/duo acts,
+3+ year-end Hot 100 hits, from data/billboard/. Bee Gees lead with 12, Wings and The
+Carpenters tied at 11 (Wings and Dr. Hook credit-spelling variants merged into single
+entries, counting call stated on-page). Table: scripts/generate_70s_bands_table.py;
+charts: scripts/generate_70s_bands_chart.py, scripts/generate_70s_bands_weeks_chart.py
+(matplotlib, since Wikimedia Commons was network-blocked this session, no sourced photo).
+verify_post.py, check_clean_urls.py, check_schema.py, youtube_status.py --report all
+PASS. Charlie said "go ahead and deploy" without opening the local preview link.
+LIVE on origin/main via PR #8 (1fb5935), live-verified 2026-09-29 at /blog/artists/70s-bands/.
