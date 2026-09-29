@@ -19,7 +19,10 @@ JSON-LD url/@id/mainEntityOfPage/item ending in ".html" or "index.html" (Cloudfl
 Pages redirects those instead of serving them directly). Must print PASS before
 anything is committed. Full step-by-step sequence: publishing-workflow skill.
 Tracker-file commits (content-build.md, CONTENT-INDEX.md, keyword-research-log.md)
-are the separate, lower-stakes "commits only on explicit ask" case.
+are the separate, lower-stakes case — auto-commit and push these whenever their
+content changes (status corrections, new LIVE confirmations, prunes), no explicit
+ask needed. This does not touch the PUBLISH GATE itself: blog post commits/pushes
+still require Charlie's explicit go-ahead after local review.
 
 ## No Hallucination Rule — ABSOLUTE
 Never invent a fact, date, chart position, or quote. Unconfirmed = omit or flag as

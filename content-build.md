@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-28 (Flagship #4, 70s Bands, pushed to claude/pensive-faraday-4kxiay, not yet on main)
+# Last Updated: 2026-09-29 (Flagships #3 Singers and #4 Bands both LIVE, live-verified on main)
 
 ---
 
@@ -144,9 +144,7 @@ charts: scripts/generate_70s_bands_chart.py, scripts/generate_70s_bands_weeks_ch
 (matplotlib, since Wikimedia Commons was network-blocked this session, no sourced photo).
 verify_post.py, check_clean_urls.py, check_schema.py, youtube_status.py --report all
 PASS. Charlie said "go ahead and deploy" without opening the local preview link.
-Committed and pushed to claude/pensive-faraday-4kxiay (134c2f1, ea20dcd) but NOT on
-origin/main yet, this session's branch rules don't allow pushing there directly and no
-PR has been opened, Charlie needs to say whether to open one or merge it himself.
+LIVE on origin/main via PR #8 (1fb5935), live-verified 2026-09-29 at /blog/artists/70s-bands/.
 Next: #5 70s Female Singers (`70s female singers`, 4,400).
 
 **Ordering within each slot:**
