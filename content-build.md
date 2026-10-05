@@ -144,7 +144,14 @@ sitting too deep for search-intent "listen" traffic. verify_post.py, check_clean
 youtube_status.py --report all PASS on all three. Charlie approved after local preview.
 LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
 /blog/artists/70s-female-singers/.
-Next: #6 70s #1 Hits Timeline (`top songs of the 70s`, check vs Best Songs, 6,600).
+#6 70s #1 Hits Timeline resolved 2026-10-05, no standalone page: content-gap check found
+it would substantially overlap the live 70s Number One Hits post (same hot100_weekly.json
+253-#1 dataset, same "every #1" concept, just table vs timeline UI). Charlie's call: fold
+`top songs of the 70s` (6,600) into the Best Songs of the 70s upgrade (6B) instead of a
+7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
+Next: Upgrades slot (6B) — Best Songs of the 70s upgrade is next up, scheduled Oct 19-23
+in the 90-day plan but flagships 1-5 all ran weeks ahead of their Dec schedule, so check
+with Charlie whether to pull it forward.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6

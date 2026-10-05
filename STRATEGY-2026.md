@@ -141,7 +141,7 @@ One deep, sourced page each, built from `data/billboard/`: sortable table, answe
 | 3 | The Biggest Artists of the 1970s | 70s singers | 1,900 | Year-end counts (Bee Gees, Elton John 12 each; Carpenters 11) |
 | 4 | The Biggest 70s Bands | 70s bands | 12,100 | Same data, groups only, genre + radio links |
 | 5 | 70s Female Singers | 70s female singers | 4,400 | Women in the data (Karen Carpenter, Helen Reddy, ONJ, Donna Summer, Carole King…) |
-| 6 | 70s #1 Hits Timeline | top songs of the 70s (check vs Best Songs) | 6,600 | Week-by-week #1 run, interactive |
+| 6 | ~~70s #1 Hits Timeline~~ | ~~top songs of the 70s~~ | ~~6,600~~ | **Resolved 2026-10-05: folded into 6B Best Songs upgrade, no standalone page** — overlaps live 70s Number One Hits post (same `hot100_weekly.json` 253-#1 dataset) |
 
 One-hit wonder definition: 368 acts appear on the year-end lists only once — far too broad. Define as "one Top 40 hit in their whole US career", verify each act, state the definition on the page.
 
@@ -150,7 +150,7 @@ One-hit wonder definition: 368 acts appear on the year-end lists only once — f
 | Page | Target | Vol. | Change |
 | --- | --- | --- | --- |
 | Homepage | music of the 70s / 70s music | 27,100 each | Play-first layout, jump grid, ~150-word answer block, FAQ from PAA |
-| Best Songs of the 70s | songs from the 70s, best 70s songs | 18,100 + 8,100 | Expand to 100 songs with year, peak, play link; explain selection method |
+| Best Songs of the 70s | songs from the 70s, best 70s songs, top songs of the 70s | 18,100 + 8,100 + 6,600 | Expand to 100 songs with year, peak, play link; explain selection method |
 | Disco Music of the 70s | 70s disco music | 12,100 | Disco pillar; add 70s dance songs section |
 | 70s Rock | 70s rock songs | 5,400 | Rock pillar linking the 6 subgenre posts |
 | 70s Soul Music | 70s soul music | 3,600 | Link every soul/R&B post; add R&B chart #1s |
