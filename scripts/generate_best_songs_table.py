@@ -11,6 +11,10 @@ Forbes, Ultimate Classic Rock) that already rank for this keyword.
 Default order is chronological (year ascending, then rank ascending within
 year), matching the era-by-era narrative already on the page.
 
+The "#1 Hit" column is "Yes" when the song reached number one on the weekly
+Hot 100 per data/billboard/hot100_weekly.json (title + artist match). The
+"Year-end rank" column is the Year-End Hot 100 position, NOT the weekly peak.
+
 Each row gets a Play button when the song is in data/radio/radio-songs.json
 with a YouTube ID (js/table-player.js, .ohw-* classes, same script already
 used on the Artists flagship pages), and links to its Songs/Artists post
@@ -37,9 +41,26 @@ def norm(s):
     return re.sub(r"[^a-z0-9]+", "", s)
 
 
+def title_parts(t):
+    return {norm(x) for x in re.split(r"\s/\s", t) if norm(x)}
+
+
+def artist_tokens(a):
+    stop = {"the", "and", "featuring", "band", "a", "of"}
+    return {x for x in re.split(r"[^a-z0-9]+", a.lower().replace("&", " ")) if x and x not in stop}
+
+
 def main():
     ye = json.loads((ROOT / "data/billboard/year_end_hot100.json").read_text())
     radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
+    weekly = json.loads((ROOT / "data/billboard/hot100_weekly.json").read_text())
+    number_ones = {(w["title"], w["artist"]) for wk in weekly.values() for w in wk}
+
+    def reached_number_one(title, artist):
+        # chart titles/credits vary ("American Woman / No Sugar Tonight", "Nilsson",
+        # "Dawn featuring Tony Orlando"), so match on a shared title part and a shared artist word
+        tp, at = title_parts(title), artist_tokens(artist)
+        return any(tp & title_parts(t) and at & artist_tokens(a) for t, a in number_ones)
     radio_yt = {}
     for s in radio:
         radio_yt.setdefault((norm(s["title"]), norm(s["artist"])), s.get("youtube_id"))
@@ -70,10 +91,11 @@ def main():
         aslug = next((sl for sl in artist_slugs if norm(sl) == norm(r["artist"])), None)
         artist_cell = f'<a href="/blog/artists/{aslug}/">{a}</a>' if aslug else a
         n_artist_post += bool(aslug)
+        is1 = reached_number_one(r["title"], r["artist"])
         out.append(
             f'<tr><td class="ohw-listen">{play}</td>'
             f'<td class="ohw-song">{song_cell}</td><td class="ohw-artist">{artist_cell}</td>'
-            f'<td>{r["year"]}</td><td>{r["rank"]}</td></tr>'
+            f'<td>{r["year"]}</td><td>{r["rank"]}</td><td>{"Yes" if is1 else ""}</td></tr>'
         )
 
     page = PAGE.read_text(encoding="utf-8")

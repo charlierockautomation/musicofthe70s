@@ -148,9 +148,9 @@
       files.forEach((arr) => {
         if (!Array.isArray(arr)) return;
         arr.forEach((s) => {
-          // Quality filter: peak position 1–40
-          const peak = s.billboard_peak != null ? s.billboard_peak : s.rank;
-          if (peak != null && peak <= 40) songs.push(s);
+          // Quality filter: year-end rank 1–40 (billboard_peak in this data just mirrors the year-end rank)
+          const yearEndRank = s.billboard_peak != null ? s.billboard_peak : s.rank;
+          if (yearEndRank != null && yearEndRank <= 40) songs.push(s);
         });
       });
       return songs;
