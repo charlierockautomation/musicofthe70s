@@ -149,7 +149,7 @@ Top Songs 1970-79 got a playable 100-row year-end list (a5c522f, scripts/generat
 hub intros (5 hubs had live "Placeholder intro" filler, now INTROS in generate_category_cards.py, 2092f39; gate:
 scripts/check_placeholders.py). 70s Soul Music upgrade BUILT 2026-10-06, local only, awaiting Charlie's review (`70s soul music`, 3,600): 184-row playable list
 (scripts/generate_soul_table.py; Proud Mary omitted, no embeddable video), 35 weekly #1s, short answer, 2 data tables, 3 images, 4 sources, 7-Q FAQ.
-rnb.json week counts conflict with Wikipedia (Let's Stay Together 19 vs ~9, Songs in the Key of Life 21 vs 20): not used. 70s Rock + Trivia pair wait on Charlie.
+rnb.json rebuilt 2026-10-06 vs Wikipedia (1972 was scrambled); Al Green (10 + 5 wks), Let's Get It On, Bad Girls wording fixed. 70s Rock + Trivia pair wait on Charlie.
 Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One
 Hits keyword density 0.195%; 1970 year page density + sentence length; subheading rule FAIL on all 10 year pages; 1971 #55 Proud Mary
 has no embeddable video (empty Play cell).

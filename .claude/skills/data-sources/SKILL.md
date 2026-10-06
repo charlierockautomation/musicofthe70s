@@ -9,8 +9,9 @@ description: Where the site's validated Billboard JSON and NotebookLM research b
   - `year_end_hot100.json` (1000 records, 1970–1979)
   - `hot100_weekly.json` (522 records)
   - `country.json` (523 records)
-  - `rnb.json` (522 records)
-  - All validated — treat as ground truth, never contradict this data in post content.
+  - `rnb.json` (515 weekly rows; weekly #1 ALBUMS on Billboard's R&B/Soul albums chart, never singles)
+  - year_end_hot100.json, hot100_weekly.json and country.json validated; treat as ground truth, never contradict this data in post content.
+  - `rnb.json` was rebuilt 2026-10-06 against Wikipedia's 'List of Billboard number-one R&B albums of <year>' pages (the old file had a scrambled 1972 and 7 filler rows). Its `_verification` key records this. Not independently verified beyond that: say 'album' not 'song', and re-check against Wikipedia before citing a week count.
 - Research briefs: NotebookLM notebooks (20+ artist/genre notebooks, Billboard year-end notebooks per year, "Music of the 70s — Overview" notebook with genre Wikipedia sources)
 - Research brief pull prompt (use in any NotebookLM notebook when gathering material for a new post):
   > "Extract everything you can find in these sources that would help write a blog post. Give me: 5–8 genuinely interesting facts (specific dates, numbers, firsts, surprises), key names/songs/albums with context, any direct quotes worth referencing with source noted, and a rough narrative arc if there is one. Plain list, no fluff."
