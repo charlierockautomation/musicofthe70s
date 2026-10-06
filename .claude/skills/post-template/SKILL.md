@@ -16,6 +16,7 @@ Never place an image (including the featured image) between the H1 and the intro
 4. Intro paragraph — hook + focus keyword in the first sentence, within the first 100 words
 5. Featured image + descriptive alt text (goes here, AFTER the intro — never before it)
 6. Table of Contents block
+6a. Playable song list rule (added 2026-10-06, Charlie): any post with a sortable table of Play buttons (`data-inline-player`, or the `#numberOnesTable` / `#oneHitWondersTable` generators) puts that list FIRST after the Table of Contents, ahead of the Short Answer, and lists it first in the TOC. Shared CSS scrolls it in its own ~520px box with a sticky header (`.data-table-wrap:has(> table.sortable-table[data-inline-player])`, or add class `scroll-list`), so no page change is needed beyond the order. Every row needs a Play button: if a song has no `youtube_id`, add a verified one (radio-songs.json, or data/radio/number-one-videos.json for #1 hits never on a Year-End list) and run `python3 scripts/youtube_status.py`. `python3 scripts/audit_song_lists.py` reports list position and rows without Play.
 7. 3+ H2 sections, ~200–300 words each, focus keyword appears naturally in at least one heading
 8. FAQ section (H3 questions, `.faq-block` styling, 4–5 Q&As, AI-answer-ready per seo-rules skill)
 9. Real YouTube video embed (never a placeholder note at publish time)
