@@ -152,8 +152,7 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
 (`music of the 70s` / `70s music`) BUILT 2026-10-06, local only, awaiting Charlie's review and
 go-ahead: play-first hero, 47-word answer block, jump grid, 6-question FAQ + FAQPage schema.
-Next 6B item after it ships: Disco Music of the 70s (`70s disco music`, 12,100). 70s Rock and the
-Trivia pair stay parked pending Charlie's call.
+Next in 6B after it ships: Disco Music of the 70s (`70s disco music`, 12,100). Rock and Trivia pair parked.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
