@@ -761,4 +761,28 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 }
 .jump-pills a:hover { border-color: var(--accent-gold); color: var(--accent-gold); }
 
+/* ---------- Scrollable song lists (full sortable tables with Play buttons) ---------- */
+.data-table-wrap.scroll-list,
+.data-table-wrap:has(> table.sortable-table[data-inline-player]),
+.data-table-wrap:has(> table#oneHitWondersTable),
+.data-table-wrap:has(> table#numberOnesTable) { max-height: 520px; overflow: auto; border: 1px solid var(--border-subtle); border-radius: var(--radius); overscroll-behavior: contain; }
+.data-table-wrap.scroll-list .data-table,
+.data-table-wrap:has(> table.sortable-table[data-inline-player]) .data-table,
+.data-table-wrap:has(> table#oneHitWondersTable) .data-table,
+.data-table-wrap:has(> table#numberOnesTable) .data-table { border: none; }
+.data-table-wrap.scroll-list thead th,
+.data-table-wrap:has(> table.sortable-table[data-inline-player]) thead th,
+.data-table-wrap:has(> table#oneHitWondersTable) thead th,
+.data-table-wrap:has(> table#numberOnesTable) thead th { position: sticky; top: 0; z-index: 2; }
 .seo-content.faq-block { margin: 2rem auto; }
+
+/* ---------- In-list players: centered in the list box ----------
+   .video-embed (defined above) resets side margins to 0 and, coming later in the
+   file, beat the earlier "margin: auto" on .n1-player/.ohw-player, so the video sat
+   at the left edge. The extra class here wins on specificity. Width itself is set
+   by the player JS (list box width minus 2rem); these rules center the video and
+   the Close button inside it and keep the 16:9 box (min-height 202px stays for
+   YouTube's 200x200 minimum). */
+.n1-player-inner, .ohw-player-inner { margin: 0; padding: 0.5rem 0 0.75rem; box-sizing: border-box; text-align: center; }
+.n1-player.video-embed, .ohw-player.video-embed { max-width: 640px; margin: 0 auto 0.75rem; }
+.n1-player-inner .n1-close, .ohw-player-inner .ohw-close { display: block; margin: 0 auto; }
