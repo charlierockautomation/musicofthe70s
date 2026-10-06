@@ -491,3 +491,12 @@ sitting too deep for search-intent "listen" traffic. verify_post.py, check_clean
 youtube_status.py --report all PASS on all three. Charlie approved after local preview.
 LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
 /blog/artists/70s-female-singers/.
+
+
+## Flagships #3 Biggest Artists and #4 70s Bands, tracker text (pruned from content-build.md 2026-10-06)
+#3 Biggest Artists LIVE 2026-09-28 as /blog/artists/70s-singers/ (`70s singers`, 1,900/mo),
+48 solo singers, 3+ year-end hits, Elton John leads with 12. Full write-up: SESSION-LOG-ARCHIVE.md.
+#4 The Biggest 70s Bands LIVE 2026-09-29 (PR #8, 1fb5935) as /blog/artists/70s-bands/
+(`70s bands`, 12,100), 47 groups/duos, 3+ year-end hits, Bee Gees lead with 12.
+Full write-up: SESSION-LOG-ARCHIVE.md.
+

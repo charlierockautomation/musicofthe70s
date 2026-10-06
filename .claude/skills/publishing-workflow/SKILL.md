@@ -53,6 +53,7 @@ Report pass/fail explicitly before a post is considered ready to push.
 4. Run through the full SEO checklist — every box checked (seo-rules skill)
 5. Run the mobile check
 6. Run `python3 scripts/check_clean_urls.py` — PUBLISH GATE pre-commit check (CLAUDE.md). Must print PASS (no internal href/canonical/og:url/JSON-LD field ending in ".html" or "index.html") before anything is committed.
+6a. Run `python3 scripts/check_placeholders.py` — fails if any page shows filler text ("Placeholder intro", Lorem, TBD, TODO, coming soon). Must print PASS.
 7. Report checklist + mobile results before asking for approval to commit
 8. Once approved: `git add -A && git commit -m "[description]" && git push`
 9. Verify live site post-deploy (~60s wait, then hard refresh and check)

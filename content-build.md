@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-06 (Disco upgrade built, awaiting review; Soul next in 6B)
+# Last Updated: 2026-10-06 (Disco, year-page lists, hub intros LIVE; Soul next in 6B)
 
 ---
 
@@ -128,11 +128,8 @@ second Top 40 hit (incl. The Knack, "My Sharona" vs. "Good Girls Don't" #11 -- s
 regenerates via scripts/generate_one_hit_wonders_table.py; player is js/one-hit-wonder-player.js
 (same pattern as js/number-one-player.js, own class prefix `ohw-`). verify_post.py and
 check_clean_urls.py both PASS.
-#3 Biggest Artists LIVE 2026-09-28 as /blog/artists/70s-singers/ (`70s singers`, 1,900/mo),
-48 solo singers, 3+ year-end hits, Elton John leads with 12. Full write-up: SESSION-LOG-ARCHIVE.md.
-#4 The Biggest 70s Bands LIVE 2026-09-29 (PR #8, 1fb5935) as /blog/artists/70s-bands/
-(`70s bands`, 12,100), 47 groups/duos, 3+ year-end hits, Bee Gees lead with 12.
-Full write-up: SESSION-LOG-ARCHIVE.md.
+#3 Biggest Artists LIVE 2026-09-28 (/blog/artists/70s-singers/, `70s singers`, 1,900); #4 70s Bands LIVE 2026-09-29
+(1fb5935, /blog/artists/70s-bands/, `70s bands`, 12,100). Full write-ups: SESSION-LOG-ARCHIVE.md.
 
 Flagship #5 70s Female Singers (`70s female singers`, 4,400) LIVE 2026-09-29 (bca2abd, 2e7cac0, caeb662) at
 /blog/artists/70s-female-singers/: 22 women with 2+ year-end hits, ONJ leads with 8. Full write-up: SESSION-LOG-ARCHIVE.md.
@@ -144,13 +141,16 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
 (`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
 jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
-Disco upgrade DONE 2026-10-06, built, awaiting Charlie's review (`70s disco music`, 12,100): 94-row playable list
-(scripts/generate_disco_table.py), short answer, peak/backlash/songs/dance/clubs sections, 7-Q FAQ, 4 sources.
-Year-end rank cleanup DONE 2026-10-06: Best Songs "Peak" column now Year-End Rank + #1 Hit; Top Songs year pages say "ranked #N"
-(scripts/reword_year_end_ranks.py). List pages: collapsible TOC, jump button, 2-line lead-in (472d4a7).
-Year pages 1970-1979: playable 100-row year-end list (scripts/generate_year_table.py), jump button, collapsible TOC. 1971 #55 Proud Mary has no embeddable video, empty Play cell.
-NEXT in 6B: 70s Soul Music (`70s soul music`, 3,600). 70s Rock and the Trivia pair still wait on Charlie's call.
-Low-priority: Proud Mary has no video ID. Known miss: 70s Number One Hits keyword density 0.195% (verify_post FAIL, pre-existing).
+Disco upgrade LIVE 2026-10-06 (6bfaffa, `70s disco music`, 12,100): 94-row playable list (scripts/generate_disco_table.py),
+short answer, 4 sources, 7-Q FAQ. Year-end rank cleanup DONE 2026-10-06: Best Songs table = Year-End Rank + #1 Hit; Top Songs
+year pages say "ranked #N" (scripts/reword_year_end_ranks.py). Best Songs/real peaks: data has none, only #1s are verifiable.
+List-page layout = standing rule (post-template 6b): jump button, collapsible TOC, 2-line lead-in (472d4a7) on 7 list pages;
+Top Songs 1970-79 got a playable 100-row year-end list (a5c522f, scripts/generate_year_table.py). Not in STRATEGY: layout rule,
+hub intros (5 hubs had live "Placeholder intro" filler, now INTROS in generate_category_cards.py, 2092f39; gate:
+scripts/check_placeholders.py). NEXT in 6B: 70s Soul Music (`70s soul music`, 3,600). 70s Rock + Trivia pair wait on Charlie.
+Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One
+Hits keyword density 0.195%; 1970 year page density + sentence length; subheading rule FAIL on all 10 year pages; 1971 #55 Proud Mary
+has no embeddable video (empty Play cell).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
