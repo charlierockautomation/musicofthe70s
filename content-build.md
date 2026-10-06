@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-06 (Disco, year-page lists, hub intros LIVE; Soul next in 6B)
+# Last Updated: 2026-10-06 (chart-archive gap fix built, awaiting review; Soul, Disco, hub intros LIVE)
 
 ---
 
@@ -138,21 +138,16 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 253-#1 dataset, same "every #1" concept, just table vs timeline UI). Charlie's call: fold
 `top songs of the 70s` (6,600) into the Best Songs of the 70s upgrade (6B) instead of a
 7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
-6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
-(`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
-jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
-Disco upgrade LIVE 2026-10-06 (6bfaffa, `70s disco music`, 12,100): 94-row playable list (scripts/generate_disco_table.py),
-short answer, 4 sources, 7-Q FAQ. Year-end rank cleanup DONE 2026-10-06: Best Songs table = Year-End Rank + #1 Hit; Top Songs
-year pages say "ranked #N" (scripts/reword_year_end_ranks.py). Best Songs/real peaks: data has none, only #1s are verifiable.
-List-page layout = standing rule (post-template 6b): jump button, collapsible TOC, 2-line lead-in (472d4a7) on 7 list pages;
-Top Songs 1970-79 got a playable 100-row year-end list (a5c522f, scripts/generate_year_table.py). Not in STRATEGY: layout rule,
-hub intros (5 hubs had live "Placeholder intro" filler, now INTROS in generate_category_cards.py, 2092f39; gate:
-scripts/check_placeholders.py). 70s Soul Music upgrade LIVE 2026-10-06 (c1d86f6, `70s soul music`, 3,600; live-checked 390/1280px): 184-row playable list
-(scripts/generate_soul_table.py; Proud Mary omitted, no embeddable video), 35 weekly #1s, short answer, 2 data tables, 3 images, 4 sources, 7-Q FAQ.
-rnb.json rebuilt vs Wikipedia (cf93dee); year-end-as-peak fixes on 11 pages (b2c171a, ff39273); new gate scripts/check_chart_claims.py. 70s Rock + Trivia pair wait on Charlie.
-Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One
-Hits keyword density 0.195%; 1970 year page density + sentence length; subheading rule FAIL on all 10 year pages; 1971 #55 Proud Mary
-has no embeddable video (empty Play cell).
+6B Upgrades DONE (detail: SESSION-LOG-ARCHIVE.md 2026-10-06): Best Songs, Homepage, Disco (6bfaffa), Soul (c1d86f6), year-page lists,
+hub intros, year-end rank cleanup, check_chart_claims.py gate, rnb.json rebuild. List-page layout = standing rule (post-template 6b).
+Chart-archive gap fix BUILT 2026-10-06, local only, awaiting Charlie's review + push approval: new data/billboard/beyond_year_end.json
+(56 songs, Wikipedia weekly peaks, API-checked video IDs; scripts/generate_beyond_year_end.py + generate_genre_lists.py + genre_page_common.py).
+"Beyond the year-end list" section on folk rock 9, soft rock 10, glam 9, prog 8, punk/new wave 5, Disco 5, Soul 10; full playable lists added to
+folk rock 45, soft rock 165, glam 16, prog 11 (punk has 1 tagged song, beyond list only). Misleading "never touched/never charted" lines reworded on
+genre pages, hub cards, llms.txt, Talking Heads (said zero Hot 100 entries; Wikipedia: Take Me to the River #26), Iggy Pop, Dolly Parton, Take It Easy.
+Pop page also had "year-end ranks by best week" (wrong); fixed. 70s Rock + Trivia pair still wait on Charlie.
+Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One Hits density 0.195%;
+1970 year page density + sentence length; subheading rule FAIL on 10 year pages, soft-rock, punk, Talking Heads (pre-existing); 1971 #55 Proud Mary no video.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6

@@ -500,3 +500,18 @@ LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
 (`70s bands`, 12,100), 47 groups/duos, 3+ year-end hits, Bee Gees lead with 12.
 Full write-up: SESSION-LOG-ARCHIVE.md.
 
+
+## 2026-10-06 pruned from content-build.md Strategy Queue (6B upgrades detail)
+6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
+(`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
+jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
+Disco upgrade LIVE 2026-10-06 (6bfaffa, `70s disco music`, 12,100): 94-row playable list (scripts/generate_disco_table.py),
+short answer, 4 sources, 7-Q FAQ. Year-end rank cleanup DONE 2026-10-06: Best Songs table = Year-End Rank + #1 Hit; Top Songs
+year pages say "ranked #N" (scripts/reword_year_end_ranks.py). Best Songs/real peaks: data has none, only #1s are verifiable.
+List-page layout = standing rule (post-template 6b): jump button, collapsible TOC, 2-line lead-in (472d4a7) on 7 list pages;
+Top Songs 1970-79 got a playable 100-row year-end list (a5c522f, scripts/generate_year_table.py). Not in STRATEGY: layout rule,
+hub intros (5 hubs had live "Placeholder intro" filler, now INTROS in generate_category_cards.py, 2092f39; gate:
+scripts/check_placeholders.py). 70s Soul Music upgrade LIVE 2026-10-06 (c1d86f6, `70s soul music`, 3,600; live-checked 390/1280px): 184-row playable list
+(scripts/generate_soul_table.py; Proud Mary omitted, no embeddable video), 35 weekly #1s, short answer, 2 data tables, 3 images, 4 sources, 7-Q FAQ.
+rnb.json rebuilt vs Wikipedia (cf93dee); year-end-as-peak fixes on 11 pages (b2c171a, ff39273); new gate scripts/check_chart_claims.py. 70s Rock + Trivia pair wait on Charlie.
+Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One
