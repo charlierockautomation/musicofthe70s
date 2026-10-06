@@ -152,8 +152,7 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
 (`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
 jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
-NEXT in 6B: Disco Music of the 70s (`70s disco music`, 12,100). Rock and Trivia pair parked.
-Low-priority follow-up: Proud Mary (Ike & Tina Turner, 1971) has no video ID in radio-songs.json.
+NEXT in 6B: Disco Music of the 70s (`70s disco music`, 12,100). Low-priority: Proud Mary has no video ID.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
