@@ -731,3 +731,34 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .chart-table th { color: var(--accent-gold); }
 /* Small inline note inside a data-table cell (e.g. year and rank after a song) */
 .data-table .table-note { color: var(--text-muted); font-size: 0.85em; white-space: nowrap; }
+
+/* ---------- Homepage: play-first hero, answer block, jump grid ---------- */
+.hero-actions { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center; margin-top: 1.5rem; }
+.hero-actions a { display: inline-block; text-decoration: none; }
+.hero .hero-note { font-size: 0.9rem; color: var(--text-muted); margin: 1rem auto 0; }
+.answer-block {
+  max-width: 760px; margin: 2rem auto 0; padding: 1.1rem 1.4rem;
+  background: var(--bg-card); border-left: 4px solid var(--accent-gold); border-radius: 8px;
+}
+.answer-block p { margin: 0; font-size: 1.05rem; color: var(--text-primary); }
+.jump-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; margin: 1.5rem 0; }
+@media (min-width: 560px) { .jump-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 900px) { .jump-grid { grid-template-columns: repeat(4, 1fr); } }
+.jump-card {
+  display: flex; flex-direction: column; gap: 0.25rem; padding: 1rem 1.1rem;
+  background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: 10px;
+  text-decoration: none; transition: border-color 0.15s, transform 0.15s;
+}
+.jump-card:hover { border-color: var(--accent-gold); transform: translateY(-2px); }
+.jump-card strong { color: var(--accent-gold); font-family: var(--font-heading); font-size: 1.05rem; }
+.jump-card span { color: var(--text-muted); font-size: 0.9rem; }
+.jump-pills { margin: 1.25rem 0 0; text-align: center; }
+.jump-pills h3 { font-size: 1rem; color: var(--text-muted); font-family: var(--font-body); font-weight: 600; margin-bottom: 0.6rem; }
+.jump-pills ul { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; list-style: none; padding: 0; margin: 0 0 1.25rem; }
+.jump-pills a {
+  display: inline-block; padding: 0.35rem 0.9rem; border: 1px solid var(--border-subtle);
+  border-radius: 50px; color: var(--text-primary); text-decoration: none; font-size: 0.9rem;
+}
+.jump-pills a:hover { border-color: var(--accent-gold); color: var(--accent-gold); }
+
+.seo-content.faq-block { margin: 2rem auto; }
