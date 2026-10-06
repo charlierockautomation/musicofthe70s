@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-06 (Best Songs upgrade LIVE; Homepage upgrade built, awaiting review)
+# Last Updated: 2026-10-06 (Best Songs + Homepage upgrades LIVE; Disco next in 6B)
 
 ---
 
@@ -150,9 +150,11 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 `top songs of the 70s` (6,600) into the Best Songs of the 70s upgrade (6B) instead of a
 7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
 6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
-(`music of the 70s` / `70s music`) BUILT 2026-10-06, local only, awaiting Charlie's review and
-go-ahead: play-first hero, 47-word answer block, jump grid, 6-question FAQ + FAQPage schema.
-Next in 6B after it ships: Disco Music of the 70s (`70s disco music`, 12,100). Rock and Trivia pair parked.
+(`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
+jump grid, FAQ + FAQPage schema. Same session: 6 list pages' song lists moved under the TOC, scroll
+in own box, centered player, every #1 and OHW row has Play.
+NEXT in 6B: Disco Music of the 70s (`70s disco music`, 12,100). Rock and Trivia pair parked.
+Low-priority follow-up: Proud Mary (Ike & Tina Turner, 1971) has no video ID in radio-songs.json.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
