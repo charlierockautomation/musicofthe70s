@@ -148,6 +148,7 @@ Disco upgrade DONE 2026-10-06, built, awaiting Charlie's review (`70s disco musi
 (scripts/generate_disco_table.py), short answer, peak/backlash/songs/dance/clubs sections, 7-Q FAQ, 4 sources.
 Year-end rank cleanup DONE 2026-10-06: Best Songs "Peak" column now Year-End Rank + #1 Hit; Top Songs year pages say "ranked #N"
 (scripts/reword_year_end_ranks.py). List pages: collapsible TOC, jump button, 2-line lead-in (472d4a7).
+Year pages 1970-1979: playable 100-row year-end list (scripts/generate_year_table.py), jump button, collapsible TOC. 1971 #55 Proud Mary has no embeddable video, empty Play cell.
 NEXT in 6B: 70s Soul Music (`70s soul music`, 3,600). 70s Rock and the Trivia pair still wait on Charlie's call.
 Low-priority: Proud Mary has no video ID. Known miss: 70s Number One Hits keyword density 0.195% (verify_post FAIL, pre-existing).
 
