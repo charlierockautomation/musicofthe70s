@@ -61,6 +61,11 @@ def site_ids():
         for song in json.load(f):
             if song.get("youtube_id"):
                 ids.setdefault(song["youtube_id"], set()).add("radio")
+    extra = os.path.join(ROOT, "data", "radio", "number-one-videos.json")
+    if os.path.exists(extra):
+        with open(extra, encoding="utf-8") as f:
+            for v in json.load(f).get("videos", []):
+                ids.setdefault(v["youtube_id"], set()).add("radio")
     pages = glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True)
     for path in pages:
         if os.sep + ".git" + os.sep in path:

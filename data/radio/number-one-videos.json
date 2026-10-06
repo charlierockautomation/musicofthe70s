@@ -1,0 +1,131 @@
+{
+  "_note": "YouTube IDs for Billboard #1 hits that are not in radio-songs.json (not on a Year-End Hot 100). Each ID was picked from a YouTube search for an official artist/label/Topic upload with the exact song title, public, embeddable, not made for kids. Used by scripts/generate_number_one_table.py. Status is checked by scripts/youtube_status.py.",
+  "videos": [
+    {
+      "title": "I Think I Love You",
+      "artist": "The Partridge Family",
+      "youtube_id": "bb4FMn-IWEY",
+      "channel": "PartridgeFamilyVEVO",
+      "video_title": "The Partridge Family - I Think I Love You (Audio)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "The Tears of a Clown",
+      "artist": "Smokey Robinson & the Miracles",
+      "youtube_id": "51B55OQysj8",
+      "channel": "SmokeyRobinsonVEVO",
+      "video_title": "Smokey Robinson & The Miracles - The Tears Of A Clown (Lyric Video)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "I Am Woman",
+      "artist": "Helen Reddy",
+      "youtube_id": "Ie0Mz2f_SsI",
+      "channel": "Helen Reddy - Topic",
+      "video_title": "I Am Woman",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Photograph",
+      "artist": "Ringo Starr",
+      "youtube_id": "nevdSt_2PIM",
+      "channel": "Ringo Starr - Topic",
+      "video_title": "Photograph",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Can't Get Enough of Your Love, Babe",
+      "artist": "Barry White",
+      "youtube_id": "fPMoLEjM_K4",
+      "channel": "Barry White - Topic",
+      "video_title": "Can't Get Enough Of Your Love, Babe",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "You Haven't Done Nothin'",
+      "artist": "Stevie Wonder",
+      "youtube_id": "0SEGHvLElxc",
+      "channel": "Stevie Wonder - Topic",
+      "video_title": "You Haven't Done Nothin'",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Whatever Gets You thru the Night",
+      "artist": "John Lennon",
+      "youtube_id": "6lFTD9O-XMw",
+      "channel": "John Lennon - Topic",
+      "video_title": "Whatever Gets You Thru The Night (Remastered 2010)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Rock'n Me",
+      "artist": "Steve Miller Band",
+      "youtube_id": "baWTjg1QqS8",
+      "channel": "Steve Miller Band - Topic",
+      "video_title": "Rock'n Me",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Pop Muzik",
+      "artist": "M",
+      "youtube_id": "gPoiv0sZ4s4",
+      "channel": "Robin Scott - M",
+      "video_title": "M - Pop Muzik (Official HD Video)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Heartache Tonight",
+      "artist": "Eagles",
+      "youtube_id": "jBte_o5JpJA",
+      "channel": "Eagles",
+      "video_title": "Eagles - Heartache Tonight (Official Audio)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Still",
+      "artist": "Commodores",
+      "youtube_id": "gCjXXvb0AKk",
+      "channel": "Commodores - Topic",
+      "video_title": "Still (Single Version)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "No More Tears (Enough Is Enough)",
+      "artist": "Barbra Streisand and Donna Summer",
+      "youtube_id": "MUA7ylTmrmA",
+      "channel": "BARBRA STREISAND - Topic",
+      "video_title": "No More Tears (Enough Is Enough)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Babe",
+      "artist": "Styx",
+      "youtube_id": "yaVyQS1T7TY",
+      "channel": "StyxVEVO",
+      "video_title": "Styx - Babe (Official Video)",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "Escape (The Piña Colada Song)",
+      "artist": "Rupert Holmes",
+      "youtube_id": "YxNpnxNrTpI",
+      "channel": "Rupert Holmes - Topic",
+      "video_title": "Escape (The Pina Colada Song)",
+      "embeddable": true,
+      "madeForKids": false
+    }
+  ]
+}

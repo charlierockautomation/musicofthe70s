@@ -60,7 +60,7 @@ def main():
         post_titles[sl] = norm(html.unescape(" ".join(
             [head.group(1) if head else "", desc.group(1) if desc else ""] + intro)))
 
-    out, n_radio, n_post = [], 0, 0
+    out, n_radio, n_play, n_post = [], 0, 0, 0
     for a in acts:
         artist, title = a["artist"], a["song"]
         key = (norm(title), norm(artist))
@@ -85,6 +85,7 @@ def main():
         else:
             play_cell = ""
         n_radio += bool(rid)
+        n_play += bool(yt)
         n_post += bool(post)
         artist_esc = html.escape(artist)
         out.append(
@@ -100,7 +101,7 @@ def main():
     body = "\n".join("              " + line for line in out)
     new = re.sub(re.escape(START) + ".*?" + re.escape(END), START + "\n" + body + "\n              " + END, page, flags=re.S)
     PAGE.write_text(new, encoding="utf-8")
-    print(f"{len(out)} acts, {n_radio} with play/listen links, {n_post} with Songs posts")
+    print(f"{len(out)} acts, {n_play} with Play buttons, {n_post} with Songs posts")
 
 
 if __name__ == "__main__":

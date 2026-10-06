@@ -42,6 +42,10 @@ def main():
     rows = [r for y in sorted(weekly) for r in weekly[y]]
 
     radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
+    # Number ones that were never on a Year-End Hot 100 have no radio-catalog record; their
+    # verified YouTube IDs live in data/radio/number-one-videos.json, keyed by exact weekly title.
+    extra = json.loads((ROOT / "data/radio/number-one-videos.json").read_text())["videos"]
+    extra_yt = {(norm(v["title"]), norm(v["artist"])): v["youtube_id"] for v in extra}
     radio_by_song = {}
     radio_yt = {x["radio_id"]: x.get("youtube_id") for x in radio}
     for s in radio:
@@ -83,14 +87,22 @@ def main():
     out, n_radio, n_post = [], 0, 0
     for (title, artist), info in sorted(songs.items(), key=lambda kv: kv[1]["first"]):
         d = date.fromisoformat(info["first"])
-        rid = radio_by_song.get((norm(title), norm(artist))) or radio_by_song.get((norm(title), ""))
+        # Double A-sides: the radio catalog files some under the full slash title ("Maggie May /
+        # Reason to Believe") and some under the A-side alone ("American Woman"), so try the full
+        # title first, then the A-side, and only then give up.
+        a_side = title.split(" / ")[0]
+        rid, key = None, None
+        for cand in dict.fromkeys([title, a_side]):
+            rid = radio_by_song.get((norm(cand), norm(artist))) or radio_by_song.get((norm(cand), ""))
+            if rid:
+                key = norm(cand)
+                break
         # Only trust a title-only match when the artist also lines up loosely.
-        if rid and (norm(title), norm(artist)) not in radio_by_song:
+        if rid and (key, norm(artist)) not in radio_by_song:
             match = next(s for s in radio if s["radio_id"] == rid)
             if norm(artist)[:5] not in norm(match["artist"]) and norm(match["artist"])[:5] not in norm(artist):
                 rid = None
-        # Double A-sides ("American Woman / No Sugar Tonight") match on the A-side.
-        nt = norm(title.split(" / ")[0])
+        nt = norm(a_side)
         by_artist = lambda sl: norm(artist).split("and")[0][:5] in post_titles[sl]
         slug = next((sl for sl in post_by_radio.get(rid, [])
                      if nt in norm(sl) and sl in post_titles and by_artist(sl)), None)
@@ -105,6 +117,8 @@ def main():
         t = html.escape(title)
         song_cell = f'<a href="{post}">{t}</a>' if post else t
         yt = radio_yt.get(rid) if rid else None
+        if not yt:
+            yt = extra_yt.get((norm(a_side), norm(artist))) or extra_yt.get((norm(title), norm(artist)))
         if yt:
             # Plays in place, in a player opened under this row (js/number-one-player.js).
             play_cell = (f'<button type="button" class="n1-play" data-yt="{yt}" '
