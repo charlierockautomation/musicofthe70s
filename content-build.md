@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-09-29 (Flagships #3 Singers, #4 Bands, #5 Female Singers all LIVE, live-verified on main)
+# Last Updated: 2026-10-06 (Best Songs upgrade LIVE; Homepage upgrade built, awaiting review)
 
 ---
 
@@ -149,9 +149,11 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 253-#1 dataset, same "every #1" concept, just table vs timeline UI). Charlie's call: fold
 `top songs of the 70s` (6,600) into the Best Songs of the 70s upgrade (6B) instead of a
 7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
-Next: Upgrades slot (6B) — Best Songs of the 70s upgrade is next up, scheduled Oct 19-23
-in the 90-day plan but flagships 1-5 all ran weeks ahead of their Dec schedule, so check
-with Charlie whether to pull it forward.
+6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
+(`music of the 70s` / `70s music`) BUILT 2026-10-06, local only, awaiting Charlie's review and
+go-ahead: play-first hero, 47-word answer block, jump grid, 6-question FAQ + FAQPage schema.
+Next 6B item after it ships: Disco Music of the 70s (`70s disco music`, 12,100). 70s Rock and the
+Trivia pair stay parked pending Charlie's call.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
