@@ -146,8 +146,10 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
 Disco upgrade DONE 2026-10-06, built, awaiting Charlie's review (`70s disco music`, 12,100): 94-row playable list
 (scripts/generate_disco_table.py), short answer, peak/backlash/songs/dance/clubs sections, 7-Q FAQ, 4 sources.
+Year-end rank cleanup DONE 2026-10-06: Best Songs "Peak" column now Year-End Rank + #1 Hit; Top Songs year pages say "ranked #N"
+(scripts/reword_year_end_ranks.py). List pages: collapsible TOC, jump button, 2-line lead-in (472d4a7).
 NEXT in 6B: 70s Soul Music (`70s soul music`, 3,600). 70s Rock and the Trivia pair still wait on Charlie's call.
-Low-priority: Proud Mary has no video ID.
+Low-priority: Proud Mary has no video ID. Known miss: 70s Number One Hits keyword density 0.195% (verify_post FAIL, pre-existing).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
