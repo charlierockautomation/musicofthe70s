@@ -150,7 +150,7 @@ One-hit wonder definition: 368 acts appear on the year-end lists only once — f
 | Page | Target | Vol. | Change |
 | --- | --- | --- | --- |
 | Homepage | music of the 70s / 70s music | 27,100 each | Play-first layout, jump grid, ~150-word answer block, FAQ from PAA |
-| Best Songs of the 70s | songs from the 70s, best 70s songs, top songs of the 70s | 18,100 + 8,100 + 6,600 | Expand to 100 songs with year, peak, play link; explain selection method |
+| Best Songs of the 70s | songs from the 70s, best 70s songs, top songs of the 70s | 18,100 + 8,100 + 6,600 | Expand to 100 songs with year, year-end rank, #1 flag (from `hot100_weekly.json`), play link; explain selection method. DONE 2026-10-06 |
 | Disco Music of the 70s | 70s disco music | 12,100 | Disco pillar; add 70s dance songs section |
 | 70s Rock | 70s rock songs | 5,400 | Rock pillar linking the 6 subgenre posts |
 | 70s Soul Music | 70s soul music | 3,600 | Link every soul/R&B post; add R&B chart #1s |
@@ -202,7 +202,7 @@ Then: Barry Manilow, Three Dog Night, Helen Reddy, Gladys Knight & the Pips, KC 
 
 1. **Answer block first:** 40–60 words under the H1 answering the main question with the key number.
 2. **Self-contained H2s:** name the song/artist again rather than "it"/"the band".
-3. **Fact table per post:** released, peak, weeks at #1, year-end rank, writers, producer, label.
+3. **Fact table per post:** released, year-end rank, weeks at #1 (only for songs that reached #1; the data has no weekly peak for other songs), writers, producer, label.
 4. **Cite sources inline:** Billboard chart pages, RIAA database, official artist sites, interviews. **3+ external citations per post.** Biggest single gap today.
 5. **Visible byline + dates:** "By Charlie · Published … · Updated …" linking to the author page; match in Article schema (`author`, `datePublished`, `dateModified`).
 6. **FAQ from real questions** (People Also Ask, Reddit), not invented ones. Keep FAQPage schema.
