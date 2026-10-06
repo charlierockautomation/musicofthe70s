@@ -182,3 +182,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Female Singers | Artists (Charts flagship #5) | I Will Survive (song) | /radio/?play=1979-6-i-will-survive | Body, "The Eleven Names That Bar Adds" H3, closing sentence |
 | 70s Female Singers | Artists (Charts flagship #5) | 1 artist post + 2 Songs posts | /blog/artists/donna-summer/, /blog/songs/bad-girls/, /blog/songs/i-will-survive/ | Generated table cells (scripts/generate_70s_female_singers_table.py) plus Related Posts cards |
 | 70s Female Singers | Artists (Charts flagship #5) | Methodology / 70s Singers / Music of the 70s | /about/methodology/, /blog/artists/70s-singers/, / | Body, "How This Ranking Was Built" H2 closing sentences; homepage in the closing CTA |
+| 70s Disco Music (upgrade) | Genres | Best Songs of the 70s | /blog/songs/best-songs-of-the-70s/ | Body, "Essential 70s Disco Songs" H2, closing sentence |
+| 70s Disco Music (upgrade) | Genres | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "The 1977 to 1979 Peak" H2, closing sentence |
+| 70s Disco Music (upgrade) | Genres | 70s Bands / 70s Female Singers | /blog/artists/70s-bands/, /blog/artists/70s-female-singers/ | Body, "The Biggest Disco Artists" H2, closing |
+| 70s Disco Music (upgrade) | Genres | 70s Funk / 70s Soul Music | /blog/genres/70s-funk/, /blog/genres/70s-soul-music/ | Body, "70s Dance Songs Beyond Strict Disco" H2, closing sentence |
+| 70s Disco Music (upgrade) | Genres | Random Artist Picker / Random 70s Song Generator | /pages/random-artist-picker, /pages/random-70s-song | Artists H2 closing; Essential Songs H2 closing |

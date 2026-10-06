@@ -478,3 +478,16 @@ charts: scripts/generate_70s_bands_chart.py, scripts/generate_70s_bands_weeks_ch
 verify_post.py, check_clean_urls.py, check_schema.py, youtube_status.py --report all
 PASS. Charlie said "go ahead and deploy" without opening the local preview link.
 LIVE on origin/main via PR #8 (1fb5935), live-verified 2026-09-29 at /blog/artists/70s-bands/.
+
+
+## Flagship #5 70s Female Singers, full tracker text (pruned from content-build.md 2026-10-06)
+Flagship #5 70s Female Singers (`70s female singers`, 4,400) built 2026-09-29: 22 solo
+women with 2+ year-end Hot 100 hits (bar dropped from Singers page's 3, since only 11
+women clear it), from data/billboard/. Olivia Newton-John leads with 8. Table:
+scripts/generate_70s_female_singers_table.py; charts: _chart.py, _weeks_chart.py
+(matplotlib). Also added a "Quick Listen" top-5 mini-table near the top of this page
+plus the live 70s Bands and 70s Singers pages, Charlie flagged the full sortable table
+sitting too deep for search-intent "listen" traffic. verify_post.py, check_clean_urls.py,
+youtube_status.py --report all PASS on all three. Charlie approved after local preview.
+LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
+/blog/artists/70s-female-singers/.

@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-06 (Best Songs + Homepage upgrades LIVE; Disco next in 6B)
+# Last Updated: 2026-10-06 (Disco upgrade built, awaiting review; Soul next in 6B)
 
 ---
 
@@ -134,16 +134,8 @@ check_clean_urls.py both PASS.
 (`70s bands`, 12,100), 47 groups/duos, 3+ year-end hits, Bee Gees lead with 12.
 Full write-up: SESSION-LOG-ARCHIVE.md.
 
-Flagship #5 70s Female Singers (`70s female singers`, 4,400) built 2026-09-29: 22 solo
-women with 2+ year-end Hot 100 hits (bar dropped from Singers page's 3, since only 11
-women clear it), from data/billboard/. Olivia Newton-John leads with 8. Table:
-scripts/generate_70s_female_singers_table.py; charts: _chart.py, _weeks_chart.py
-(matplotlib). Also added a "Quick Listen" top-5 mini-table near the top of this page
-plus the live 70s Bands and 70s Singers pages, Charlie flagged the full sortable table
-sitting too deep for search-intent "listen" traffic. verify_post.py, check_clean_urls.py,
-youtube_status.py --report all PASS on all three. Charlie approved after local preview.
-LIVE on main (bca2abd, 2e7cac0, caeb662), live-verified 2026-09-29 at
-/blog/artists/70s-female-singers/.
+Flagship #5 70s Female Singers (`70s female singers`, 4,400) LIVE 2026-09-29 (bca2abd, 2e7cac0, caeb662) at
+/blog/artists/70s-female-singers/: 22 women with 2+ year-end hits, ONJ leads with 8. Full write-up: SESSION-LOG-ARCHIVE.md.
 #6 70s #1 Hits Timeline resolved 2026-10-05, no standalone page: content-gap check found
 it would substantially overlap the live 70s Number One Hits post (same hot100_weekly.json
 253-#1 dataset, same "every #1" concept, just table vs timeline UI). Charlie's call: fold
@@ -152,7 +144,10 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 6B Upgrades: Best Songs of the 70s upgrade DONE, LIVE (cea509f, regen 3283300). Homepage upgrade
 (`music of the 70s` / `70s music`) DONE 2026-10-06 (a38c3e8): play-first hero, 47-word answer block,
 jump grid, FAQ + schema. List pages: song list under TOC, scroll box, centered player, all rows Play.
-NEXT in 6B: Disco Music of the 70s (`70s disco music`, 12,100). Low-priority: Proud Mary has no video ID.
+Disco upgrade DONE 2026-10-06, built, awaiting Charlie's review (`70s disco music`, 12,100): 94-row playable list
+(scripts/generate_disco_table.py), short answer, peak/backlash/songs/dance/clubs sections, 7-Q FAQ, 4 sources.
+NEXT in 6B: 70s Soul Music (`70s soul music`, 3,600). 70s Rock and the Trivia pair still wait on Charlie's call.
+Low-priority: Proud Mary has no video ID.
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
