@@ -146,7 +146,7 @@ def main():
             f'<td data-sort="{x["count"]}">{x["count"]}</td>'
             f'<td data-sort="{x["n_ones"]}">{x["n_ones"]}</td>'
             f'<td data-sort="{x["weeks"]}">{x["weeks"]}</td>'
-            f'<td class="ohw-song">{song_cell} <span class="table-note">({year}, No. {rank})</span></td></tr>'
+            f'<td class="ohw-song">{song_cell} <span class="table-note">({year}, year-end #{rank})</span></td></tr>'
         )
 
     page = PAGE.read_text(encoding="utf-8")
