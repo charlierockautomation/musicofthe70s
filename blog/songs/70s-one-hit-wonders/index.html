@@ -151,6 +151,7 @@
         <h1>70s One Hit Wonders: 147 Verified, One Chart Hit Each</h1>
 
         <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published September 27, 2026</p>
+        <p class="jump-to-list"><a class="btn-primary jump-btn" href="#every">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">This site has confirmed 147 genuine 70s one hit wonders.</p>
         <p class="post-intro">A one hit wonder here means an act with exactly one US Top 40 hit on the Billboard Hot 100.</p>
@@ -173,8 +174,9 @@
         <p class="post-img-caption">Chart: Music of the 70s, from this site's weekly and year-end Billboard data.</p>
 
         <nav class="toc-block" aria-label="Table of contents">
-          <h2>Table of Contents</h2>
-          <ol>
+          <details class="toc-details" open>
+            <summary>Table of Contents</summary>
+            <ol>
             <li><a href="#every">Every Confirmed 70s One Hit Wonder, Sortable</a></li>
             <li><a href="#answer">The Short Answer: 147 Confirmed, From 368 Candidates</a></li>
             <li><a href="#highest">The Highest-Charting 70s One Hit Wonders</a></li>
@@ -184,15 +186,13 @@
             <li><a href="#method">How This List Was Built</a></li>
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ol>
+          </details>
         </nav>
+        <script>if(window.matchMedia("(max-width: 699px)").matches){document.querySelector(".toc-details").open=false;}</script>
 
         <h2 id="every">Every Confirmed 70s One Hit Wonder, Sortable</h2>
         <p>All 147 acts, in the order their one hit first reached the year-end Hot 100.</p>
-        <p>Tap a column heading to sort by song, act, year or year-end rank.</p>
-        <p>Song titles in gold link to a full story on this site.</p>
-        <p>Press Play on any row to watch that song right here, in a player that opens under it.</p>
-        <p>Looking for a specific mood instead of a specific act?</p>
-        <p>The <a href="/pages/mood-song-matcher">Mood Song Matcher</a> works from this site's own tag data, not chart rank.</p>
+        <p>Tap a column heading to sort by song, act, year or year-end rank, and press Play on any row to watch that song here.</p>
 
         <div class="data-table-wrap scroll-list">
           <table class="data-table sortable-table" id="oneHitWondersTable">
@@ -359,6 +359,9 @@
             </tbody>
           </table>
         </div>
+        <p>Song titles in gold link to a full story on this site.</p>
+        <p>Looking for a specific mood instead of a specific act?</p>
+        <p>The <a href="/pages/mood-song-matcher">Mood Song Matcher</a> works from this site's own tag data, not chart rank.</p>
 
         <h2 id="answer">The Short Answer: 147 Confirmed, From 368 Candidates</h2>
         <p>A real 70s one hit wonder is an act whose only Top 40 hit on the Billboard Hot 100 happened once.</p>

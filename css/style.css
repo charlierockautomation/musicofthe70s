@@ -786,3 +786,12 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .n1-player-inner, .ohw-player-inner { margin: 0; padding: 0.5rem 0 0.75rem; box-sizing: border-box; text-align: center; }
 .n1-player.video-embed, .ohw-player.video-embed { max-width: 640px; margin: 0 auto 0.75rem; }
 .n1-player-inner .n1-close, .ohw-player-inner .ohw-close { display: block; margin: 0 auto; }
+
+/* ---------- Song-list pages: jump button, collapsible table of contents, tighter intro ---------- */
+.jump-to-list { margin: 0 0 1.25rem; }
+.jump-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0.7rem 1.6rem; font-size: 1.05rem; text-decoration: none; }
+.seo-content h2[id] { scroll-margin-top: calc(var(--header-h, 72px) + 12px); }
+.seo-content:has(.toc-details) .post-intro { margin: 0 0 0.45rem; }
+.toc-details summary { cursor: pointer; font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; color: var(--accent-gold); min-height: 44px; display: flex; align-items: center; }
+.toc-details[open] summary { margin-bottom: 0.4rem; }
+.toc-block:has(.toc-details) { padding-top: 0.25rem; padding-bottom: 0.25rem; }

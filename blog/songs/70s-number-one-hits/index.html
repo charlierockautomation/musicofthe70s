@@ -151,6 +151,7 @@
         <h1>70s Number One Hits: Every Billboard #1, 1970 to 1979</h1>
 
         <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published September 27, 2026</p>
+        <p class="jump-to-list"><a class="btn-primary jump-btn" href="#every">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">There were 253 different 70s number one hits on the Billboard Hot 100.</p>
         <p class="post-intro">They filled 522 weekly charts, from January 3, 1970 to December 29, 1979.</p>
@@ -172,8 +173,9 @@
         <p class="post-img-caption">Chart: Music of the 70s, from this site's weekly Billboard data.</p>
 
         <nav class="toc-block" aria-label="Table of contents">
-          <h2>Table of Contents</h2>
-          <ol>
+          <details class="toc-details" open>
+            <summary>Table of Contents</summary>
+            <ol>
             <li><a href="#every">Every 70s Number One Hit, Sortable</a></li>
             <li><a href="#answer">The Short Answer: 253 Songs, 522 Weeks</a></li>
             <li><a href="#longest">The Longest-Running 70s Number One Hits</a></li>
@@ -183,14 +185,13 @@
             <li><a href="#method">How This List Was Built</a></li>
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ol>
+          </details>
         </nav>
+        <script>if(window.matchMedia("(max-width: 699px)").matches){document.querySelector(".toc-details").open=false;}</script>
 
         <h2 id="every">Every 70s Number One Hit, Sortable</h2>
         <p>Here are all 253 songs, in the order they first reached number one.</p>
-        <p>Tap a column heading to sort by song, artist, weeks at the top or date.</p>
-        <p>Song titles in gold link to a full story on this site.</p>
-        <p>Press Play on any row to watch that song right here, in a player that opens under it.</p>
-        <p>For nonstop 70s music, try <a href="/radio/">Listen Now</a>, the site's free radio and jukebox.</p>
+        <p>Tap a column heading to sort by song, artist, weeks at the top or date, and press Play on any row to watch that song here.</p>
 
         <div class="data-table-wrap scroll-list">
           <table class="data-table sortable-table" id="numberOnesTable">
@@ -463,6 +464,8 @@
             </tbody>
           </table>
         </div>
+        <p>Song titles in gold link to a full story on this site.</p>
+        <p>For nonstop 70s music, try <a href="/radio/">Listen Now</a>, the site's free radio and jukebox.</p>
 
         <h2 id="answer">The Short Answer: 253 Songs, 522 Weeks</h2>
         <p>The 1970s turned over the top of the chart faster than most people remember.</p>
