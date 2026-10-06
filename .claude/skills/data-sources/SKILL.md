@@ -22,3 +22,9 @@ Corrected earlier assumptions: 619 artists (not 605) across 10 real genre bucket
 
 ## Peak-position limit (added 2026-10-06)
 `billboard_peak` in `data/radio/radio-songs.json` and `data/songs/hot_100_songs_*.json` is a copy of the Year-End Hot 100 `rank`, not a weekly chart peak (1,000 of 1,000 rows identical). The only verifiable peak data is number-one status and weeks at #1 from `data/billboard/hot100_weekly.json`. Never label year-end rank as "peak". A real weekly peak for non-#1 songs needs a per-song outside lookup (Billboard or Wikipedia), checked individually and never guessed.
+
+## Sourcing rule: ranks vs peaks vs weeks at #1 (added 2026-10-06, Charlie)
+- `year_end_hot100.json` (and `rank` / `billboard_peak` everywhere) = year-end RANK only. Write it as "ranked #N on the YYYY year-end Hot 100" or "year-end rank". Never "peak", "peaked", "reached", "hit" or a bare "No. N".
+- A weekly peak or weeks at #1 may come only from `hot100_weekly.json` (number ones only) or an outside source (Wikipedia/Billboard), and the page must say which: "this site's own weekly chart data" or a linked Wikipedia source. Never credit the year-end file for a peak or a run at the top.
+- R&B/Soul chart facts: `rnb.json` is albums only (rebuilt vs Wikipedia 2026-10-06). Say "album", cite Wikipedia's list for the year, never present an album run as the song's.
+- Gate: `python3 scripts/check_chart_claims.py` must print PASS before any push (it fails on a year-end rank written as a chart number, or year-end data credited for a peak/run). Table rows are not scanned, so label table columns "Year-End Rank" or "Weekly Peak", never plain "Peak".
