@@ -55,6 +55,26 @@ CATS = {
     "years": ("Years", None),
 }
 
+# Intro paragraph under each hub's H1 (the generator owns it, so a regeneration can never
+# bring back filler). Links must point at live pages; render_intro() fails on a missing one.
+INTROS = {
+    "genres": 'The 70s did not have one sound. This hub covers rock in its hard, soft, glam, folk, country, progressive and punk forms, plus disco, funk, soul and pop. Start with <a href="/blog/genres/disco-music-of-the-70s/">70s disco music</a> or <a href="/blog/genres/70s-rock/">70s rock</a>, or pick any genre below.',
+    "songs": 'Each post here follows one hit single through the 70s, with the chart numbers behind it. For the biggest songs of the decade, see <a href="/blog/songs/best-songs-of-the-70s/">best songs of the 70s</a>, or browse every post below.',
+    "artists": 'The bands and singers behind the decade\'s biggest records, one profile at a time. For the full chart rankings, see <a href="/blog/artists/70s-bands/">70s bands</a>, <a href="/blog/artists/70s-singers/">70s singers</a> and <a href="/blog/artists/70s-female-singers/">70s female singers</a>.',
+    "years": 'One page for each year from 1970 through 1979, built from that year\'s Billboard Year-End Hot 100. Pick a year below to see its biggest songs.',
+    "trivia": 'Test what you know about 70s music, or read the stories behind it. This hub has a trivia post, a <a href="/blog/trivia/70s-music-quiz/">scored quiz</a>, an ABBA vs Queen face-off and a look at banned songs of the decade.',
+}
+INTRO_RE = re.compile(r'(<div class="page-intro">\s*<h1>[^<]*</h1>\s*)<p>.*?</p>', re.S)
+
+
+def render_intro(cat_name):
+    text = INTROS[cat_name]
+    for href in re.findall(r'href="(/[^"]+)"', text):
+        if not (REPO_ROOT / href.strip("/") / "index.html").exists():
+            sys.exit(f"intro for {cat_name} links to a missing page: {href}")
+    return text
+
+
 # Sorted 1970 -> 1979 ascending instead of newest-first.
 ASCENDING_CATS = {"years"}
 
@@ -181,6 +201,9 @@ def update_category_page(cat_name, cat_label, cap, posts):
     crumbs = [("Home", f"{SITE}/"), ("Blog", f"{SITE}/blog/"), (cat_label, f"{SITE}/blog/{cat_name}/")]
     new_html = upsert_head_schema(new_html, "scripts/generate_category_cards.py",
                                   hub_schema_blocks(new_html, crumbs, listed))
+    if not INTRO_RE.search(new_html):
+        sys.exit(f"page-intro block not found in {cat_index}")
+    new_html = INTRO_RE.sub(lambda m: m.group(1) + "<p>" + render_intro(cat_name) + "</p>", new_html, count=1)
     changed = new_html != html
     cat_index.write_text(new_html, encoding="utf-8")
     return changed
