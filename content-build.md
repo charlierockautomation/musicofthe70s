@@ -146,10 +146,10 @@ Chart-archive gap fix LIVE 2026-10-06 (Charlie-approved after audit_song_lists.p
 folk rock 45, soft rock 165, glam 16, prog 11 (punk has 1 tagged song, beyond list only). Misleading "never touched/never charted" lines reworded on
 genre pages, hub cards, llms.txt, Talking Heads (said zero Hot 100 entries; Wikipedia: Take Me to the River #26), Iggy Pop, Dolly Parton, Take It Easy.
 Pop page also had "year-end ranks by best week" (wrong); fixed. 70s Rock + Trivia pair still wait on Charlie.
-Genre pages still lacking a playable list (next list-page upgrades): pop (230 tagged songs), funk (58), hard rock (28), country rock (22 tagged
-country rock), 70s Rock (hub, waits on Charlie). Use scripts/generate_genre_lists.py PAGES dict + generate_beyond_year_end.py.
+**BLOCKED ON CHARLIE (2026-10-06):** /blog/genres/70s-rock/ hub needs his decision: build a playable list or not. Queued behind it, do not start
+until he decides: pop (230 tagged songs), funk (58), hard rock (28), country rock (22 tagged). Use generate_genre_lists.py PAGES dict + generate_beyond_year_end.py.
 Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One Hits density 0.195%;
-1970 year page density + sentence length; subheading rule FAIL on 10 year pages, soft-rock, punk, Talking Heads (pre-existing); 1971 #55 Proud Mary no video.
+1970 year page density + sentence length; subheading rule FAIL on 10 year pages, soft-rock, punk, Talking Heads (pre-existing).
 
 **Ordering within each slot:**
 - Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
