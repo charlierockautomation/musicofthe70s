@@ -140,12 +140,14 @@ it would substantially overlap the live 70s Number One Hits post (same hot100_we
 7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
 6B Upgrades DONE (detail: SESSION-LOG-ARCHIVE.md 2026-10-06): Best Songs, Homepage, Disco (6bfaffa), Soul (c1d86f6), year-page lists,
 hub intros, year-end rank cleanup, check_chart_claims.py gate, rnb.json rebuild. List-page layout = standing rule (post-template 6b).
-Chart-archive gap fix BUILT 2026-10-06, local only, awaiting Charlie's review + push approval: new data/billboard/beyond_year_end.json
+Chart-archive gap fix LIVE 2026-10-06 (Charlie-approved after audit_song_lists.py: no new failures): new data/billboard/beyond_year_end.json
 (56 songs, Wikipedia weekly peaks, API-checked video IDs; scripts/generate_beyond_year_end.py + generate_genre_lists.py + genre_page_common.py).
 "Beyond the year-end list" section on folk rock 9, soft rock 10, glam 9, prog 8, punk/new wave 5, Disco 5, Soul 10; full playable lists added to
 folk rock 45, soft rock 165, glam 16, prog 11 (punk has 1 tagged song, beyond list only). Misleading "never touched/never charted" lines reworded on
 genre pages, hub cards, llms.txt, Talking Heads (said zero Hot 100 entries; Wikipedia: Take Me to the River #26), Iggy Pop, Dolly Parton, Take It Easy.
 Pop page also had "year-end ranks by best week" (wrong); fixed. 70s Rock + Trivia pair still wait on Charlie.
+Genre pages still lacking a playable list (next list-page upgrades): pop (230 tagged songs), funk (58), hard rock (28), country rock (22 tagged
+country rock), 70s Rock (hub, waits on Charlie). Use scripts/generate_genre_lists.py PAGES dict + generate_beyond_year_end.py.
 Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One Hits density 0.195%;
 1970 year page density + sentence length; subheading rule FAIL on 10 year pages, soft-rock, punk, Talking Heads (pre-existing); 1971 #55 Proud Mary no video.
 

@@ -11,7 +11,7 @@ days, so refresh (or delete) it before then:
              blocked (not embeddable / made for kids / not public) on a page
 verify_post.py calls status_problems() for the same rule.
 
-IDs come from data/radio/radio-songs.json and every youtube.com/embed/<id> in
+IDs come from data/radio/radio-songs.json, data/billboard/beyond_year_end.json and every youtube.com/embed/<id> in
 the site's HTML; IDs no longer used are dropped.
 
 Quota: videos.list = 1 unit per request (50 IDs), so a full refresh of N IDs
@@ -66,6 +66,11 @@ def site_ids():
         with open(extra, encoding="utf-8") as f:
             for v in json.load(f).get("videos", []):
                 ids.setdefault(v["youtube_id"], set()).add("radio")
+    beyond = os.path.join(ROOT, "data", "billboard", "beyond_year_end.json")
+    if os.path.exists(beyond):
+        with open(beyond, encoding="utf-8") as f:
+            for v in json.load(f).get("songs", []):
+                ids.setdefault(v["youtube_id"], set()).add("page")
     pages = glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True)
     for path in pages:
         if os.sep + ".git" + os.sep in path:
