@@ -41,6 +41,9 @@ PAGES = {
     "blog/genres/70s-funk/": dict(
         id="funk-song-list", name="70s Funk", first_h2="what-counts",
         tag="funk", pick=lambda s: s["genre"] == "funk", label="funk", kw="70s funk"),
+    "blog/genres/70s-hard-rock/": dict(
+        id="hard-rock-song-list", name="70s Hard Rock", first_h2="what-defines-it",
+        tag="hard rock", pick=lambda s: s["genre"] == "hard-rock", label="hard rock", kw="70s hard rock"),
 }
 
 
