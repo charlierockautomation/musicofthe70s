@@ -87,3 +87,6 @@ of the 70s, 1970s number one hits, every number one song of the 70s, billboard n
 | 70s number one hits | ~50 | confirmed focus keyword, /blog/songs/70s-number-one-hits/ |
 | number one songs 70s | n/a | already Birthday #1 Song Finder's focus keyword, excluded |
 | 70s singers | 1,900 | confirmed focus keyword (STRATEGY-2026.md 6A), /blog/artists/70s-singers/; SERP 2026-09-28 = individual-singer lists, so solo-only angle |
+
+## 70s Country Songs (verified 2026-10-10)
+Focus keyword `70s country songs` (4,400/mo US, Google Ads; competition LOW). Unused as another post's focus keyword. Near-identical volume: 70s country music, country music of the 70s, 70s country, 1970s country music (all 4,400, used as secondaries); 70s country hits (880); best 70s country songs (210). SERP intent: AI Overview with 10-song list plus outlaw/crossover/women movements, then playlists (Holler 100, Spotify, Apple, Amazon, YouTube) and Country Universe "Every #1 Country Single of the Seventies". PAA: top 100 country songs of 1970, number one country song in 1970. Page: /blog/genres/70s-country-songs/.

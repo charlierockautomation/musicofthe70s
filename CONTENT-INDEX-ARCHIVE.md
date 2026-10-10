@@ -680,3 +680,13 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
   not possible, youtube.com blocked from container). Every table row has in-page Play (js/table-player.js).
 - verify_post.py PASS (3,124 words, 18 uses, 0.576%), check_clean_urls PASS, check_schema PASS, youtube_status PASS.
   Mobile 375/390 no sideways scroll after the .data-table-wrap position fix.
+| Best of My Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Guitar Part Came From a Joni Mitchell Tuning" H3, closing sentence |
+| Best of My Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Best of My Love Gave the Eagles Their First Number One" H2, mid-section, after the chart-format bullet list |
+| Best of My Love | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, "The Steel Guitar Sound Best of My Love Almost Cost the Band" H2, mid-section sentence |
+| Best of My Love | Songs | One of These Nights (song) | /blog/songs/one-of-these-nights/index.html | Body, same H2, song-to-song cross-link |
+| Best of My Love | Songs | Best of My Love (Listen Now) | /radio/index.html?play=1975-13-best-of-my-love | Body, "Stream It Yourself" H3, not adjacent to the video embed, several sentences before |
+| Best of My Love | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence directly before the video embed |
+| Eagles the Band (artist) | Artists | Best of My Love (song) | /blog/songs/best-of-my-love/index.html | Body, "The One-Day Swap That Led to Hotel California" H2, opening section, forward link added the session the song post was built |
+| Al Green Tired of Being Alone | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "Shelved From Green Is Blues" H3, opening sentence |
+| Al Green Tired of Being Alone | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "None of the First Four Cracked the Top 40" H3 area, mid-section after the data table |
+| Al Green Tired of Being Alone | Songs | Music of the 70s | /index.html | Body, "The Song That Finally Made Al Green a Pop Star" H2, mid-section, not opening or closing |

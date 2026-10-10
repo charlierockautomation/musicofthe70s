@@ -7,21 +7,11 @@ generic. Log new entries here after placing links. Log starts 2026-08-28; prior
 posts not backfilled.
 
 When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.md.
-Rows through Somebody to Love / Queen Freddie Mercury were pruned 2026-09-27; grep "Anchor Text &
+Rows through Somebody to Love / Queen Freddie Mercury were pruned 2026-09-27, and the first 10 Best of My Love rows 2026-10-10; grep "Anchor Text &
 Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Best of My Love | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "The Guitar Part Came From a Joni Mitchell Tuning" H3, closing sentence |
-| Best of My Love | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Best of My Love Gave the Eagles Their First Number One" H2, mid-section, after the chart-format bullet list |
-| Best of My Love | Songs | Eagles the Band (artist) | /blog/artists/eagles-the-band/index.html | Body, "The Steel Guitar Sound Best of My Love Almost Cost the Band" H2, mid-section sentence |
-| Best of My Love | Songs | One of These Nights (song) | /blog/songs/one-of-these-nights/index.html | Body, same H2, song-to-song cross-link |
-| Best of My Love | Songs | Best of My Love (Listen Now) | /radio/index.html?play=1975-13-best-of-my-love | Body, "Stream It Yourself" H3, not adjacent to the video embed, several sentences before |
-| Best of My Love | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence directly before the video embed |
-| Eagles the Band (artist) | Artists | Best of My Love (song) | /blog/songs/best-of-my-love/index.html | Body, "The One-Day Swap That Led to Hotel California" H2, opening section, forward link added the session the song post was built |
-| Al Green Tired of Being Alone | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "Shelved From Green Is Blues" H3, opening sentence |
-| Al Green Tired of Being Alone | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "None of the First Four Cracked the Top 40" H3 area, mid-section after the data table |
-| Al Green Tired of Being Alone | Songs | Music of the 70s | /index.html | Body, "The Song That Finally Made Al Green a Pop Star" H2, mid-section, not opening or closing |
 | Al Green Tired of Being Alone | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Data Shows 12, Not 11" H3, closing sentence |
 | Al Green Tired of Being Alone | Songs | Tired of Being Alone (Listen Now) | /radio/index.html?play=1971-12-tired-of-being-alone | Body, opening sentence of the "Recorded With the Same Band That Built Let's Stay Together" H2, not adjacent to the video embed |
 | Al Green Tired of Being Alone | Songs | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "The Song's Life After 1971" H3, mid-section, song-to-song cross-link |
@@ -187,3 +177,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Disco Music (upgrade) | Genres | 70s Bands / 70s Female Singers | /blog/artists/70s-bands/, /blog/artists/70s-female-singers/ | Body, "The Biggest Disco Artists" H2, closing |
 | 70s Disco Music (upgrade) | Genres | 70s Funk / 70s Soul Music | /blog/genres/70s-funk/, /blog/genres/70s-soul-music/ | Body, "70s Dance Songs Beyond Strict Disco" H2, closing sentence |
 | 70s Disco Music (upgrade) | Genres | Random Artist Picker / Random 70s Song Generator | /pages/random-artist-picker, /pages/random-70s-song | Artists H2 closing; Essential Songs H2 closing |
+| 70s Country Songs | Genres | 70s Country Rock | /blog/genres/70s-country-rock/ | Body, "Country Pop and Country Rock" H3, mid-section sentence (anchor "70s country rock") |
+| 70s Country Songs | Genres | Blue Eyes Crying in the Rain (song) | /blog/songs/blue-eyes-crying-in-the-rain/ | Body, "Outlaw Country" H3, after Willie Nelson image |
+| 70s Country Songs | Genres | Random Artist Picker | /pages/random-artist-picker | Body, "Country Pop and Country Rock" H3, closing sentence |
+| 70s Country Songs | Genres | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "When the Country and Pop Charts Agreed" H2, closing sentence |
+| 70s Country Songs | Genres | Jolene (song) | /blog/songs/jolene/ | Body, "The Women Who Ran the Country Chart" H2, mid-section |
+| 70s Country Songs | Genres | Random 70s Song Generator | /pages/random-70s-song | Body, "The Longest Runs at the Top" H3, closing sentence |
+| 70s Country Songs | Genres | Music of the 70s / Methodology | /, /about/methodology/ | Sources H2 opening sentences |
+| 70s Country Rock (back-link) | Genres | 70s Country Songs | /blog/genres/70s-country-songs/ | Body, "The Artists Who Carried It Through the Decade" H2, before tool CTAs (anchor "70s country songs") |
