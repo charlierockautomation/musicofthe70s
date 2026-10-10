@@ -113,7 +113,7 @@ ABBA / Bee Gees: no new posts or pages about them before 2026-11-25 (their songs
 Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
 - S1. Pop list page (230 songs), including the performance check first: DONE 2026-10-09 (live, f2aa129; 230 rows, no videos load until Play, no pagination needed)
 - S2. Funk list page (58): DONE 2026-10-09 (live, b5b46e9; 58 rows, 11 #1 hits, Sources section added with 4 Wikipedia links)
-- S3. Hard rock list page (28): OPEN
+- S3. Hard rock list page (28): DONE 2026-10-09 (live, a86a521; 28 rows, 1 #1 hit, Sources section added with 4 Wikipedia links)
 - S4. Country rock list page (22): OPEN
 - S5. Rock hub rework (needs S3 and S4 done): OPEN
 - S6. Trivia/quiz cross-linking + duplicate-question report: OPEN
