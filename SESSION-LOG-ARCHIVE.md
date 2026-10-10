@@ -515,3 +515,89 @@ scripts/check_placeholders.py). 70s Soul Music upgrade LIVE 2026-10-06 (c1d86f6,
 (scripts/generate_soul_table.py; Proud Mary omitted, no embeddable video), 35 weekly #1s, short answer, 2 data tables, 3 images, 4 sources, 7-Q FAQ.
 rnb.json rebuilt vs Wikipedia (cf93dee); year-end-as-peak fixes on 11 pages (b2c171a, ff39273); new gate scripts/check_chart_claims.py. 70s Rock + Trivia pair wait on Charlie.
 Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One
+
+## Strategy Queue as of 2026-10-09 (completed items pruned from content-build.md in the STRATEGY-2026 audit)
+## Strategy Queue (2026-09-25)
+
+Source of truth: STRATEGY-2026.md (approved 2026-09-25 rebuild plan). Reference file, exempt from
+the 195-line cap — open only the section named below, never the whole file. This section replaces
+the old Category Rotation Queue table and the Artists genre-rotation rule; completed/decided-against
+history for both stays in SESSION-LOG-ARCHIVE.md.
+
+**Phase 0 — technical/trust fixes (STRATEGY-2026.md section 8), one per session, in order:**
+1. ~~Confirm clean-URL fix is live, resubmit sitemap, request indexing (item 1)~~ DONE (c711e0d, 2026-09-24)
+2. ~~Fix the GSC "Redirect error" URLs (item 2)~~ DONE (c711e0d; URL list supplied in a prior chat,
+   fixed by the clean-URL pass; Charlie-confirmed 2026-09-27)
+3. ~~Visible byline + published/updated dates on every post, matched in schema (item 3)~~ DONE (6be7dc9)
+4. ~~Author page for Charlie (item 4)~~ DONE (3f28389)
+5. ~~Methodology / editorial policy page (item 5)~~ DONE (d9710ca)
+6. ~~Category hubs list every post (item 6)~~ DONE (b9b8d54)
+7. 3+ external source links on existing posts, rolling 5/session (item 7)
+   Batch 1 LIVE 2026-09-27 (7cdff89): Top Songs of 1970-1974. Next batch: 1975-1979, then Best Songs
+   of the 70s, then the rest. Rolling, continues in the Friday slot; not a single-session item.
+8. ~~robots.txt AI-crawler review; llms.txt refresh (item 9)~~ DONE, LIVE 2026-09-27 (PR #2, 2fc6d2d).
+   Same PR: functions/_middleware.js now 404s internal repo files (*.md, .claude/, scripts/) on the live site.
+9. ~~Schema audit: MusicRecording, MusicGroup/Person `sameAs`, BreadcrumbList (item 10)~~ DONE, LIVE 2026-09-27
+   (PR #1, merge 7f5fe9e): shared WebSite + Organization @ids, post author/publisher -> shared @ids,
+   6 hubs CollectionPage + ItemList + BreadcrumbList. MusicRecording/MusicGroup deliberately NOT added.
+   New gate: `python3 scripts/check_schema.py` alongside check_clean_urls.py before every push (both PASS).
+   New posts: re-run `python3 scripts/apply_schema.py --apply`.
+10. ~~Core Web Vitals on /radio/ and tools, click-to-load facade (item 11)~~ DONE, LIVE 2026-09-27 (PR #3):
+   CLS fix on /radio/ + Decade Wheel, YouTube API loads on intent. PRs #4-#5: volume control hidden on iPhone/iPad.
+   **Phase 0 complete.** Charlie 2026-09-27: no fixed weekly schedule, he builds when he has time.
+
+(Item 8 in STRATEGY-2026.md, Bing Webmaster Tools/IndexNow, is Charlie's own action, not a session
+build. Item 12, AdSense readiness, follows per CLAUDE.md's YouTube Compliance rule once 1-6 land.)
+
+**Weekly rhythm, once Phase 0 clears (repeats):**
+- Mon — flagship data page or upgrade page
+- Tue — Artist
+- Wed — Song
+- Thu — "This Week in 1970s Music" (STRATEGY-2026.md section 6G)
+- Fri — Song, or a source-citation pass (Phase 0 item 7 continuation)
+
+**Flagships (6A):** #1 Every #1 Hit LIVE 2026-09-27 (PR #6, 7e07d0d; Charlie live-verified incl. in-page Play) as /blog/songs/70s-number-one-hits/ (keyword `70s number one hits`,
+~50/mo, Charlie's Keyword Planner pull). Table regenerates via scripts/generate_number_one_table.py.
+#2 One-Hit Wonders on origin/main 2026-09-27 (53cd042 + regen a17533c) as
+/blog/songs/70s-one-hit-wonders/ (keyword `70s one hit wonders`, 5,400/mo, pulled 2026-09-25 per
+STRATEGY-2026.md). Definition: exactly one US Top 40 Hot 100 hit, whole career. Built from 368
+acts appearing once in data/billboard/year_end_hot100.json 1970-1979, cross-checked against
+Wikipedia's "List of one-hit wonders in the United States" (162 matched), then individually
+verified against each act's full Hot 100 chart history -> 147 confirmed, 15 dropped for a real
+second Top 40 hit (incl. The Knack, "My Sharona" vs. "Good Girls Don't" #11 -- see the page's
+"Acts We Checked and Dropped" section). Data: data/billboard/one_hit_wonders_70s.json. Table
+regenerates via scripts/generate_one_hit_wonders_table.py; player is js/one-hit-wonder-player.js
+(same pattern as js/number-one-player.js, own class prefix `ohw-`). verify_post.py and
+check_clean_urls.py both PASS.
+#3 Biggest Artists LIVE 2026-09-28 (/blog/artists/70s-singers/, `70s singers`, 1,900); #4 70s Bands LIVE 2026-09-29
+(1fb5935, /blog/artists/70s-bands/, `70s bands`, 12,100). Full write-ups: SESSION-LOG-ARCHIVE.md.
+
+Flagship #5 70s Female Singers (`70s female singers`, 4,400) LIVE 2026-09-29 (bca2abd, 2e7cac0, caeb662) at
+/blog/artists/70s-female-singers/: 22 women with 2+ year-end hits, ONJ leads with 8. Full write-up: SESSION-LOG-ARCHIVE.md.
+#6 70s #1 Hits Timeline resolved 2026-10-05, no standalone page: content-gap check found
+it would substantially overlap the live 70s Number One Hits post (same hot100_weekly.json
+253-#1 dataset, same "every #1" concept, just table vs timeline UI). Charlie's call: fold
+`top songs of the 70s` (6,600) into the Best Songs of the 70s upgrade (6B) instead of a
+7th flagship. Flagship slot 6A is now fully resolved (all 6 either live or folded).
+6B Upgrades DONE (detail: SESSION-LOG-ARCHIVE.md 2026-10-06): Best Songs, Homepage, Disco (6bfaffa), Soul (c1d86f6), year-page lists,
+hub intros, year-end rank cleanup, check_chart_claims.py gate, rnb.json rebuild. List-page layout = standing rule (post-template 6b).
+Chart-archive gap fix LIVE 2026-10-06 (Charlie-approved after audit_song_lists.py: no new failures): new data/billboard/beyond_year_end.json
+(56 songs, Wikipedia weekly peaks, API-checked video IDs; scripts/generate_beyond_year_end.py + generate_genre_lists.py + genre_page_common.py).
+"Beyond the year-end list" section on folk rock 9, soft rock 10, glam 9, prog 8, punk/new wave 5, Disco 5, Soul 10; full playable lists added to
+folk rock 45, soft rock 165, glam 16, prog 11 (punk has 1 tagged song, beyond list only). Misleading "never touched/never charted" lines reworded on
+genre pages, hub cards, llms.txt, Talking Heads (said zero Hot 100 entries; Wikipedia: Take Me to the River #26), Iggy Pop, Dolly Parton, Take It Easy.
+Pop page also had "year-end ranks by best week" (wrong); fixed. 70s Rock + Trivia pair still wait on Charlie.
+**BLOCKED ON CHARLIE (2026-10-06):** /blog/genres/70s-rock/ hub needs his decision: build a playable list or not. Queued behind it, do not start
+until he decides: pop (230 tagged songs), funk (58), hard rock (28), country rock (22 tagged). Use generate_genre_lists.py PAGES dict + generate_beyond_year_end.py.
+Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known misses (prose edits, low priority): Number One Hits density 0.195%;
+1970 year page density + sentence length; subheading rule FAIL on 10 year pages, soft-rock, punk, Talking Heads (pre-existing).
+
+**Ordering within each slot:**
+- Flagships (Mon): STRATEGY-2026.md section 6A, table order 1-6
+- Upgrades (Mon, alternating with flagships): STRATEGY-2026.md section 6B, table order
+- 70s Country pillar: STRATEGY-2026.md section 6C
+- Artists (Tue): STRATEGY-2026.md section 6D, table order, then the "then:" list after it
+- Songs (Wed/Fri): STRATEGY-2026.md section 6E, drawn only from live 6D artists
+- Listening pages (fold into Mon or Fri as needed): STRATEGY-2026.md section 6F, cap 4
+
+**Pause:** no ABBA or Bee Gees posts before 2026-11-25 (STRATEGY-2026.md section 6D).
