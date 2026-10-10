@@ -116,7 +116,8 @@ Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
 - S3. Hard rock list page (28): DONE 2026-10-09 (live, a86a521; 28 rows, 1 #1 hit, Sources section added with 4 Wikipedia links)
 - S4. Country rock list page (22): DONE 2026-10-09 (live, a7a1b15; 22 rows, 5 #1 hits, Sources section added with 4 Wikipedia links)
 - S5. Rock hub rework: DONE 2026-10-09 (live, c23b14d; subgenre guide table of 7 pages, 18-song playable teaser with 8 #1 hits, jump button, Sources with 4 Wikipedia links; script generate_rock_hub.py)
-- S6. Trivia/quiz cross-linking + duplicate-question report: OPEN
+- S6. Trivia/quiz cross-linking + duplicate-question report: DONE 2026-10-09 (live, 7456a53; static post CTA to quiz post, quiz post links back as study guide, Sources added to both, scrollable TOC on static post, quiz related card swapped to ABBA vs Queen since cards are hand-written; "separate pool" claim corrected)
+- OPTIONAL LATER (needs Charlie's approval, not queued): rewrite the 7 duplicate quiz questions (quiz #2,3,4,8,14,17 and 7 vs static Q12,Q7,Q35,Q6,Q51,Q11,Q8) with new angles on the same artists, then restore the "separate pool" claim
 
 
 **Flagged, not in rotation (Charlie's call, unaffected by the strategy queue):**
