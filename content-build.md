@@ -111,7 +111,7 @@ Rhythm: Mon flagship/upgrade, Tue Artist, Wed Song, Thu 6G, Fri Song or source p
 Standing checklist for EVERY session S1-S6: content-gap check; PUBLISH GATE (local-server review, never commit or push live content without Charlie's explicit go-ahead); 3+ external source links on any page touched; internal link rule (same target once per article); clean URLs only; run check_clean_urls.py and check_schema.py; mobile check; update content-build.md and CONTENT-INDEX.md; end with the closed status report.
 ABBA / Bee Gees: no new posts or pages about them before 2026-11-25 (their songs may appear inside list pages).
 Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
-- S1. Pop list page (230 songs), including the performance check first: OPEN
+- S1. Pop list page (230 songs), including the performance check first: DONE 2026-10-09 (live, f2aa129; 230 rows, no videos load until Play, no pagination needed)
 - S2. Funk list page (58): OPEN
 - S3. Hard rock list page (28): OPEN
 - S4. Country rock list page (22): OPEN
