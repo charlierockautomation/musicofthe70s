@@ -185,3 +185,6 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Country Songs | Genres | Random 70s Song Generator | /pages/random-70s-song | Body, "The Longest Runs at the Top" H3, closing sentence |
 | 70s Country Songs | Genres | Music of the 70s / Methodology | /, /about/methodology/ | Sources H2 opening sentences |
 | 70s Country Rock (back-link) | Genres | 70s Country Songs | /blog/genres/70s-country-songs/ | Body, "The Artists Who Carried It Through the Decade" H2, before tool CTAs (anchor "70s country songs") |
+| Elton John (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Six Number Ones" H2, H3 "The Early Run", closing sentence (anchor "70s number one hits") |
+| Elton John (artist) | Artists | Random Artist Picker / 70s Music Trivia Quiz | /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "Seven Number One Albums" H2, closing two sentences |
+| Elton John (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |

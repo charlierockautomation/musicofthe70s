@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-09-29 (70s Bands, Charts flagship #4, LIVE)
+# Last Updated: 2026-10-10 (Elton John Artists post built locally, awaiting review)
 
 ---
 
@@ -146,6 +146,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | 70s Disco Music: The Year It Peaked and Nearly Died | https://musicofthe70s.net/blog/genres/disco-music-of-the-70s/index.html | Genres | 70s disco music | Live | 2026-08-10 | Random Artist Picker |
 | 70s Country Rock: The Genre Nobody Wanted to Name | https://musicofthe70s.net/blog/genres/70s-country-rock/index.html | Genres | 70s country rock | Live | 2026-10-09 (22-song playable list added; first live 2026-08-09) | Random Artist Picker, Random 70s Song Generator |
 | 70s Country Songs: Play 60 Hits, See Who Ruled #1 | https://musicofthe70s.net/blog/genres/70s-country-songs/index.html | Genres | 70s country songs | Pushed 5f19009, live check pending | 2026-10-10 | Random Artist Picker, Random 70s Song Generator; links 70s Country Rock, Blue Eyes Crying in the Rain, Jolene, 70s Number One Hits; related Dolly Parton + Willie Nelson. Script: scripts/generate_country_page.py |
+| Elton John: 13 Hits Played, 6 at Number One | https://musicofthe70s.net/blog/artists/elton-john/index.html | Artists | elton john | Built locally, awaiting Charlie's review | 2026-10-10 | Random Artist Picker, 70s Music Trivia Quiz; links 70s Number One Hits; related 70s Number One Hits + Carole King. Script: scripts/generate_elton_john_page.py |
 | 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/ | Genres | 70s rock | Live | 2026-10-09 (hub rework: 7-page subgenre guide, 18-song playable teaser, Sources; first live 2026-07-25) | Random Artist Picker, Random 70s Song Generator |
 *(70s Rock, Bee Gees, and 70s Soul Music — all still Live — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-14 to hold the line count; grep "Older Genres/Artists rows" there.)*
 *(ABBA, Eagles the Band, Queen Freddie Mercury, Talking Heads, Village People, Grateful Dead, James Brown, 70s Soft Rock, Dancing Queen, Hotel California, Bohemian Rhapsody, and Don McLean American Pie — all still Live — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-21 to hold the line count; grep "Older Songs/Artists/Genres rows" there.)*
