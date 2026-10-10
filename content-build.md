@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-10 (70s Country Songs pillar built locally, awaiting review)
+# Last Updated: 2026-10-10 (70s Country Songs pillar pushed, live check pending)
 
 ---
 
@@ -94,7 +94,7 @@ Soul, chart-archive gap fix) are in SESSION-LOG-ARCHIVE.md "Strategy Queue as of
 4. **Flagship/upgrade pages left** (section 6A/6B): all 6 flagships resolved
    - 70s Rock hub + 4 genre lists (pop, funk, hard rock, country rock): DECIDED 2026-10-09, see Genre Lists and Hub Rollout below
    - Trivia pair: DECIDED 2026-10-09, cross-link only (no merge), see S6 below
-5. **Genre pillars** (section 6C): 70s Country Songs BUILT LOCALLY 2026-10-10, awaiting Charlie's review before commit/push (`70s country songs`, 4,400; /blog/genres/70s-country-songs/; 60 playable rows, 28 country #1, country #1 leaders + longest-runs tables; generator scripts/generate_country_page.py; hubs/sitemap/llms regenerated locally, not committed; back-link added on 70s-country-rock page). Verified: verify_post, placeholders, chart claims, clean URLs, schema, YouTube status all PASS
+5. **Genre pillars** (section 6C): 70s Country Songs PUSHED 2026-10-10 (5f19009, Charlie go-ahead), live verification pending (`70s country songs`, 4,400; /blog/genres/70s-country-songs/; 60 playable rows, 28 country #1, country #1 leaders + longest-runs tables; generator scripts/generate_country_page.py; hubs/sitemap/llms regenerated and pushed; back-link added on 70s-country-rock page). Verified: verify_post, placeholders, chart claims, clean URLs, schema, YouTube status all PASS
 6. **Artists rotation NOT STARTED** (section 6D, in order; 0 of 10 live): Elton John, Led Zeppelin, The Carpenters, Fleetwood Mac, Chicago, Pink Floyd, Olivia Newton-John, ELO, Jackson 5, Earth Wind & Fire. Then 6D "then" list
 7. After the above: Songs from live 6D artists (6E), listening pages cap 4 (6F), This Week in 1970s Music (6G): all NOT STARTED
 
