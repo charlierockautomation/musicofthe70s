@@ -438,6 +438,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .toc-block li { margin-bottom: 0.4rem; }
 .toc-block a { color: var(--text-primary); }
 .toc-block a:hover { color: var(--accent-gold); }
+.toc-block.toc-scroll ol { max-height: 16rem; overflow-y: auto; padding-right: 0.75rem; overscroll-behavior: contain; }
 
 .category-note {
   background: var(--bg-card); border: 1px solid var(--border-subtle);
