@@ -115,7 +115,7 @@ Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
 - S2. Funk list page (58): DONE 2026-10-09 (live, b5b46e9; 58 rows, 11 #1 hits, Sources section added with 4 Wikipedia links)
 - S3. Hard rock list page (28): DONE 2026-10-09 (live, a86a521; 28 rows, 1 #1 hit, Sources section added with 4 Wikipedia links)
 - S4. Country rock list page (22): DONE 2026-10-09 (live, a7a1b15; 22 rows, 5 #1 hits, Sources section added with 4 Wikipedia links)
-- S5. Rock hub rework (needs S3 and S4 done): OPEN
+- S5. Rock hub rework: DONE 2026-10-09 (live, c23b14d; subgenre guide table of 7 pages, 18-song playable teaser with 8 #1 hits, jump button, Sources with 4 Wikipedia links; script generate_rock_hub.py)
 - S6. Trivia/quiz cross-linking + duplicate-question report: OPEN
 
 
