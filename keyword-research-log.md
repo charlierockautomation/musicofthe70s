@@ -90,3 +90,6 @@ of the 70s, 1970s number one hits, every number one song of the 70s, billboard n
 
 ## 70s Country Songs (verified 2026-10-10)
 Focus keyword `70s country songs` (4,400/mo US, Google Ads; competition LOW). Unused as another post's focus keyword. Near-identical volume: 70s country music, country music of the 70s, 70s country, 1970s country music (all 4,400, used as secondaries); 70s country hits (880); best 70s country songs (210). SERP intent: AI Overview with 10-song list plus outlaw/crossover/women movements, then playlists (Holler 100, Spotify, Apple, Amazon, YouTube) and Country Universe "Every #1 Country Single of the Seventies". PAA: top 100 country songs of 1970, number one country song in 1970. Page: /blog/genres/70s-country-songs/.
+
+## Led Zeppelin Songs (verified 2026-10-11)
+Focus keyword `led zeppelin songs` (60,500/mo US, KD 45, LOW competition, informational). Unused as another post's focus keyword. Same-volume variants (secondaries): songs by led zeppelin, songs from led zeppelin; best led zeppelin songs 4,400 (KD 4); led zeppelin albums 40,500; led zeppelin band members 40,500; led zeppelin 246,000 (head term, KD 61). Song-level: stairway to heaven 33,100, kashmir 27,100, immigrant song 18,100, black dog 14,800. Slug led-zeppelin-songs. Page: /blog/artists/led-zeppelin-songs/.
