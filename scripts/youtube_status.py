@@ -11,7 +11,7 @@ days, so refresh (or delete) it before then:
              blocked (not embeddable / made for kids / not public) on a page
 verify_post.py calls status_problems() for the same rule.
 
-IDs come from data/radio/radio-songs.json, data/billboard/beyond_year_end.json and every youtube.com/embed/<id> in
+IDs come from data/radio/radio-songs.json, data/billboard/beyond_year_end.json and every youtube.com/embed/<id> and Play button data-yt="<id>" in
 the site's HTML; IDs no longer used are dropped.
 
 Quota: videos.list = 1 unit per request (50 IDs), so a full refresh of N IDs
@@ -44,6 +44,7 @@ MAX_AGE_DAYS = 30        # YouTube's storage limit for API data
 REFRESH_AFTER_DAYS = 25  # default run re-checks before the limit is reached
 BATCH = 50
 EMBED_RE = re.compile(r"youtube(?:-nocookie)?\.com/embed/([A-Za-z0-9_-]{11})")
+BUTTON_RE = re.compile(r'data-yt="([A-Za-z0-9_-]{11})"')
 
 def now():
     return datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
@@ -76,7 +77,8 @@ def site_ids():
         if os.sep + ".git" + os.sep in path:
             continue
         with open(path, encoding="utf-8") as f:
-            for vid in EMBED_RE.findall(f.read()):
+            text = f.read()
+            for vid in EMBED_RE.findall(text) + BUTTON_RE.findall(text):
                 ids.setdefault(vid, set()).add("page")
     return ids
 

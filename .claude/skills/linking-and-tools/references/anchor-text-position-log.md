@@ -188,3 +188,6 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Elton John (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Six Number Ones" H2, H3 "The Early Run", closing sentence (anchor "70s number one hits") |
 | Elton John (artist) | Artists | Random Artist Picker / 70s Music Trivia Quiz | /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "Seven Number One Albums" H2, closing two sentences |
 | Elton John (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Led Zeppelin Songs (artist) | Artists | 70s Hard Rock | /blog/genres/70s-hard-rock/ | Body, "Albums, Not Singles" H2, "The Deal That Made It Possible" H3 closing sentence (anchor "70s hard rock") |
+| Led Zeppelin Songs (artist) | Artists | Random Artist Picker / 70s Music Trivia Quiz | /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "1979 to 1980" H2, "September 25, 1980" H3 closing two sentences |
+| Led Zeppelin Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
