@@ -203,3 +203,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Electric Light Orchestra Songs (artist) | Artists | Olivia Newton-John Songs | /blog/artists/olivia-newton-john-songs/ | Body, "After the Decade: Xanadu" H3 closing sentence (anchor "Olivia Newton-John songs") |
 | Electric Light Orchestra Songs (artist) | Artists | Fleetwood Mac Songs | /blog/artists/fleetwood-mac-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Fleetwood Mac songs") |
 | Electric Light Orchestra Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Jackson 5 Songs (artist) | Artists | 70s Bands | /blog/artists/70s-bands/ | Body, "Jackson 5 Songs on the Charts" H2, sentence closing the "What the Chart Numbers Say" bullet list (anchor "70s bands") |
+| Jackson 5 Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Gary, Indiana to Hitsville" H2, opening paragraph closing sentence |
+| Jackson 5 Songs (artist) | Artists | 70s Disco Music | /blog/genres/disco-music-of-the-70s/ | Body, "Never Can Say Goodbye" H3, closing sentence (anchor "70s disco music") |
+| Jackson 5 Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Lookin' Through the Windows" H3 closing sentence |
+| Jackson 5 Songs (artist) | Artists | Marvin Gaye | /blog/artists/marvin-gaye/ | Body, "The Solo Years Begin" H3 closing sentence (anchor "Marvin Gaye") |
+| Jackson 5 Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
+| Jackson 5 Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
