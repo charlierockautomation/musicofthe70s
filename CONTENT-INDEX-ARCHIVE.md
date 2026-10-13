@@ -705,3 +705,25 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Bad Girls | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, opening sentence of the "Where the Song Landed on the Charts" H2 |
 | Bad Girls | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, opening sentence of the "The Grammy It Didn't Win" H2 |
 | Bad Girls | Songs | I Will Survive (song) | /blog/songs/i-will-survive/index.html | Body, "The Grammy It Didn't Win" H2, mid-section, song-to-song cross-link |
+
+## Older Genres/Trivia rows 2026-10-12 (all still Live)
+| 70s Funk: Why War Out-Charted Every Other Act | https://musicofthe70s.net/blog/genres/70s-funk/index.html | Genres | 70s funk | Live | 2026-10-09 | Random Artist Picker, Random 70s Song Generator |
+| 70s Hard Rock: The Genre That Actually Hit #1 | https://musicofthe70s.net/blog/genres/70s-hard-rock/index.html | Genres | 70s hard rock | Live | 2026-10-09 | Random Artist Picker, Random 70s Song Generator |
+| 70s Music Quiz: Test Your Knowledge of the Decade | https://musicofthe70s.net/blog/trivia/70s-music-quiz/index.html | Trivia | 70s music quiz | Live | 2026-08-12 | 70s Music Trivia Quiz, Birthday #1 Song Finder; 70s Music Trivia post (study guide), ABBA vs Queen. Updated 2026-10-09: Sources added, cross-linked (S6) |
+| Banned Songs of the 70s: The Real Story | https://musicofthe70s.net/blog/trivia/banned-songs-of-the-70s/index.html | Trivia | banned songs of the 70s | Live | 2026-08-06 | 70s Music Trivia Quiz, Birthday #1 Song Finder |
+| 70s Music Trivia: 64 Questions to Test Yourself | https://musicofthe70s.net/blog/trivia/70s-music-trivia/index.html | Trivia | 70s music trivia | Live | 2026-07-26 | 70s Music Trivia Quiz, Birthday #1 Song Finder, 70s Music Quiz post. Updated 2026-10-09: Sources added, scrollable TOC, CTA to quiz (S6) |
+| 70s Country Rock: The Genre Nobody Wanted to Name | https://musicofthe70s.net/blog/genres/70s-country-rock/index.html | Genres | 70s country rock | Live | 2026-10-09 (22-song playable list added; first live 2026-08-09) | Random Artist Picker, Random 70s Song Generator |
+
+## Anchor Text & Position Log rows pruned 2026-10-12 (second batch)
+| Donna Summer (artist) | Artists | Bad Girls (song) | /blog/songs/bad-girls/index.html | Body, "Three Number Ones, One Calendar Year" H3, on the existing "Bad Girls" mention, forward link added the session the song post was built |
+| You Are the Sunshine of My Life | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, "They Stayed Close After the Split" H3, closing sentence |
+| You Are the Sunshine of My Life | Songs | Superstition Stevie Wonder (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "The Voices You Hear First Aren't Wonder's" H3, mid-section, song-to-song cross-link |
+| You Are the Sunshine of My Life | Songs | You Are the Sunshine of My Life (Listen Now) | /radio/index.html?play=1973-19-you-are-the-sunshine-of-my-life | Body, same H3, adjacent-before, directly ahead of the video embed |
+| You Are the Sunshine of My Life | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Where It Landed on This Site's Own Year-End List" H3, closing sentence |
+| You Are the Sunshine of My Life | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Other Singers Wanted a Version of Their Own" H3, mid-section |
+| You Are the Sunshine of My Life | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence |
+| Stevie Wonder (artist) | Artists | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Classic Period Hits, Charted Year by Year" list, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
+| Superstition Stevie Wonder | Songs | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Year-End Picture" H3, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
+| Time in a Bottle Jim Croce | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Body, "The Night He Wrote Time in a Bottle" H2, opening sentence |
+| Time in a Bottle Jim Croce | Songs | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "Released Only After His Death" H2, closing-area sentence, song-to-song cross-link |
+| Time in a Bottle Jim Croce | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Song That Crossed Into a New Year" H3, mid-section |

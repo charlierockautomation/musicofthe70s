@@ -13,18 +13,6 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
 | Bad Girls | Songs | Music of the 70s | /index.html | Body, "The Awards It Did Win" H3, closing-area sentence |
-| Donna Summer (artist) | Artists | Bad Girls (song) | /blog/songs/bad-girls/index.html | Body, "Three Number Ones, One Calendar Year" H3, on the existing "Bad Girls" mention, forward link added the session the song post was built |
-| You Are the Sunshine of My Life | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, "They Stayed Close After the Split" H3, closing sentence |
-| You Are the Sunshine of My Life | Songs | Superstition Stevie Wonder (song) | /blog/songs/superstition-stevie-wonder/index.html | Body, "The Voices You Hear First Aren't Wonder's" H3, mid-section, song-to-song cross-link |
-| You Are the Sunshine of My Life | Songs | You Are the Sunshine of My Life (Listen Now) | /radio/index.html?play=1973-19-you-are-the-sunshine-of-my-life | Body, same H3, adjacent-before, directly ahead of the video embed |
-| You Are the Sunshine of My Life | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "Where It Landed on This Site's Own Year-End List" H3, closing sentence |
-| You Are the Sunshine of My Life | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Other Singers Wanted a Version of Their Own" H3, mid-section |
-| You Are the Sunshine of My Life | Songs | Music of the 70s | /index.html | Body, same H3, closing sentence |
-| Stevie Wonder (artist) | Artists | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Classic Period Hits, Charted Year by Year" list, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
-| Superstition Stevie Wonder | Songs | You Are the Sunshine of My Life (song) | /blog/songs/you-are-the-sunshine-of-my-life/index.html | Body, "The Year-End Picture" H3, on the existing "You Are the Sunshine of My Life" mention, forward link added the session the song post was built |
-| Time in a Bottle Jim Croce | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Body, "The Night He Wrote Time in a Bottle" H2, opening sentence |
-| Time in a Bottle Jim Croce | Songs | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "Released Only After His Death" H2, closing-area sentence, song-to-song cross-link |
-| Time in a Bottle Jim Croce | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Song That Crossed Into a New Year" H3, mid-section |
 | Time in a Bottle Jim Croce | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "The Mood That Took On New Weight" H3, opening sentence |
 | Time in a Bottle Jim Croce | Songs | Time in a Bottle (Listen Now) | /radio/index.html?play=1974-24-time-in-a-bottle | Body, "The Mood That Took On New Weight" H3, mid-section, not adjacent to the video embed |
 | Time in a Bottle Jim Croce | Songs | Music of the 70s | /index.html | Body, "The Mood That Took On New Weight" H3, closing-area sentence |
@@ -191,3 +179,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Fleetwood Mac Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Rumours" H2, closing sentence of the album-table paragraph (anchor "Carpenters songs") |
 | Fleetwood Mac Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Dreams" H2, closing sentence of "A Skateboard and a Cran-Raspberry Juice" H3 |
 | Fleetwood Mac Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Chicago Band Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "The Numbers Behind the Hits" H2, sentence closing the "Three Ways to Read" bullet list (anchor "70s number one hits") |
+| Chicago Band Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Beginnings" H2, closing sentence |
+| Chicago Band Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "Chicago V, VI and VII" H2, opening paragraph (anchor "70s soft rock") |
+| Chicago Band Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Old Days" H3, closing sentence |
+| Chicago Band Songs (artist) | Artists | Fleetwood Mac Songs | /blog/artists/fleetwood-mac-songs/ | Body, "If You Leave Me Now" H2, "Grammys and the UK Chart" H3 closing sentence (anchor "Fleetwood Mac songs") |
+| Chicago Band Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |

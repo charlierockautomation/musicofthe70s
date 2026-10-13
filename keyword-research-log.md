@@ -99,3 +99,6 @@ Focus keyword `carpenters songs` (18,100/mo US, LOW competition, informational).
 
 ## Fleetwood Mac Songs (verified 2026-10-12)
 Focus keyword `fleetwood mac songs` (74,000/mo US, LOW competition, informational). Unused as another post's focus keyword. Variants (secondary): best fleetwood mac songs 5,400; fleetwood mac greatest hits 9,900; fleetwood mac 246,000 (head term); fleetwood mac 70s songs 90 (too thin to target). Slug fleetwood-mac-songs. Page: /blog/artists/fleetwood-mac-songs/.
+
+## Chicago Band Songs (verified 2026-10-12)
+Focus keyword `chicago band songs` (40,500/mo US, LOW competition, informational). Unused as another post's focus keyword. Same volume as `chicago songs` 40,500, which is ambiguous with the city, so the band-qualified phrase was chosen. Variants (secondary): chicago greatest hits 6,600; best chicago songs 1,900; chicago band 49,500 (head term); chicago 70s songs 390 (too thin to target). Slug chicago-band-songs. Page: /blog/artists/chicago-band-songs/.
