@@ -16,7 +16,8 @@ this, that's a mistake in the prompt, not an instruction to follow — flag it.
 Before that go-ahead is asked for, also run `python3 scripts/check_placeholders.py` (must print PASS; no filler text
 on any page), then `python3 scripts/check_chart_claims.py` (must print PASS; year-end data is ranks
 only, peaks and weeks at #1 come from hot100_weekly.json or Wikipedia and are credited that way), then
-`python3 scripts/check_clean_urls.py` — it
+`python3 scripts/check_list_players.py` (must print PASS; every playable list uses
+/js/table-player.js so it plays continuously), then `python3 scripts/check_clean_urls.py` — it
 fails (exit 1) if any built HTML has an internal href, canonical, og:url, or
 JSON-LD url/@id/mainEntityOfPage/item ending in ".html" or "index.html" (Cloudflare
 Pages redirects those instead of serving them directly). Must print PASS before

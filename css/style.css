@@ -403,7 +403,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .sortable-table thead th[aria-sort="ascending"] button::after { content: " \2191"; color: var(--accent-gold); }
 .sortable-table thead th[aria-sort="descending"] button::after { content: " \2193"; color: var(--accent-gold); }
 .sortable-table td a { color: var(--accent-gold); }
-/* In-page player rows (js/number-one-player.js) */
+/* In-page player rows (js/table-player.js) */
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .data-table td.n1-listen { padding-right: 0.25rem; }
 .n1-play, .n1-close {
@@ -416,7 +416,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .n1-player-inner { position: sticky; left: 1rem; max-width: 100%; }
 .n1-player { max-width: 640px; margin: 0.5rem auto 0.75rem; }
 .n1-unavailable { color: var(--text-muted); margin: 0.5rem 0 0.75rem; }
-/* In-page player rows (js/one-hit-wonder-player.js), same pattern as n1- above */
+/* In-page player rows (js/table-player.js), same pattern as n1- above */
 .data-table td.ohw-listen { padding-right: 0.25rem; }
 .ohw-play, .ohw-close {
   background: none; border: 1px solid var(--accent-gold); color: var(--accent-gold); border-radius: 999px;
@@ -796,3 +796,10 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .toc-details summary { cursor: pointer; font-family: var(--font-heading); font-size: 1.1rem; font-weight: 700; color: var(--accent-gold); min-height: 44px; display: flex; align-items: center; }
 .toc-details[open] summary { margin-bottom: 0.4rem; }
 .toc-block:has(.toc-details) { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+/* ---------- Continuous list player (js/table-player.js) ----------
+   Caption and Next/Stop sit above and below the video, never on it. */
+.tp-now { margin: 0 0 0.5rem; font-size: 0.9rem; color: var(--text-muted); }
+.tp-controls { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
+.n1-player-inner .tp-controls .n1-close, .ohw-player-inner .tp-controls .ohw-close { display: inline-block; margin: 0; }
+.data-table tbody tr.tp-playing td { background: rgba(245, 166, 35, 0.14); }

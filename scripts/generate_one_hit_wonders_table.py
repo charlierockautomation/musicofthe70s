@@ -12,7 +12,7 @@ verified against each act's full Billboard Hot 100 chart history
 (any other Hot 100 entry peaking 1-40, any year, disqualifies).
 
 Each row gets a Play button when the song is in
-data/radio/radio-songs.json with a YouTube ID (js/one-hit-wonder-player.js
+data/radio/radio-songs.json with a YouTube ID (js/table-player.js
 opens the video under the row, checking data/youtube-status.json first),
 and links to its Songs post when one exists.
 

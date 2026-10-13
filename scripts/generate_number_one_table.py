@@ -10,7 +10,7 @@ weeks_at_number_one field: that field disagrees with the rows for 9
 songs (e.g. Superstition says 2, the chart shows 1 week).
 
 Each row gets a Play button when the song is in data/radio/radio-songs.json
-with a YouTube ID (js/number-one-player.js opens the video under the row,
+with a YouTube ID (js/table-player.js opens the video under the row and plays on down the list,
 checking data/youtube-status.json first), and links to its Songs post when
 one exists.
 
@@ -120,7 +120,7 @@ def main():
         if not yt:
             yt = extra_yt.get((norm(a_side), norm(artist))) or extra_yt.get((norm(title), norm(artist)))
         if yt:
-            # Plays in place, in a player opened under this row (js/number-one-player.js).
+            # Plays in place, in a player opened under this row (js/table-player.js, continuous).
             play_cell = (f'<button type="button" class="n1-play" data-yt="{yt}" '
                          f'aria-label="Play {t} here">&#9654; Play</button>')
         elif rid:
