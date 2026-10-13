@@ -7,21 +7,11 @@ generic. Log new entries here after placing links. Log starts 2026-08-28; prior
 posts not backfilled.
 
 When this file nears 195 lines, prune the oldest rows to CONTENT-INDEX-ARCHIVE.md.
-Rows through Somebody to Love / Queen Freddie Mercury were pruned 2026-09-27, and the first 10 Best of My Love rows 2026-10-10; grep "Anchor Text &
+Rows through Somebody to Love / Queen Freddie Mercury were pruned 2026-09-27, the first 10 Best of My Love rows 2026-10-10, and the next 10 rows 2026-10-12; grep "Anchor Text &
 Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 
 | Post | Category | Anchor Text | Target | Position |
 |---|---|---|---|---|
-| Al Green Tired of Being Alone | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Data Shows 12, Not 11" H3, closing sentence |
-| Al Green Tired of Being Alone | Songs | Tired of Being Alone (Listen Now) | /radio/index.html?play=1971-12-tired-of-being-alone | Body, opening sentence of the "Recorded With the Same Band That Built Let's Stay Together" H2, not adjacent to the video embed |
-| Al Green Tired of Being Alone | Songs | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "The Song's Life After 1971" H3, mid-section, song-to-song cross-link |
-| Al Green (artist) | Artists | Al Green Tired of Being Alone (song) | /blog/songs/al-green-tired-of-being-alone/index.html | Body, "1971-1972: Three Songs, One Year-End Chart" H3, on the existing "Tired of Being Alone" mention, forward link added the session the song post was built |
-| Bad Girls | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, "A Song Built on Compassion, Not Judgment" H3, mid-section |
-| Bad Girls | Songs | Donna Summer Hot Stuff (song) | /blog/songs/donna-summer-hot-stuff/index.html | Body, "Written With the Men Who Became Her In-Laws" H2, closing-area sentence, song-to-song cross-link |
-| Bad Girls | Songs | Bad Girls (Listen Now) | /radio/index.html?play=1979-2-bad-girls | Body, "A Romance That Started in the Same Sessions" H3, mid-section, not adjacent to the video embed |
-| Bad Girls | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, opening sentence of the "Where the Song Landed on the Charts" H2 |
-| Bad Girls | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, opening sentence of the "The Grammy It Didn't Win" H2 |
-| Bad Girls | Songs | I Will Survive (song) | /blog/songs/i-will-survive/index.html | Body, "The Grammy It Didn't Win" H2, mid-section, song-to-song cross-link |
 | Bad Girls | Songs | Music of the 70s | /index.html | Body, "The Awards It Did Win" H3, closing-area sentence |
 | Donna Summer (artist) | Artists | Bad Girls (song) | /blog/songs/bad-girls/index.html | Body, "Three Number Ones, One Calendar Year" H3, on the existing "Bad Girls" mention, forward link added the session the song post was built |
 | You Are the Sunshine of My Life | Songs | Stevie Wonder (artist) | /blog/artists/stevie-wonder/index.html | Body, "They Stayed Close After the Split" H3, closing sentence |
@@ -195,3 +185,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Carpenters Songs (artist) | Artists | Carole King It's Too Late / Bad, Bad Leroy Brown (songs) | /blog/songs/carole-king-its-too-late/, /blog/songs/bad-bad-leroy-brown/ | Body, "Five Songs Stuck at Number Two" H2, bullet list items (anchors are the song titles) |
 | Carpenters Songs (artist) | Artists | 70s Soft Rock / Random Artist Picker / 70s Music Trivia Quiz | /blog/genres/70s-soft-rock/, /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "Keep Exploring" H3 under "After 1975" (anchor "70s soft rock" closes the page body) |
 | Carpenters Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Fleetwood Mac Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "The Numbers Behind the Hits" H2, sentence closing the "Three Ways to Read" bullet list (anchor "70s number one hits") |
+| Fleetwood Mac Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Two Fleetwood Macs" H2, closing sentence of "New Year's Eve, 1974" H3 |
+| Fleetwood Mac Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "The 1975 Album" H2, closing sentence of "Say You Love Me" H3 (anchor "70s soft rock") |
+| Fleetwood Mac Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Rumours" H2, closing sentence of the album-table paragraph (anchor "Carpenters songs") |
+| Fleetwood Mac Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Dreams" H2, closing sentence of "A Skateboard and a Cran-Raspberry Juice" H3 |
+| Fleetwood Mac Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
