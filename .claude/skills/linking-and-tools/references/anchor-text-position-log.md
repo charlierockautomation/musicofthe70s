@@ -185,3 +185,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Chicago Band Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Old Days" H3, closing sentence |
 | Chicago Band Songs (artist) | Artists | Fleetwood Mac Songs | /blog/artists/fleetwood-mac-songs/ | Body, "If You Leave Me Now" H2, "Grammys and the UK Chart" H3 closing sentence (anchor "Fleetwood Mac songs") |
 | Chicago Band Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Pink Floyd Songs (artist) | Artists | Led Zeppelin Songs | /blog/artists/led-zeppelin-songs/ | Body, "Pink Floyd Songs on the Charts" H2, sentence closing the "What the Chart Numbers Say" bullet list (anchor "Led Zeppelin songs") |
+| Pink Floyd Songs (artist) | Artists | 70s Progressive Rock | /blog/genres/70s-progressive-rock/ | Body, "Meddle" H2, opening paragraph (anchor "70s progressive rock") |
+| Pink Floyd Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Money" H3, closing sentence |
+| Pink Floyd Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Comfortably Numb" H3, closing sentence |
+| Pink Floyd Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
