@@ -190,3 +190,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Pink Floyd Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Money" H3, closing sentence |
 | Pink Floyd Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Comfortably Numb" H3, closing sentence |
 | Pink Floyd Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Olivia Newton-John Songs (artist) | Artists | 70s Female Singers | /blog/artists/70s-female-singers/ | Body, "Olivia Newton-John Songs on the Charts" H2, sentence closing the "What the Chart Numbers Say" bullet list (anchor "70s female singers") |
+| Olivia Newton-John Songs (artist) | Artists | 70s Country Songs | /blog/genres/70s-country-songs/ | Body, "The Country Years" H2, "If You Love Me (Let Me Know)" H3 closing sentence (anchor "70s country songs") |
+| Olivia Newton-John Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "The Number Ones" H2, "Gold Records and a Grammy Nomination" H3 closing sentence |
+| Olivia Newton-John Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Please Mr. Please, Something Better to Do and Sam" H2, "Sam" H3 closing sentence |
+| Olivia Newton-John Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
+| Olivia Newton-John Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
