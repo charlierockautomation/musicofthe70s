@@ -93,3 +93,6 @@ Focus keyword `70s country songs` (4,400/mo US, Google Ads; competition LOW). Un
 
 ## Led Zeppelin Songs (verified 2026-10-11)
 Focus keyword `led zeppelin songs` (60,500/mo US, KD 45, LOW competition, informational). Unused as another post's focus keyword. Same-volume variants (secondaries): songs by led zeppelin, songs from led zeppelin; best led zeppelin songs 4,400 (KD 4); led zeppelin albums 40,500; led zeppelin band members 40,500; led zeppelin 246,000 (head term, KD 61). Song-level: stairway to heaven 33,100, kashmir 27,100, immigrant song 18,100, black dog 14,800. Slug led-zeppelin-songs. Page: /blog/artists/led-zeppelin-songs/.
+
+## Carpenters Songs (verified 2026-10-12)
+Focus keyword `carpenters songs` (18,100/mo US, LOW competition, informational). Unused as another post's focus keyword. Same-volume variant (secondary): songs by the carpenters 18,100; the carpenters songs 4,400; carpenters greatest hits 1,900; carpenters albums 1,000; best carpenters songs 480; karen carpenter 165,000 (head term, spikes). Slug carpenters-songs. Page: /blog/artists/carpenters-songs/.

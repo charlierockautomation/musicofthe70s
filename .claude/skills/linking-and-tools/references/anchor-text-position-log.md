@@ -191,3 +191,7 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Led Zeppelin Songs (artist) | Artists | 70s Hard Rock | /blog/genres/70s-hard-rock/ | Body, "Albums, Not Singles" H2, "The Deal That Made It Possible" H3 closing sentence (anchor "70s hard rock") |
 | Led Zeppelin Songs (artist) | Artists | Random Artist Picker / 70s Music Trivia Quiz | /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "1979 to 1980" H2, "September 25, 1980" H3 closing two sentences |
 | Led Zeppelin Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Carpenters Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Top of the World and Please Mr. Postman" H2, "The Last Number One" H3 closing sentence (anchor "70s number one hits") |
+| Carpenters Songs (artist) | Artists | Carole King It's Too Late / Bad, Bad Leroy Brown (songs) | /blog/songs/carole-king-its-too-late/, /blog/songs/bad-bad-leroy-brown/ | Body, "Five Songs Stuck at Number Two" H2, bullet list items (anchors are the song titles) |
+| Carpenters Songs (artist) | Artists | 70s Soft Rock / Random Artist Picker / 70s Music Trivia Quiz | /blog/genres/70s-soft-rock/, /pages/random-artist-picker, /pages/70s-trivia-quiz | Body, "Keep Exploring" H3 under "After 1975" (anchor "70s soft rock" closes the page body) |
+| Carpenters Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
