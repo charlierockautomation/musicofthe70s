@@ -196,3 +196,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Olivia Newton-John Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Please Mr. Please, Something Better to Do and Sam" H2, "Sam" H3 closing sentence |
 | Olivia Newton-John Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
 | Olivia Newton-John Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Electric Light Orchestra Songs (artist) | Artists | 70s Bands | /blog/artists/70s-bands/ | Body, "Electric Light Orchestra Songs on the Charts" H2, sentence closing the "What the Chart Numbers Say" bullet list (anchor "70s bands") |
+| Electric Light Orchestra Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Roy Wood, Jeff Lynne and the Strings" H2, opening paragraph closing sentence |
+| Electric Light Orchestra Songs (artist) | Artists | 70s Progressive Rock | /blog/genres/70s-progressive-rock/ | Body, "Eldorado Changed the Sound" H3 closing sentence (anchor "70s progressive rock") |
+| Electric Light Orchestra Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Mr. Blue Sky" H3 closing sentence |
+| Electric Light Orchestra Songs (artist) | Artists | Olivia Newton-John Songs | /blog/artists/olivia-newton-john-songs/ | Body, "After the Decade: Xanadu" H3 closing sentence (anchor "Olivia Newton-John songs") |
+| Electric Light Orchestra Songs (artist) | Artists | Fleetwood Mac Songs | /blog/artists/fleetwood-mac-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Fleetwood Mac songs") |
+| Electric Light Orchestra Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
