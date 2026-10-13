@@ -690,3 +690,18 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Al Green Tired of Being Alone | Songs | Al Green (artist) | /blog/artists/al-green/index.html | Body, "Shelved From Green Is Blues" H3, opening sentence |
 | Al Green Tired of Being Alone | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "None of the First Four Cracked the Top 40" H3 area, mid-section after the data table |
 | Al Green Tired of Being Alone | Songs | Music of the 70s | /index.html | Body, "The Song That Finally Made Al Green a Pop Star" H2, mid-section, not opening or closing |
+
+## Older Genres rows (moved 2026-10-12)
+| 70s Disco Music: The Year It Peaked and Nearly Died | https://musicofthe70s.net/blog/genres/disco-music-of-the-70s/index.html | Genres | 70s disco music | Live | 2026-08-10 | Random Artist Picker |
+
+## Anchor Position Log rows (pruned 2026-10-12)
+| Al Green Tired of Being Alone | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, "Why This Site's Own Data Shows 12, Not 11" H3, closing sentence |
+| Al Green Tired of Being Alone | Songs | Tired of Being Alone (Listen Now) | /radio/index.html?play=1971-12-tired-of-being-alone | Body, opening sentence of the "Recorded With the Same Band That Built Let's Stay Together" H2, not adjacent to the video embed |
+| Al Green Tired of Being Alone | Songs | Let's Stay Together (song) | /blog/songs/al-green-lets-stay-together/index.html | Body, "The Song's Life After 1971" H3, mid-section, song-to-song cross-link |
+| Al Green (artist) | Artists | Al Green Tired of Being Alone (song) | /blog/songs/al-green-tired-of-being-alone/index.html | Body, "1971-1972: Three Songs, One Year-End Chart" H3, on the existing "Tired of Being Alone" mention, forward link added the session the song post was built |
+| Bad Girls | Songs | Donna Summer (artist) | /blog/artists/donna-summer/index.html | Body, "A Song Built on Compassion, Not Judgment" H3, mid-section |
+| Bad Girls | Songs | Donna Summer Hot Stuff (song) | /blog/songs/donna-summer-hot-stuff/index.html | Body, "Written With the Men Who Became Her In-Laws" H2, closing-area sentence, song-to-song cross-link |
+| Bad Girls | Songs | Bad Girls (Listen Now) | /radio/index.html?play=1979-2-bad-girls | Body, "A Romance That Started in the Same Sessions" H3, mid-section, not adjacent to the video embed |
+| Bad Girls | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, opening sentence of the "Where the Song Landed on the Charts" H2 |
+| Bad Girls | Songs | Mood Song Matcher | /pages/mood-song-matcher.html | Body, opening sentence of the "The Grammy It Didn't Win" H2 |
+| Bad Girls | Songs | I Will Survive (song) | /blog/songs/i-will-survive/index.html | Body, "The Grammy It Didn't Win" H2, mid-section, song-to-song cross-link |

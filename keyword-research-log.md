@@ -96,3 +96,6 @@ Focus keyword `led zeppelin songs` (60,500/mo US, KD 45, LOW competition, inform
 
 ## Carpenters Songs (verified 2026-10-12)
 Focus keyword `carpenters songs` (18,100/mo US, LOW competition, informational). Unused as another post's focus keyword. Same-volume variant (secondary): songs by the carpenters 18,100; the carpenters songs 4,400; carpenters greatest hits 1,900; carpenters albums 1,000; best carpenters songs 480; karen carpenter 165,000 (head term, spikes). Slug carpenters-songs. Page: /blog/artists/carpenters-songs/.
+
+## Fleetwood Mac Songs (verified 2026-10-12)
+Focus keyword `fleetwood mac songs` (74,000/mo US, LOW competition, informational). Unused as another post's focus keyword. Variants (secondary): best fleetwood mac songs 5,400; fleetwood mac greatest hits 9,900; fleetwood mac 246,000 (head term); fleetwood mac 70s songs 90 (too thin to target). Slug fleetwood-mac-songs. Page: /blog/artists/fleetwood-mac-songs/.
