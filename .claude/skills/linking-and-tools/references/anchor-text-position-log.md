@@ -236,3 +236,14 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Three Dog Night Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "Circus Metaphor, Changed Chorus" H3 closing sentence (anchor "70s soft rock") |
 | Three Dog Night Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
 | Three Dog Night Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Helen Reddy Songs (artist) | Artists | Random 70s Song Generator | /pages/random-70s-song | Body, "Peaceful" H3 closing sentence |
+| Helen Reddy Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Number One on the Hot 100" H3 (Delta Dawn) closing sentence (anchor "70s number one hits") |
+| Helen Reddy Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Keep on Singing" H3 closing sentence |
+| Helen Reddy Songs (artist) | Artists | Mood Song Matcher | /pages/mood-song-matcher | Body, "A Voice Calling Mommy" H3 closing sentence |
+| Helen Reddy Songs (artist) | Artists | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | Body, "Number One Around the World" H3 (Angie Baby) closing sentence (anchor "pop songs of the 70s") |
+| Helen Reddy Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "A Napkin on a Flight Home" H3 closing sentence (anchor "70s soft rock") |
+| Helen Reddy Songs (artist) | Artists | Barry Manilow Songs | /blog/artists/barry-manilow-songs/ | Body, "Somewhere in the Night" H3 closing sentence (anchor "Barry Manilow songs") |
+| Helen Reddy Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "You're My World" H3 closing sentence |
+| Helen Reddy Songs (artist) | Artists | 70s Female Singers | /blog/artists/70s-female-singers/ | Body, "Songs from Outside Writers" H2 opening paragraph closing sentence (anchor "70s female singers") |
+| Helen Reddy Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
+| Helen Reddy Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
