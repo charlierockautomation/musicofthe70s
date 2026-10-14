@@ -210,3 +210,12 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Jackson 5 Songs (artist) | Artists | Marvin Gaye | /blog/artists/marvin-gaye/ | Body, "The Solo Years Begin" H3 closing sentence (anchor "Marvin Gaye") |
 | Jackson 5 Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
 | Jackson 5 Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Earth Wind and Fire Songs (artist) | Artists | 70s Soul Music | /blog/genres/70s-soul-music/ | Body, "Two Number One Albums" H3 closing sentence, and "Keep Exploring" H3 closing sentence (anchor "70s soul music") |
+| Earth Wind and Fire Songs (artist) | Artists | 70s Funk | /blog/genres/70s-funk/ | Body, "Getaway" H3 closing sentence (anchor "70s funk") |
+| Earth Wind and Fire Songs (artist) | Artists | 70s Disco Music | /blog/genres/disco-music-of-the-70s/ | Body, "The Lyric Story Behind September" H3 closing sentence (anchor "70s disco music") |
+| Earth Wind and Fire Songs (artist) | Artists | 70s Bands | /blog/artists/70s-bands/ | Body, "Earth Wind and Fire Songs on the Charts" H2, sentence closing the "What the Chart Numbers Say" bullet list (anchor "70s bands") |
+| Earth Wind and Fire Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "From Chicago to Caribou Ranch" H2, opening paragraph closing sentence |
+| Earth Wind and Fire Songs (artist) | Artists | Random 70s Song Generator | /pages/random-70s-song | Body, "Shining Star" H3 closing sentence |
+| Earth Wind and Fire Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Fantasy" H3 closing sentence |
+| Earth Wind and Fire Songs (artist) | Artists | Jackson 5 Songs | /blog/artists/jackson-5-songs/ | Body, "The Grammys That Followed" H3 closing sentence (anchor "Jackson 5 songs") |
+| Earth Wind and Fire Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
