@@ -219,3 +219,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Earth Wind and Fire Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Fantasy" H3 closing sentence |
 | Earth Wind and Fire Songs (artist) | Artists | Jackson 5 Songs | /blog/artists/jackson-5-songs/ | Body, "The Grammys That Followed" H3 closing sentence (anchor "Jackson 5 songs") |
 | Earth Wind and Fire Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Barry Manilow Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "What the Chart Numbers Say" H3 closing sentence (anchor "70s number one hits") |
+| Barry Manilow Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "Clive Davis and Arista" H3 closing sentence |
+| Barry Manilow Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Could It Be Magic" H3 closing sentence (anchor "Carpenters songs") |
+| Barry Manilow Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "1977: Looks Like We Made It" H2 closing sentence |
+| Barry Manilow Songs (artist) | Artists | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | Body, "Somewhere in the Night" H3 closing sentence (anchor "pop songs of the 70s") |
+| Barry Manilow Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "1979: Ships" H2 closing sentence (anchor "70s soft rock") |
+| Barry Manilow Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
+| Barry Manilow Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
