@@ -227,3 +227,12 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Barry Manilow Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "1979: Ships" H2 closing sentence (anchor "70s soft rock") |
 | Barry Manilow Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
 | Barry Manilow Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Three Dog Night Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "What the Chart Numbers Say" H3 closing sentence (anchor "70s number one hits") |
+| Three Dog Night Songs (artist) | Artists | Random 70s Song Generator | /pages/random-70s-song | Body, "Seven Players, Three Singers" H3 closing sentence |
+| Three Dog Night Songs (artist) | Artists | Mood Song Matcher | /pages/mood-song-matcher | Body, "How Joy to the World Came Together" H3 closing sentence |
+| Three Dog Night Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "An Old Fashioned Love Song" H3 closing sentence (anchor "Carpenters songs") |
+| Three Dog Night Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Black and White" H3 closing sentence |
+| Three Dog Night Songs (artist) | Artists | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | Body, "Shambala" H3 closing sentence (anchor "pop songs of the 70s") |
+| Three Dog Night Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "Circus Metaphor, Changed Chorus" H3 closing sentence (anchor "70s soft rock") |
+| Three Dog Night Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
+| Three Dog Night Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
