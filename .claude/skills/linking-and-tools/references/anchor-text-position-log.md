@@ -247,3 +247,13 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Helen Reddy Songs (artist) | Artists | 70s Female Singers | /blog/artists/70s-female-singers/ | Body, "Songs from Outside Writers" H2 opening paragraph closing sentence (anchor "70s female singers") |
 | Helen Reddy Songs (artist) | Artists | Elton John | /blog/artists/elton-john/ | Body, "Keep Exploring" H3 closing sentence (anchor "Elton John") |
 | Helen Reddy Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Gladys Knight Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "If I Were Your Woman" H3 closing sentence |
+| Gladys Knight Songs (artist) | Artists | Top Songs of 1973 | /blog/years/top-songs-of-1973/ | Body, "Neither One of Us" H3 closing sentence (anchor "top songs of 1973") |
+| Gladys Knight Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Number One on the Hot 100" H3 (Midnight Train) closing sentence (anchor "70s number one hits") |
+| Gladys Knight Songs (artist) | Artists | Mood Song Matcher | /pages/mood-song-matcher | Body, "I've Got to Use My Imagination" H3 closing sentence |
+| Gladys Knight Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Best Thing That Ever Happened to Me" H3 closing sentence (anchor "Carpenters songs") |
+| Gladys Knight Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "On and On" H3 closing sentence |
+| Gladys Knight Songs (artist) | Artists | 70s Soul Music | /blog/genres/70s-soul-music/ | Body, "Part Time Love" H3 closing sentence (anchor "70s soul music") |
+| Gladys Knight Songs (artist) | Artists | 70s Female Singers | /blog/artists/70s-female-singers/ | Body, "Songs with Earlier Versions" H2 opening paragraph closing sentence (anchor "70s female singers") |
+| Gladys Knight Songs (artist) | Artists | Helen Reddy Songs | /blog/artists/helen-reddy-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Helen Reddy songs") |
+| Gladys Knight Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
