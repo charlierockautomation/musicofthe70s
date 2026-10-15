@@ -257,3 +257,13 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Gladys Knight Songs (artist) | Artists | 70s Female Singers | /blog/artists/70s-female-singers/ | Body, "Songs with Earlier Versions" H2 opening paragraph closing sentence (anchor "70s female singers") |
 | Gladys Knight Songs (artist) | Artists | Helen Reddy Songs | /blog/artists/helen-reddy-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Helen Reddy songs") |
 | Gladys Knight Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| KC and the Sunshine Band Songs (artist) | Artists | Random 70s Song Generator | /pages/random-70s-song | Body, "(Shake, Shake, Shake) Shake Your Booty" H3 closing sentence |
+| KC and the Sunshine Band Songs (artist) | Artists | Top Songs of 1975 | /blog/years/top-songs-of-1975/ | Body, "Get Down Tonight" H3 closing sentence (anchor "top songs of 1975") |
+| KC and the Sunshine Band Songs (artist) | Artists | Top Songs of 1977 | /blog/years/top-songs-of-1977/ | Body, "I'm Your Boogie Man" H3 closing sentence (anchor "top songs of 1977") |
+| KC and the Sunshine Band Songs (artist) | Artists | 70s Disco Music | /blog/genres/disco-music-of-the-70s/ | Body, "Rock Your Baby: A Hit for Someone Else" H3 closing sentence (anchor "disco music of the 70s") |
+| KC and the Sunshine Band Songs (artist) | Artists | Mood Song Matcher | /pages/mood-song-matcher | Body, "That's the Way (I Like It)" H3 closing sentence |
+| KC and the Sunshine Band Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Boogie Shoes" H3 closing sentence |
+| KC and the Sunshine Band Songs (artist) | Artists | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | Body, "Please Don't Go" H3 closing sentence (anchor "70s number one hits") |
+| KC and the Sunshine Band Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "B-Sides and Covers" H2 opening paragraph closing sentence |
+| KC and the Sunshine Band Songs (artist) | Artists | Earth Wind and Fire Songs | /blog/artists/earth-wind-and-fire-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Earth, Wind & Fire songs") |
+| KC and the Sunshine Band Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
