@@ -64,7 +64,7 @@ def find_posts():
                 print(f"WARNING: skipping {post_index}, missing required field(s)", file=sys.stderr)
                 continue
 
-            base = re.sub(r"-1200w\.jpg$", "", Path(src).name)
+            base = re.sub(r"-\d+w\.jpg$", "", Path(src).name)
             thumb_height = round(int(height) * 400 / 1200)
 
             posts.append({
@@ -86,13 +86,20 @@ def _extract(pattern, text, flags=0):
     return m.group(1) if m else None
 
 
+def srcset(base, ext):
+    """Only list width variants that exist on disk (small heroes have no 800w)."""
+    d = Path(__file__).resolve().parent.parent / "images" / "blog" / "srcset"
+    return ", ".join(f"/images/blog/srcset/{base}-{w}w.{ext} {w}w"
+                     for w in (400, 800) if (d / f"{base}-{w}w.{ext}").is_file())
+
+
 def render_card(p):
     base, cat, url = p["base"], p["category"], p["url"]
     return f'''        <div class="card post-card">
           <picture>
-            <source type="image/webp" srcset="/images/blog/srcset/{base}-400w.webp 400w, /images/blog/srcset/{base}-800w.webp 800w" sizes="(max-width: 700px) 100vw, 33vw">
+            <source type="image/webp" srcset="{srcset(base, 'webp')}" sizes="(max-width: 700px) 100vw, 33vw">
             <img class="post-thumb" src="/images/blog/srcset/{base}-400w.jpg"
-              srcset="/images/blog/srcset/{base}-400w.jpg 400w, /images/blog/srcset/{base}-800w.jpg 800w"
+              srcset="{srcset(base, 'jpg')}"
               sizes="(max-width: 700px) 100vw, 33vw" width="400" height="{p['thumb_height']}" loading="lazy"
               alt="{p['alt']}">
           </picture>

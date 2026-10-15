@@ -20,7 +20,8 @@ only, peaks and weeks at #1 come from hot100_weekly.json or Wikipedia and are cr
 /js/table-player.js so it plays continuously), then `python3 scripts/check_clean_urls.py` — it
 fails (exit 1) if any built HTML has an internal href, canonical, og:url, or
 JSON-LD url/@id/mainEntityOfPage/item ending in ".html" or "index.html" (Cloudflare
-Pages redirects those instead of serving them directly). Must print PASS before
+Pages redirects those instead of serving them directly). Also `python3 scripts/check_image_files.py` (must print PASS; every img src/srcset must exist on disk).
+Must print PASS before
 anything is committed. Full step-by-step sequence: publishing-workflow skill.
 Tracker-file commits (content-build.md, CONTENT-INDEX.md, keyword-research-log.md)
 are the separate, lower-stakes case — auto-commit and push these whenever their
