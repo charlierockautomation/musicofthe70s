@@ -135,7 +135,7 @@ keyword + SERP content gap at build time; a song not on any 70s chart is still f
 | # | Song (Artist) | Focus keyword | Vol/mo | KD | Note |
 |---|---|---|---|---|---|
 | 1 | Rocket Man (Elton John) | rocket man elton john | 2,900 | 22 | LIVE 2026-10-16 (pushed 8623212 + hubs 648bf85, Charlie go-ahead, live check passed). Bare "rocket man" (49,500, KD 41) SERP is film-dominated, so artist-qualified |
-| 2 | Stairway to Heaven (Led Zeppelin) | stairway to heaven | 90,500 | 35 | NEXT. never a single, no chart rows |
+| 2 | Stairway to Heaven (Led Zeppelin) | stairway to heaven | 90,500 | 35 | BUILT LOCAL 2026-10-16 (blog/songs/stairway-to-heaven/), awaiting Charlie review. Never a US single, no Hot 100 rows; download-era charts credited to Wikipedia |
 | 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | Bacharach/other covers in SERP |
 | 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | #1 1977, AI Overview song |
 | 5 | 25 or 6 to 4 (Chicago) | 25 or 6 to 4 | 18,100 | 14 | |

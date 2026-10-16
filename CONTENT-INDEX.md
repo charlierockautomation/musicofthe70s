@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-16 (Rocket Man Elton John live)
+# Last Updated: 2026-10-16 (Stairway to Heaven built locally)
 
 ---
 
@@ -64,13 +64,9 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| 70s Singers: The Biggest Solo Artists, by the Charts | https://musicofthe70s.net/blog/artists/70s-singers/ | Artists (Charts flagship #3) | 70s singers | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
-| 70s Bands: The Biggest Groups of the Decade, by the Charts | https://musicofthe70s.net/blog/artists/70s-bands/ | Artists (Charts flagship #4) | 70s bands | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
-| 70s Female Singers: The Biggest Solo Women, by the Charts | https://musicofthe70s.net/blog/artists/70s-female-singers/ | Artists (Charts flagship #5) | 70s female singers | Live | 2026-09-29 | Random Artist Picker, 70s Music Trivia Quiz |
-| 70s One Hit Wonders: 147 Verified, One Chart Hit Each | https://musicofthe70s.net/blog/songs/70s-one-hit-wonders/ | Songs (Charts flagship #2) | 70s one hit wonders | Live | 2026-09-27 | Random 70s Song Generator, Mood Song Matcher |
-| 70s Number One Hits: Every Billboard #1, 1970 to 1979 | https://musicofthe70s.net/blog/songs/70s-number-one-hits/ | Songs (Charts flagship #1) | 70s number one hits | Live | 2026-09-27 | Birthday #1 Song Finder, 70s Decade Wheel |
 | Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |
 | Rocket Man Elton John: The Hit That Peaked at No. 6 | https://musicofthe70s.net/blog/songs/rocket-man-elton-john/index.html | Songs | rocket man elton john | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
+| Stairway to Heaven: Every Section of the 8:02 Explained | https://musicofthe70s.net/blog/songs/stairway-to-heaven/ | Songs | stairway to heaven | Built-Local (awaiting Charlie review) | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Night Fever: The Bee Gees Song That Renamed a Movie | https://musicofthe70s.net/blog/songs/night-fever/index.html | Songs | night fever | Live | 2026-09-21 | Random 70s Song Generator, Mood Song Matcher |
@@ -150,6 +146,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | John Denver Songs: 11 Hits Played, 4 at No. 1 | https://musicofthe70s.net/blog/artists/john-denver-songs/ | Artists | john denver songs | Live (pushed 4cf3d15, live check passed) | 2026-10-15 | Random Artist Picker, 70s Music Trivia Quiz; links Top Songs of 1971, 70s Soft Rock, 70s Country Songs, Olivia Newton-John Songs, Carpenters Songs; related Olivia Newton-John Songs + Carpenters Songs + Helen Reddy Songs. 11 playable rows = 6 year-end + 5 added to beyond_year_end.json; 4 #1s (5 weeks, weekly data), 7 top tens; Wikipedia-credited. Script: scripts/generate_john_denver_page.py |
 | Diana Ross Songs: 12 Hits Played, 4 at No. 1 | https://musicofthe70s.net/blog/artists/diana-ross-songs/ | Artists | diana ross songs | Live (pushed 880b497, live check passed) | 2026-10-16 | Random Artist Picker, Mood Song Matcher; links Top Songs of 1970, Marvin Gaye, 70s Disco Music, Jackson 5 Songs; related Marvin Gaye + Jackson 5 Songs + Gladys Knight Songs. 12 playable rows = 6 year-end + 6 added to beyond_year_end.json; 4 Hot 100 #1s/7 weeks from weekly data, Wikipedia-credited peaks and stories. |
 | 70s Rock: The Sound That Defined a Decade | https://musicofthe70s.net/blog/genres/70s-rock/ | Genres | 70s rock | Live | 2026-10-09 (hub rework: 7-page subgenre guide, 18-song playable teaser, Sources; first live 2026-07-25) | Random Artist Picker, Random 70s Song Generator |
+*(Charts flagship posts 70s Singers, 70s Bands, 70s Female Singers, 70s One Hit Wonders, 70s Number One Hits, all Live, moved to CONTENT-INDEX-ARCHIVE.md 2026-10-16; grep "Charts flagship rows" there.)*
 *(70s Rock, Bee Gees, and 70s Soul Music — all still Live — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-14 to hold the line count; grep "Older Genres/Artists rows" there.)*
 *(ABBA, Eagles the Band, Queen Freddie Mercury, Talking Heads, Village People, Grateful Dead, James Brown, 70s Soft Rock, Dancing Queen, Hotel California, Bohemian Rhapsody, and Don McLean American Pie — all still Live — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-21 to hold the line count; grep "Older Songs/Artists/Genres rows" there. 70s Disco Music, also Live, moved 2026-10-12: grep "Older Genres rows".)*
 *(All 10 Years series posts — Top Songs of 1970 through 1979, all Live, series complete — moved to CONTENT-INDEX-ARCHIVE.md 2026-09-09 to hold the line count; grep "Years series rows" there for the full table.)*

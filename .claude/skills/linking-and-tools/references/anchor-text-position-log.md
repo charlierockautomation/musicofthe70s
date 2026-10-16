@@ -288,3 +288,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Rocket Man Elton John | Songs | Rocket Man (Listen Now) | /radio/?play=1972-40-rocket-man | Body, "Piano First, Then the Slide Guitar" H3, closing sentence, before the video H3 |
 | Rocket Man Elton John | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Where It Finished the Year" H3, closing sentence |
 | Rocket Man Elton John | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/ | Body, "Not the 2019 Film" H2, closing sentence, song-to-song cross-link |
+| Stairway to Heaven | Songs | Led Zeppelin Songs (artist) | /blog/artists/led-zeppelin-songs/ | Intro, closing sentence of the intro block |
+| Stairway to Heaven | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Four Places It Was Recorded" H3, closing sentence |
+| Stairway to Heaven | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Counting the Plays and the Sheet Music" H3, closing sentence |
+| Stairway to Heaven | Songs | Music of the 70s | / | Body, "Certifications and Rankings" H3, closing sentence |
+| Stairway to Heaven | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/ | Body, "The Stairway to Heaven Lawsuit" H2, closing sentence, song-to-song cross-link |
+| Led Zeppelin Songs (artist) | Artists | Stairway to Heaven (song) | /blog/songs/stairway-to-heaven/ | Body, "Stairway to Heaven: The Song They Never Released" H2, opening sentence, forward link added on the existing mention |

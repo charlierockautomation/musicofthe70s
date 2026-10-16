@@ -727,3 +727,11 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Time in a Bottle Jim Croce | Songs | Jim Croce (artist) | /blog/artists/jim-croce/index.html | Body, "The Night He Wrote Time in a Bottle" H2, opening sentence |
 | Time in a Bottle Jim Croce | Songs | Bad Bad Leroy Brown (song) | /blog/songs/bad-bad-leroy-brown/index.html | Body, "Released Only After His Death" H2, closing-area sentence, song-to-song cross-link |
 | Time in a Bottle Jim Croce | Songs | Random 70s Song Generator | /pages/random-70s-song.html | Body, "A Song That Crossed Into a New Year" H3, mid-section |
+
+
+## Charts flagship rows (moved 2026-10-16 to hold the line count; all Live)
+| 70s Singers: The Biggest Solo Artists, by the Charts | https://musicofthe70s.net/blog/artists/70s-singers/ | Artists (Charts flagship #3) | 70s singers | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
+| 70s Bands: The Biggest Groups of the Decade, by the Charts | https://musicofthe70s.net/blog/artists/70s-bands/ | Artists (Charts flagship #4) | 70s bands | Live | 2026-09-28 | Random Artist Picker, 70s Music Trivia Quiz |
+| 70s Female Singers: The Biggest Solo Women, by the Charts | https://musicofthe70s.net/blog/artists/70s-female-singers/ | Artists (Charts flagship #5) | 70s female singers | Live | 2026-09-29 | Random Artist Picker, 70s Music Trivia Quiz |
+| 70s One Hit Wonders: 147 Verified, One Chart Hit Each | https://musicofthe70s.net/blog/songs/70s-one-hit-wonders/ | Songs (Charts flagship #2) | 70s one hit wonders | Live | 2026-09-27 | Random 70s Song Generator, Mood Song Matcher |
+| 70s Number One Hits: Every Billboard #1, 1970 to 1979 | https://musicofthe70s.net/blog/songs/70s-number-one-hits/ | Songs (Charts flagship #1) | 70s number one hits | Live | 2026-09-27 | Birthday #1 Song Finder, 70s Decade Wheel |
