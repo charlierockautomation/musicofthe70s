@@ -102,3 +102,5 @@ Focus keyword `fleetwood mac songs` (74,000/mo US, LOW competition, informationa
 
 ## Chicago Band Songs (verified 2026-10-12)
 Focus keyword `chicago band songs` (40,500/mo US, LOW competition, informational). Unused as another post's focus keyword. Same volume as `chicago songs` 40,500, which is ambiguous with the city, so the band-qualified phrase was chosen. Variants (secondary): chicago greatest hits 6,600; best chicago songs 1,900; chicago band 49,500 (head term); chicago 70s songs 390 (too thin to target). Slug chicago-band-songs. Page: /blog/artists/chicago-band-songs/.
+
+2026-10-15 | John Denver Songs (Artists, built locally) | Focus keyword `john denver songs` 33,100/mo (peaked 60,500 Jul 2026), KD 16, DataForSEO US. Never used as another live post's focus keyword. Variants (secondary): john denver 135,000 (head term); john denver greatest hits 2,400; john denver song list 1,300; best john denver songs 880. Slug john-denver-songs. Page: /blog/artists/john-denver-songs/.
