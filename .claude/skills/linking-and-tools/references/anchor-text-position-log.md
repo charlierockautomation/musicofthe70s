@@ -275,3 +275,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | John Denver Songs (artist) | Artists | Olivia Newton-John Songs | /blog/artists/olivia-newton-john-songs/ | Body, "Fly Away" H3 closing sentence (anchor "Olivia Newton-John songs") |
 | John Denver Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
 | John Denver Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Diana Ross Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "The Songwriters Who Built Her Solo Sound" H3 closing sentence |
+| Diana Ross Songs (artist) | Artists | Top Songs of 1970 | /blog/years/top-songs-of-1970/ | Body, "The Record Berry Gordy Did Not Want to Release" H3 closing sentence (anchor "top songs of 1970") |
+| Diana Ross Songs (artist) | Artists | Mood Song Matcher | /pages/mood-song-matcher | Body, "Her Second Solo Number One" H3 closing sentence |
+| Diana Ross Songs (artist) | Artists | Marvin Gaye | /blog/artists/marvin-gaye/ | Body, "You're a Special Part of Me" H3 closing sentence (anchor "Marvin Gaye") |
+| Diana Ross Songs (artist) | Artists | 70s Disco Music | /blog/genres/disco-music-of-the-70s/ | Body, "A Record Fourth Number One" H3 closing sentence (anchor "70s disco music") |
+| Diana Ross Songs (artist) | Artists | Jackson 5 Songs | /blog/artists/jackson-5-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Jackson 5 songs") |
+| Diana Ross Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
