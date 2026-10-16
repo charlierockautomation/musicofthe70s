@@ -267,3 +267,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | KC and the Sunshine Band Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "B-Sides and Covers" H2 opening paragraph closing sentence |
 | KC and the Sunshine Band Songs (artist) | Artists | Earth Wind and Fire Songs | /blog/artists/earth-wind-and-fire-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Earth, Wind & Fire songs") |
 | KC and the Sunshine Band Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| John Denver Songs (artist) | Artists | Random Artist Picker | /pages/random-artist-picker | Body, "How Big the Catalog Got" H3 closing sentence |
+| John Denver Songs (artist) | Artists | Top Songs of 1971 | /blog/years/top-songs-of-1971/ | Body, "Take Me Home, Country Roads" H3 closing sentence (anchor "top songs of 1971") |
+| John Denver Songs (artist) | Artists | 70s Soft Rock | /blog/genres/70s-soft-rock/ | Body, "Sunshine on My Shoulders" H3 closing sentence (anchor "70s soft rock") |
+| John Denver Songs (artist) | Artists | 70s Music Trivia Quiz | /pages/70s-trivia-quiz | Body, "Annie's Song" H3 closing sentence |
+| John Denver Songs (artist) | Artists | 70s Country Songs | /blog/genres/70s-country-songs/ | Body, "Thank God I'm a Country Boy" H3 closing sentence (anchor "70s country songs") |
+| John Denver Songs (artist) | Artists | Olivia Newton-John Songs | /blog/artists/olivia-newton-john-songs/ | Body, "Fly Away" H3 closing sentence (anchor "Olivia Newton-John songs") |
+| John Denver Songs (artist) | Artists | Carpenters Songs | /blog/artists/carpenters-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Carpenters songs") |
+| John Denver Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
