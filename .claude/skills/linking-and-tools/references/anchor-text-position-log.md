@@ -282,3 +282,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Diana Ross Songs (artist) | Artists | 70s Disco Music | /blog/genres/disco-music-of-the-70s/ | Body, "A Record Fourth Number One" H3 closing sentence (anchor "70s disco music") |
 | Diana Ross Songs (artist) | Artists | Jackson 5 Songs | /blog/artists/jackson-5-songs/ | Body, "Keep Exploring" H3 closing sentence (anchor "Jackson 5 songs") |
 | Diana Ross Songs (artist) | Artists | Methodology / Music of the 70s | /about/methodology/, / | Sources H2 opening sentences |
+| Rocket Man Elton John | Songs | Music of the 70s | / | Intro, closing sentence of the intro block |
+| Rocket Man Elton John | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "A Bradbury Story, a Folk Song and a Bowie Comparison" H3, mid-section |
+| Rocket Man Elton John | Songs | Elton John (artist) | /blog/artists/elton-john/ | Body, "How Rocket Man Elton John Sounds" H2, second sentence |
+| Rocket Man Elton John | Songs | Rocket Man (Listen Now) | /radio/?play=1972-40-rocket-man | Body, "Piano First, Then the Slide Guitar" H3, closing sentence, before the video H3 |
+| Rocket Man Elton John | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Where It Finished the Year" H3, closing sentence |
+| Rocket Man Elton John | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/ | Body, "Not the 2019 Film" H2, closing sentence, song-to-song cross-link |
