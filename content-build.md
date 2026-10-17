@@ -136,8 +136,8 @@ keyword + SERP content gap at build time; a song not on any 70s chart is still f
 |---|---|---|---|---|---|
 | 1 | Rocket Man (Elton John) | rocket man elton john | 2,900 | 22 | LIVE 2026-10-16 (pushed 8623212 + hubs 648bf85, Charlie go-ahead, live check passed). Bare "rocket man" (49,500, KD 41) SERP is film-dominated, so artist-qualified |
 | 2 | Stairway to Heaven (Led Zeppelin) | stairway to heaven | 90,500 | 35 | LIVE 2026-10-16 (pushed ed3a957 + hubs 6426136, Charlie go-ahead, live check passed). Never a US single, no Hot 100 rows; download-era charts credited to Wikipedia |
-| 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | NEXT. Bacharach/other covers in SERP |
-| 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | #1 1977, AI Overview song |
+| 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | BUILT LOCALLY 2026-10-17, awaiting Charlie review (not pushed). SERP = videos/Spotify/lyrics + AI Overview, no story post, gap confirmed. Angle: pre-1970 recordings (Chamberlain, Warwick, Dusty, Alpert) |
+| 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | NEXT. #1 1977, AI Overview song |
 | 5 | 25 or 6 to 4 (Chicago) | 25 or 6 to 4 | 18,100 | 14 | |
 | 6 | Wish You Were Here (Pink Floyd) | wish you were here | 49,500 | 31 | album track, no Hot 100 |
 | 7 | Hopelessly Devoted to You (Olivia Newton-John) | hopelessly devoted to you | 22,200 | 35 | 1978 Grease |

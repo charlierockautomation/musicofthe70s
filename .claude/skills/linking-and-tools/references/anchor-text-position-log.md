@@ -294,3 +294,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Stairway to Heaven | Songs | Music of the 70s | / | Body, "Certifications and Rankings" H3, closing sentence |
 | Stairway to Heaven | Songs | Bohemian Rhapsody (song) | /blog/songs/bohemian-rhapsody/ | Body, "The Stairway to Heaven Lawsuit" H2, closing sentence, song-to-song cross-link |
 | Led Zeppelin Songs (artist) | Artists | Stairway to Heaven (song) | /blog/songs/stairway-to-heaven/ | Body, "Stairway to Heaven: The Song They Never Released" H2, opening sentence, forward link added on the existing mention |
+| Close to You | Songs | Carpenters Songs (artist) | /blog/artists/carpenters-songs/ | Intro closing sentence, plus "The 1970 Carpenters Version" H2 opening |
+| Close to You | Songs | Music of the 70s | / | Body, "Covers and Screen Moments" H2, closing sentence |
+| Close to You | Songs | Listen Now deep link | /radio/?play=1970-2-they-long-to-be-close-to-you | Body, "Hear the 1970 Single" H3, before the video |
+| Close to You | Songs | Bridge Over Troubled Water (song) | /blog/songs/bridge-over-troubled-water/ | Body, "The Number One Run" H3, closing sentence, song-to-song cross-link |
+| Close to You | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Gold, a Grammy and a Summer Title" H3, closing sentence |
+| Close to You | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "On Screen" H3, closing paragraph |
