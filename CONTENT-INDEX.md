@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-17 (Close to You live)
+# Last Updated: 2026-10-17 (Dreams built locally)
 
 ---
 
@@ -68,6 +68,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Rocket Man Elton John: The Hit That Peaked at No. 6 | https://musicofthe70s.net/blog/songs/rocket-man-elton-john/index.html | Songs | rocket man elton john | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
 | Stairway to Heaven: Every Section of the 8:02 Explained | https://musicofthe70s.net/blog/songs/stairway-to-heaven/ | Songs | stairway to heaven | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
 | Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
+| Dreams Fleetwood Mac: Written in 10 Minutes, Alive in 2020 | https://musicofthe70s.net/blog/songs/dreams-fleetwood-mac/ | Songs | dreams fleetwood mac | Built locally, awaiting Charlie review (not pushed) | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Night Fever: The Bee Gees Song That Renamed a Movie | https://musicofthe70s.net/blog/songs/night-fever/index.html | Songs | night fever | Live | 2026-09-21 | Random 70s Song Generator, Mood Song Matcher |

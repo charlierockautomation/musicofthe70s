@@ -107,3 +107,5 @@ Focus keyword `chicago band songs` (40,500/mo US, LOW competition, informational
 2026-10-16 | Diana Ross Songs (Artists, built locally) | Focus keyword `diana ross songs` 27,100/mo (peaked 74,000 Dec 2025), KD 19, DataForSEO US. Never used as another live post's focus keyword. Variants (secondary): diana ross greatest hits 1,900; diana ross hits 1,900; diana ross songs 70s 50. Slug diana-ross-songs. Page: /blog/artists/diana-ross-songs/.
 
 2026-10-17 | Close to You (Songs, built locally) | Focus keyword `close to you` 22,200/mo, KD 29, DataForSEO US (2026-10-16 pull). Never used as another live post's focus keyword. SERP rechecked 2026-10-17: AI Overview (Wikipedia-sourced), lyric videos, Spotify, Reddit, no story/editorial post, so content gap holds. Slug close-to-you. Page: /blog/songs/close-to-you/.
+
+2026-10-17 | Dreams (Songs, built locally) | Focus keyword `dreams fleetwood mac` 22,200/mo (DataForSEO US, rechecked 2026-10-17). Never used as another live post's focus keyword. SERP rechecked: knowledge panel, videos, Spotify, Wikipedia, one Smooth Radio story post, so content gap holds. Slug dreams-fleetwood-mac. Page: /blog/songs/dreams-fleetwood-mac/.

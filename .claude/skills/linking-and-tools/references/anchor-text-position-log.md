@@ -300,3 +300,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Close to You | Songs | Bridge Over Troubled Water (song) | /blog/songs/bridge-over-troubled-water/ | Body, "The Number One Run" H3, closing sentence, song-to-song cross-link |
 | Close to You | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Gold, a Grammy and a Summer Title" H3, closing sentence |
 | Close to You | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "On Screen" H3, closing paragraph |
+| Dreams Fleetwood Mac | Songs | Fleetwood Mac songs (artist) | /blog/artists/fleetwood-mac-songs/ | Intro, closing sentence |
+| Dreams Fleetwood Mac | Songs | Listen Now deep link | /radio/?play=1977-39-dreams | Body, "Hear the 1977 Dreams Fleetwood Mac Single" H3, before the video |
+| Dreams Fleetwood Mac | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Dreams Fleetwood Mac on the Charts" H2, closing sentence after the critics list |
+| Dreams Fleetwood Mac | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Dreams Fleetwood Mac in 2020" H2, closing sentence |
+| Dreams Fleetwood Mac | Songs | Music of the 70s | / | Body, "Dreams Covers" H2, final closing sentence |
