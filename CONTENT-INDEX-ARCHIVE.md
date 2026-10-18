@@ -739,3 +739,5 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | /blog/years/1970-in-music/ | /blog/years/top-songs-of-1970/ | 2026-07-24 | Slug renamed to match corrected focus keyword "top songs of 1970" per Keyword Rule. Never reassign this old path. |
 
 | Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |
+| Rocket Man Elton John: The Hit That Peaked at No. 6 | https://musicofthe70s.net/blog/songs/rocket-man-elton-john/index.html | Songs | rocket man elton john | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
+| Stairway to Heaven: Every Section of the 8:02 Explained | https://musicofthe70s.net/blog/songs/stairway-to-heaven/ | Songs | stairway to heaven | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
