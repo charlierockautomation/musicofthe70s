@@ -305,3 +305,7 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Dreams Fleetwood Mac | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Dreams Fleetwood Mac on the Charts" H2, closing sentence after the critics list |
 | Dreams Fleetwood Mac | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Dreams Fleetwood Mac in 2020" H2, closing sentence |
 | Dreams Fleetwood Mac | Songs | Music of the 70s | / | Body, "Dreams Covers" H2, final closing sentence |
+| 25 or 6 to 4 | Songs | Chicago Band Songs (artist) | /blog/artists/chicago-band-songs/ | Body, "25 or 6 to 4 After 1970" H2, "A Marching Band Standard" H3, closing paragraph (anchor "Chicago band songs") |
+| 25 or 6 to 4 | Songs | Listen Now deep link | /radio/?play=1970-61-25-or-6-to-4 | Body, "Hear the 1970 Single of 25 or 6 to 4" H3, before the video |
+| 25 or 6 to 4 | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "25 or 6 to 4 on the Charts" H2, "Peak Versus Year-End Rank" H3, closing sentence |
+| 25 or 6 to 4 | Songs | Music of the 70s | / | Body, "A Marching Band Standard" H3, final sentence |
