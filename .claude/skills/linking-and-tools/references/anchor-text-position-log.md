@@ -314,3 +314,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Wish You Were Here Pink Floyd | Songs | Music of the 70s | / | Body, "How Pink Floyd Recorded" H2, after the video |
 | Wish You Were Here Pink Floyd | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Wish You Were Here Pink Floyd on the Charts" H2, "What the Critics Say" H3, closing sentence |
 | Wish You Were Here Pink Floyd | Songs | 70s Progressive Rock (genre) | /blog/genres/70s-progressive-rock/ | Body, "Covers and Live Versions" H2, closing sentence (anchor "70s progressive rock") |
+| Hopelessly Devoted to You | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Hopelessly Devoted to You Meaning" H2, "What the Song Says in Plain Terms" H3, closing sentence |
+| Hopelessly Devoted to You | Songs | Listen Now deep link | /radio/?play=1978-35-hopelessly-devoted-to-you | Body, "How John Farrar Wrote the Song Mid-Shoot" H2, "Hear Hopelessly Devoted to You" H3, before the video |
+| Hopelessly Devoted to You | Songs | Top Songs of 1978 (year) | /blog/years/top-songs-of-1978/ | Body, "Hopelessly Devoted to You on the Charts" H2, "Year-End Ranks and Certifications" H3, final paragraph (anchor "top songs of 1978") |
+| Hopelessly Devoted to You | Songs | Olivia Newton-John Songs (artist) | /blog/artists/olivia-newton-john-songs/ | Same final paragraph (anchor "Olivia Newton-John songs") |
+| Hopelessly Devoted to You | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "The Oscar Nomination and the Loss to Last Dance" H2, closing sentence after the image |
+| Hopelessly Devoted to You | Songs | Music of the 70s | / | Body, "On Stage and in Covers" H2, final sentence |
+| Hopelessly Devoted to You | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/ | Same final sentence (anchor "70s soft rock") |
