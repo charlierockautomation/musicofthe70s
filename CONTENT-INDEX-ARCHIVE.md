@@ -735,3 +735,5 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | 70s Female Singers: The Biggest Solo Women, by the Charts | https://musicofthe70s.net/blog/artists/70s-female-singers/ | Artists (Charts flagship #5) | 70s female singers | Live | 2026-09-29 | Random Artist Picker, 70s Music Trivia Quiz |
 | 70s One Hit Wonders: 147 Verified, One Chart Hit Each | https://musicofthe70s.net/blog/songs/70s-one-hit-wonders/ | Songs (Charts flagship #2) | 70s one hit wonders | Live | 2026-09-27 | Random 70s Song Generator, Mood Song Matcher |
 | 70s Number One Hits: Every Billboard #1, 1970 to 1979 | https://musicofthe70s.net/blog/songs/70s-number-one-hits/ | Songs (Charts flagship #1) | 70s number one hits | Live | 2026-09-27 | Birthday #1 Song Finder, 70s Decade Wheel |
+
+| /blog/years/1970-in-music/ | /blog/years/top-songs-of-1970/ | 2026-07-24 | Slug renamed to match corrected focus keyword "top songs of 1970" per Keyword Rule. Never reassign this old path. |

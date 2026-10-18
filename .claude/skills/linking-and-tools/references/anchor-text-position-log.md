@@ -309,3 +309,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 25 or 6 to 4 | Songs | Listen Now deep link | /radio/?play=1970-61-25-or-6-to-4 | Body, "Hear the 1970 Single of 25 or 6 to 4" H3, before the video |
 | 25 or 6 to 4 | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "25 or 6 to 4 on the Charts" H2, "Peak Versus Year-End Rank" H3, closing sentence |
 | 25 or 6 to 4 | Songs | Music of the 70s | / | Body, "A Marching Band Standard" H3, final sentence |
+| Wish You Were Here Pink Floyd | Songs | Pink Floyd songs (artist) | /blog/artists/pink-floyd-songs/ | Intro, last sentence (anchor "Pink Floyd songs") |
+| Wish You Were Here Pink Floyd | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Wish You Were Here Pink Floyd Meaning" H2, "What the Band Says the Words Mean" H3, closing sentence |
+| Wish You Were Here Pink Floyd | Songs | Music of the 70s | / | Body, "How Pink Floyd Recorded" H2, after the video |
+| Wish You Were Here Pink Floyd | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Wish You Were Here Pink Floyd on the Charts" H2, "What the Critics Say" H3, closing sentence |
+| Wish You Were Here Pink Floyd | Songs | 70s Progressive Rock (genre) | /blog/genres/70s-progressive-rock/ | Body, "Covers and Live Versions" H2, closing sentence (anchor "70s progressive rock") |
