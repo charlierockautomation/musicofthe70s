@@ -326,3 +326,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Mr. Blue Sky | Songs | Electric Light Orchestra Songs (artist) | /blog/artists/electric-light-orchestra-songs/ | Same final paragraph, next sentence (anchor "Electric Light Orchestra songs") |
 | Mr. Blue Sky | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "The Revival" H2, closing paragraph |
 | Mr. Blue Sky | Songs | Music of the 70s | / | Body, "The Revival" H2, final sentence |
+| I Want You Back | Songs | Listen Now deep link | /radio/?play=1970-28-i-want-you-back | Body, "I Want You Back: Written by The Corporation" H2, "Hear I Want You Back" H3, after the video (anchor "I Want You Back") |
+| I Want You Back | Songs | Top Songs of 1970 (year) | /blog/years/top-songs-of-1970/ | Body, "I Want You Back on the Charts" H2, "Year-End Ranks and Certifications" H3, final paragraph (anchor "top songs of 1970") |
+| I Want You Back | Songs | Jackson 5 Songs (artist) | /blog/artists/jackson-5-songs/ | Same final paragraph, next sentence (anchor "Jackson 5 songs") |
+| I Want You Back | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Legacy: Awards, Samples and Covers" H2, closing paragraph |
+| I Want You Back | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same closing paragraph, next sentence |
+| I Want You Back | Songs | Music of the 70s | / | Same closing paragraph, final sentence |
