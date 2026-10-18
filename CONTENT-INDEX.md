@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-18 (Mr. Blue Sky live)
+# Last Updated: 2026-10-18 (I Want You Back live)
 
 ---
 
@@ -69,6 +69,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
 | Hopelessly Devoted to You: Grease Ballad Written Mid-Shoot | https://musicofthe70s.net/blog/songs/hopelessly-devoted-to-you/ | Songs | hopelessly devoted to you | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Listen Now deep link, Olivia Newton-John Songs, Top Songs of 1978, 70s Soft Rock |
 | Mr. Blue Sky: How ELO Wrote It After Two Weeks of Gloom | https://musicofthe70s.net/blog/songs/mr-blue-sky/ | Songs | mr. blue sky | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Top Songs of 1978, Electric Light Orchestra Songs |
+| I Want You Back: Jackson 5's First No. 1, Michael at 11 | https://musicofthe70s.net/blog/songs/i-want-you-back/ | Songs | i want you back | LIVE | 2026-10-18 | Random 70s Song Generator, Mood Song Matcher, Top Songs of 1970, Jackson 5 Songs |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Night Fever: The Bee Gees Song That Renamed a Movie | https://musicofthe70s.net/blog/songs/night-fever/index.html | Songs | night fever | Live | 2026-09-21 | Random 70s Song Generator, Mood Song Matcher |
