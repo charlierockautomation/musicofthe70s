@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-18 (Wish You Were Here built locally)
+# Last Updated: 2026-10-18 (Wish You Were Here live)
 
 ---
 
@@ -69,7 +69,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | Dreams Fleetwood Mac: Written in 10 Minutes, Alive in 2020 | https://musicofthe70s.net/blog/songs/dreams-fleetwood-mac/ | Songs | dreams fleetwood mac | LIVE | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | 25 or 6 to 4: What Chicago's Song Title Really Means | https://musicofthe70s.net/blog/songs/25-or-6-to-4/ | Songs | 25 or 6 to 4 | LIVE | 2026-10-18 | Random 70s Song Generator, Mood Song Matcher |
-| Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | Built-Local | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
+| Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
 | MacArthur Park Donna Summer: Her First Number One Hit | https://musicofthe70s.net/blog/songs/macarthur-park-donna-summer/index.html | Songs | macarthur park donna summer | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Heartache Tonight: The Eagles' Last Trip to Number One | https://musicofthe70s.net/blog/songs/heartache-tonight/index.html | Songs | heartache tonight | Live | 2026-09-22 | Random 70s Song Generator, Mood Song Matcher |
 | Night Fever: The Bee Gees Song That Renamed a Movie | https://musicofthe70s.net/blog/songs/night-fever/index.html | Songs | night fever | Live | 2026-09-21 | Random 70s Song Generator, Mood Song Matcher |

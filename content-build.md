@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-18 (Wish You Were Here built locally)
+# Last Updated: 2026-10-18 (Wish You Were Here LIVE)
 
 ---
 
@@ -139,7 +139,7 @@ keyword + SERP content gap at build time; a song not on any 70s chart is still f
 | 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | LIVE 2026-10-17 (pushed 4f76337 + hubs 9312a90, Charlie go-ahead, live check passed). SERP = videos/Spotify/lyrics + AI Overview, no story post, gap confirmed. Angle: pre-1970 recordings (Chamberlain, Warwick, Dusty, Alpert) |
 | 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | LIVE 2026-10-17 (pushed dfbfe37 + hubs a82ebb3, Charlie go-ahead, live check passed). SERP = knowledge panel/videos/Spotify, only Smooth Radio story post, gap holds. Angle: 10-minute writing, studio loop, 2020 TikTok revival. Slug dreams-fleetwood-mac |
 | 5 | 25 or 6 to 4 (Chicago) | 25 or 6 to 4 | 18,100 | 14 | LIVE 2026-10-18 (pushed a3f51c8 + hubs 7cd3f3a, Charlie go-ahead, live URL returns 200). Hendrix fun_fact NOT used (unsourced) |
-| 6 | Wish You Were Here (Pink Floyd) | wish you were here pink floyd | 49,500 (bare phrase; qualified 5,400) | 31 | BUILT locally 2026-10-18, awaiting Charlie review (blog/songs/wish-you-were-here-pink-floyd/); gates PASS. Artist-qualified to avoid Neck Deep/Avril SERP; SERP = Spotify/YouTube/lyrics, gap holds. No Hot 100, no radio_id |
+| 6 | Wish You Were Here (Pink Floyd) | wish you were here pink floyd | 49,500 (bare phrase; qualified 5,400) | 31 | LIVE 2026-10-18 (pushed e04ad26 + hubs 360544d, Charlie go-ahead, live check passed). Artist-qualified to avoid Neck Deep/Avril SERP; SERP = Spotify/YouTube/lyrics, gap holds. No Hot 100, no radio_id |
 | 7 | Hopelessly Devoted to You (Olivia Newton-John) | hopelessly devoted to you | 22,200 | 35 | NEXT. 1978 Grease |
 | 8 | Mr. Blue Sky (ELO) | mr blue sky | 40,500 | 15 | |
 | 9 | I Want You Back (Jackson 5) | i want you back | 22,200 | 18 | #1 Jan 1970 |
