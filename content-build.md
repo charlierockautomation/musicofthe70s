@@ -4,7 +4,7 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-18 (25 or 6 to 4 built locally)
+# Last Updated: 2026-10-18 (25 or 6 to 4 LIVE)
 
 ---
 
@@ -85,7 +85,7 @@ Soul, chart-archive gap fix) are in SESSION-LOG-ARCHIVE.md "Strategy Queue as of
 **GUARDRAIL: no ABBA or Bee Gees posts before 2026-11-25** (section 6D). Newest live: Tragedy 2026-09-25.
 
 1. **Phase 0 trust fixes left** (section 8)
-   - Item 7 PARTIAL: 89 of 110 posts have <3 external links (songs 56, artists 24, genres 5, trivia 4). Years 1975-79 got a 3-link Sources section 2026-10-18, built locally, awaiting Charlie review (uncommitted). 5/session, next: Years 1970-74 are not yet checked, then Best Songs
+   - Item 7 PARTIAL: 89 of 110 posts have <3 external links (songs 56, artists 24, genres 5, trivia 4). Years 1975-79 got a 3-link Sources section 2026-10-18 (pushed a3f51c8). 5/session, next: Years 1970-74 are not yet checked, then Best Songs
    - Item 8 NOT STARTED, Charlie's action: Bing Webmaster + IndexNow (no msvalidate tag or key file in repo)
 2. **AdSense readiness (item 12) PARTIAL** (section 8; CLAUDE.md YouTube rule)
    - Contact page, About publisher identity, Privacy Policy ad text, sitemap (131 URLs, no gaps) are in place
@@ -138,7 +138,7 @@ keyword + SERP content gap at build time; a song not on any 70s chart is still f
 | 2 | Stairway to Heaven (Led Zeppelin) | stairway to heaven | 90,500 | 35 | LIVE 2026-10-16 (pushed ed3a957 + hubs 6426136, Charlie go-ahead, live check passed). Never a US single, no Hot 100 rows; download-era charts credited to Wikipedia |
 | 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | LIVE 2026-10-17 (pushed 4f76337 + hubs 9312a90, Charlie go-ahead, live check passed). SERP = videos/Spotify/lyrics + AI Overview, no story post, gap confirmed. Angle: pre-1970 recordings (Chamberlain, Warwick, Dusty, Alpert) |
 | 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | LIVE 2026-10-17 (pushed dfbfe37 + hubs a82ebb3, Charlie go-ahead, live check passed). SERP = knowledge panel/videos/Spotify, only Smooth Radio story post, gap holds. Angle: 10-minute writing, studio loop, 2020 TikTok revival. Slug dreams-fleetwood-mac |
-| 5 | 25 or 6 to 4 (Chicago) | 25 or 6 to 4 | 18,100 | 14 | BUILT locally 2026-10-18, awaiting Charlie review (blog/songs/25-or-6-to-4/); gates PASS. Hendrix fun_fact NOT used (unsourced) |
+| 5 | 25 or 6 to 4 (Chicago) | 25 or 6 to 4 | 18,100 | 14 | LIVE 2026-10-18 (pushed a3f51c8 + hubs 7cd3f3a, Charlie go-ahead, live URL returns 200). Hendrix fun_fact NOT used (unsourced) |
 | 6 | Wish You Were Here (Pink Floyd) | wish you were here | 49,500 | 31 | NEXT. Album track, no Hot 100 |
 | 7 | Hopelessly Devoted to You (Olivia Newton-John) | hopelessly devoted to you | 22,200 | 35 | 1978 Grease |
 | 8 | Mr. Blue Sky (ELO) | mr blue sky | 40,500 | 15 | |
