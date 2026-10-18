@@ -321,3 +321,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Hopelessly Devoted to You | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "The Oscar Nomination and the Loss to Last Dance" H2, closing sentence after the image |
 | Hopelessly Devoted to You | Songs | Music of the 70s | / | Body, "On Stage and in Covers" H2, final sentence |
 | Hopelessly Devoted to You | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/ | Same final sentence (anchor "70s soft rock") |
+| Mr. Blue Sky | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Mr. Blue Sky: Written After Two Weeks of Gloom" H2, after the video |
+| Mr. Blue Sky | Songs | Top Songs of 1978 (year) | /blog/years/top-songs-of-1978/ | Body, "Mr. Blue Sky on the Charts" H2, "Year-End Ranks and Certifications" H3, final paragraph (anchor "top songs of 1978") |
+| Mr. Blue Sky | Songs | Electric Light Orchestra Songs (artist) | /blog/artists/electric-light-orchestra-songs/ | Same final paragraph, next sentence (anchor "Electric Light Orchestra songs") |
+| Mr. Blue Sky | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "The Revival" H2, closing paragraph |
+| Mr. Blue Sky | Songs | Music of the 70s | / | Body, "The Revival" H2, final sentence |
