@@ -365,3 +365,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Midnight Train to Georgia | Songs | Music of the 70s | / | Body, "Legacy" H2, "Awards and Honors" H3, final sentence (anchor "Music of the 70s") |
 | Midnight Train to Georgia | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same H2, "On Screen and in the Comics" H3, closing sentence |
 | Midnight Train to Georgia | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H2, "Other Versions" H3, closing sentence |
+| That's the Way (I Like It) | Songs | KC and the Sunshine Band Songs (artist) | /blog/artists/kc-and-the-sunshine-band-songs/ | Body, "That's the Way I Like It: Casey, Finch..." H2, "Two Writers at TK Records" H3, final sentence (anchor "KC and the Sunshine Band songs") |
+| That's the Way (I Like It) | Songs | Listen Now deep link | /radio/?play=1976-45-thats-the-way-i-like-it | "Hear That's the Way I Like It" H3, before the video (anchor "That's the Way (I Like It)") |
+| That's the Way (I Like It) | Songs | 70s Number One Hits (songs) | /blog/songs/70s-number-one-hits/ | Body, "On the Charts" H2, "Up, Down and Back to the Top" H3, final sentence (anchor "70s number one hits") |
+| That's the Way (I Like It) | Songs | Top Songs of 1976 (year) | /blog/years/top-songs-of-1976/ | "Year-End Ranks and Sales" H2, "A 1975 Hit on a 1976 List" H3, final sentence (anchor "top songs of 1976") |
+| That's the Way (I Like It) | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Covers and Later Life" H2, "Ads and Re-Releases" H3, third sentence |
+| That's the Way (I Like It) | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, fourth sentence |
+| That's the Way (I Like It) | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
