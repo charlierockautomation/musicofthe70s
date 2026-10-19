@@ -358,3 +358,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | I Am Woman | Songs | Top Songs of 1972 (year) | /blog/years/top-songs-of-1972/ | Same H2, "Year-End Ranks and Sales" H3, final sentence (anchor "top songs of 1972") |
 | I Am Woman | Songs | Music of the 70s | / | Body, "Legacy" H2, "Parodies, Covers and Goodbyes" H3, near-final sentence (anchor "Music of the 70s") |
 | I Am Woman | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, closing sentence |
+| Midnight Train to Georgia | Songs | Listen Now deep link | /radio/?play=1973-49-midnight-train-to-georgia | "Hear Midnight Train to Georgia" H3, before the video (anchor "Midnight Train to Georgia") |
+| Midnight Train to Georgia | Songs | Gladys Knight Songs (artist) | /blog/artists/gladys-knight-songs/ | Body, "Recording the Hit" H2, after the Soul Train photo, final sentence (anchor "Gladys Knight songs") |
+| Midnight Train to Georgia | Songs | 70s Number One Hits (songs) | /blog/songs/70s-number-one-hits/ | Body, "On the Charts" H2, "The Climb to the Top" H3, final sentence (anchor "70s number one hits") |
+| Midnight Train to Georgia | Songs | Top Songs of 1973 (year) | /blog/years/top-songs-of-1973/ | Same H2, "Year-End Ranks and Certifications" H3, final sentence (anchor "top songs of 1973") |
+| Midnight Train to Georgia | Songs | Music of the 70s | / | Body, "Legacy" H2, "Awards and Honors" H3, final sentence (anchor "Music of the 70s") |
+| Midnight Train to Georgia | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same H2, "On Screen and in the Comics" H3, closing sentence |
+| Midnight Train to Georgia | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H2, "Other Versions" H3, closing sentence |
