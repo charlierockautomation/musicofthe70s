@@ -345,3 +345,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Copacabana | Songs | Top Songs of 1978 (year) | /blog/years/top-songs-of-1978/ | Body, "On the Charts" H2, "Year-End Ranks" H3, final sentence (anchor "top songs of 1978") |
 | Copacabana | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "On the Charts" H2, "Certifications" H3, final sentence |
 | Copacabana | Songs | Music of the 70s | / | Body, "Legacy" H2, "From Single to Musical" H3, closing sentences (anchor "Music of the 70s") |
+| Joy to the World | Songs | Music of the 70s | / | Body, "How Hoyt Axton's Tune Got Its Words" H2, "A Melody Looking for Words" H3, closing sentence (anchor "Music of the 70s") |
+| Joy to the World | Songs | Listen Now deep link | /radio/?play=1971-1-joy-to-the-world | Same H2, "Hear Joy to the World Three Dog Night" H3, before the video (anchor "Joy to the World") |
+| Joy to the World | Songs | Three Dog Night Songs (artist) | /blog/artists/three-dog-night-songs/ | Body, "The Band Said No" H2, "Two Lead Singers Rejected It" H3, final sentence (anchor "Three Dog Night songs") |
+| Joy to the World | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same H2, after the 1972 photo, final sentence |
+| Joy to the World | Songs | 70s Number One Hits (songs) | /blog/songs/70s-number-one-hits/ | Body, "On the Charts" H2, "The Weeks at the Top" H3, final sentence (anchor "70s number one hits") |
+| Joy to the World | Songs | Top Songs of 1971 (year) | /blog/years/top-songs-of-1971/ | Same H2, "Year-End Ranks, Sales and Awards" H3, final sentence (anchor "top songs of 1971") |
+| Joy to the World | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Legacy" H2, "The Authorship Dispute" H3, closing sentence |
