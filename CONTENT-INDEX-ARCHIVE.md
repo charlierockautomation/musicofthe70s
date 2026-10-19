@@ -741,3 +741,12 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Tragedy Bee Gees: The 1979 Original Behind Steps' Cover | https://musicofthe70s.net/blog/songs/tragedy-bee-gees/index.html | Songs | tragedy bee gees | Live | 2026-09-25 | Random 70s Song Generator, Mood Song Matcher |
 | Rocket Man Elton John: The Hit That Peaked at No. 6 | https://musicofthe70s.net/blog/songs/rocket-man-elton-john/index.html | Songs | rocket man elton john | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
 | Stairway to Heaven: Every Section of the 8:02 Explained | https://musicofthe70s.net/blog/songs/stairway-to-heaven/ | Songs | stairway to heaven | Live | 2026-10-16 | Random 70s Song Generator, Mood Song Matcher |
+
+
+### Pruned from CONTENT-INDEX.md 2026-10-18 (all still Live)
+
+| Anni-Frid Lyngstad: Born in Wartime, Found on Live TV | https://musicofthe70s.net/blog/artists/anni-frid-lyngstad/index.html | Artists | Anni-Frid Lyngstad | Live | 2026-08-18 | Random Artist Picker |
+| Agnetha Fältskog: The Solo Star Before ABBA Existed | https://musicofthe70s.net/blog/artists/agnetha-faltskog/index.html | Artists | Agnetha Fältskog | Live | 2026-08-17 | Random Artist Picker |
+| Take It Easy: The Song Jackson Browne Couldn't Finish | https://musicofthe70s.net/blog/songs/take-it-easy/index.html | Songs | take it easy | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
+| Mamma Mia Song: The Story ABBA Almost Gave Away | https://musicofthe70s.net/blog/songs/mamma-mia-song/index.html | Songs | mamma mia song | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
+| Gimme Gimme Gimme: The ABBA Song America Never Got | https://musicofthe70s.net/blog/songs/gimme-gimme-gimme/index.html | Songs | gimme gimme gimme | Live | 2026-08-20 | Mood Song Matcher, Random 70s Song Generator |

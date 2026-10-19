@@ -352,3 +352,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Joy to the World | Songs | 70s Number One Hits (songs) | /blog/songs/70s-number-one-hits/ | Body, "On the Charts" H2, "The Weeks at the Top" H3, final sentence (anchor "70s number one hits") |
 | Joy to the World | Songs | Top Songs of 1971 (year) | /blog/years/top-songs-of-1971/ | Same H2, "Year-End Ranks, Sales and Awards" H3, final sentence (anchor "top songs of 1971") |
 | Joy to the World | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Legacy" H2, "The Authorship Dispute" H3, closing sentence |
+| I Am Woman | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Two Writers, Two Memories" H2, "Ray Burton's Account" H3, closing sentence |
+| I Am Woman | Songs | Helen Reddy Songs (artist) | /blog/artists/helen-reddy-songs/ | Body, "The 1972 Re-Recording" H2, after the 1976 photo, final sentence (anchor "Helen Reddy songs") |
+| I Am Woman | Songs | 70s Number One Hits (songs) | /blog/songs/70s-number-one-hits/ | Body, "On the Charts" H2, "From Number 99 to Number One" H3, final sentence (anchor "70s number one hits") |
+| I Am Woman | Songs | Top Songs of 1972 (year) | /blog/years/top-songs-of-1972/ | Same H2, "Year-End Ranks and Sales" H3, final sentence (anchor "top songs of 1972") |
+| I Am Woman | Songs | Music of the 70s | / | Body, "Legacy" H2, "Parodies, Covers and Goodbyes" H3, near-final sentence (anchor "Music of the 70s") |
+| I Am Woman | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, closing sentence |

@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-18 (I Want You Back live)
+# Last Updated: 2026-10-18 (I Am Woman built, awaiting review)
 
 ---
 
@@ -63,6 +63,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
+| I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Built, awaiting Charlie's review | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |
 | Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | Dreams Fleetwood Mac: Written in 10 Minutes, Alive in 2020 | https://musicofthe70s.net/blog/songs/dreams-fleetwood-mac/ | Songs | dreams fleetwood mac | LIVE | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | 25 or 6 to 4: What Chicago's Song Title Really Means | https://musicofthe70s.net/blog/songs/25-or-6-to-4/ | Songs | 25 or 6 to 4 | LIVE | 2026-10-18 | Random 70s Song Generator, Mood Song Matcher |
@@ -128,11 +129,6 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Iggy Pop: The 1970s Collapse and Berlin Resurrection | https://musicofthe70s.net/blog/artists/iggy-pop/index.html | Artists | iggy pop | Live | 2026-08-21 | Random Artist Picker, 70s Music Trivia Quiz |
 | Benny Andersson: The Real Songwriting Method Behind ABBA | https://musicofthe70s.net/blog/artists/benny-andersson/index.html | Artists | Benny Andersson | Live | 2026-08-19 | 70s Music Trivia Quiz |
 | Bjorn Ulvaeus: The Bench Where ABBA Actually Began | https://musicofthe70s.net/blog/artists/bjorn-ulvaeus/index.html | Artists | Bjorn Ulvaeus | Live | 2026-08-18 | Random Artist Picker |
-| Anni-Frid Lyngstad: Born in Wartime, Found on Live TV | https://musicofthe70s.net/blog/artists/anni-frid-lyngstad/index.html | Artists | Anni-Frid Lyngstad | Live | 2026-08-18 | Random Artist Picker |
-| Agnetha Fältskog: The Solo Star Before ABBA Existed | https://musicofthe70s.net/blog/artists/agnetha-faltskog/index.html | Artists | Agnetha Fältskog | Live | 2026-08-17 | Random Artist Picker |
-| Take It Easy: The Song Jackson Browne Couldn't Finish | https://musicofthe70s.net/blog/songs/take-it-easy/index.html | Songs | take it easy | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
-| Mamma Mia Song: The Story ABBA Almost Gave Away | https://musicofthe70s.net/blog/songs/mamma-mia-song/index.html | Songs | mamma mia song | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
-| Gimme Gimme Gimme: The ABBA Song America Never Got | https://musicofthe70s.net/blog/songs/gimme-gimme-gimme/index.html | Songs | gimme gimme gimme | Live | 2026-08-20 | Mood Song Matcher, Random 70s Song Generator |
 | Folk Rock in the 70s: The Hits the Year-End Top 100 Missed | https://musicofthe70s.net/blog/genres/70s-folk-rock/index.html | Genres | folk rock | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
 | Glam Rock in the 70s: Huge in Britain, Smaller in America | https://musicofthe70s.net/blog/genres/glam-rock-in-the-70s/index.html | Genres | Glam Rock in the 70s | Live | 2026-08-15 | Random Artist Picker, Random 70s Song Generator |
 | 70s Punk Rock: The Genre the Year-End Chart Barely Noticed | https://musicofthe70s.net/blog/genres/70s-punk-rock/index.html | Genres | 70s punk rock | Live | 2026-08-15 | Random Artist Picker, Random 70s Song Generator |
