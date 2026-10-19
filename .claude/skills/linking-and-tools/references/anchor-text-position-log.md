@@ -332,3 +332,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | I Want You Back | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "Legacy: Awards, Samples and Covers" H2, closing paragraph |
 | I Want You Back | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same closing paragraph, next sentence |
 | I Want You Back | Songs | Music of the 70s | / | Same closing paragraph, final sentence |
+| September | Songs | Listen Now deep link | /radio/?play=1979-78-september | Body, "September Earth Wind and Fire: Written by..." H2, "Hear September Earth Wind and Fire" H3, after the video (anchor "September") |
+| September | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H2, closing sentence after the Listen Now link |
+| September | Songs | Earth, Wind and Fire Songs (artist) | /blog/artists/earth-wind-and-fire-songs/ | Body, "The Sound" H2, final sentence (anchor "Earth, Wind and Fire songs") |
+| September | Songs | Top Songs of 1979 (year) | /blog/years/top-songs-of-1979/ | Body, "...on the Charts" H2, "Year-End Ranks" H3, final sentence (anchor "top songs of 1979") |
+| September | Songs | Music of the 70s | / | Body, "Legacy" H2, "Rankings and Honors" H3, closing sentence (anchor "Music of the 70s") |
+| September | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Legacy" H2, final sentence |
