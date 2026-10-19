@@ -338,3 +338,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | September | Songs | Top Songs of 1979 (year) | /blog/years/top-songs-of-1979/ | Body, "...on the Charts" H2, "Year-End Ranks" H3, final sentence (anchor "top songs of 1979") |
 | September | Songs | Music of the 70s | / | Body, "Legacy" H2, "Rankings and Honors" H3, closing sentence (anchor "Music of the 70s") |
 | September | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Legacy" H2, final sentence |
+| Copacabana | Songs | Listen Now deep link | /radio/?play=1978-74-copacabana | Body, "Copacabana Barry Manilow: From a Rio Hotel..." H2, "Hear Copacabana Barry Manilow" H3, before the video (anchor "Copacabana") |
+| Copacabana | Songs | 70s Disco Music (genre) | /blog/genres/disco-music-of-the-70s/ | Same H2, after the video, closing sentence (anchor "70s disco music") |
+| Copacabana | Songs | Mood Song Matcher | /pages/mood-song-matcher | Body, "Lola, Tony and Rico" H2, "The Cheerful Tune..." H3, final sentence |
+| Copacabana | Songs | Barry Manilow Songs (artist) | /blog/artists/barry-manilow-songs/ | Body, "The Sound" H2, "Who Played on It" H3, final sentence (anchor "Barry Manilow songs") |
+| Copacabana | Songs | Top Songs of 1978 (year) | /blog/years/top-songs-of-1978/ | Body, "On the Charts" H2, "Year-End Ranks" H3, final sentence (anchor "top songs of 1978") |
+| Copacabana | Songs | Random 70s Song Generator | /pages/random-70s-song | Body, "On the Charts" H2, "Certifications" H3, final sentence |
+| Copacabana | Songs | Music of the 70s | / | Body, "Legacy" H2, "From Single to Musical" H3, closing sentences (anchor "Music of the 70s") |
