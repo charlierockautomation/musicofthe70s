@@ -386,3 +386,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Ain't No Mountain High Enough | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Honors, Covers and Revivals" H2, "On Screen" H3, second sentence |
 | Ain't No Mountain High Enough | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, third sentence |
 | Ain't No Mountain High Enough | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Tiny Dancer | Songs | Rocket Man Elton John | /blog/songs/rocket-man-elton-john/ | "Tiny Dancer on the Charts" H2, "A Modest 1972 Run" H3, final sentence (anchor "Rocket Man Elton John") |
+| Tiny Dancer | Songs | Elton John (artist) | /blog/artists/elton-john/ | Same H2, "The Certification Climb" H3, final sentence (anchor "Elton John") |
+| Tiny Dancer | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Almost Famous, Honors and Covers" H2, "Covers and Remixes" H3, second-to-last paragraph |
+| Tiny Dancer | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, next paragraph |
+| Tiny Dancer | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
