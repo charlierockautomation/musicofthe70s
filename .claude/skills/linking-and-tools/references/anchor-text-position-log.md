@@ -372,3 +372,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | That's the Way (I Like It) | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Covers and Later Life" H2, "Ads and Re-Releases" H3, third sentence |
 | That's the Way (I Like It) | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, fourth sentence |
 | That's the Way (I Like It) | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Take Me Home, Country Roads | Songs | John Denver Songs (artist) | /blog/artists/john-denver-songs/ | Body, "Recording and Release" H3, final sentence (anchor "John Denver songs") |
+| Take Me Home, Country Roads | Songs | Listen Now deep link | /radio/?play=1971-8-take-me-home-country-roads | "Hear Take Me Home Country Roads" H3, before the video (anchor "Take Me Home, Country Roads") |
+| Take Me Home, Country Roads | Songs | How Can You Mend a Broken Heart (song) | /blog/songs/how-can-you-mend-a-broken-heart/ | "On the Charts" H2, "Stuck Behind the Bee Gees" H3, fourth sentence (anchor title) |
+| Take Me Home, Country Roads | Songs | Top Songs of 1971 (year) | /blog/years/top-songs-of-1971/ | Same H2, "A 1971 Year-End Rank" H3, final sentence (anchor "top songs of 1971") |
+| Take Me Home, Country Roads | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Covers and Revivals" H2, "Newer Lives for an Old Song" H3, third sentence |
+| Take Me Home, Country Roads | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, fourth sentence |
+| Take Me Home, Country Roads | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
