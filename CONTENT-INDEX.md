@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-18 (I Am Woman built, awaiting review)
+# Last Updated: 2026-10-18 (I Am Woman live)
 
 ---
 
@@ -63,7 +63,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Built, awaiting Charlie's review | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |
+| I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Live (pushed d722350, live check passed) | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |
 | Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | Dreams Fleetwood Mac: Written in 10 Minutes, Alive in 2020 | https://musicofthe70s.net/blog/songs/dreams-fleetwood-mac/ | Songs | dreams fleetwood mac | LIVE | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | 25 or 6 to 4: What Chicago's Song Title Really Means | https://musicofthe70s.net/blog/songs/25-or-6-to-4/ | Songs | 25 or 6 to 4 | LIVE | 2026-10-18 | Random 70s Song Generator, Mood Song Matcher |
