@@ -379,3 +379,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Take Me Home, Country Roads | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Covers and Revivals" H2, "Newer Lives for an Old Song" H3, third sentence |
 | Take Me Home, Country Roads | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, fourth sentence |
 | Take Me Home, Country Roads | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Ain't No Mountain High Enough | Songs | Marvin Gaye (artist) | /blog/artists/marvin-gaye/ | "The Gaye and Terrell Original" H3, final sentence (anchor "Marvin Gaye") |
+| Ain't No Mountain High Enough | Songs | Listen Now deep link | /radio/?play=1970-6-aint-no-mountain-high-enough | "Hear Ain't No Mountain High Enough" H3, before the video (anchor song title) |
+| Ain't No Mountain High Enough | Songs | Diana Ross Songs (artist) | /blog/artists/diana-ross-songs/ | "On the Charts" H2, "Ross's First Solo Chart-Topper" H3, final sentence (anchor "Diana Ross songs") |
+| Ain't No Mountain High Enough | Songs | Top Songs of 1970 (year) | /blog/years/top-songs-of-1970/ | Same H2, "A 1970 Year-End Rank" H3, final sentence (anchor "top songs of 1970") |
+| Ain't No Mountain High Enough | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Honors, Covers and Revivals" H2, "On Screen" H3, second sentence |
+| Ain't No Mountain High Enough | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, third sentence |
+| Ain't No Mountain High Enough | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
