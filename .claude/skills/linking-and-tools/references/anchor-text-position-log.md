@@ -391,3 +391,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Tiny Dancer | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Almost Famous, Honors and Covers" H2, "Covers and Remixes" H3, second-to-last paragraph |
 | Tiny Dancer | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, next paragraph |
 | Tiny Dancer | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Kashmir Led Zeppelin | Songs | Led Zeppelin Songs (artist) | /blog/artists/led-zeppelin-songs/ | "A Moroccan Drive and a Riff in Two Meters" H2, "How the Riff Was Built" H3, last sentence (anchor "Led Zeppelin songs") |
+| Kashmir Led Zeppelin | Songs | Mood Song Matcher | /pages/mood-song-matcher | Same H2, after "Who Played on It" list, before the video |
+| Kashmir Led Zeppelin | Songs | Music of the 70s | / | "Kashmir on the Charts and the Rankings" H2, "No 1970s Chart Run to Report" H3 (anchor "Music of the 70s") |
+| Kashmir Led Zeppelin | Songs | Stairway to Heaven | /blog/songs/stairway-to-heaven/ | Same H3, closing sentence (anchor "Stairway to Heaven") |
+| Kashmir Led Zeppelin | Songs | Random 70s Song Generator | /pages/random-70s-song | "Kashmir Live, in Film and in Court" H2, last paragraph after the image |
