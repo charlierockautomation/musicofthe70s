@@ -427,3 +427,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | You're the One That I Want | Songs | Hopelessly Devoted to You | /blog/songs/hopelessly-devoted-to-you/ | "Reception" H2, "The Other Farrar Song" H3, last sentence (anchor "Hopelessly Devoted to You") |
 | You're the One That I Want | Songs | Random 70s Song Generator | /pages/random-70s-song | "Later Versions" H2, closing paragraph |
 | You're the One That I Want | Songs | Olivia Newton-John Songs (artist) | /blog/artists/olivia-newton-john-songs/ | Same closing section, last paragraph (anchor "Olivia Newton-John songs") |
+| Telephone Line ELO | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/ | "Telephone Line ELO: The Song Behind the Ring Tone" H2, "Five Genre Tags, One Ballad" H3, closing sentence (anchor "70s soft rock") |
+| Telephone Line ELO | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Recording and Release" H2, "The Single at a Glance" H3, after the table |
+| Telephone Line ELO | Songs | Listen Now deep link | /radio/?play=1977-15-telephone-line | "Recording and Release" H2, "Hear the 1977 Single" H3, before the video |
+| Telephone Line ELO | Songs | Top Songs of 1977 (year) | /blog/years/top-songs-of-1977/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1977") |
+| Telephone Line ELO | Songs | Random 70s Song Generator | /pages/random-70s-song | "On the Charts" H2, "Certifications" H3, closing sentence |
+| Telephone Line ELO | Songs | Music of the 70s | / | "Reception" H2, opening paragraph (anchor "Music of the 70s") |
+| Telephone Line ELO | Songs | Mr. Blue Sky | /blog/songs/mr-blue-sky/ | "Reception" H2, "The Band's Other Big Record" H3, last sentence (anchor "Mr. Blue Sky") |
+| Telephone Line ELO | Songs | Electric Light Orchestra Songs (artist) | /blog/artists/electric-light-orchestra-songs/ | "Covers and Later Versions" H2, closing paragraph (anchor "Electric Light Orchestra songs") |
