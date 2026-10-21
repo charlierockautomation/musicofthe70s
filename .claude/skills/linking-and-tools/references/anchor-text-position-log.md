@@ -407,3 +407,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Rhiannon Fleetwood Mac | Songs | Fleetwood Mac Songs (artist) | /blog/artists/fleetwood-mac-songs/ | Same sentence (anchor "Fleetwood Mac song") |
 | Rhiannon Fleetwood Mac | Songs | Music of the 70s | / | "The Rhiannon Project" H2, closing paragraph (anchor "Music of the 70s") |
 | Rhiannon Fleetwood Mac | Songs | Random 70s Song Generator | /pages/random-70s-song | Same paragraph |
+| If You Leave Me Now | Songs | Music of the 70s | / | "How Peter Cetera Wrote It" H2, "A Key and a Range" H3, closing sentence (anchor "Music of the 70s") |
+| If You Leave Me Now | Songs | 25 or 6 to 4 | /blog/songs/25-or-6-to-4/ | "Where It Sat in Chicago's Story" H3, last sentence (anchor "25 or 6 to 4") |
+| If You Leave Me Now | Songs | Top Songs of 1976 | /blog/years/top-songs-of-1976/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1976") |
+| If You Leave Me Now | Songs | Mood Song Matcher | /pages/mood-song-matcher | "On the Charts" H2, standalone paragraph after Certifications |
+| If You Leave Me Now | Songs | Chicago Band Songs (artist) | /blog/artists/chicago-band-songs/ | "Two Grammys" H2, "A Kiss in a Cash Box Ad" H3, last sentence (anchor "Chicago band songs") |
+| If You Leave Me Now | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers" H2, closing paragraph |
