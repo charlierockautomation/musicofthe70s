@@ -413,3 +413,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | If You Leave Me Now | Songs | Mood Song Matcher | /pages/mood-song-matcher | "On the Charts" H2, standalone paragraph after Certifications |
 | If You Leave Me Now | Songs | Chicago Band Songs (artist) | /blog/artists/chicago-band-songs/ | "Two Grammys" H2, "A Kiss in a Cash Box Ad" H3, last sentence (anchor "Chicago band songs") |
 | If You Leave Me Now | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers" H2, closing paragraph |
+
+| Comfortably Numb | Songs | Pink Floyd songs (artist) | /blog/artists/pink-floyd-songs/ | Intro, last sentence (anchor "Pink Floyd songs") |
+| Comfortably Numb | Songs | Mood Song Matcher | /pages/mood-song-matcher | "What Comfortably Numb Means" H2, "Why the Words Work" H3, closing sentence |
+| Comfortably Numb | Songs | 70s Progressive Rock (genre) | /blog/genres/70s-progressive-rock/ | "Written and Recorded" H2, "The Solos" H3, closing sentence (anchor "70s progressive rock") |
+| Comfortably Numb | Songs | Music of the 70s | / | "Written and Recorded" H2, after the video |
+| Comfortably Numb | Songs | Random 70s Song Generator | /pages/random-70s-song | "Awards, Rankings and Certifications" H2, closing paragraph |

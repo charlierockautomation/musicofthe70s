@@ -601,3 +601,10 @@ Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known m
 - Listening pages (fold into Mon or Fri as needed): STRATEGY-2026.md section 6F, cap 4
 
 **Pause:** no ABBA or Bee Gees posts before 2026-11-25 (STRATEGY-2026.md section 6D).
+
+
+## Songs 6E Queue rows #1-4 as of 2026-10-21 (pruned from content-build.md)
+| 1 | Rocket Man (Elton John) | rocket man elton john | 2,900 | 22 | LIVE 2026-10-16 (pushed 8623212 + hubs 648bf85, Charlie go-ahead, live check passed). Bare "rocket man" (49,500, KD 41) SERP is film-dominated, so artist-qualified |
+| 2 | Stairway to Heaven (Led Zeppelin) | stairway to heaven | 90,500 | 35 | LIVE 2026-10-16 (pushed ed3a957 + hubs 6426136, Charlie go-ahead, live check passed). Never a US single, no Hot 100 rows; download-era charts credited to Wikipedia |
+| 3 | Close to You (Carpenters) | close to you | 22,200 | 29 | LIVE 2026-10-17 (pushed 4f76337 + hubs 9312a90, Charlie go-ahead, live check passed). SERP = videos/Spotify/lyrics + AI Overview, no story post, gap confirmed. Angle: pre-1970 recordings (Chamberlain, Warwick, Dusty, Alpert) |
+| 4 | Dreams (Fleetwood Mac) | dreams fleetwood mac | 22,200 | 36 | LIVE 2026-10-17 (pushed dfbfe37 + hubs a82ebb3, Charlie go-ahead, live check passed). SERP = knowledge panel/videos/Spotify, only Smooth Radio story post, gap holds. Angle: 10-minute writing, studio loop, 2020 TikTok revival. Slug dreams-fleetwood-mac |
