@@ -396,3 +396,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Kashmir Led Zeppelin | Songs | Music of the 70s | / | "Kashmir on the Charts and the Rankings" H2, "No 1970s Chart Run to Report" H3 (anchor "Music of the 70s") |
 | Kashmir Led Zeppelin | Songs | Stairway to Heaven | /blog/songs/stairway-to-heaven/ | Same H3, closing sentence (anchor "Stairway to Heaven") |
 | Kashmir Led Zeppelin | Songs | Random 70s Song Generator | /pages/random-70s-song | "Kashmir Live, in Film and in Court" H2, last paragraph after the image |
+| We've Only Just Begun | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Began as a Bank Commercial" H2, "The Ad That Worked Too Well" H3, last sentence |
+| We've Only Just Begun | Songs | Close to You | /blog/songs/close-to-you/ | "On the Charts" H2, "Number Two on the Hot 100" H3, last sentence (anchor "Close to You") |
+| We've Only Just Begun | Songs | Top Songs of 1970 | /blog/years/top-songs-of-1970/ | Same H2, "Gold, Silver and Late Honors" H3, closing sentence (anchor "top songs of 1970") |
+| We've Only Just Begun | Songs | Carpenters Songs (artist) | /blog/artists/carpenters-songs/ | "After 1970" H2, "What the Carpenters Did Next" H3, after Nixon image (anchor "Carpenters songs") |
+| We've Only Just Begun | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, next paragraph |
+| We've Only Just Begun | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
