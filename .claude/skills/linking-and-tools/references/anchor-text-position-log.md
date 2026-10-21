@@ -419,3 +419,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Comfortably Numb | Songs | 70s Progressive Rock (genre) | /blog/genres/70s-progressive-rock/ | "Written and Recorded" H2, "The Solos" H3, closing sentence (anchor "70s progressive rock") |
 | Comfortably Numb | Songs | Music of the 70s | / | "Written and Recorded" H2, after the video |
 | Comfortably Numb | Songs | Random 70s Song Generator | /pages/random-70s-song | "Awards, Rankings and Certifications" H2, closing paragraph |
+| You're the One That I Want | Songs | Music of the 70s | / | "Written for the Film" H2, "The Director Was Not a Fan" H3, closing sentence (anchor "Music of the 70s") |
+| You're the One That I Want | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Written for the Film" H2, "The Showdown on Screen" H3, closing sentence |
+| You're the One That I Want | Songs | Listen Now deep link | /radio/?play=1978-13-youre-the-one-that-i-want | "Recording and Release" H2, "Hear the 1978 Single" H3, before the video |
+| You're the One That I Want | Songs | Top Songs of 1978 (year) | /blog/years/top-songs-of-1978/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1978") |
+| You're the One That I Want | Songs | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | "On the Charts" H2, final standalone sentence (anchor "70s number one hits") |
+| You're the One That I Want | Songs | Hopelessly Devoted to You | /blog/songs/hopelessly-devoted-to-you/ | "Reception" H2, "The Other Farrar Song" H3, last sentence (anchor "Hopelessly Devoted to You") |
+| You're the One That I Want | Songs | Random 70s Song Generator | /pages/random-70s-song | "Later Versions" H2, closing paragraph |
+| You're the One That I Want | Songs | Olivia Newton-John Songs (artist) | /blog/artists/olivia-newton-john-songs/ | Same closing section, last paragraph (anchor "Olivia Newton-John songs") |
