@@ -402,3 +402,8 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | We've Only Just Begun | Songs | Carpenters Songs (artist) | /blog/artists/carpenters-songs/ | "After 1970" H2, "What the Carpenters Did Next" H3, after Nixon image (anchor "Carpenters songs") |
 | We've Only Just Begun | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, next paragraph |
 | We've Only Just Begun | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Rhiannon Fleetwood Mac | Songs | Dreams | /blog/songs/dreams-fleetwood-mac/ | "On the Charts" H2, after "What the Critics Said" list, closing sentence (anchor "Dreams") |
+| Rhiannon Fleetwood Mac | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Rhiannon Live" H2, "Why It Works Live" H3, last sentence |
+| Rhiannon Fleetwood Mac | Songs | Fleetwood Mac Songs (artist) | /blog/artists/fleetwood-mac-songs/ | Same sentence (anchor "Fleetwood Mac song") |
+| Rhiannon Fleetwood Mac | Songs | Music of the 70s | / | "The Rhiannon Project" H2, closing paragraph (anchor "Music of the 70s") |
+| Rhiannon Fleetwood Mac | Songs | Random 70s Song Generator | /pages/random-70s-song | Same paragraph |
