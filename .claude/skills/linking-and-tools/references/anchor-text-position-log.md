@@ -449,3 +449,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Mandy Barry Manilow | Songs | Copacabana | /blog/songs/copacabana-barry-manilow/ | "Reception and Legacy" H2, "Where It Turns Up" H3, second-to-last sentence (anchor "Copacabana") |
 | Mandy Barry Manilow | Songs | Barry Manilow Songs (artist) | /blog/artists/barry-manilow-songs/ | "Reception and Legacy" H2, closing sentence (anchor "Barry Manilow songs") |
 | Mandy Barry Manilow | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers and Later Versions" H2, opening paragraph |
+| Boogie Wonderland | Songs | September (song) | /blog/songs/september-earth-wind-and-fire/ | "The Lyric Behind the Party" H2, "The Same Songwriter as September" H3 (anchor "September") |
+| Boogie Wonderland | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Recording and Release" H2, "Who Played on It" H3, after the credits list |
+| Boogie Wonderland | Songs | Listen Now deep link | /radio/?play=1979-57-boogie-wonderland | "Hear Boogie Wonderland" H3, before the video (anchor "Boogie Wonderland") |
+| Boogie Wonderland | Songs | Top Songs of 1979 (year) | /blog/years/top-songs-of-1979/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1979") |
+| Boogie Wonderland | Songs | Random 70s Song Generator | /pages/random-70s-song | "On the Charts" H2, after "Certifications" list |
+| Boogie Wonderland | Songs | Earth, Wind and Fire Songs (artist) | /blog/artists/earth-wind-and-fire-songs/ | "Reception and Legacy" H2, "Where to Go Next" H3 (anchor "Earth, Wind and Fire songs") |
+| Boogie Wonderland | Songs | 70s Disco Music (genre) | /blog/genres/disco-music-of-the-70s/ | Same H3 (anchor "70s disco music") |
+| Boogie Wonderland | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
