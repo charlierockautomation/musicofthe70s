@@ -457,3 +457,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Boogie Wonderland | Songs | Earth, Wind and Fire Songs (artist) | /blog/artists/earth-wind-and-fire-songs/ | "Reception and Legacy" H2, "Where to Go Next" H3 (anchor "Earth, Wind and Fire songs") |
 | Boogie Wonderland | Songs | 70s Disco Music (genre) | /blog/genres/disco-music-of-the-70s/ | Same H3 (anchor "70s disco music") |
 | Boogie Wonderland | Songs | Music of the 70s | / | Same H3, closing sentence (anchor "Music of the 70s") |
+| Annie's Song | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Annie's Song: Written on an Aspen Ski Lift" H2, "Ten Minutes on a Chairlift" H3, closing sentence |
+| Annie's Song | Songs | Listen Now deep link | /radio/?play=1974-25-annies-song | "Recording and Release" H2, before "The Single at a Glance" (anchor "Annie's Song") |
+| Annie's Song | Songs | Top Songs of 1974 (year) | /blog/years/top-songs-of-1974/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1974") |
+| Annie's Song | Songs | John Denver Songs (artist) | /blog/artists/john-denver-songs/ | "Legacy and Parodies" H2, "Denver's Big Years" H3, first sentence (anchor "John Denver songs") |
+| Annie's Song | Songs | Take Me Home, Country Roads (song) | /blog/songs/take-me-home-country-roads/ | Same H3, third sentence (anchor "Take Me Home, Country Roads") |
+| Annie's Song | Songs | Random 70s Song Generator | /pages/random-70s-song | "Legacy and Parodies" H2, "Monty Python and the Football Terraces" H3, closing sentence |
+| Annie's Song | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/ | "Covers and Adaptations" H2, closing paragraph (anchor "70s soft rock") |
+| Annie's Song | Songs | Music of the 70s | / | Same closing paragraph (anchor "Music of the 70s") |
