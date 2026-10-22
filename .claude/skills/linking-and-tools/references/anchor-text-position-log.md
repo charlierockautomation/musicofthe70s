@@ -435,3 +435,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Telephone Line ELO | Songs | Music of the 70s | / | "Reception" H2, opening paragraph (anchor "Music of the 70s") |
 | Telephone Line ELO | Songs | Mr. Blue Sky | /blog/songs/mr-blue-sky/ | "Reception" H2, "The Band's Other Big Record" H3, last sentence (anchor "Mr. Blue Sky") |
 | Telephone Line ELO | Songs | Electric Light Orchestra Songs (artist) | /blog/artists/electric-light-orchestra-songs/ | "Covers and Later Versions" H2, closing paragraph (anchor "Electric Light Orchestra songs") |
+| I'll Be There Jackson 5 | Songs | Mood Song Matcher | /pages/mood-song-matcher | "I'll Be There Jackson 5: The Song Behind the Promise" H2, "Two Lead Voices" H3, closing sentence |
+| I'll Be There Jackson 5 | Songs | 70s Soul Music (genre) | /blog/genres/70s-soul-music/ | Same H2, "A Slower Side of the Group" H3, closing sentence (anchor "70s soul music") |
+| I'll Be There Jackson 5 | Songs | Listen Now deep link | /radio/?play=1970-7-ill-be-there | "Recording and Release" H2, "Hear a 1970 TV Performance" H3, before the video |
+| I'll Be There Jackson 5 | Songs | Top Songs of 1970 (year) | /blog/years/top-songs-of-1970/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1970") |
+| I'll Be There Jackson 5 | Songs | I Want You Back | /blog/songs/i-want-you-back/ | "Reception and Legacy" H2, "Ten Weeks Beat Every Other Act" H3, after the table (anchor "I Want You Back") |
+| I'll Be There Jackson 5 | Songs | Jackson 5 Songs (artist) | /blog/artists/jackson-5-songs/ | "Reception and Legacy" H2, "The Last of the Run" H3, closing sentence (anchor "Jackson 5 songs") |
+| I'll Be There Jackson 5 | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers and Later Versions" H2, opening paragraph |
+| I'll Be There Jackson 5 | Songs | Music of the 70s | / | "Recording and Release" H2, opening paragraphs (anchor "Music of the 70s") |
