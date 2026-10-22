@@ -443,3 +443,9 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | I'll Be There Jackson 5 | Songs | Jackson 5 Songs (artist) | /blog/artists/jackson-5-songs/ | "Reception and Legacy" H2, "The Last of the Run" H3, closing sentence (anchor "Jackson 5 songs") |
 | I'll Be There Jackson 5 | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers and Later Versions" H2, opening paragraph |
 | I'll Be There Jackson 5 | Songs | Music of the 70s | / | "Recording and Release" H2, opening paragraphs (anchor "Music of the 70s") |
+| Mandy Barry Manilow | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Mandy Barry Manilow: From Brandy to Mandy" H2, "Scott English's Brandy" H3, closing sentence |
+| Mandy Barry Manilow | Songs | Listen Now deep link | /radio/?play=1975-36-mandy | "Recording and Release" H2, closing sentence before "The Single at a Glance" (anchor "Mandy") |
+| Mandy Barry Manilow | Songs | Top Songs of 1975 (year) | /blog/years/top-songs-of-1975/ | "On the Charts" H2, "Year-End Standing" H3, last sentence (anchor "top songs of 1975") |
+| Mandy Barry Manilow | Songs | Copacabana | /blog/songs/copacabana-barry-manilow/ | "Reception and Legacy" H2, "Where It Turns Up" H3, second-to-last sentence (anchor "Copacabana") |
+| Mandy Barry Manilow | Songs | Barry Manilow Songs (artist) | /blog/artists/barry-manilow-songs/ | "Reception and Legacy" H2, closing sentence (anchor "Barry Manilow songs") |
+| Mandy Barry Manilow | Songs | Random 70s Song Generator | /pages/random-70s-song | "Covers and Later Versions" H2, opening paragraph |
