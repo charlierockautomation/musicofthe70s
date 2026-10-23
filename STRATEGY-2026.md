@@ -163,7 +163,7 @@ One-hit wonder definition: 368 acts appear on the year-end lists only once — f
 
 ### 6D. Artists rotation (re-aimed)
 
-Alternate a **chart giant** (big in the data, zero coverage) with a **search giant**. No ABBA or Bee Gees posts before 2026-11-25.
+Alternate a **chart giant** (big in the data, zero coverage) with a **search giant**. No ABBA or Bee Gees posts until all major 70s artists and the top 70s songs are on the site (Charlie, 2026-10-23: site is over-weighted on them; condition-based, not a date).
 
 | Order | Artist | Why | Bucket |
 | --- | --- | --- | --- |

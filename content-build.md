@@ -14,7 +14,7 @@
 25-40 songs, one verified line of story each, year and peak (hot100_weekly.json or Wikipedia, credited), playable via /js/table-player.js, "Play the whole list" into Listen Now. Pick URL path per design-system skill. Not in CONTENT-INDEX.md yet (checked 2026-10-23).
 Queue after it, in order: (2) 70s Party Songs (verify demand), (3) 70s Road Trip Songs (verify), (4) 70s Slow Songs (390/mo, fold into Love Songs if thin; 6F cap is 4 total), (5) 6G This Week in 1970s Music (weekly), (6) AdSense leftovers (youtube_status.py --report + player-page audit), (7) source pass on ~24 remaining songs posts.
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
-Blocked until 2026-11-25: ABBA and Bee Gees posts (Charlie-approved strategy pause, STRATEGY-2026.md 6D; site already over-weighted on them).
+Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
 Charlie-only actions (not mine): Bing Webmaster + IndexNow, confirm hello@ mailbox.
 
 ---
@@ -93,7 +93,7 @@ Source: STRATEGY-2026.md (reference, exempt from cap; open only the named sectio
 items listed. DONE items (Phase 0 items 1-6, 9-11 + 12 core pages, flagships 6A 1-6, homepage, Best Songs, Disco,
 Soul, chart-archive gap fix) are in SESSION-LOG-ARCHIVE.md "Strategy Queue as of 2026-10-09".
 
-**GUARDRAIL: no ABBA or Bee Gees posts before 2026-11-25** (section 6D). Newest live: Tragedy 2026-09-25.
+**GUARDRAIL: no ABBA or Bee Gees posts or pages until all major 70s artists and the top 70s songs are on the site (Charlie, 2026-10-23: site already over-weighted on them; lifted by Charlie's call, not by date)** (section 6D). Newest live: Tragedy 2026-09-25.
 
 1. **Phase 0 trust fixes left** (section 8)
    - Item 7 PARTIAL: 89 of 110 posts have <3 external links (songs 56, artists 24, genres 5, trivia 4). Years 1975-79 got a 3-link Sources section 2026-10-18 (pushed a3f51c8). Years 1970-74 got the same 3-link Sources section 2026-10-23: LIVE (pushed c79fd15 + sitemap ce104ae, Charlie go-ahead, live check passed on all 5). Best Songs of the 70s got the same 3-link Sources section 2026-10-23: LIVE (pushed eb3ba85 + sitemap, Charlie go-ahead, live check passed). Songs batch 1 (Bohemian Rhapsody, Hotel California, I Will Survive, Jolene, Superstition) got the same Sources section 2026-10-23: LIVE (pushed 64580cd + sitemap 6637d8d, Charlie go-ahead, live check passed). Songs batch 2 (49 remaining songs posts, no per-session cap) got the same Sources section 2026-10-23: LIVE (pushed 77bd019 + sitemap f384485, Charlie go-ahead, live check passed 49/49). Artists (24), pop-songs-of-70s, abba-vs-queen, banned-songs, 70s-one-hit-wonders got the same Sources section 2026-10-23: LIVE (pushed dbfe720 + sitemap 7577a43, Charlie go-ahead, live check passed 28/28). Item 7 DONE except ~24 songs posts whose Sources section still yields <3 unique ext links (e.g. stairway-to-heaven, tiny-dancer)
@@ -120,7 +120,7 @@ Rhythm: Mon flagship/upgrade, Tue Artist, Wed Song, Thu 6G, Fri Song or source p
 
 ### Genre Lists and Hub Rollout (one task per session, in order)
 Standing checklist for EVERY session S1-S6: content-gap check; PUBLISH GATE (local-server review, never commit or push live content without Charlie's explicit go-ahead); 3+ external source links on any page touched; internal link rule (same target once per article); clean URLs only; run check_clean_urls.py and check_schema.py; mobile check; update content-build.md and CONTENT-INDEX.md; end with the closed status report.
-ABBA / Bee Gees: no new posts or pages about them before 2026-11-25 (their songs may appear inside list pages).
+ABBA / Bee Gees: no new posts or pages about them until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23, not date-based) (their songs may appear inside list pages).
 Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
 - S1. Pop list page (230 songs), including the performance check first: DONE 2026-10-09 (live, f2aa129; 230 rows, no videos load until Play, no pagination needed)
 - S2. Funk list page (58): DONE 2026-10-09 (live, b5b46e9; 58 rows, 11 #1 hits, Sources section added with 4 Wikipedia links)

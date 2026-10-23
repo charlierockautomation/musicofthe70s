@@ -600,7 +600,7 @@ Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known m
 - Songs (Wed/Fri): STRATEGY-2026.md section 6E, drawn only from live 6D artists
 - Listening pages (fold into Mon or Fri as needed): STRATEGY-2026.md section 6F, cap 4
 
-**Pause:** no ABBA or Bee Gees posts before 2026-11-25 (STRATEGY-2026.md section 6D).
+**Pause:** no ABBA or Bee Gees posts until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23; STRATEGY-2026.md 6D).
 
 
 ## Songs 6E Queue rows #1-4 as of 2026-10-21 (pruned from content-build.md)
