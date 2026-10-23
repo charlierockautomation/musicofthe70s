@@ -90,6 +90,10 @@ step once both conditions are independently verified true.
    content-gap question the Auto-Go Rule doesn't resolve, a real tradeoff)
    — not a routine "which post next."
 
+2b. "WHAT'S NEXT" = ONE ANSWER. When Charlie asks what is next, read the NEXT UP block at the
+   top of content-build.md and reply with that single item only: no menus, no options, no
+   status survey. At the end of every session, update NEXT UP so it always names the next item.
+
 3. NO NARRATION FLOURISHES. Skip session-timer callouts, restated recap
    paragraphs, or personality flourishes in the final report unless Charlie
    explicitly asks for a summary. End with a plain, closed statement of
