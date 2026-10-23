@@ -465,3 +465,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Annie's Song | Songs | Random 70s Song Generator | /pages/random-70s-song | "Legacy and Parodies" H2, "Monty Python and the Football Terraces" H3, closing sentence |
 | Annie's Song | Songs | 70s Soft Rock (genre) | /blog/genres/70s-soft-rock/ | "Covers and Adaptations" H2, closing paragraph (anchor "70s soft rock") |
 | Annie's Song | Songs | Music of the 70s | / | Same closing paragraph (anchor "Music of the 70s") |
+| Go Your Own Way | Songs | Dreams (song) | /blog/songs/dreams-fleetwood-mac/ | "Go Your Own Way: Written About a Bandmate" H2, "The Line Stevie Nicks Wanted Gone" H3, near end (anchor "Dreams Fleetwood Mac") |
+| Go Your Own Way | Songs | Listen Now deep link | /radio/?play=1977-94-go-your-own-way | "The Single at a Glance" H2, after the chord list (anchor "Go Your Own Way") |
+| Go Your Own Way | Songs | Top Songs of 1977 (year) | /blog/years/top-songs-of-1977/ | "On the Charts" H2, "The Billboard Hot 100 Run" H3 (anchor "top songs of 1977") |
+| Go Your Own Way | Songs | Random 70s Song Generator | /pages/random-70s-song | Same H3, closing sentence |
+| Go Your Own Way | Songs | Music of the 70s | / | "Critics and the Live Show" H2, "Closing Out Fleetwood Mac Shows" H3, closing sentence (anchor "Music of the 70s") |
+| Go Your Own Way | Songs | Fleetwood Mac Songs (artist) | /blog/artists/fleetwood-mac-songs/ | "Covers and Later Uses" H2, closing paragraph (anchor "Fleetwood Mac songs") |
+| Go Your Own Way | Songs | Rhiannon (song) | /blog/songs/rhiannon-fleetwood-mac/ | Same closing paragraph (anchor "Rhiannon") |
+| Go Your Own Way | Songs | 70s Rock (genre) | /blog/genres/70s-rock/ | Same closing paragraph (anchor "70s rock") |
