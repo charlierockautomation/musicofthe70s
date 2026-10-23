@@ -85,7 +85,7 @@ Soul, chart-archive gap fix) are in SESSION-LOG-ARCHIVE.md "Strategy Queue as of
 **GUARDRAIL: no ABBA or Bee Gees posts before 2026-11-25** (section 6D). Newest live: Tragedy 2026-09-25.
 
 1. **Phase 0 trust fixes left** (section 8)
-   - Item 7 PARTIAL: 89 of 110 posts have <3 external links (songs 56, artists 24, genres 5, trivia 4). Years 1975-79 got a 3-link Sources section 2026-10-18 (pushed a3f51c8). 5/session. Years 1970-74 got the same 3-link Sources section 2026-10-23: LIVE (pushed c79fd15 + sitemap ce104ae, Charlie go-ahead, live check passed on all 5). Next: Best Songs
+   - Item 7 PARTIAL: 89 of 110 posts have <3 external links (songs 56, artists 24, genres 5, trivia 4). Years 1975-79 got a 3-link Sources section 2026-10-18 (pushed a3f51c8). 5/session. Years 1970-74 got the same 3-link Sources section 2026-10-23: LIVE (pushed c79fd15 + sitemap ce104ae, Charlie go-ahead, live check passed on all 5). Best Songs of the 70s got the same 3-link Sources section 2026-10-23: built locally, pending Charlie review (not committed). Next: remaining songs posts (56 under 3 links), 5/session
    - Item 8 NOT STARTED, Charlie's action: Bing Webmaster + IndexNow (no msvalidate tag or key file in repo)
 2. **AdSense readiness (item 12) PARTIAL** (section 8; CLAUDE.md YouTube rule)
    - Contact page, About publisher identity, Privacy Policy ad text, sitemap (131 URLs, no gaps) are in place
