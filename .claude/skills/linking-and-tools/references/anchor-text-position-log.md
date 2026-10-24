@@ -473,3 +473,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | Go Your Own Way | Songs | Fleetwood Mac Songs (artist) | /blog/artists/fleetwood-mac-songs/ | "Covers and Later Uses" H2, closing paragraph (anchor "Fleetwood Mac songs") |
 | Go Your Own Way | Songs | Rhiannon (song) | /blog/songs/rhiannon-fleetwood-mac/ | Same closing paragraph (anchor "Rhiannon") |
 | Go Your Own Way | Songs | 70s Rock (genre) | /blog/genres/70s-rock/ | Same closing paragraph (anchor "70s rock") |
+| 70s Love Songs | Songs | Listen Now deep link | /radio/?play=1970-2-they-long-to-be-close-to-you | After the playable table, notes paragraph (anchor "Open the same songs on Listen Now") |
+| 70s Love Songs | Songs | Mood Song Matcher | /pages/mood-song-matcher | "How These 70s Love Songs Were Chosen" H2, "Where the Year-End Rank..." H3, last sentence |
+| 70s Love Songs | Songs | 70s One Hit Wonders (post) | /blog/songs/70s-one-hit-wonders/ | "The Longest Runs at Number One" H2, "Ten Weeks for Debby Boone" H3 (anchor "70s one hit wonders") |
+| 70s Love Songs | Songs | Carpenters Songs (artist) | /blog/artists/carpenters-songs/ | "First Number Ones" H2, closing sentence (anchor "Carpenters songs") |
+| 70s Love Songs | Songs | Music of the 70s | / | "Year by Year" H2, "The Decade Ends on the Bee Gees" H3, last sentence (anchor "Music of the 70s") |
+| 70s Love Songs | Songs | 70s Number One Hits (post) | /blog/songs/70s-number-one-hits/ | Same sentence (anchor "70s number one hits") |
+| 70s Love Songs | Songs | Random 70s Song Generator | /pages/random-70s-song | After the FAQ, closing paragraph |

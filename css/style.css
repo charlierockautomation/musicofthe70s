@@ -418,6 +418,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .n1-unavailable { color: var(--text-muted); margin: 0.5rem 0 0.75rem; }
 /* In-page player rows (js/table-player.js), same pattern as n1- above */
 .data-table td.ohw-listen { padding-right: 0.25rem; }
+.data-table td.love-story { min-width: 16rem; color: var(--text-muted); }
 .ohw-play, .ohw-close {
   background: none; border: 1px solid var(--accent-gold); color: var(--accent-gold); border-radius: 999px;
   padding: 0.3rem 0.8rem; font: inherit; font-size: 0.85rem; cursor: pointer; white-space: nowrap;
