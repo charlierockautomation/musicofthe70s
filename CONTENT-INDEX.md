@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-23 (Go Your Own Way LIVE)
+# Last Updated: 2026-10-24 (70s Love Songs LIVE)
 
 ---
 
@@ -63,13 +63,13 @@ One row per post. Add a new row the moment a post file is created — even befor
 
 | Title | URL | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
 |---|---|---|---|---|---|---|
-| I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Live (pushed d722350, live check passed) | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |
 | Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | Dreams Fleetwood Mac: Written in 10 Minutes, Alive in 2020 | https://musicofthe70s.net/blog/songs/dreams-fleetwood-mac/ | Songs | dreams fleetwood mac | LIVE | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |
 | 25 or 6 to 4: What Chicago's Song Title Really Means | https://musicofthe70s.net/blog/songs/25-or-6-to-4/ | Songs | 25 or 6 to 4 | LIVE | 2026-10-18 | Random 70s Song Generator, Mood Song Matcher |
 | Comfortably Numb: Waters, Gilmour and the Strings Fight | https://musicofthe70s.net/blog/songs/comfortably-numb-pink-floyd/ | Songs | comfortably numb | LIVE (pushed ea71d2f, live check passed) | 2026-10-21 | Mood Song Matcher, Random 70s Song Generator; links Pink Floyd Songs, 70s Progressive Rock, Music of the 70s, Wish You Were Here. Certs, rankings, live, covers Wikipedia-credited; no Hot 100 data; no radio_id |
 | I'll Be There Jackson 5: Five Weeks at No. 1 in 1970 | https://musicofthe70s.net/blog/songs/ill-be-there-jackson-5/ | Songs | i'll be there jackson 5 | LIVE (pushed a69cac2 + hubs 0555068, live URL 200 across 3 checks) | 2026-10-22 | Mood Song Matcher, Random 70s Song Generator; links 70s Soul Music, Top Songs of 1970, I Want You Back, Jackson 5 Songs, Music of the 70s. Facts Wikipedia-credited + weekly Hot 100 (5 wks #1; Jackson 5 10 wks in 1970, most of any act); successor at #1 omitted (Wikipedia vs weekly JSON disagree). |
 | Go Your Own Way: Buckingham's Breakup Song Explained | https://musicofthe70s.net/blog/songs/go-your-own-way/ | Songs | go your own way | LIVE (pushed e206abe + hubs f964334, live URL 200 across 3 checks) | 2026-10-23 | Random 70s Song Generator, Listen Now deep link; links Dreams, Rhiannon, Fleetwood Mac Songs, Top Songs of 1977, 70s Rock, Music of the 70s. Facts Wikipedia-credited; YE 94 site data. |
+| 70s Love Songs: 30 Classics You Can Play Right Here | https://musicofthe70s.net/blog/songs/70s-love-songs/ | Songs | 70s love songs | LIVE (pushed after Charlie go-ahead, hubs 95e7754, live URL 200) | 2026-10-23 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
 | Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
 | Hopelessly Devoted to You: Grease Ballad Written Mid-Shoot | https://musicofthe70s.net/blog/songs/hopelessly-devoted-to-you/ | Songs | hopelessly devoted to you | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Listen Now deep link, Olivia Newton-John Songs, Top Songs of 1978, 70s Soft Rock |
 | Mr. Blue Sky: How ELO Wrote It After Two Weeks of Gloom | https://musicofthe70s.net/blog/songs/mr-blue-sky/ | Songs | mr. blue sky | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Top Songs of 1978, Electric Light Orchestra Songs |

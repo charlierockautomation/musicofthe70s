@@ -750,3 +750,5 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Take It Easy: The Song Jackson Browne Couldn't Finish | https://musicofthe70s.net/blog/songs/take-it-easy/index.html | Songs | take it easy | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
 | Mamma Mia Song: The Story ABBA Almost Gave Away | https://musicofthe70s.net/blog/songs/mamma-mia-song/index.html | Songs | mamma mia song | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
 | Gimme Gimme Gimme: The ABBA Song America Never Got | https://musicofthe70s.net/blog/songs/gimme-gimme-gimme/index.html | Songs | gimme gimme gimme | Live | 2026-08-20 | Mood Song Matcher, Random 70s Song Generator |
+
+| I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Live (pushed d722350, live check passed) | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |

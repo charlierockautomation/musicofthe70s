@@ -4,15 +4,15 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-22 (I'll Be There Jackson 5 LIVE)
+# Last Updated: 2026-10-24 (70s Love Songs LIVE)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6F Listening page #1, "70s Love Songs"** (`70s love songs`, 6,600/mo per STRATEGY-2026.md 6F; re-verify keyword + SERP gap at build time).
-25-40 songs, one verified line of story each, year and peak (hot100_weekly.json or Wikipedia, credited), playable via /js/table-player.js, "Play the whole list" into Listen Now. Pick URL path per design-system skill. Not in CONTENT-INDEX.md yet (checked 2026-10-23).
-Queue after it, in order: (2) 70s Party Songs (verify demand), (3) 70s Road Trip Songs (verify), (4) 70s Slow Songs (390/mo, fold into Love Songs if thin; 6F cap is 4 total), (5) 6G This Week in 1970s Music (weekly), (6) AdSense leftovers (youtube_status.py --report + player-page audit), (7) source pass on ~24 remaining songs posts.
+**NEXT: 6F Listening page #2, "70s Party Songs"** (verify demand and SERP gap with DataForSEO at build time; 6F cap is 4 total, 1 of 4 done).
+Same format as 70s Love Songs (/blog/songs/70s-love-songs/, built by scripts/generate_70s_love_songs_page.py): 25-40 songs, one verified line of story each, year and peak (hot100_weekly.json or Wikipedia, credited), playable via /js/table-player.js, Listen Now link. Keep each focus keyword distinct from Love Songs.
+Queue after it, in order: (2) 70s Road Trip Songs (verify), (3) 70s Slow Songs (390/mo, fold into Love Songs if thin), (4) 6G This Week in 1970s Music (weekly), (5) AdSense leftovers (youtube_status.py --report + player-page audit), (6) source pass on ~24 remaining songs posts.
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
 Charlie-only actions (not mine): Bing Webmaster + IndexNow, confirm hello@ mailbox.
