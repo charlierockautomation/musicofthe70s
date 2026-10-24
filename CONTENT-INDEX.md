@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-24 (70s Party Songs LIVE)
+# Last Updated: 2026-10-24 (70s Dance Songs built, awaiting review)
 
 ---
 
@@ -71,6 +71,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Go Your Own Way: Buckingham's Breakup Song Explained | https://musicofthe70s.net/blog/songs/go-your-own-way/ | Songs | go your own way | LIVE (pushed e206abe + hubs f964334, live URL 200 across 3 checks) | 2026-10-23 | Random 70s Song Generator, Listen Now deep link; links Dreams, Rhiannon, Fleetwood Mac Songs, Top Songs of 1977, 70s Rock, Music of the 70s. Facts Wikipedia-credited; YE 94 site data. |
 | 70s Love Songs: 30 Classics You Can Play Right Here | https://musicofthe70s.net/blog/songs/70s-love-songs/ | Songs | 70s love songs | LIVE (pushed after Charlie go-ahead, hubs 95e7754, live URL 200) | 2026-10-23 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
 | 70s Party Songs: 30 Dance Floor Hits You Can Play Here | https://musicofthe70s.net/blog/songs/70s-party-songs/ | Songs | 70s party songs | LIVE (pushed f16b33b after Charlie go-ahead, hubs cdda330, live URL 200) | 2026-10-24 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
+| 70s Dance Songs: 30 Tracks Built for the Floor | https://musicofthe70s.net/blog/songs/70s-dance-songs/ | Songs | 70s dance songs | BUILT, local preview only, awaiting Charlie's review (generator scripts/generate_70s_dance_songs_page.py, 2,933 words, all gate checks PASS) | 2026-10-24 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
 | Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
 | Hopelessly Devoted to You: Grease Ballad Written Mid-Shoot | https://musicofthe70s.net/blog/songs/hopelessly-devoted-to-you/ | Songs | hopelessly devoted to you | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Listen Now deep link, Olivia Newton-John Songs, Top Songs of 1978, 70s Soft Rock |
 | Mr. Blue Sky: How ELO Wrote It After Two Weeks of Gloom | https://musicofthe70s.net/blog/songs/mr-blue-sky/ | Songs | mr. blue sky | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Top Songs of 1978, Electric Light Orchestra Songs |
@@ -111,11 +112,8 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Al Green Let's Stay Together: The Song He Didn't Want to Cut | https://musicofthe70s.net/blog/songs/al-green-lets-stay-together/index.html | Songs | al green let's stay together | Live | 2026-09-01 | Mood Song Matcher, Random 70s Song Generator |
 | One of These Nights: The Eagles' Turn Away From Country | https://musicofthe70s.net/blog/songs/one-of-these-nights/index.html | Songs | one of these nights | Live | 2026-09-01 | Random 70s Song Generator, Mood Song Matcher |
 | Killer Queen: Freddie Mercury's First Real US Hit | https://musicofthe70s.net/blog/songs/killer-queen/index.html | Songs | killer queen | Live | 2026-09-01 | Mood Song Matcher, Random 70s Song Generator |
-| How Can You Mend a Broken Heart: Written in Under an Hour | https://musicofthe70s.net/blog/songs/how-can-you-mend-a-broken-heart/index.html | Songs | how can you mend a broken heart | Live | 2026-08-31 | Mood Song Matcher, Random 70s Song Generator |
-| ABBA Waterloo: The Song Written to Win, Not to Chart | https://musicofthe70s.net/blog/songs/abba-waterloo/index.html | Songs | ABBA Waterloo | Live | 2026-08-31 | Mood Song Matcher, 70s Music Trivia Quiz, Random 70s Song Generator |
 | Donna Summer: The 1977 Hit Too Influential for the Charts | https://musicofthe70s.net/blog/artists/donna-summer/index.html | Artists | Donna Summer | Live | 2026-08-31 | Random Artist Picker, 70s Music Trivia Quiz |
 | Al Green: The Hit He Gave Away Before It Was a Hit | https://musicofthe70s.net/blog/artists/al-green/index.html | Artists | al green | Live | 2026-08-30 | Random Artist Picker, 70s Music Trivia Quiz |
-| Bridge Over Troubled Water: The Gospel Line Simon Paid For | https://musicofthe70s.net/blog/songs/bridge-over-troubled-water/index.html | Songs | bridge over troubled water | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
 | Stayin Alive: Built on a Magazine Story That Was Fake | https://musicofthe70s.net/blog/songs/stayin-alive/index.html | Songs | stayin alive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
 | I Will Survive: A B-Side Nobody Wanted to Release | https://musicofthe70s.net/blog/songs/i-will-survive/index.html | Songs | i will survive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
 | Seasons in the Sun: The Beach Boys Killed It First | https://musicofthe70s.net/blog/songs/seasons-in-the-sun/index.html | Songs | seasons in the sun | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |

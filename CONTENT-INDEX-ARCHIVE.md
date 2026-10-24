@@ -752,3 +752,7 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | Gimme Gimme Gimme: The ABBA Song America Never Got | https://musicofthe70s.net/blog/songs/gimme-gimme-gimme/index.html | Songs | gimme gimme gimme | Live | 2026-08-20 | Mood Song Matcher, Random 70s Song Generator |
 
 | I Am Woman by Helen Reddy: The Story Behind the Anthem | https://musicofthe70s.net/blog/songs/i-am-woman/ | Songs | i am woman | Live (pushed d722350, live check passed) | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator; links Helen Reddy Songs, 70s Number One Hits, Top Songs of 1972, Music of the 70s. 1 week #1 from weekly data; peaks, Grammy, registry, covers Wikipedia-credited; no radio_id |
+
+| How Can You Mend a Broken Heart: Written in Under an Hour | https://musicofthe70s.net/blog/songs/how-can-you-mend-a-broken-heart/index.html | Songs | how can you mend a broken heart | Live | 2026-08-31 | Mood Song Matcher, Random 70s Song Generator |
+| ABBA Waterloo: The Song Written to Win, Not to Chart | https://musicofthe70s.net/blog/songs/abba-waterloo/index.html | Songs | ABBA Waterloo | Live | 2026-08-31 | Mood Song Matcher, 70s Music Trivia Quiz, Random 70s Song Generator |
+| Bridge Over Troubled Water: The Gospel Line Simon Paid For | https://musicofthe70s.net/blog/songs/bridge-over-troubled-water/index.html | Songs | bridge over troubled water | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |

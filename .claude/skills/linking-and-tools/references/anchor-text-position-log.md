@@ -488,3 +488,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Party Songs | Songs | Music of the 70s | / | "Year by Year" H2, "The Decade Closes on the Dance Floor" H3 (anchor "Music of the 70s") |
 | 70s Party Songs | Songs | 70s Number One Hits, 70s Love Songs | /blog/songs/70s-number-one-hits/, /blog/songs/70s-love-songs/ | Same H3, closing sentences (anchors "70s number one hits", "70s love songs") |
 | 70s Party Songs | Songs | Random 70s Song Generator | /pages/random-70s-song | After the FAQ, closing paragraph |
+| 70s Dance Songs | Songs | Listen Now deep link | /radio/?play=1978-1-shadow-dancing | After the playable table, notes paragraph (anchor "Open the same songs on Listen Now") |
+| 70s Dance Songs | Songs | 70s Party Songs (post) | /blog/songs/70s-party-songs/ | "Short Answer" H2, "Skip the Party Singalongs" H3 (anchor "70s party songs") |
+| 70s Dance Songs | Songs | Mood Song Matcher | /pages/mood-song-matcher | "How These 70s Dance Songs Were Chosen" H2, rank H3, last sentence |
+| 70s Dance Songs | Songs | Get on the Good Foot (post) | /blog/songs/james-brown-get-on-the-good-foot/ | "Four Stretches" H2, 1970 to 1973 H3 (anchor "Get on the Good Foot") |
+| 70s Dance Songs | Songs | 70s Disco Music (genre) | /blog/genres/disco-music-of-the-70s/ | "Four Stretches" H2, 1979 H3 (anchor "70s disco music") |
+| 70s Dance Songs | Songs | Night Fever, Random 70s Song Generator | /blog/songs/night-fever/, /pages/random-70s-song | "Longest Streaks" H2, "Night Fever and Shadow Dancing" H3 |
+| 70s Dance Songs | Songs | Bad Girls (post) | /blog/songs/bad-girls/ | "Longest Streaks" H2, Donna Summer H3, last sentence |
+| 70s Dance Songs | Songs | 70s Number One Hits, 70s Love Songs, Music of the 70s | /blog/songs/70s-number-one-hits/, /blog/songs/70s-love-songs/, / | "Dance Songs That Never Hit Number One" H2, "A Rank Is Not a Peak" H3 |
