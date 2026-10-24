@@ -480,3 +480,11 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Love Songs | Songs | Music of the 70s | / | "Year by Year" H2, "The Decade Ends on the Bee Gees" H3, last sentence (anchor "Music of the 70s") |
 | 70s Love Songs | Songs | 70s Number One Hits (post) | /blog/songs/70s-number-one-hits/ | Same sentence (anchor "70s number one hits") |
 | 70s Love Songs | Songs | Random 70s Song Generator | /pages/random-70s-song | After the FAQ, closing paragraph |
+| 70s Party Songs | Songs | Listen Now deep link | /radio/?play=1979-3-le-freak | After the playable table, notes paragraph (anchor "Open the same songs on Listen Now") |
+| 70s Party Songs | Songs | Mood Song Matcher | /pages/mood-song-matcher | "How These 70s Party Songs Were Chosen" H2, "Where the Year-End Rank..." H3, last sentence |
+| 70s Party Songs | Songs | Joy to the World (post) | /blog/songs/joy-to-the-world-three-dog-night/ | "The Longest Runs" H2, "Joy to the World Started the Decade's Party" H3 (anchor "Joy to the World") |
+| 70s Party Songs | Songs | 70s Disco Music (genre) | /blog/genres/disco-music-of-the-70s/ | "The Sound of the List" H2, "Disco Carries the List" H3 (anchor "70s disco music") |
+| 70s Party Songs | Songs | Last Dance, Y.M.C.A., September (posts) | /blog/songs/last-dance/ etc. | "Party Songs That Stopped Short" H2, one link per H3 (anchors = song titles) |
+| 70s Party Songs | Songs | Music of the 70s | / | "Year by Year" H2, "The Decade Closes on the Dance Floor" H3 (anchor "Music of the 70s") |
+| 70s Party Songs | Songs | 70s Number One Hits, 70s Love Songs | /blog/songs/70s-number-one-hits/, /blog/songs/70s-love-songs/ | Same H3, closing sentences (anchors "70s number one hits", "70s love songs") |
+| 70s Party Songs | Songs | Random 70s Song Generator | /pages/random-70s-song | After the FAQ, closing paragraph |
