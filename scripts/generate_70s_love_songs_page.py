@@ -78,7 +78,7 @@ PICKS = [
     ("1978-35-hopelessly-devoted-to-you", False, "hopelessly-devoted-to-you",
      "John Farrar wrote it mid-shoot for Grease, and it peaked at number three and lost the Oscar."),
     ("1979-11-too-much-heaven", True, "too-much-heaven",
-     "It knocked Le Freak off number one twice in January 1979, and the Bee Gees gave all of the proceeds to UNICEF."),
+     "It knocked Le Freak off number one for two weeks in January 1979, and the Bee Gees gave all of the proceeds to UNICEF."),
     ("1979-5-reunited", True, None,
      "Peaches & Herb's first number one, for four straight weeks in May 1979."),
 ]
