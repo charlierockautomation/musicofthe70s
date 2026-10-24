@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-10-24 (70s Dance Songs built, awaiting review)
+# Last Updated: 2026-10-24 (70s Dance Songs LIVE)
 
 ---
 
@@ -71,7 +71,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Go Your Own Way: Buckingham's Breakup Song Explained | https://musicofthe70s.net/blog/songs/go-your-own-way/ | Songs | go your own way | LIVE (pushed e206abe + hubs f964334, live URL 200 across 3 checks) | 2026-10-23 | Random 70s Song Generator, Listen Now deep link; links Dreams, Rhiannon, Fleetwood Mac Songs, Top Songs of 1977, 70s Rock, Music of the 70s. Facts Wikipedia-credited; YE 94 site data. |
 | 70s Love Songs: 30 Classics You Can Play Right Here | https://musicofthe70s.net/blog/songs/70s-love-songs/ | Songs | 70s love songs | LIVE (pushed after Charlie go-ahead, hubs 95e7754, live URL 200) | 2026-10-23 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
 | 70s Party Songs: 30 Dance Floor Hits You Can Play Here | https://musicofthe70s.net/blog/songs/70s-party-songs/ | Songs | 70s party songs | LIVE (pushed f16b33b after Charlie go-ahead, hubs cdda330, live URL 200) | 2026-10-24 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
-| 70s Dance Songs: 30 Tracks Built for the Floor | https://musicofthe70s.net/blog/songs/70s-dance-songs/ | Songs | 70s dance songs | BUILT, local preview only, awaiting Charlie's review (generator scripts/generate_70s_dance_songs_page.py, 2,933 words, all gate checks PASS) | 2026-10-24 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
+| 70s Dance Songs: 30 Tracks Built for the Floor | https://musicofthe70s.net/blog/songs/70s-dance-songs/ | Songs | 70s dance songs | LIVE (pushed 92fb419 after Charlie go-ahead, hubs regenerated, live URL 200) | 2026-10-24 | Mood Song Matcher, Random 70s Song Generator, Listen Now |
 | Wish You Were Here Pink Floyd: Radio Intro and a Lost Friend | https://musicofthe70s.net/blog/songs/wish-you-were-here-pink-floyd/ | Songs | wish you were here pink floyd | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator |
 | Hopelessly Devoted to You: Grease Ballad Written Mid-Shoot | https://musicofthe70s.net/blog/songs/hopelessly-devoted-to-you/ | Songs | hopelessly devoted to you | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Listen Now deep link, Olivia Newton-John Songs, Top Songs of 1978, 70s Soft Rock |
 | Mr. Blue Sky: How ELO Wrote It After Two Weeks of Gloom | https://musicofthe70s.net/blog/songs/mr-blue-sky/ | Songs | mr. blue sky | LIVE | 2026-10-18 | Mood Song Matcher, Random 70s Song Generator, Top Songs of 1978, Electric Light Orchestra Songs |
