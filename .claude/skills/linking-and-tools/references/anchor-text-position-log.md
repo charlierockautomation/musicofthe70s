@@ -496,3 +496,10 @@ Position Log rows" in CONTENT-INDEX-ARCHIVE.md for that history.
 | 70s Dance Songs | Songs | Night Fever, Random 70s Song Generator | /blog/songs/night-fever/, /pages/random-70s-song | "Longest Streaks" H2, "Night Fever and Shadow Dancing" H3 |
 | 70s Dance Songs | Songs | Bad Girls (post) | /blog/songs/bad-girls/ | "Longest Streaks" H2, Donna Summer H3, last sentence |
 | 70s Dance Songs | Songs | 70s Number One Hits, 70s Love Songs, Music of the 70s | /blog/songs/70s-number-one-hits/, /blog/songs/70s-love-songs/, / | "Dance Songs That Never Hit Number One" H2, "A Rank Is Not a Peak" H3 |
+
+| 70s Road Trip Songs | Songs | Mood Song Matcher | /pages/mood-song-matcher | "Short Answer" H2, "Not Sure Which Road Trip Song Fits" H3 |
+| 70s Road Trip Songs | Songs | Listen Now deep link | /radio/?play=1971-8-take-me-home-country-roads | "How Chosen" H2, rank H3, last sentence (anchor "open the same songs on Listen Now") |
+| 70s Road Trip Songs | Songs | Music of the 70s | / | "Rides, Runs and Roads" H2, Wings H3, last sentence |
+| 70s Road Trip Songs | Songs | 70s Rock (genre), Take Me Home Country Roads (post), 70s Country Songs (genre) | /blog/genres/70s-rock/, /blog/songs/take-me-home-country-roads/, /blog/genres/70s-country-songs/ | "Genre Mix" H2, Classic Rock and Country H3s |
+| 70s Road Trip Songs | Songs | Bad, Bad Leroy Brown (post), Random 70s Song Generator | /blog/songs/bad-bad-leroy-brown/, /pages/random-70s-song | "Four Stretches" H2, 1970-73 and 1974-76 H3s |
+| 70s Road Trip Songs | Songs | 70s Number One Hits, 70s Dance Songs, 70s Party Songs | /blog/songs/70s-number-one-hits/, /blog/songs/70s-dance-songs/, /blog/songs/70s-party-songs/ | "Never Hit Number One" H2, "A Rank Is Not a Peak" H3 |
