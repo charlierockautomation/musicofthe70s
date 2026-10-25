@@ -756,3 +756,15 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | How Can You Mend a Broken Heart: Written in Under an Hour | https://musicofthe70s.net/blog/songs/how-can-you-mend-a-broken-heart/index.html | Songs | how can you mend a broken heart | Live | 2026-08-31 | Mood Song Matcher, Random 70s Song Generator |
 | ABBA Waterloo: The Song Written to Win, Not to Chart | https://musicofthe70s.net/blog/songs/abba-waterloo/index.html | Songs | ABBA Waterloo | Live | 2026-08-31 | Mood Song Matcher, 70s Music Trivia Quiz, Random 70s Song Generator |
 | Bridge Over Troubled Water: The Gospel Line Simon Paid For | https://musicofthe70s.net/blog/songs/bridge-over-troubled-water/index.html | Songs | bridge over troubled water | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
+
+
+## Pruned 2026-10-24 from CONTENT-INDEX.md (Years rows, all Live)
+
+
+
+## Pruned 2026-10-24 from CONTENT-INDEX.md (Genres rows, all Live)
+| Folk Rock in the 70s: The Hits the Year-End Top 100 Missed | https://musicofthe70s.net/blog/genres/70s-folk-rock/index.html | Genres | folk rock | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
+| Glam Rock in the 70s: Huge in Britain, Smaller in America | https://musicofthe70s.net/blog/genres/glam-rock-in-the-70s/index.html | Genres | Glam Rock in the 70s | Live | 2026-08-15 | Random Artist Picker, Random 70s Song Generator |
+| 70s Punk Rock: The Genre the Year-End Chart Barely Noticed | https://musicofthe70s.net/blog/genres/70s-punk-rock/index.html | Genres | 70s punk rock | Live | 2026-08-15 | Random Artist Picker, Random 70s Song Generator |
+| Pop Songs of 70s: 8 Real Number Ones Hiding in the Data | https://musicofthe70s.net/blog/genres/pop-songs-of-70s/index.html | Genres | pop songs of 70s | Live | 2026-10-09 (230-song playable list added; first live 2026-08-15) | Random Artist Picker, Random 70s Song Generator |
+| 70s Progressive Rock: The Genre That Rarely Made the Top 100 | https://musicofthe70s.net/blog/genres/70s-progressive-rock/index.html | Genres | 70s progressive rock | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
