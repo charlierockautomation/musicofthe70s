@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 3, This Week in Music History for the following week. Pick a week with few repeated #1s vs. posts 1 and 2 (check overlap first), new focus keyword, reuse scripts generate_this_week_nov_07_page.py / _charts.py / template. Post 2 (/blog/trivia/november-7-in-music-history/) LIVE 2026-10-25 (85fc2b2, hubs b1d4c07).**
+**NEXT: Review 6G post 3 (/blog/trivia/november-28-in-music-history/, built 2026-10-26, local preview only, not pushed). After Charlie's go-ahead: commit, push, run hub/sitemap/llms regen, verify live. Then 6G post 4: pick the week with fewest repeated #1s vs. posts 1-3 (check overlap first), new focus keyword, reuse scripts generate_this_week_nov_28_page.py / _charts.py / template (handles split runs and the 1976 weeks mismatch).**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
