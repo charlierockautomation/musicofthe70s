@@ -768,3 +768,5 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | 70s Punk Rock: The Genre the Year-End Chart Barely Noticed | https://musicofthe70s.net/blog/genres/70s-punk-rock/index.html | Genres | 70s punk rock | Live | 2026-08-15 | Random Artist Picker, Random 70s Song Generator |
 | Pop Songs of 70s: 8 Real Number Ones Hiding in the Data | https://musicofthe70s.net/blog/genres/pop-songs-of-70s/index.html | Genres | pop songs of 70s | Live | 2026-10-09 (230-song playable list added; first live 2026-08-15) | Random Artist Picker, Random 70s Song Generator |
 | 70s Progressive Rock: The Genre That Rarely Made the Top 100 | https://musicofthe70s.net/blog/genres/70s-progressive-rock/index.html | Genres | 70s progressive rock | Live | 2026-08-16 | Random Artist Picker, Random 70s Song Generator |
+
+| Close to You: Who Recorded It Before the Carpenters | https://musicofthe70s.net/blog/songs/close-to-you/ | Songs | close to you | Live | 2026-10-17 | Random 70s Song Generator, Mood Song Matcher |

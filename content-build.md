@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-26 (6G post 5 LIVE)
+# Last Updated: 2026-10-26 (6G post 6 built)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 6, This Week in Music History. Pick the week with fewest repeated #1s vs. posts 1-5 (Jan 16 repeats 0 vs posts 1-4 but 5 of 10 vs Jan 9, so check overlap first; also check Jan 23 onward and Feb), new focus keyword, reuse scripts generate_this_week_jan_09_page.py / _charts.py / template (handles split runs via SPLIT). Post 5 (/blog/trivia/january-9-in-music-history/) LIVE 2026-10-26 (8d30598, hubs 5769433).**
+**NEXT: 6G post 6 (February 13, /blog/trivia/february-13-in-music-history/) is BUILT and awaiting Charlie's review at http://localhost:8000/blog/trivia/february-13-in-music-history/. On his go-ahead: commit and push the post, run the hub/sitemap/llms regen scripts (generate_blog_hub_cards.py, generate_sitemap.py, generate_llms_txt.py), mark LIVE here and in CONTENT-INDEX.md and keyword-research-log.md. Then 6G post 7: pick the week with fewest repeated #1s vs. posts 1-6 (Feb 20, Feb 27, Mar 6 all repeat 0 vs posts 1-5, check vs Feb 13 first), new focus keyword, clone generate_this_week_feb_13_page.py / _charts.py / template.** Post 5 (/blog/trivia/january-9-in-music-history/) LIVE 2026-10-26 (8d30598, hubs 5769433).
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
