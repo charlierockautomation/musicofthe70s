@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-27 (6G post 8 Apr 17 built)
+# Last Updated: 2026-10-27 (6G post 8 Apr 17 LIVE)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 9, This Week in Music History. Apr 24 to May 22 now repeat 3+ songs vs posts 1-8, so start at May 29 (0 repeats; Jun 5, 12, 19, 26 also 0). Re-run the repeat check vs posts 1-8, new focus keyword `<month day> in music history`, clone generate_this_week_apr_17_page.py / _charts.py / template (all runs unbroken there; SPLIT is empty). Post 8 (/blog/trivia/april-17-in-music-history/) BUILT 2026-10-27, all 5 checks + verify_post PASS, awaiting Charlie's review at localhost:8000/blog/trivia/april-17-in-music-history/ (not committed).**
+**NEXT: 6G post 9, This Week in Music History. Apr 24 to May 22 still repeat 2 to 6 songs each vs posts 1-8 (Apr 24: 6, May 1 and 8: 3, May 15 and 22: 2), so start at May 29 (0 repeats; Jun 5, 12, 19, 26 also 0). Re-run the repeat check vs posts 1-8, new focus keyword `<month day> in music history`, clone generate_this_week_apr_17_page.py / _charts.py / template (all runs unbroken there; SPLIT is empty). Post 8 (/blog/trivia/april-17-in-music-history/) LIVE 2026-10-27 (869a20d, hubs 7365be9).**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
