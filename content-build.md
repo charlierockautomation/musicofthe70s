@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-10-28 (6G post 9 May 29 LIVE)
+# Last Updated: 2026-10-31 (6G post 10 June 12 LIVE)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 10 (June 12, /blog/trivia/june-12-in-music-history/) is BUILT and awaiting Charlie's review, not committed. Preview http://localhost:8000/blog/trivia/june-12-in-music-history/. All 5 checks PASS. Jun 5 was skipped (4 repeats vs post 9). Added 2 verified YouTube IDs (My Love, You're the One That I Want) to data/radio/number-one-videos.json. After go-ahead: commit, regenerate hubs/sitemap/llms, then 6G post 11 (re-run repeat check vs posts 1-10, Jun 19 and 26 had 0 repeats vs posts 1-9, but Jun 19 is the weekly anchor).**
+**NEXT: 6G post 11, This Week in Music History. Post 10 (/blog/trivia/june-12-in-music-history/) LIVE 2026-10-31 (015defe, hubs c63e0d6). Re-run the repeat check vs posts 1-10 first (Jun 19 and 26 had 0 repeats vs posts 1-9; Jun 19 likely overlaps My Love and Silly Love Songs runs? verify), new focus keyword `<month day> in music history`, clone generate_this_week_jun_12_page.py / _charts.py / template. Two songs per date may lack YouTube IDs: add verified entries to data/radio/number-one-videos.json (SPLIT runs need a SPLIT entry and chart xlim sized to the run span).**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
