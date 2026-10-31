@@ -135,6 +135,24 @@
       "video_title": "Simon & Garfunkel - Bridge Over Troubled Water (Audio)",
       "embeddable": true,
       "madeForKids": false
+    },
+    {
+      "title": "My Love",
+      "artist": "Paul McCartney and Wings",
+      "youtube_id": "A5g9ZwxFKdg",
+      "channel": "PaulMcCartneyVEVO",
+      "video_title": "Paul McCartney & Wings - My Love",
+      "embeddable": true,
+      "madeForKids": false
+    },
+    {
+      "title": "You're the One That I Want",
+      "artist": "John Travolta and Olivia Newton-John",
+      "youtube_id": "MFbjTC-57v0",
+      "channel": "OliviaNewtonJohnVEVO",
+      "video_title": "Olivia Newton-John - You're The One That I Want",
+      "embeddable": true,
+      "madeForKids": false
     }
   ]
 }
