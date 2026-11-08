@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-07 (6G post 15 Oct 8 LIVE)
+# Last Updated: 2026-11-07 (6G post 16 May 1 built, awaiting review)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 16, This Week in Music History. Re-run the repeat check against posts 1-15 (minimum was 2 repeats after post 14), pick the date with the fewest, and tell Charlie which songs repeat before building. Post 15 (October 8, /blog/trivia/october-8-in-music-history/) LIVE 2026-11-07 (9d64f22, hubs regenerated; two repeats, Maggie May and Kiss You All Over, also on Oct 24). Clone generate_this_week_oct_08_page.py / _charts.py / template (SPLIT handles split runs; chart xlim must fit the longest span). Per-song facts read off Wikipedia, never typed from memory. Regen = generate_blog_hub_cards.py + generate_category_cards.py + generate_sitemap.py + generate_llms_txt.py. Mobile check: Playwright Chromium is installed (~/.cache/ms-playwright); use it, Chrome is not needed.**
+**NEXT: Charlie reviews 6G post 16, May 1 in Music History (/blog/trivia/may-1-in-music-history/), BUILT 2026-11-07, not pushed. All gate checks + verify_post + Playwright mobile check PASS. Three repeats (Joy to the World, The First Time Ever I Saw Your Face, Night Fever; all on Apr 17, Night Fever also Mar 20), Charlie approved May 1. On go-ahead: commit page + scripts/generate_this_week_may_01_page.py, _charts.py, this_week_may_01_template.tpl + 6 images/blog May 1 chart files (stage by name), push, then regen = generate_blog_hub_cards.py + generate_category_cards.py + generate_sitemap.py + generate_llms_txt.py. After that, post 17: minimum repeats is now 3 (re-run check against posts 1-16, tell Charlie which songs repeat before building). Chart xlim now auto-fits longest span in the charts script.**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
