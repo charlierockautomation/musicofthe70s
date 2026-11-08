@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY77Y8DHV1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZY77Y8DHV1');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>October 8 in Music History: The 1970s Number Ones</title>
+  <meta name="description" content="October 8 in music history, 1970s style: the Hot 100 number one for that week in all ten years. Play every one.">
+  <link rel="canonical" href="https://musicofthe70s.net/blog/trivia/october-8-in-music-history/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#1a1a2e">
+
+  <meta property="og:title" content="October 8 in Music History: The 1970s Number Ones">
+  <meta property="og:description" content="October 8 in music history, 1970s style: the Hot 100 number one for that week in all ten years. Play every one.">
+  <meta property="og:url" content="https://musicofthe70s.net/blog/trivia/october-8-in-music-history/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://musicofthe70s.net/images/blog/october-8-in-music-history-1200w.jpg">
+  <meta property="og:site_name" content="Music of the 70s">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "October 8 in Music History: The 1970s Number Ones",
+    "datePublished": "{{DATE_ISO}}",
+    "dateModified": "{{DATE_ISO}}",
+    "author": {
+      "@type": "Person",
+      "@id": "https://musicofthe70s.net/about/author/",
+      "name": "Charlie",
+      "url": "https://musicofthe70s.net/about/author/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "@id": "https://musicofthe70s.net/#organization",
+      "name": "Music of the 70s",
+      "url": "https://musicofthe70s.net/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://musicofthe70s.net/favicon-512.png",
+        "width": 512,
+        "height": 512
+      }
+    },
+    "image": "https://musicofthe70s.net/images/blog/october-8-in-music-history-1200w.jpg",
+    "mainEntityOfPage": "https://musicofthe70s.net/blog/trivia/october-8-in-music-history/"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+{{FAQ_SCHEMA}}
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://musicofthe70s.net/"},
+      {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://musicofthe70s.net/blog/"},
+      {"@type": "ListItem", "position": 3, "name": "Trivia", "item": "https://musicofthe70s.net/blog/trivia/"},
+      {"@type": "ListItem", "position": 4, "name": "October 8 in Music History", "item": "https://musicofthe70s.net/blog/trivia/october-8-in-music-history/"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="site-logo"><span class="logo-vinyl">&#9834;</span> Music of the 70s</a>
+      <nav class="main-nav">
+        <a href="/">Home</a>
+        <a href="/#tools">Tools</a>
+        <a href="/radio/">Listen Now</a>
+        <a href="/pages/about">About</a>
+        <a href="/blog/">Blog</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="/">Home</a> &rsaquo;
+        <a href="/blog/">Blog</a> &rsaquo;
+        <a href="/blog/trivia/">Trivia</a> &rsaquo;
+        <span>October 8 in Music History</span>
+      </nav>
+
+      <article class="section seo-content">
+        <h1>October 8 in Music History: The 1970s Number Ones</h1>
+
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}}</p>
+        <p class="jump-to-list"><a class="btn-primary jump-btn" href="#october-8-list">&#9654; Jump to the playable list</a></p>
+
+        <p class="post-intro">On October 8 in music history, the number one song in America changed with every year of the 1970s.</p>
+        <p class="post-intro">The Billboard Hot 100 week that contains October 8 had a different song on top in all ten years.</p>
+        <p class="post-intro">Those ten songs spent {{TOTAL_WEEKS}} weeks at number one between them.</p>
+        <p class="post-intro">You can play every one from the table below.</p>
+        <p class="post-intro">Each row also shows how far into its run the song was that week.</p>
+
+        <picture>
+          <source type="image/webp" srcset="/images/blog/srcset/october-8-in-music-history-400w.webp 400w, /images/blog/srcset/october-8-in-music-history-800w.webp 800w, /images/blog/srcset/october-8-in-music-history-1200w.webp 1200w" sizes="(max-width: 700px) 100vw, 1100px">
+          <img class="post-featured-img"
+            src="/images/blog/october-8-in-music-history-1200w.jpg"
+            srcset="/images/blog/srcset/october-8-in-music-history-400w.jpg 400w, /images/blog/srcset/october-8-in-music-history-800w.jpg 800w, /images/blog/october-8-in-music-history-1200w.jpg 1200w"
+            sizes="(max-width: 700px) 100vw, 1100px"
+            width="1200" height="675" loading="eager"
+            alt="Bar chart of total weeks at number one for the ten songs on top the week of October 8, 1970 to 1979, led by Maggie May with five weeks, then Kiss You All Over with four">
+        </picture>
+        <p class="post-img-caption">Total weeks at number one for the song on top the week of October 8, one bar per year.</p>
+        <p class="post-img-caption">Chart: Music of the 70s, from this site's weekly Billboard Hot 100 data.</p>
+
+        <nav class="toc-block" aria-label="Table of contents">
+          <details class="toc-details" open>
+            <summary>Table of Contents</summary>
+            <ol>
+            <li><a href="#october-8-list">October 8 in Music History, 1970 to 1979: Play the Ten Number Ones</a></li>
+            <li><a href="#answer">The Short Answer: Who Was on Top Each Year</a></li>
+            <li><a href="#method">How the October 8 Week Was Picked</a></li>
+            <li><a href="#early">October 8 in Music History, 1970 to 1972: A Motown Remake, a Mandolin and a Song With a Hook</a></li>
+            <li><a href="#middle">October 8 in Music History, 1973 to 1975: Cher, a Grammy Ballad and a Lennon Hook</a></li>
+            <li><a href="#late">October 8 in Music History, 1976 to 1979: A Bar Band, a Space Theme, Exile and the End of My Sharona</a></li>
+            <li><a href="#runs">October 8 in Music History by the Numbers: Short Runs, Long Runs and Where Each Song Stood</a></li>
+            <li><a href="#faq">Frequently Asked Questions</a></li>
+            <li><a href="#sources">Sources</a></li>
+          </ol>
+          </details>
+        </nav>
+        <script>if(window.matchMedia("(max-width: 699px)").matches){document.querySelector(".toc-details").open=false;}</script>
+
+        <h2 id="october-8-list">October 8 in Music History, 1970 to 1979: Play the Ten Number Ones</h2>
+        <p>Press Play on any row and the list keeps going, song after song, until you press Stop.</p>
+        <p>Tap a column heading to sort by song, artist, year, chart week or weeks at number one.</p>
+
+        <div class="data-table-wrap scroll-list">
+          <table class="data-table sortable-table" id="october8Table" data-inline-player>
+            <caption>October 8 in music history: the Hot 100 number one for the chart week containing October 8, 1970 to 1979</caption>
+            <thead>
+              <tr>
+                <th><span class="visually-hidden">Play</span></th>
+                <th><button type="button" data-col="1" data-type="text">Song</button></th>
+                <th><button type="button" data-col="2" data-type="text">Artist</button></th>
+                <th aria-sort="ascending"><button type="button" data-col="3" data-type="num">Year</button></th>
+                <th>Chart week</th>
+                <th><button type="button" data-col="5" data-type="num">Week of run</button></th>
+                <th><button type="button" data-col="6" data-type="num">Weeks at #1</button></th>
+                <th>The story</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- OCT08-START -->
+{{ROWS}}
+              <!-- OCT08-END -->
+            </tbody>
+          </table>
+        </div>
+        <p>Chart week is the Billboard Hot 100 week that contains October 8 that year.</p>
+        <p>Week of run says which week of the song's time at number one that was, like 2 of 4.</p>
+        <p>Chart weeks and weeks at number one come from this site's weekly Hot 100 file, and the story lines are credited in Sources.</p>
+
+        <h2 id="answer">The Short Answer: Who Was on Top Each Year</h2>
+        <p>For October 8 in music history, a different record was number one in every year from 1970 to 1979.</p>
+        <p>That is the Hot 100 chart week that includes October 8.</p>
+        <p>Here is what the ten weeks show at a glance:</p>
+        <ul>
+          <li>The ten songs spent {{TOTAL_WEEKS}} weeks at number one in total.</li>
+          <li>"Maggie May" had the most weeks, with five, followed by "Kiss You All Over" with four.</li>
+          <li>Three songs had three weeks each: "Ain't No Mountain High Enough," "Baby, Don't Get Hooked on Me" and "Play That Funky Music."</li>
+          <li>{{N_FIRST}} of the ten songs were in the first week of their run, and {{N_LAST}} were in the last week.</li>
+          <li>{{N_MID}} was in the middle of a longer run.</li>
+        </ul>
+
+        <h3>Want Your Own Week?</h3>
+        <p>The <a href="/pages/birthday-number-one">Birthday #1 Song Finder</a> does this for any 1970s birthday, not only October 8 in music history.</p>
+        <p>Enter the date and it shows the song that was on top that week.</p>
+
+        <h2 id="method">How the October 8 Week Was Picked</h2>
+        <p>Billboard chart weeks do not line up with the calendar, so there is no single week called October 8.</p>
+        <p>This October 8 in music history page uses the weekly Hot 100 week that contains October 8 each year.</p>
+        <p>In nine of the ten years, that week began a few days before October 8:</p>
+        <ul>
+{{DATE_LIST}}
+        </ul>
+
+        <h3>Where the Numbers Come From</h3>
+        <p>Chart weeks and weeks at number one come from the weekly Hot 100 file on this site.</p>
+        <p>The story line for each song is a fact from that song's Wikipedia page.</p>
+        <p>Anything that could not be confirmed against those sources was left out.</p>
+        <p>Nine of the ten runs were unbroken.</p>
+        <p>For those, "week of run" counts the weeks since the song first reached number one.</p>
+        <p>One run was split by another song: "Fame" in 1975.</p>
+        <p>For that one, it counts only the weeks the song itself held number one.</p>
+
+        <h3>Two Songs You May Have Seen Before</h3>
+        <p>Two of these ten songs are also on the <a href="/blog/trivia/this-week-in-music-history-october-24/">this week in music history list for October 24</a>.</p>
+        <p>"Maggie May" in 1971 and "Kiss You All Over" in 1978 were both still on top the week that contains October 24.</p>
+        <p>Every calendar date left now shares at least two songs with an earlier list, so they stay here.</p>
+
+        <h2 id="early">October 8 in Music History, 1970 to 1972: A Motown Remake, a Mandolin and a Song With a Hook</h2>
+        <p>October 8 in music history opened the decade with Diana Ross's first solo number one.</p>
+        <p>Next came the B-side that made Rod Stewart a solo star.</p>
+        <p>Then came a Mac Davis song written to order.</p>
+
+        <h3>1970: "Ain't No Mountain High Enough" by Diana Ross</h3>
+        <p>Nickolas Ashford and Valerie Simpson wrote "Ain't No Mountain High Enough" in 1966.</p>
+        <p>Marvin Gaye and Tammi Terrell had a top-20 hit with it in 1967.</p>
+        <p>Wikipedia says Ashford and Simpson had Ross re-record it in early 1970, after her first solo single.</p>
+        <p>Motown chief Berry Gordy did not like the record at first, and he hated the spoken-word passages.</p>
+        <p>It became Ross's first solo number one on the Hot 100.</p>
+        <p>This site's weekly data shows three weeks at number one, from September 19 to October 3, 1970.</p>
+        <p>So the chart week that contains October 8 was the third and last.</p>
+        <p>The song is number 6 on the 1970 year-end Hot 100, in this site's year-end data.</p>
+        <p>The full story is in the <a href="/blog/songs/aint-no-mountain-high-enough/">Ain't No Mountain High Enough</a> post.</p>
+
+        <h3>1971: "Maggie May" by Rod Stewart</h3>
+        <p>Rod Stewart and Martin Quittenton wrote "Maggie May" for the 1971 album Every Picture Tells a Story.</p>
+        <p>Wikipedia says the song was recorded in just two takes in one session.</p>
+        <p>No cymbals could be found that day, so the cymbal crashes were overdubbed days later.</p>
+        <p>Ray Jackson of Lindisfarne played the mandolin.</p>
+        <p>The album credited him only as "the mandolin player in Lindisfarne."</p>
+        <p>This site's weekly data shows five weeks at number one, from October 2 to October 30, 1971.</p>
+        <p>Donny Osmond's "Go Away Little Girl" was on top just before it, and Cher's "Gypsys, Tramps &amp; Thieves" came next.</p>
+        <p>So the chart week that contains October 8 was the first of five.</p>
+        <p>The song is number 2 on the 1971 year-end Hot 100, in this site's year-end data.</p>
+
+        <h3>1972: "Baby, Don't Get Hooked on Me" by Mac Davis</h3>
+        <p>Country and pop singer-songwriter Mac Davis wrote and recorded "Baby, Don't Get Hooked on Me."</p>
+        <p>It came from his breakthrough album of the same name.</p>
+        <p>Wikipedia says he wrote it when the record company demanded a tune with a "hook."</p>
+        <p>It spent three weeks at number one on both the Hot 100 and the Easy Listening chart.</p>
+        <p>It also reached number 26 on the country chart.</p>
+        <p>This site's weekly data shows three weeks at number one, from September 23 to October 7, 1972.</p>
+        <p>So the chart week that contains October 8 was the third and last.</p>
+        <p>The song is number 8 on the 1972 year-end Hot 100, in this site's year-end data.</p>
+
+        <h2 id="middle">October 8 in Music History, 1973 to 1975: Cher, a Grammy Ballad and a Lennon Hook</h2>
+        <p>October 8 in music history in the middle of the decade brought Cher's second solo number one.</p>
+        <p>An Olivia Newton-John ballad followed.</p>
+        <p>Then David Bowie topped the Hot 100 for the first time.</p>
+
+        <h3>1973: "Half-Breed" by Cher</h3>
+        <p>Al Capps and Mary Dean wrote "Half-Breed."</p>
+        <p>Cher recorded it on May 21, 1973, at Larrabee Sound in Los Angeles.</p>
+        <p>Session musicians from the Wrecking Crew played on it.</p>
+        <p>It became Cher's second solo number one in the US and was certified Gold.</p>
+        <p>Wikipedia notes that she said in 2017 she would no longer perform it or wear its costume.</p>
+        <p>This site's weekly data shows two weeks at number one, from October 6 to October 13, 1973.</p>
+        <p>So the chart week that contains October 8 was the first of two.</p>
+        <p>The song is number 20 on the 1973 year-end Hot 100, in this site's year-end data.</p>
+
+        <h3>1974: "I Honestly Love You" by Olivia Newton-John</h3>
+        <p>Jeff Barry and Australian singer Peter Allen wrote "I Honestly Love You."</p>
+        <p>It was her first number one single in the United States and Canada.</p>
+        <p>Wikipedia says it reached number one in its eighth week on the Hot 100, the chart dated October 5, 1974.</p>
+        <p>At the 17th Grammy Awards, it won Record of the Year.</p>
+        <p>It also won Best Pop Vocal Performance, Female.</p>
+        <p>This site's weekly data shows two weeks at number one, from October 5 to October 12, 1974.</p>
+        <p>So the chart week that contains October 8 was the first of two.</p>
+        <p>It is number 97 on the 1974 year-end Hot 100 in this site's data.</p>
+        <p>Wikipedia says that ranking used only 11 of its 15 weeks on the chart.</p>
+        <p>More of her hits are on the <a href="/blog/artists/olivia-newton-john-songs/">Olivia Newton-John songs</a> page.</p>
+
+        <h3>1975: "Fame" by David Bowie</h3>
+        <p>David Bowie, Carlos Alomar and John Lennon wrote "Fame."</p>
+        <p>It was recorded at Electric Lady Studios in New York City in January 1975.</p>
+        <p>Wikipedia says Lennon came up with the hook by singing "aim" over Alomar's guitar riff.</p>
+        <p>Bowie turned it into "Fame," and it became his first number one on the Hot 100.</p>
+        <p>This site's weekly data shows September 20, 1975, then October 4, 1975.</p>
+        <p>Glen Campbell's "Rhinestone Cowboy" was on top just before the first of those weeks.</p>
+        <p>John Denver's "I'm Sorry" held the week in between, and Neil Sedaka's "Bad Blood" came next.</p>
+        <p>So the chart week that contains October 8 was the second of two.</p>
+        <p>The song is number 8 on the 1975 year-end Hot 100, in this site's year-end data.</p>
+        <p>Bowie's earlier years are covered in <a href="/blog/genres/glam-rock-in-the-70s/">glam rock in the 70s</a>.</p>
+
+        <h2 id="late">October 8 in Music History, 1976 to 1979: A Bar Band, a Space Theme, Exile and the End of My Sharona</h2>
+        <p>October 8 in music history closed the decade with a rock band playing funk.</p>
+        <p>A disco take on a movie theme followed.</p>
+        <p>Then came Exile, and a ballad that knocked off The Knack.</p>
+
+        <h3>1976: "Play That Funky Music" by Wild Cherry</h3>
+        <p>Rob Parissi wrote "Play That Funky Music" for his band, Wild Cherry.</p>
+        <p>Wikipedia says the band was a hard rock cover act that found it hard to book shows in the disco era.</p>
+        <p>At a club in Pittsburgh, a patron asked if they would play some funky music.</p>
+        <p>Parissi wrote the song in about five minutes.</p>
+        <p>It was also number one on the Hot Soul Singles chart and was the group's only US Top 40 song.</p>
+        <p>This site's weekly data shows three weeks at number one, from September 18 to October 2, 1976.</p>
+        <p>So the chart week that contains October 8 was the third and last.</p>
+        <p>The song is number 5 on the 1976 year-end Hot 100, in this site's year-end data.</p>
+        <p>Wild Cherry is one of the acts on the <a href="/blog/songs/70s-one-hit-wonders/">70s one-hit wonders</a> list.</p>
+
+        <h3>1977: "Star Wars Theme/Cantina Band" by Meco</h3>
+        <p>Meco recorded "Star Wars Theme/Cantina Band" for the album Star Wars and Other Galactic Funk.</p>
+        <p>Wikipedia says it hit number one on the Hot 100 on October 1, 1977, and held the spot for two weeks.</p>
+        <p>It was one of two hits built on music from the Star Wars movie.</p>
+        <p>The other was John Williams's "Star Wars (Main Title)," which reached the Top 10 at the same time.</p>
+        <p>The single was certified Platinum for two million units.</p>
+        <p>This site's weekly data shows two weeks at number one, from October 1 to October 8, 1977.</p>
+        <p>So the chart week that contains October 8 was the second and last.</p>
+        <p>The song is number 71 on the 1977 year-end Hot 100, in this site's year-end data.</p>
+        <p>More of that sound is in <a href="/blog/genres/disco-music-of-the-70s/">disco music of the 70s</a>.</p>
+
+        <h3>1978: "Kiss You All Over" by Exile</h3>
+        <p>Mike Chapman and Nicky Chinn wrote "Kiss You All Over" for Exile's third album, Mixed Emotions.</p>
+        <p>Wikipedia says it was the first Exile song with founding member J.P. Pennington on lead vocals.</p>
+        <p>On a 1979 American Top 40 broadcast, Casey Kasem reported Chapman's inspiration.</p>
+        <p>It was Barry White's "It's Ecstasy When You Lay Down Next to Me."</p>
+        <p>Exile later moved to country music and had more than ten number one country hits.</p>
+        <p>This site's weekly data shows four weeks at number one, from September 30 to October 21, 1978.</p>
+        <p>So the chart week that contains October 8 was the second of four.</p>
+        <p>The song is number 5 on the 1978 year-end Hot 100, in this site's year-end data.</p>
+
+        <h3>1979: "Sad Eyes" by Robert John</h3>
+        <p>Robert John wrote and recorded "Sad Eyes," and it came out in April 1979.</p>
+        <p>George Tobin produced it, with Mike Piccirillo.</p>
+        <p>Wikipedia says it debuted on the Hot 100 on May 19 and reached the top the week of October 6.</p>
+        <p>That ended the six-week reign of The Knack's "My Sharona."</p>
+        <p>This site's weekly data shows one week at number one, the chart week of October 6, 1979.</p>
+        <p>So the chart week that contains October 8 was the first and only one.</p>
+        <p>Michael Jackson's "Don't Stop 'Til You Get Enough" took over the next week.</p>
+        <p>The song is number 10 on the 1979 year-end Hot 100, in this site's year-end data.</p>
+        <p>"My Sharona" tops the <a href="/blog/trivia/september-16-in-music-history/">September 16 in music history</a> list.</p>
+
+        <h2 id="runs">October 8 in Music History by the Numbers: Short Runs, Long Runs and Where Each Song Stood</h2>
+        <p>Ranking the ten songs of October 8 in music history by weeks at number one puts Rod Stewart's 1971 run on top.</p>
+
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <caption>The ten October 8 number ones, ranked by total weeks at number one</caption>
+            <thead>
+              <tr><th>Song</th><th>Artist</th><th>Year</th><th>Weeks at #1</th><th>First week</th><th>Last week</th></tr>
+            </thead>
+            <tbody>
+{{LONG_ROWS}}
+            </tbody>
+          </table>
+        </div>
+
+        <picture>
+          <source type="image/webp" srcset="/images/blog/srcset/october-8-in-music-history-runs-400w.webp 400w, /images/blog/srcset/october-8-in-music-history-runs-800w.webp 800w, /images/blog/srcset/october-8-in-music-history-runs-1200w.webp 1200w" sizes="(max-width: 700px) 100vw, 800px">
+          <img class="post-featured-img"
+            src="/images/blog/october-8-in-music-history-runs-1200w.jpg"
+            srcset="/images/blog/srcset/october-8-in-music-history-runs-400w.jpg 400w, /images/blog/srcset/october-8-in-music-history-runs-800w.jpg 800w, /images/blog/october-8-in-music-history-runs-1200w.jpg 1200w"
+            sizes="(max-width: 700px) 100vw, 800px"
+            width="1200" height="675" loading="lazy"
+            alt="Run chart of each October 8 number one by week, with the week that contains October 8 highlighted in gold and the two weeks of Fame split by a one-week gap">
+        </picture>
+        <p class="post-img-caption">Each box is one week at number one and the gold box is the week that contains October 8.</p>
+        <p class="post-img-caption">A gap is a week another song was on top.</p>
+        <p class="post-img-caption">Chart: Music of the 70s, from this site's weekly Billboard Hot 100 data.</p>
+
+        <h3>Where October 8 Fell in Each Run</h3>
+        <p>The weeks split three ways:</p>
+        <ul>
+          <li>{{N_FIRST}} songs were in their first week at number one: "Maggie May," "Half-Breed," "I Honestly Love You" and "Sad Eyes."</li>
+          <li>"Sad Eyes" was the only one of those with a single week on top.</li>
+          <li>{{N_MID}} was in the middle of a longer run: "Kiss You All Over."</li>
+          <li>{{N_LAST}} were in the last week of their run: "Ain't No Mountain High Enough," "Baby, Don't Get Hooked on Me," "Fame," "Play That Funky Music" and "Star Wars Theme/Cantina Band."</li>
+        </ul>
+
+        <h3>Test Your Own Memory</h3>
+        <p>Which of these ten October 8 in music history number ones would you have bet on?</p>
+        <p>The list runs from Diana Ross in 1970 to Robert John in 1979.</p>
+        <p>Other weeks have their own lists, including <a href="/blog/trivia/february-1-in-music-history/">February 1 in music history</a>, <a href="/blog/trivia/december-12-in-music-history/">December 12 in music history</a>, <a href="/blog/trivia/november-7-in-music-history/">November 7 in music history</a>, <a href="/blog/trivia/august-19-in-music-history/">August 19 in music history</a>, <a href="/blog/trivia/july-15-in-music-history/">July 15 in music history</a>, <a href="/blog/trivia/june-12-in-music-history/">June 12 in music history</a>, <a href="/blog/trivia/may-29-in-music-history/">May 29 in music history</a>, <a href="/blog/trivia/april-17-in-music-history/">April 17 in music history</a>, <a href="/blog/trivia/march-20-in-music-history/">March 20 in music history</a>, <a href="/blog/trivia/february-13-in-music-history/">February 13 in music history</a>, <a href="/blog/trivia/january-9-in-music-history/">January 9 in music history</a> and <a href="/blog/trivia/november-28-in-music-history/">November 28 in music history</a>.</p>
+        <p>The <a href="/pages/70s-trivia-quiz">70s Music Trivia Quiz</a> has ten new questions each round.</p>
+        <p>For the whole decade at the top, see the <a href="/blog/songs/70s-number-one-hits/">70s number one hits</a> page.</p>
+        <p>More of the decade lives on the <a href="/">Music of the 70s</a> home page.</p>
+
+        <section class="faq-block" id="faq">
+          <h2>Frequently Asked Questions</h2>
+{{FAQ_HTML}}
+        </section>
+
+
+
+        <section class="related-posts">
+          <h2>Related Posts</h2>
+          <div class="post-grid">
+            <div class="card post-card">
+              <picture>
+                <source type="image/webp" srcset="/images/blog/srcset/70s-number-one-hits-400w.webp 400w, /images/blog/srcset/70s-number-one-hits-800w.webp 800w" sizes="(max-width: 700px) 100vw, 33vw">
+                <img class="post-thumb" src="/images/blog/srcset/70s-number-one-hits-400w.jpg"
+                  srcset="/images/blog/srcset/70s-number-one-hits-400w.jpg 400w, /images/blog/srcset/70s-number-one-hits-800w.jpg 800w"
+                  sizes="(max-width: 700px) 100vw, 33vw" width="400" height="225" loading="lazy"
+                  alt="70s Number One Hits, this site's full list of the decade's Billboard Hot 100 chart toppers">
+              </picture>
+              <div class="post-card-body">
+                <span class="post-cat">Songs</span>
+                <h3>70s Number One Hits</h3>
+                <p>Every Hot 100 number one of the decade, playable and sortable.</p>
+                <a class="cta" href="/blog/songs/70s-number-one-hits/">Read post</a>
+              </div>
+            </div>
+            <div class="card post-card">
+              <picture>
+                <source type="image/webp" srcset="/images/blog/srcset/diana-ross-1976-400w.webp 400w, /images/blog/srcset/diana-ross-1976-800w.webp 800w" sizes="(max-width: 700px) 100vw, 33vw">
+                <img class="post-thumb" src="/images/blog/srcset/diana-ross-1976-400w.jpg"
+                  srcset="/images/blog/srcset/diana-ross-1976-400w.jpg 400w, /images/blog/diana-ross-1976-800w.jpg 800w"
+                  sizes="(max-width: 700px) 100vw, 33vw" width="400" height="467" loading="lazy"
+                  alt="Diana Ross in a 1976 Motown publicity portrait, six years after Ain't No Mountain High Enough">
+              </picture>
+              <div class="post-card-body">
+                <span class="post-cat">Songs</span>
+                <h3>Ain't No Mountain High Enough</h3>
+                <p>How Diana Ross turned a Motown duet into her first solo number one.</p>
+                <a class="cta" href="/blog/songs/aint-no-mountain-high-enough/">Read post</a>
+              </div>
+            </div>
+            <div class="card post-card">
+              <picture>
+                <source type="image/webp" srcset="/images/blog/srcset/this-week-in-music-history-october-24-400w.webp 400w, /images/blog/srcset/this-week-in-music-history-october-24-800w.webp 800w" sizes="(max-width: 700px) 100vw, 33vw">
+                <img class="post-thumb" src="/images/blog/srcset/this-week-in-music-history-october-24-400w.jpg"
+                  srcset="/images/blog/srcset/this-week-in-music-history-october-24-400w.jpg 400w, /images/blog/srcset/this-week-in-music-history-october-24-800w.jpg 800w"
+                  sizes="(max-width: 700px) 100vw, 33vw" width="400" height="225" loading="lazy"
+                  alt="Bar chart of total weeks at number one for the ten songs on top the week of October 24, 1970 to 1979">
+              </picture>
+              <div class="post-card-body">
+                <span class="post-cat">Trivia</span>
+                <h3>This Week in Music History: October 24</h3>
+                <p>The ten number ones for the chart week that holds October 24.</p>
+                <a class="cta" href="/blog/trivia/this-week-in-music-history-october-24/">Read post</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="sources" id="sources">
+          <h2>Sources</h2>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Ain%27t_No_Mountain_High_Enough" rel="noopener">Ain't No Mountain High Enough, Wikipedia</a>, for the writers, the 1967 original, the 1970 remake, Berry Gordy's reaction and Ross's first solo number one.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Maggie_May" rel="noopener">Maggie May, Wikipedia</a>, for the writers, the album, the two-take session, the missing cymbals and Ray Jackson's mandolin credit.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Baby_Don%27t_Get_Hooked_on_Me" rel="noopener">Baby Don't Get Hooked on Me, Wikipedia</a>, for the album, the "hook" story and the Easy Listening and country chart runs.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Half-Breed_(song)" rel="noopener">Half-Breed (song), Wikipedia</a>, for the writers, the recording date, the Wrecking Crew, the Gold certification and Cher's 2017 statement.</li>
+            <li><a href="https://en.wikipedia.org/wiki/I_Honestly_Love_You" rel="noopener">I Honestly Love You, Wikipedia</a>, for the writers, the first US number one, the eighth-week climb, the Grammys and the year-end ranking note.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Fame_(David_Bowie_song)" rel="noopener">Fame (David Bowie song), Wikipedia</a>, for the writers, the Electric Lady session, Lennon's hook and the split run around "I'm Sorry."</li>
+            <li><a href="https://en.wikipedia.org/wiki/Play_That_Funky_Music" rel="noopener">Play That Funky Music, Wikipedia</a>, for Rob Parissi, the Pittsburgh club story, the soul chart and the band's only Top 40 song.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Star_Wars_Theme/Cantina_Band" rel="noopener">Star Wars Theme/Cantina Band, Wikipedia</a>, for the album, the October 1, 1977 start, John Williams's version and the Platinum certification.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Kiss_You_All_Over" rel="noopener">Kiss You All Over, Wikipedia</a>, for the writers, the album, J.P. Pennington's lead vocal, the Barry White inspiration and the country move.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Sad_Eyes_(Robert_John_song)" rel="noopener">Sad Eyes (Robert John song), Wikipedia</a>, for the release, the producers, the chart debut and the end of the "My Sharona" run.</li>
+            <li><a href="https://en.wikipedia.org/wiki/Billboard_Hot_100" rel="noopener">Billboard Hot 100, Wikipedia</a>, for how the weekly chart used for number one runs works.</li>
+          </ul>
+        </section>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Music of the 70s |
+      <a href="/pages/privacy-policy">Privacy Policy</a> |
+      <a href="/pages/terms-of-use">Terms of Use</a> |
+      <a href="/pages/contact">Contact</a> |
+      <a href="/pages/about">About</a> |
+      <a href="/about/author/">About the Author</a> |
+      <a href="/about/methodology/">How We Write</a>
+    </p>
+  </footer>
+
+  <script src="/js/main.js"></script>
+  <script src="/js/sortable-table.js"></script>
+  <script src="/js/table-player.js"></script>
+</body>
+</html>
