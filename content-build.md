@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-08 (6G post 18 Nov 19 built, awaiting review)
+# Last Updated: 2026-11-08 (6G post 18 Nov 19 LIVE)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: Charlie reviews 6G post 18, November 19 in Music History (built 2026-11-08, http://localhost:8000/blog/trivia/november-19-in-music-history/, not pushed). On go-ahead: commit page + charts + scripts, push, then regen generate_blog_hub_cards.py + generate_category_cards.py + generate_sitemap.py + generate_llms_txt.py. After that, post 19 = the next real week (Thu rhythm, Nov 26). Songs = every 1970s #1 that charted that week, no exceptions. NEVER pick a date or drop/swap songs to avoid repeats (Charlie 2026-11-08). Clone generate_this_week_nov_19_page.py / _charts.py / template (JSON_WEEKS_WRONG handles weeks-field disagreements). Per-song facts read off Wikipedia, never typed from memory, and never reuse a story fact already on another date page. Mobile check: Playwright Chromium.**
+**NEXT: 6G post 19, This Week in Music History, date = the next real week (Thu rhythm, Nov 26; Nov 19 LIVE 2026-11-08, edc8741, hubs 397b62c). Songs = every 1970s #1 that charted that week, no exceptions. NEVER pick a date or drop/swap songs to avoid repeats (Charlie 2026-11-08). Clone generate_this_week_nov_19_page.py / _charts.py / template (JSON_WEEKS_WRONG handles weeks-field disagreements; songs missing from radio-songs.json use number-one-videos.json). Per-song facts read off Wikipedia, never typed from memory, never reuse a story fact already on another date page. Regen = generate_blog_hub_cards.py + generate_category_cards.py + generate_sitemap.py + generate_llms_txt.py. Mobile check: Playwright Chromium.**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
