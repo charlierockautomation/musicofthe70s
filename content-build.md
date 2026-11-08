@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-06 (6G post 13 Sep 16 LIVE)
+# Last Updated: 2026-11-07 (6G post 14 Feb 1 built, awaiting review)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
 
-**NEXT: 6G post 14, This Week in Music History, date February 1 (page date 2027-02-01). As of 2026-11-06 no calendar date has 0 repeats left against posts 1-13; Feb 1 (also Jan 31, Feb 2) has 1 repeat, the fewest. Re-run the repeat check and tell Charlie which song repeats before building. Post 13 (September 16, /blog/trivia/september-16-in-music-history/) LIVE 2026-11-06 (e7d4182, hubs regenerated). New focus keyword `<month day> in music history`; clone generate_this_week_sep_16_page.py / _charts.py / template (handles split runs via SPLIT). Per-song facts read off Wikipedia, never typed from memory. Mobile check could not run on posts 11-13 (no Chrome on this machine).**
+**NEXT: 6G post 14 (February 1, /blog/trivia/february-1-in-music-history/) built 2026-11-07, awaiting Charlie review, not pushed. One repeat: "Le Freak" (1979 slot) is also on the Dec 12 page. On go-ahead: commit page + 4 scripts + 12 chart images, push, regen hubs/sitemap/llms. After that, post 15: re-run the repeat check (no date has 0 repeats left), pick the date with fewest, tell Charlie which song repeats. Clone generate_this_week_feb_01_page.py / _charts.py / template (SPLIT handles split runs; chart xlim must fit the longest span). Per-song facts read off Wikipedia, never typed from memory. Mobile check could not run on posts 11-14 (no Chrome on this machine).**
 **6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
 Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
 Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
