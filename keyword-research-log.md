@@ -4,7 +4,7 @@
 # the raw data those decisions get made from. A term can sit here unused for a long time before
 # it becomes a Rotation Queue slot — that's expected, not stale.
 # Shipped pulls (focus keyword now on a Live post) live in keyword-research-archive.md (grep-only).
-# Last Updated: 2026-11-09 (B11/B12 ELO + Chicago pulls)
+# Last Updated: 2026-11-09 (step 4.1 70s songs pillar pull)
 
 ---
 
@@ -149,3 +149,5 @@ Focus keyword `chicago band songs` (40,500/mo US, LOW competition, informational
 2026-10-26 | February 13 in Music History (6G post 6, LIVE) | Focus keyword `february 13 in music history`: no volume returned for the exact phrase (DataForSEO Google Ads US 2026-10-26); `february 13 music history` 10/mo, low competition, kept series pattern. Never used as another post's focus keyword. Jan 16 rejected (5 of 10 #1s repeat posts 1-5), Jan 23 repeats 3, Jan 30 repeats 2, Feb 6 repeats 1; Feb 13 repeats 0. Slug february-13-in-music-history.
 
 2026-11-09 | 70s Christmas Songs (build queue step 3, spokes-queue #1, LIVE 2026-11-09) | DataForSEO Google Ads: `70s christmas songs` US 590 / CA 70 / UK 590 (Dec 2025 peak 4,400 US and UK); `1970s christmas songs`, `christmas songs from the 70s`, `70s christmas music` cluster to the same volumes; `best 70s christmas songs` 10. AI volume: 70s christmas songs 73, 1970s christmas songs 103, christmas songs from the 70s 38. Decision: focus `70s christmas songs` (slug match, same Google volume), secondary `1970s christmas songs`. Above floor.
+
+2026-11-09 | 70s Songs pillar (build queue step 4.1, upgrades-queue A1, retarget of /blog/songs/best-songs-of-the-70s/) | DataForSEO Google Ads US / CA / UK: `70s songs` 18,100 / 1,600 / 3,600 (LOW); `songs from the 70s` 18,100 / 1,600 / 3,600 (Google clusters it with 70s songs); `best 70s songs` 8,100 / 880 / 1,600; `top 70s songs` 6,600 / 720 / 720. AI volume (US): 70s songs 14,243; songs from the 70s 3,279; top 70s songs 2,984; best 70s songs 1,531. Decision: focus `70s songs` (highest Google + AI, no live post uses it); secondary `best 70s songs`, `top 70s songs`, `songs from the 70s`. URL unchanged (no live URL changes). Above floor.
