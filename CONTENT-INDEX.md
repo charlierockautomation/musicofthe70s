@@ -6,7 +6,7 @@
 # Never claim a page exists, never link to a page, and never generate a "Related Posts"
 # card for a page that isn't listed below with status "Live."
 # Stay under 195 lines (.claude/skills/file-rotation/SKILL.md): prune oldest rows to CONTENT-INDEX-ARCHIVE.md, Years first.
-# Last Updated: 2026-11-09 (70s Christmas Songs LIVE)
+# Last Updated: 2026-11-09 (steps 3.1/3.2 LIVE; 12 oldest Blog Posts rows pruned to archive)
 
 ---
 
@@ -114,18 +114,6 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Al Green Let's Stay Together: The Song He Didn't Want to Cut | https://musicofthe70s.net/blog/songs/al-green-lets-stay-together/index.html | 70s Songs | Songs | al green let's stay together | Live | 2026-09-01 | Mood Song Matcher, Random 70s Song Generator |
 | One of These Nights: The Eagles' Turn Away From Country | https://musicofthe70s.net/blog/songs/one-of-these-nights/index.html | 70s Songs | Songs | one of these nights | Live | 2026-09-01 | Random 70s Song Generator, Mood Song Matcher |
 | Killer Queen: Freddie Mercury's First Real US Hit | https://musicofthe70s.net/blog/songs/killer-queen/index.html | 70s Songs | Songs | killer queen | Live | 2026-09-01 | Mood Song Matcher, Random 70s Song Generator |
-| Donna Summer: The 1977 Hit Too Influential for the Charts | https://musicofthe70s.net/blog/artists/donna-summer/index.html | 70s Bands & Singers | Artists | Donna Summer | Live | 2026-08-31 | Random Artist Picker, 70s Music Trivia Quiz |
-| Al Green: The Hit He Gave Away Before It Was a Hit | https://musicofthe70s.net/blog/artists/al-green/index.html | 70s Bands & Singers | Artists | al green | Live | 2026-08-30 | Random Artist Picker, 70s Music Trivia Quiz |
-| Stayin Alive: Built on a Magazine Story That Was Fake | https://musicofthe70s.net/blog/songs/stayin-alive/index.html | 70s Songs | Songs | stayin alive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
-| I Will Survive: A B-Side Nobody Wanted to Release | https://musicofthe70s.net/blog/songs/i-will-survive/index.html | 70s Songs | Songs | i will survive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
-| Seasons in the Sun: The Beach Boys Killed It First | https://musicofthe70s.net/blog/songs/seasons-in-the-sun/index.html | 70s Songs | Songs | seasons in the sun | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
-| Marvin Gaye: The Party Tape That Ended Up in Federal Court | https://musicofthe70s.net/blog/artists/marvin-gaye/index.html | 70s Bands & Singers | Artists | Marvin Gaye | Live | 2026-08-29 | Random Artist Picker, 70s Music Trivia Quiz |
-| Rick James: The Motown Deal That Took Eleven Years | https://musicofthe70s.net/blog/artists/rick-james/index.html | 70s Bands & Singers | Artists | Rick James | Live | 2026-08-29 | Random Artist Picker, 70s Music Trivia Quiz |
-| George Clinton: One Contract Dispute Built Two Bands | https://musicofthe70s.net/blog/artists/george-clinton/index.html | 70s Bands & Singers | Artists | George Clinton | Live | 2026-08-27 | Random Artist Picker, 70s Music Trivia Quiz |
-| Jim Croce: The Song He Released the Day After He Died | https://musicofthe70s.net/blog/artists/jim-croce/index.html | 70s Bands & Singers | Artists | jim croce | Live | 2026-08-27 | Random Artist Picker, 70s Music Trivia Quiz |
-| Carole King: The Same Chart, Three Different Names | https://musicofthe70s.net/blog/artists/carole-king/index.html | 70s Bands & Singers | Artists | Carole King | Live | 2026-08-26 | Random Artist Picker, 70s Music Trivia Quiz |
-| Dolly Parton: The Split, the Songs, and the Lawsuit | https://musicofthe70s.net/blog/artists/dolly-parton/index.html | 70s Bands & Singers | Artists | dolly parton | Live (updated 2026-08-25 with editor's note on her death) | 2026-08-24 | Random Artist Picker, 70s Music Trivia Quiz |
-| Stevie Wonder: The Deal That Built His Classic Period | https://musicofthe70s.net/blog/artists/stevie-wonder/index.html | 70s Bands & Singers | Artists | Stevie Wonder | Live | 2026-08-23 | Random Artist Picker, 70s Music Trivia Quiz |
 *(70s Hard Rock, 70s Funk, 70s Music Quiz, Banned Songs of the 70s, 70s Music Trivia, 70s Country Rock — all still Live — moved to CONTENT-INDEX-ARCHIVE.md 2026-10-12 to hold the line count; grep "Older Genres/Trivia rows 2026-10-12" there.)*
 | 70s Country Songs: Play 60 Hits, See Who Ruled #1 | https://musicofthe70s.net/blog/genres/70s-country-songs/index.html | 70s Genres | Genres | 70s country songs | Pushed 5f19009, live check pending | 2026-10-10 | Random Artist Picker, Random 70s Song Generator; links 70s Country Rock, Blue Eyes Crying in the Rain, Jolene, 70s Number One Hits; related Dolly Parton + Willie Nelson. Script: scripts/generate_country_page.py |
 | Elton John: 13 Hits Played, 6 at Number One | https://musicofthe70s.net/blog/artists/elton-john/index.html | 70s Bands & Singers | Artists | elton john | Pushed, live check pending | 2026-10-10 | Random Artist Picker, 70s Music Trivia Quiz; links 70s Number One Hits; related 70s Number One Hits + Carole King. Script: scripts/generate_elton_john_page.py |

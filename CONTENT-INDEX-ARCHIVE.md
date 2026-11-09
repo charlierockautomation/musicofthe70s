@@ -810,3 +810,19 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 - Placeholder card slots remaining on category pages: 0
 - Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 65 = 85 as of 2026-08-31, not yet re-verified against a fresh live sitemap crawl
 
+## Oldest Blog Posts rows pruned from CONTENT-INDEX.md 2026-11-09 (all still Live)
+
+| Title | URL | Pillar | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
+|---|---|---|---|---|---|---|---|
+| Donna Summer: The 1977 Hit Too Influential for the Charts | https://musicofthe70s.net/blog/artists/donna-summer/index.html | 70s Bands & Singers | Artists | Donna Summer | Live | 2026-08-31 | Random Artist Picker, 70s Music Trivia Quiz |
+| Al Green: The Hit He Gave Away Before It Was a Hit | https://musicofthe70s.net/blog/artists/al-green/index.html | 70s Bands & Singers | Artists | al green | Live | 2026-08-30 | Random Artist Picker, 70s Music Trivia Quiz |
+| Stayin Alive: Built on a Magazine Story That Was Fake | https://musicofthe70s.net/blog/songs/stayin-alive/index.html | 70s Songs | Songs | stayin alive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
+| I Will Survive: A B-Side Nobody Wanted to Release | https://musicofthe70s.net/blog/songs/i-will-survive/index.html | 70s Songs | Songs | i will survive | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
+| Seasons in the Sun: The Beach Boys Killed It First | https://musicofthe70s.net/blog/songs/seasons-in-the-sun/index.html | 70s Songs | Songs | seasons in the sun | Live | 2026-08-28 | Mood Song Matcher, Random 70s Song Generator |
+| Marvin Gaye: The Party Tape That Ended Up in Federal Court | https://musicofthe70s.net/blog/artists/marvin-gaye/index.html | 70s Bands & Singers | Artists | Marvin Gaye | Live | 2026-08-29 | Random Artist Picker, 70s Music Trivia Quiz |
+| Rick James: The Motown Deal That Took Eleven Years | https://musicofthe70s.net/blog/artists/rick-james/index.html | 70s Bands & Singers | Artists | Rick James | Live | 2026-08-29 | Random Artist Picker, 70s Music Trivia Quiz |
+| George Clinton: One Contract Dispute Built Two Bands | https://musicofthe70s.net/blog/artists/george-clinton/index.html | 70s Bands & Singers | Artists | George Clinton | Live | 2026-08-27 | Random Artist Picker, 70s Music Trivia Quiz |
+| Jim Croce: The Song He Released the Day After He Died | https://musicofthe70s.net/blog/artists/jim-croce/index.html | 70s Bands & Singers | Artists | jim croce | Live | 2026-08-27 | Random Artist Picker, 70s Music Trivia Quiz |
+| Carole King: The Same Chart, Three Different Names | https://musicofthe70s.net/blog/artists/carole-king/index.html | 70s Bands & Singers | Artists | Carole King | Live | 2026-08-26 | Random Artist Picker, 70s Music Trivia Quiz |
+| Dolly Parton: The Split, the Songs, and the Lawsuit | https://musicofthe70s.net/blog/artists/dolly-parton/index.html | 70s Bands & Singers | Artists | dolly parton | Live (updated 2026-08-25 with editor's note on her death) | 2026-08-24 | Random Artist Picker, 70s Music Trivia Quiz |
+| Stevie Wonder: The Deal That Built His Classic Period | https://musicofthe70s.net/blog/artists/stevie-wonder/index.html | 70s Bands & Singers | Artists | Stevie Wonder | Live | 2026-08-23 | Random Artist Picker, 70s Music Trivia Quiz |
