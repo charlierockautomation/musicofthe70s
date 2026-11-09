@@ -48,6 +48,11 @@ needing verification, never guess.
   sits on or overlaps a player (check anchor/vignette auto-ad formats), and the Privacy Policy
   is first updated to disclose third-party ads and cookies.
 - API key: env var only, from the site's own Google Cloud project. Never print, write or commit it.
+- The key is never stored in scripts/.env or any file Claude Code can read (removed Nov 9, 2026).
+  When a task needs the YouTube API, STOP and give Charlie the exact command to run in his own
+  terminal, with a leading space and the key inline, e.g.
+  ` YOUTUBE_API_KEY=YOUR_KEY python3 scripts/youtube_status.py`
+  Never ask him to paste the key into Claude Code.
 
 ## Site Type
 Static site, Cloudflare Pages, deployed via GitHub push. NOT WordPress — no REST

@@ -98,7 +98,9 @@ Re-read the current wording before relying on anything here:
 - Use only a key from a Google Cloud project dedicated to this site. Never the
   classicrockartists-automation project.
 - Environment variable `YOUTUBE_API_KEY` only. Never print it, write it to a file, or commit it.
-  (`scripts/.env` is gitignored, but new work uses the environment variable, not that file.)
+  No `scripts/.env` or any key file (removed 2026-11-09). When a task needs the API, stop and give
+  Charlie the command for his own terminal: ` YOUTUBE_API_KEY=YOUR_KEY python3 scripts/...`
+  (leading space). Never ask him to paste the key into Claude Code.
 - Never embed API credentials in public code or pages.
 
 ## Legal pages

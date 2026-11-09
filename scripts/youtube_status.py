@@ -152,10 +152,13 @@ def fetch(key, ids):
             sys.exit(f"Network error: {err.reason}. Progress so far is saved; re-run to continue.")
 
 def run_check(refresh):
-    key = os.environ.get("YOUTUBE_API_KEY")
+    key = os.environ.get("YOUTUBE_API_KEY", "").strip()
     if not key:
-        sys.exit("ERROR: set YOUTUBE_API_KEY in the environment (key from the site's own Google Cloud "
-                 "project; never put it in a file).")
+        cmd = "python3 scripts/youtube_status.py" + (" --refresh" if refresh else "")
+        sys.exit("ERROR: YOUTUBE_API_KEY is not set. Nothing was changed.\n"
+                 "The key lives only in the environment, never in a file (no scripts/.env).\n"
+                 "Run this in your own terminal (leading space keeps it out of shell history):\n"
+                 f"   YOUTUBE_API_KEY=YOUR_KEY {cmd}")
     ids = site_ids()
     videos = {k: v for k, v in load_videos().items() if k in ids}  # drop IDs no longer used
     todo = [v for v in sorted(ids)

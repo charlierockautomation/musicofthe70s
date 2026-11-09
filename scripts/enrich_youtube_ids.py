@@ -13,7 +13,8 @@ forever, but re-checked if that file is deleted).
 Usage:
     YOUTUBE_API_KEY=... python3 scripts/enrich_youtube_ids.py [--limit N]
 
-Reads scripts/.env for YOUTUBE_API_KEY if not already in the environment.
+Reads YOUTUBE_API_KEY from the environment only. The key is never stored in
+scripts/.env or any other file. Stops before any work if it is missing.
 Use a key from a Google Cloud project dedicated to this site, never another
 project's. After enriching, run scripts/youtube_status.py so every new ID gets
 a status record (embeddable, madeForKids, checked_at).
@@ -31,22 +32,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG_PATH = os.path.join(ROOT, "data", "radio", "radio-songs.json")
 EXCLUDED_JSON_PATH = os.path.join(ROOT, "data", "radio", "radio-songs-excluded.json")
 EXCLUDED_MD_PATH = os.path.join(ROOT, "data", "radio", "radio-songs-excluded.md")
-ENV_PATH = os.path.join(ROOT, "scripts", ".env")
 
 SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
 
-def load_env_file(path):
-    if not os.path.exists(path):
-        return
-    with open(path) as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#") or "=" not in line:
-                continue
-            key, _, value = line.partition("=")
-            os.environ.setdefault(key.strip(), value.strip())
+MISSING_KEY_MSG = (
+    "ERROR: YOUTUBE_API_KEY is not set. Nothing was changed.\n"
+    "The key lives only in the environment, never in a file (no scripts/.env).\n"
+    "Run this in your own terminal (leading space keeps it out of shell history):\n"
+    "   YOUTUBE_API_KEY=YOUR_KEY python3 scripts/enrich_youtube_ids.py"
+)
 
 
 class QuotaExceeded(Exception):
@@ -148,10 +144,9 @@ def main():
                          help="seconds to sleep between API calls")
     args = parser.parse_args()
 
-    load_env_file(ENV_PATH)
-    api_key = os.environ.get("YOUTUBE_API_KEY")
+    api_key = os.environ.get("YOUTUBE_API_KEY", "").strip()
     if not api_key:
-        sys.exit("ERROR: YOUTUBE_API_KEY not set (env var or scripts/.env)")
+        sys.exit(MISSING_KEY_MSG)
 
     catalog = load_json(CATALOG_PATH, None)
     if catalog is None:
