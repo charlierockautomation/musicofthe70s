@@ -4,18 +4,22 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-08 (6G post 19 Dec 3 LIVE)
+# Last Updated: 2026-11-08 (Master Plan setup: Article Standard gate, build queue, rotation)
 
 ---
 
-## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY this line; update it at the end of every session)
+## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: 6G post 20, This Week in Music History. Date not settled: Dec 10 shares 9 of 10 #1s with the live Dec 12 page (only 1970 differs); Dec 17 shares 7 with Dec 12. Ask Charlie Dec 10 vs Dec 17 first (Dec 3 LIVE 2026-11-08, 97573eb, hubs ac0d715). Songs = every 1970s #1 that charted that week, no exceptions. Clone generate_this_week_dec_03_page.py / _charts.py / template (SPLIT + JSON_WEEKS_WRONG handled). Per-song facts read off Wikipedia, never reused from another date page. Regen = generate_blog_hub_cards.py + generate_category_cards.py + generate_sitemap.py + generate_llms_txt.py, after go-ahead. Mobile check: Playwright Chromium. Open item: Nov 19 live page missing TOC <ol> (template + page), fix needs Charlie OK.**
-**6G post 1 LIVE 2026-10-24 (2c3e94e):** blog/trivia/this-week-in-music-history-october-24/, focus keyword `this week in music history` (Charlie chose it over `this week in 1970s music`, which has no data). Files: scripts/generate_this_week_oct_24_page.py, generate_this_week_oct_24_charts.py, this_week_oct_24_template.tpl. Hubs regenerated. Weekly posts after it reuse the pattern (Thu rhythm, max 52/yr).
-Fully DONE, do not re-propose: Years, Songs 6E (30/30), Artists 6D (all 17 live), Rock hub + 4 genre lists, trivia cross-link, homepage, 6 flagships.
-Blocked indefinitely: ABBA and Bee Gees posts, until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23: site already over-weighted on them; not date-based).
-Charlie-only actions (not mine): Bing Webmaster + IndexNow, confirm hello@ mailbox.
+**NEXT: Build queue step 2, Housekeeping (rows 2a to 2d below), one session.**
 
+### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
+Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
+2. Housekeeping. 2a Date-page series (6G) PAUSED after post 19, no post 20: post 19 (December 3) shows LIVE in git (97573eb, hubs ac0d715), so it still needs Charlie's review of the live page; then fix Nov 19 TOC <ol> (template + page) and the owed backlinks Nov 12 to Nov 19 and to Dec 3 (base forks), Charlie OK first. 2b Sitemap redirect check DONE 2026-11-08: 203 URLs, all 200 live, none .html or in _redirects. 2c Remove the classicrockartists.com link from /pages/about and the link + Person sameAs from /about/author/ (check_standard.py --site FAILS until then). 2d /pages/rock-trivia-game is in sitemap.xml and live (200) though this file says never shipped: Charlie decides keep or noindex (no URL change, no redirect).
+3. 70s Christmas Songs (spokes-queue.md #1, time-sensitive, live before December).
+4. Pillars first (upgrades-queue.md A rows, spokes-queue.md #2): 4.1 Retarget Best Songs of the 70s to "70s songs" (A1). 4.2 70s Bands hub, genre sections, links to every band and artist page (A2). 4.3 Build the 70s Rock Bands pillar. 4.4 70s Number One Hits hub (Years, Birthday finder, date pages) + Birthday #1 Song Finder rework (A4, A3). 4.5 Listen Now radio answer-first section for "70s hits" (A5). 4.6 Retarget Disco, Soul, Pop, Soft Rock, Funk, one per session (A6 to A10).
+5. Fixed rotation, one slot per session, repeating: 5.1 Band (bands-queue.md) · 5.2 Artist (artists-queue.md) · 5.3 New spoke (spokes-queue.md) · 5.4 Band · 5.5 Artist · 5.6 Upgrade (upgrades-queue.md B rows: YMCA, How Can You Mend a Broken Heart, Somebody to Love, then the band retitles) · 5.7 Linking pass on one pillar (order: 70s Songs, Number One Hits, Bands & Singers, Genres, Listen, Trivia, Home).
+Rotation pointer: next rotation slot = 5.1. Rules: highest volume first; never two pages in the same genre back to back (skip to the next row of another genre); keyword rule before writing (article-standard skill), log pulls in keyword-research-log.md; each band/artist page links down to every song story for that act and those pages link back up the same session; when a queue runs out, research new rows in DataForSEO and add them. Every follow-up becomes a queue row, nothing left open.
+Still in force: ABBA/Bee Gees new-post block (retitles B4/B6 are title-only upgrades, not new posts). Charlie-only: Bing Webmaster + IndexNow, confirm hello@ mailbox.
 ---
 
 ## Current State (as of 2026-09-25)
@@ -87,6 +91,7 @@ Charlie-only actions (not mine): Bing Webmaster + IndexNow, confirm hello@ mailb
 ---
 
 ## Strategy Queue (audited 2026-10-09 against live repo + site)
+Superseded for ordering by the Build Queue in NEXT UP (2026-11-08). Open items below that are not in the Build Queue are Charlie-only or parked.
 
 Source: STRATEGY-2026.md (reference, exempt from cap; open only the named section). Only NOT STARTED / PARTIAL
 items listed. DONE items (Phase 0 items 1-6, 9-11 + 12 core pages, flagships 6A 1-6, homepage, Best Songs, Disco,
@@ -117,24 +122,9 @@ Rhythm: Mon flagship/upgrade, Tue Artist, Wed Song, Thu 6G, Fri Song or source p
 2. **Trivia pair** (70s-music-trivia static 64 Qs, 70s-music-quiz scored 50 Qs): NO merge, NO redirects, NO URL changes. Cross-link only: CTA on static post to the quiz; link from quiz back to static post (answers/study guide). Compare question sets; if many duplicates, REPORT count and propose rewrites. No rewrites without Charlie's approval (scaled/duplicate-content guardrail).
 3. **Full playable lists** for pop (230 songs), funk (58), hard rock (28), country rock (22), same pattern as soft rock, folk rock, glam, prog (2026-10-06 chart-archive fix). Pop needs a performance check first (page weight, mobile load with 230 players; consider lazy loading, pagination or year filters). Player stays visible and unobscured (YouTube Required Minimum Functionality, fixed on radio page).
 
-### Genre Lists and Hub Rollout (one task per session, in order)
-Standing checklist for EVERY session S1-S6: content-gap check; PUBLISH GATE (local-server review, never commit or push live content without Charlie's explicit go-ahead); 3+ external source links on any page touched; internal link rule (same target once per article); clean URLs only; run check_clean_urls.py and check_schema.py; mobile check; update content-build.md and CONTENT-INDEX.md; end with the closed status report.
-ABBA / Bee Gees: no new posts or pages about them until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23, not date-based) (their songs may appear inside list pages).
-Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
-- S1. Pop list page (230 songs), including the performance check first: DONE 2026-10-09 (live, f2aa129; 230 rows, no videos load until Play, no pagination needed)
-- S2. Funk list page (58): DONE 2026-10-09 (live, b5b46e9; 58 rows, 11 #1 hits, Sources section added with 4 Wikipedia links)
-- S3. Hard rock list page (28): DONE 2026-10-09 (live, a86a521; 28 rows, 1 #1 hit, Sources section added with 4 Wikipedia links)
-- S4. Country rock list page (22): DONE 2026-10-09 (live, a7a1b15; 22 rows, 5 #1 hits, Sources section added with 4 Wikipedia links)
-- S5. Rock hub rework: DONE 2026-10-09 (live, c23b14d; subgenre guide table of 7 pages, 18-song playable teaser with 8 #1 hits, jump button, Sources with 4 Wikipedia links; script generate_rock_hub.py)
-- S6. Trivia/quiz cross-linking + duplicate-question report: DONE 2026-10-09 (live, 7456a53; static post CTA to quiz post, quiz post links back as study guide, Sources added to both, scrollable TOC on static post, quiz related card swapped to ABBA vs Queen since cards are hand-written; "separate pool" claim corrected)
-- OPTIONAL LATER (needs Charlie's approval, not queued): rewrite the 7 duplicate quiz questions (quiz #2,3,4,8,14,17 and 7 vs static Q12,Q7,Q35,Q6,Q51,Q11,Q8) with new angles on the same artists, then restore the "separate pool" claim
+### Genre Lists and Hub Rollout S1-S6: all DONE 2026-10-09, pruned to SESSION-LOG-ARCHIVE.md 2026-11-08 (grep "Genre Lists and Hub Rollout S1-S6").
 
-
-**Flagged, not in rotation (Charlie's call, unaffected by the strategy queue):**
-| Item | Detail | Status |
-|---|---|---|
-| Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | RESOLVED 2026-10-09: hub + teaser (S5) |
-| Trivia UX overlap | static 64-question post vs scored 50-question quiz | RESOLVED 2026-10-09: cross-link only (S6) |
+---
 
 ## Songs 6E Queue — 30 songs from live 6D artists (ordered 2026-10-16)
 

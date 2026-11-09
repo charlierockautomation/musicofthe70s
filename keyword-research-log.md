@@ -4,7 +4,7 @@
 # the raw data those decisions get made from. A term can sit here unused for a long time before
 # it becomes a Rotation Queue slot — that's expected, not stale.
 # Shipped pulls (focus keyword now on a Live post) live in keyword-research-archive.md (grep-only).
-# Last Updated: 2026-09-27
+# Last Updated: 2026-11-08 (Master Plan keyword rule + Pull Log)
 
 ---
 
@@ -14,6 +14,22 @@
 2. Split every pull into **Real** (genuinely about the site's subject matter) vs **Noise** (same term, different subject, contaminating the data) before drawing any conclusion from it.
 3. Mark a term's status once a decision is made: `confirmed focus keyword` (in use on a specific Live or in-progress post), `future post candidate` (real volume, no post built yet), or `excluded — contamination` (real volume, but for an unrelated subject, not usable for this site).
 4. content-build.md's Rotation Queue should link back here when a slot's keyword was pulled from a logged entry, instead of re-describing the number inline.
+
+---
+
+## Keyword Rule (MASTER-PLAN-2026-11.md, every page, before writing; added 2026-11-08)
+
+1. DataForSEO: Google volume US (2840), Canada (2124), UK (2826) via kw_data_google_ads_search_volume, plus AI volume via ai_optimization_keyword_data_search_volume, for the focus keyword and its variants.
+2. Artists and bands: "[act] songs" or the bare name, whichever is the bigger songs-intent search.
+3. "Check name" rows (bands-queue.md): serp_organic_live_advanced first; skip the act if the results are not about it.
+4. Floor: under 300 Google and under 50 AI = not built (mark the queue row SKIPPED with the numbers).
+5. Log every pull below in the Pull Log table, one row per keyword, same session. Full rule: article-standard skill.
+
+### Pull Log (Master Plan builds)
+
+| Date | Page / queue row | Keyword | US | CA | UK | AI | Decision |
+|---|---|---|---|---|---|---|---|
+| 2026-11-08 | (setup session, no pulls; plan volumes: DataForSEO Labs US Sep 2026, AI Oct 2026) | | | | | | |
 
 ---
 

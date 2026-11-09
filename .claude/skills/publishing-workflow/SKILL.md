@@ -5,6 +5,8 @@ description: Step-by-step publish sequence (verify_post.py, preview, SEO checkli
 
 # Publishing Workflow — Full Detail
 
+> **Article Standard gate (2026-11-08):** before step 2, register the page in `scripts/article_standard_pages.json` and run `python3 scripts/check_standard.py <page>` to PASS; `verify_post.py` and the git pre-commit hook enforce it, and `python3 scripts/check_standard.py --registered` plus `--site` join the pre-commit gate list. See the article-standard skill.
+
 ## Blog Hub "Latest Posts" Rotation
 The Blog Hub's "Latest Posts" row is capped at 9 cards, newest first by
 `datePublished`. Once a 10th post exists, the oldest drops off

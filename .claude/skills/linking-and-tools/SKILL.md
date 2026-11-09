@@ -5,6 +5,8 @@ description: The Tools-as-Pillars table (real data behind each interactive tool)
 
 # Internal Linking & Tools-as-Pillars — Full Detail
 
+> **Article Standard links (2026-11-08):** up to the pillar, down to every related song story (with a link back up from each song page the same session), 2 to 4 sideways links within the same pillar, one link to /radio/ or a tool, each target once across body and cards, never classicrockartists.com. Gate N1-N6 in `scripts/check_standard.py` (article-standard skill).
+
 Only needed during the internal-linking step of a build. Open this then, not at
 session start.
 

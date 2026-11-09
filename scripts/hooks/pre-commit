@@ -1,0 +1,11 @@
+#!/bin/sh
+# Article Standard save-time gate (MASTER-PLAN-2026-11.md).
+# Blocks a commit when a registered page fails scripts/check_standard.py, when a
+# NEW page is staged without being registered, or when staged HTML names
+# classicrockartists.com. Install: cp scripts/hooks/pre-commit .git/hooks/pre-commit
+# Never bypass with --no-verify.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+python3 scripts/check_standard.py --staged || {
+  echo "pre-commit: Article Standard gate FAILED, commit refused (scripts/check_standard.py)." >&2
+  exit 1
+}

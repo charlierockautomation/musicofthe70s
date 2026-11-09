@@ -21,6 +21,11 @@ only, peaks and weeks at #1 come from hot100_weekly.json or Wikipedia and are cr
 fails (exit 1) if any built HTML has an internal href, canonical, og:url, or
 JSON-LD url/@id/mainEntityOfPage/item ending in ".html" or "index.html" (Cloudflare
 Pages redirects those instead of serving them directly). Also `python3 scripts/check_image_files.py` (must print PASS; every img src/srcset must exist on disk).
+Also `python3 scripts/check_standard.py --registered` (must print PASS; every new or upgraded page meets
+the Article Standard, article-standard skill; a new page must be registered in
+scripts/article_standard_pages.json first) and `python3 scripts/check_standard.py --site` (no
+classicrockartists.com link anywhere). The git pre-commit hook (scripts/hooks/pre-commit, installed in
+.git/hooks) refuses a failing commit; never bypass it with --no-verify.
 Must print PASS before
 anything is committed. Full step-by-step sequence: publishing-workflow skill.
 Tracker-file commits (content-build.md, CONTENT-INDEX.md, keyword-research-log.md)

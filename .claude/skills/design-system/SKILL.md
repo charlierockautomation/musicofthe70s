@@ -5,6 +5,8 @@ description: Site design tokens (fonts, colors, CSS classes) and URL/slug struct
 
 # Design System & URL Structure — Full Detail
 
+> **Article Standard components (2026-11-08):** `.facts-box` (aside > dl), `.listen-row` + `.listen-btn[data-yt]` with `/js/listen-button.js` (plays in place), collapsible TOC = `nav.toc-block > details.toc-details`. Markup in the article-standard skill.
+
 ## Design System (do not deviate without explicit approval)
 - Fonts: Playfair Display (headings, 700/900) + Inter (body, 400–700), Google Fonts CDN
 - Colors:

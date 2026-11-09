@@ -188,7 +188,31 @@ def main():
     for line in yt_problems:
         print(f"FAIL {line}")
     print(f"YouTube status: {'FAIL' if yt_problems else 'PASS'}")
-    if yt_problems:
+
+    # Article Standard gate (MASTER-PLAN-2026-11.md, article-standard skill).
+    # A registered page (scripts/article_standard_pages.json) must pass
+    # check_standard.py. A page that is new to git must be registered first:
+    # every new article meets the standard, no exceptions.
+    import subprocess
+    from pathlib import Path
+    from check_standard import ROOT, check, load_registry
+    rel = Path(path).resolve().relative_to(ROOT).as_posix()
+    cfg = load_registry().get(rel)
+    tracked = subprocess.run(["git", "ls-files", "--error-unmatch", rel], cwd=ROOT, timeout=60,
+                             capture_output=True).returncode == 0
+    std_fail = False
+    print("\n--- Article Standard (scripts/check_standard.py) ---")
+    if cfg:
+        rep = check(path, cfg["keyword"], cfg["type"], cfg.get("subject"), cfg.get("secondary", []),
+                    cfg.get("related_songs"), cfg.get("pillar"))
+        rep.print(rel)
+        std_fail = not rep.passed
+    elif not tracked:
+        print("FAIL new page is not registered in scripts/article_standard_pages.json (type, keyword, subject)")
+        std_fail = True
+    else:
+        print("SKIP legacy page, not yet upgraded to the standard (register it when it is upgraded)")
+    if yt_problems or std_fail:
         sys.exit(1)
 
 

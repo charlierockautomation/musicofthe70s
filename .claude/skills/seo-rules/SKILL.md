@@ -5,6 +5,8 @@ description: The non-negotiable focus-keyword rule (search-phrasing verification
 
 # SEO Rules — Full Detail
 
+> **Article Standard (2026-11-08) overrides this skill where they conflict:** keyword choice runs the DataForSEO keyword rule (US/CA/UK + AI volume, floor 300 Google / 50 AI), stuffing limits are the ClassicRockArtists ones (max 1.0% phrase / 2.0% name, max 2 keyword H2s), and schema follows the page-type table (BlogPosting + MusicRecording for songs, so the 2026-09-17 MusicRecording rejection is superseded). See the article-standard skill; gate: `scripts/check_standard.py`.
+
 ## THE KEYWORD RULE — NON-NEGOTIABLE
 This is the most important section in this doc. Every post starts here, before a single word of content is written.
 

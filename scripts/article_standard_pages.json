@@ -1,0 +1,4 @@
+{
+  "_doc": "Pages under the Article Standard (scripts/check_standard.py). Key = repo path. type: song|band|artist|playlist|album|tv|pillar|chart|quiz|trivia|tool. Add a page here when it is built or upgraded; the pre-commit gate then blocks any commit where it fails.",
+  "pages": {}
+}

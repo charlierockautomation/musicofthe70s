@@ -5,6 +5,8 @@ description: Prose/readability protocol (no em-dashes, one sentence per paragrap
 
 # Prose, Readability & Image Rules — Full Detail
 
+> **Article Standard (2026-11-08):** no em dashes anywhere, including list items and meta; one sentence per paragraph; no lyrics; no first-person concert claims. Gate W1-W4 in `scripts/check_standard.py` (article-standard skill).
+
 ## Prose & Readability Protocol (STRICT ADHERENCE)
 
 ### The "Human" Rule

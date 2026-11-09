@@ -5,6 +5,8 @@ description: The fixed 15-step blog post structure (H1 → intro → featured im
 
 # Blog Post Template — Full Structure
 
+> **Article Standard (2026-11-08):** new articles and upgraded pages follow the article-standard skill on top of this template: answer-first two sentences, facts box under the intro, Listen button that plays in place (replaces the 6c "Jump to the video" link), collapsible TOC, FAQ that adds facts not in the body, "You Might Also Like" cards, page-type schema. Gate: `scripts/check_standard.py`.
+
 Every post, no exceptions.
 
 **Content order is fixed and non-negotiable: H1 → intro paragraph → featured image → remaining sections.**

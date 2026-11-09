@@ -627,3 +627,25 @@ Phase 0 item 7 next: Years 1975-79 and Best Songs have 0 external links. Known m
 | 18 | Tiny Dancer (Elton John) | tiny dancer | 14,800 | - | LIVE 2026-10-19 (pushed 68ce74d + hubs faecee2, Charlie go-ahead, live URL 200 across 3 checks, listed on Songs hub). /blog/songs/tiny-dancer/, ~1,240 words, kw 1.70%. Peak #41 Hot 100, Cash Box 29, certs, Almost Famous, Grammy HoF 2020, Rolling Stone ranks, covers all Wikipedia-credited; song NOT in site year-end/weekly data so no site chart claim. No radio_id (not in radio-songs.json), no Listen Now link. Video 5g4MSYK5d3A (Elton John official channel, Remastered 2016), status PASS. Reused 1972 + 1975 Elton images. Gates PASS (verify_post, placeholders, chart claims, list players, clean URLs, image files, schema, YouTube). No Chrome/mobile check. SERP gap not re-pulled. |
 | 19 | Kashmir (Led Zeppelin) | kashmir led zeppelin | 27,100 | - | LIVE 2026-10-19 (pushed a06fd55 + hubs 42660f2, Charlie go-ahead, live URL 200 across 3 checks, listed on Songs hub). /blog/songs/kashmir-led-zeppelin/, 1,375 words, kw 0.79%. No Hot 100 rows in site data; 2007 digital peaks + certs + rankings all Wikipedia-credited. SERP = Wikipedia + thin SEO pages, gap holds. No radio_id, no Listen Now link. All gates PASS |
 | 20 | We've Only Just Begun (Carpenters) | we've only just begun | 6,600 | - | LIVE 2026-10-20 (pushed a8ee2b3 + hubs d0f6ae3, Charlie go-ahead after local review, live URL 200 across 3 checks, Charlie confirmed live, listed on Songs hub). /blog/songs/weve-only-just-begun/, 1,740 words, kw 1.03%. SERP = AI Overview/videos/Spotify, gap holds. Peak #2 Hot 100 (Wikipedia), YE 65; images carpenters-greek-1975 CC BY 4.0 Ballard + peaks chart; script generate_weve_only_just_begun_chart.py; all gates PASS |
+
+
+## Pruned from content-build.md 2026-11-08 (Master Plan setup): Genre Lists and Hub Rollout S1-S6 (all DONE) + resolved Flagged table
+
+### Genre Lists and Hub Rollout (one task per session, in order)
+Standing checklist for EVERY session S1-S6: content-gap check; PUBLISH GATE (local-server review, never commit or push live content without Charlie's explicit go-ahead); 3+ external source links on any page touched; internal link rule (same target once per article); clean URLs only; run check_clean_urls.py and check_schema.py; mobile check; update content-build.md and CONTENT-INDEX.md; end with the closed status report.
+ABBA / Bee Gees: no new posts or pages about them until all major 70s artists and top 70s songs are on the site (Charlie 2026-10-23, not date-based) (their songs may appear inside list pages).
+Tools: generate_genre_lists.py PAGES + generate_beyond_year_end.py.
+- S1. Pop list page (230 songs), including the performance check first: DONE 2026-10-09 (live, f2aa129; 230 rows, no videos load until Play, no pagination needed)
+- S2. Funk list page (58): DONE 2026-10-09 (live, b5b46e9; 58 rows, 11 #1 hits, Sources section added with 4 Wikipedia links)
+- S3. Hard rock list page (28): DONE 2026-10-09 (live, a86a521; 28 rows, 1 #1 hit, Sources section added with 4 Wikipedia links)
+- S4. Country rock list page (22): DONE 2026-10-09 (live, a7a1b15; 22 rows, 5 #1 hits, Sources section added with 4 Wikipedia links)
+- S5. Rock hub rework: DONE 2026-10-09 (live, c23b14d; subgenre guide table of 7 pages, 18-song playable teaser with 8 #1 hits, jump button, Sources with 4 Wikipedia links; script generate_rock_hub.py)
+- S6. Trivia/quiz cross-linking + duplicate-question report: DONE 2026-10-09 (live, 7456a53; static post CTA to quiz post, quiz post links back as study guide, Sources added to both, scrollable TOC on static post, quiz related card swapped to ABBA vs Queen since cards are hand-written; "separate pool" claim corrected)
+- OPTIONAL LATER (needs Charlie's approval, not queued): rewrite the 7 duplicate quiz questions (quiz #2,3,4,8,14,17 and 7 vs static Q12,Q7,Q35,Q6,Q51,Q11,Q8) with new angles on the same artists, then restore the "separate pool" claim
+
+
+**Flagged, not in rotation (Charlie's call, unaffected by the strategy queue):**
+| Item | Detail | Status |
+|---|---|---|
+| Rock genre-page overlap | /blog/genres/70s-rock/ vs its 6 subgenre pages | RESOLVED 2026-10-09: hub + teaser (S5) |
+| Trivia UX overlap | static 64-question post vs scored 50-question quiz | RESOLVED 2026-10-09: cross-link only (S6) |

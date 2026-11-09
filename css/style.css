@@ -804,3 +804,19 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .tp-controls { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
 .n1-player-inner .tp-controls .n1-close, .ohw-player-inner .tp-controls .ohw-close { display: inline-block; margin: 0; }
 .data-table tbody tr.tp-playing td { background: rgba(245, 166, 35, 0.14); }
+
+/* ---------- Article Standard components (2026-11-08, article-standard skill) ----------
+   Facts box under the intro and Listen button (collapsible TOC reuses .toc-details) that plays in place.
+   Gate: scripts/check_standard.py (A2, T2, L1). */
+.facts-box {
+  background: var(--bg-card); border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent-gold); border-radius: var(--radius);
+  padding: 1rem 1.25rem; margin: 1.5rem 0;
+}
+.facts-box dl { display: grid; grid-template-columns: minmax(7rem, max-content) 1fr; gap: 0.45rem 1rem; margin: 0; }
+.facts-box dt { color: var(--accent-gold); font-weight: 700; font-size: 0.9rem; }
+.facts-box dd { margin: 0; color: var(--text-primary); font-size: 0.95rem; min-width: 0; overflow-wrap: anywhere; }
+@media (max-width: 480px) { .facts-box dl { grid-template-columns: 1fr; gap: 0.15rem; } .facts-box dd { margin-bottom: 0.5rem; } }
+.listen-row { margin: 1rem 0 1.25rem; }
+.listen-btn { display: inline-flex; align-items: center; gap: 0.5rem; min-height: 48px; padding: 0.7rem 1.6rem; font-size: 1.05rem; border: 0; cursor: pointer; }
+.listen-player.video-embed { margin: 1rem 0 1.25rem; padding: 0; }

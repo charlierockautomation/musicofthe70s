@@ -784,3 +784,29 @@ Sixth entry in the Songs artist-linked rotation queue (after Waterloo, How Can Y
 | August 19 in Music History: The 1970s Number Ones | https://musicofthe70s.net/blog/trivia/august-19-in-music-history/ | Trivia | august 19 in music history | LIVE (pushed ed730c9, live URL 200, 10 play rows) | 2026-11-06 (page date 2027-08-19) | Birthday #1 Song Finder, 70s Music Trivia Quiz; links Close to You, Carpenters songs, How Can You Mend a Broken Heart, Diana Ross songs, Jive Talkin', Bee Gees, Elton John, Jul 15, Jun 12, May 29, Apr 17, Mar 20, Feb 13, Jan 9, Nov 28, Oct 24 posts. 10 playable rows, 29 weeks at #1 (two split runs: Alone Again (Naturally) 6, I Just Want to Be Your Everything 4); story lines Wikipedia-credited. Scripts: generate_this_week_aug_19_page.py + _charts.py |
 | September 16 in Music History: The 1970s Number Ones | https://musicofthe70s.net/blog/trivia/september-16-in-music-history/ | Trivia | september 16 in music history | LIVE (pushed e7d4182, hubs regenerated) | 2026-11-06 (page date 2027-09-16) | Birthday #1 Song Finder, 70s Music Trivia Quiz; links Three Dog Night songs, Helen Reddy songs, KC and the Sunshine Band songs, Aug 19, Jul 15, Jun 12, May 29, Apr 17, Mar 20, Feb 13, Jan 9, Nov 28, Oct 24 posts. 10 playable rows, 26 weeks at #1 (one split run: Best of My Love 5); story lines Wikipedia-credited. Scripts: generate_this_week_sep_16_page.py + _charts.py |
 | February 1 in Music History: The 1970s Number Ones | https://musicofthe70s.net/blog/trivia/february-1-in-music-history/ | Trivia | february 1 in music history | LIVE (pushed 0dc2df5, hubs regenerated) | 2026-11-07 (page date 2027-02-01) | Birthday #1 Song Finder, 70s Music Trivia Quiz; links Jackson 5 songs, Don McLean American Pie, Superstition, Dec 12, Sep 16, Aug 19, Jul 15, Jun 12, May 29, Apr 17, Mar 20, Feb 13, Jan 9, Nov 28, Oct 24 posts. 10 playable rows, 22 weeks at #1 (one split run: Le Freak 6, also on Dec 12 page, the one repeat); weekly file weeks field says 2 for Superstition, page uses 1 row (Wikipedia 1973 list agrees). Story lines Wikipedia-credited. Scripts: generate_this_week_feb_01_page.py + _charts.py |
+
+
+## Oldest Blog Posts rows pruned from CONTENT-INDEX.md 2026-11-08 (all still Live; Pillar column added that day)
+
+| Title | URL | Pillar | Category | Focus Keyword | Status | Published | Internal Tool Link Used |
+|---|---|---|---|---|---|---|---|
+| Bjorn Ulvaeus: The Bench Where ABBA Actually Began | https://musicofthe70s.net/blog/artists/bjorn-ulvaeus/index.html | 70s Bands & Singers | Artists | Bjorn Ulvaeus | Live | 2026-08-18 | Random Artist Picker |
+| Benny Andersson: The Real Songwriting Method Behind ABBA | https://musicofthe70s.net/blog/artists/benny-andersson/index.html | 70s Bands & Singers | Artists | Benny Andersson | Live | 2026-08-19 | 70s Music Trivia Quiz |
+| Iggy Pop: The 1970s Collapse and Berlin Resurrection | https://musicofthe70s.net/blog/artists/iggy-pop/index.html | 70s Bands & Singers | Artists | iggy pop | Live | 2026-08-21 | Random Artist Picker, 70s Music Trivia Quiz |
+| ABBA vs Queen: Who Won the US Charts in the 70s? | https://musicofthe70s.net/blog/trivia/abba-vs-queen/index.html | 70s Music Trivia | Trivia | abba vs queen | Live | 2026-08-21 | 70s Music Trivia Quiz, Birthday #1 Song Finder |
+| Brian May and Queen: The Guitar Built From a Fireplace | https://musicofthe70s.net/blog/artists/brian-may-and-queen/index.html | 70s Bands & Singers | Artists | brian may and queen | Live | 2026-08-22 | Random Artist Picker, 70s Music Trivia Quiz |
+| Sir Duke Stevie Wonder: The Tribute That Topped the Charts | https://musicofthe70s.net/blog/songs/sir-duke-stevie-wonder/index.html | 70s Songs | Songs | sir duke stevie wonder | Live | 2026-09-15 | Random 70s Song Generator, Mood Song Matcher |
+| We Will Rock You: How Queen Built a Stadium Chant | https://musicofthe70s.net/blog/songs/we-will-rock-you/index.html | 70s Songs | Songs | We Will Rock You | Live | 2026-08-23 | Random 70s Song Generator, Mood Song Matcher |
+| Willie Nelson: The Songwriter Who Became the Star | https://musicofthe70s.net/blog/artists/willie-nelson/index.html | 70s Bands & Singers | Artists | Willie Nelson | Live | 2026-08-25 | Random Artist Picker, 70s Music Trivia Quiz |
+
+
+## Quick Stats as of 2026-11-08, before the Pillar Map rewrite (moved from CONTENT-INDEX.md)
+
+
+- Total live tool pages: 9
+- Total live blog hub/category pages: 11
+- Total published (reviewed and pushed) blog posts: 97 (Genres 12, Artists 24, Songs 47, Trivia 4, Years 10, as of 2026-09-15, includes Sir Duke, Songs slot #34, now Live)
+- Total placeholder/in-progress posts: 0
+- Placeholder card slots remaining on category pages: 0
+- Last full site audit: 2026-08-22 (sitemap.xml cross-check, confirmed 67 total live URLs = 9 + 11 + 47). Table-recount total is now 9 + 11 + 65 = 85 as of 2026-08-31, not yet re-verified against a fresh live sitemap crawl
+

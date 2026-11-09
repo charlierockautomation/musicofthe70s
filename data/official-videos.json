@@ -1,0 +1,4 @@
+{
+  "_doc": "YouTube IDs confirmed as official artist or label uploads (L3 in scripts/check_standard.py). Each: {\"official\": true, \"channel\": \"<channel name>\", \"verified\": \"YYYY-MM-DD\"}. Topic or fan uploads never qualify.",
+  "videos": {}
+}
