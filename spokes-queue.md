@@ -14,7 +14,7 @@ Status values: `queued` · `in progress` · `built, awaiting review` · `LIVE` �
 
 | # | Page | Focus keyword | Google/mo | AI/mo | Pillar | Page type (schema) | Runs at | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 70s Christmas Songs | 70s christmas songs | 590 | 73 (1970s christmas songs 103) | Listen (time-sensitive: live before December); built under 70s Songs path pillar (/blog/songs/) | playlist | Step 3 | built, awaiting review (2026-11-09) |
+| 1 | 70s Christmas Songs | 70s christmas songs | 590 | 73 (1970s christmas songs 103) | Listen (time-sensitive: live before December); built under 70s Songs path pillar (/blog/songs/) | playlist | Step 3 | LIVE 2026-11-09 (289214e) |
 | 2 | 70s Rock Bands | 70s rock bands | 14,800 | 1,062 | Bands & Singers (pillar page) | pillar | Step 4.3 | queued |
 | 3 | Yacht Rock Songs | yacht rock songs | 9,900 | 851 | Soft Rock (genre) | playlist | 5.3 | queued |
 | 4 | Saturday Night Fever Soundtrack | saturday night fever soundtrack | 8,100 | 44 | Disco (genre) | album | 5.3 | queued |

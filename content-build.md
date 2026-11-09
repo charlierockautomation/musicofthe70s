@@ -4,18 +4,18 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-09 (Step 2 housekeeping closed, B11/B12 retitles LIVE, NEXT UP = 70s Christmas Songs)
+# Last Updated: 2026-11-09 (Step 3 70s Christmas Songs LIVE, NEXT UP = step 3.1 Nov 19 TOC fix)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Build queue step 3, 70s Christmas Songs (spokes-queue.md #1, time-sensitive, live before December).**
+**NEXT: Build queue step 3.1, Nov 19 TOC fix (can share the session with 3.2 owed date-page backlinks).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
 2. Housekeeping DONE 2026-11-09 (Charlie's decisions). 2a Post 19 (December 3) stays LIVE; date-page series (6G) stays PAUSED after post 19; Nov 19 TOC fix and owed backlinks queued as steps 3.1 and 3.2 (2026-11-09). 2b Sitemap redirect check DONE 2026-11-08. 2c classicrockartists.com links KEPT on /pages/about and /about/author/ (incl. schema); check_standard.py --site exempts only those two pages (CRA_EXEMPT), rule applies everywhere else. 2d Rock Trivia Game stays LIVE and indexed (shipped); trivia engagement posts added as spokes-queue.md #14. Also 2026-11-09: B11/B12 retitles LIVE (Chicago Songs, ELO Songs), full Article Standard upgrade queued as B13.
-3. 70s Christmas Songs (spokes-queue.md #1, time-sensitive, live before December).
+3. 70s Christmas Songs DONE 2026-11-09: LIVE /blog/songs/70s-christmas-songs/ (289214e, hubs 1231ce9, live URL 200). Shared .facts-box card restyled site-wide; verify_post uses K2 for Standard pages; Lennon row keeps the 2020 Ultimate Mix (johnlennon has no original-mix upload).
 3.1 Nov 19 TOC fix (fork nov-19-toc-ol-fix, queued 2026-11-09): live /blog/trivia/november-19-in-music-history/ has `</ol>` but no opening `<ol>` in its Table of Contents. Add `<ol>` after `<summary>Table of Contents</summary>` in scripts/this_week_nov_19_template.tpl, rerun scripts/generate_this_week_nov_19_page.py, gate checks, Charlie review, PUBLISH GATE. Touches: november-19-in-music-history.
 3.2 Owed date-page backlinks (forks nov-7-backlink-to-nov-12, nov-12-backlink-to-nov-19, backlinks-to-dec-3, queued 2026-11-09): add the missing target once per article to each "Other weeks" sentence. Nov 7 template links Nov 12; Nov 12 and Nov 28 templates link Nov 19; Nov 28 and Dec 12 templates link Dec 3. Edit scripts/this_week_{nov_07,nov_12,nov_28,dec_12}_template.tpl, rerun their generate_*_page.py, gate checks, Charlie review, PUBLISH GATE. Touches: november-7, november-12, november-28, december-12-in-music-history. Can share one session with 3.1.
 4. Pillars first (upgrades-queue.md A rows, spokes-queue.md #2): 4.1 Retarget Best Songs of the 70s to "70s songs" (A1). 4.2 70s Bands hub, genre sections, links to every band and artist page (A2). 4.3 Build the 70s Rock Bands pillar. 4.4 70s Number One Hits hub (Years, Birthday finder, date pages) + Birthday #1 Song Finder rework (A4, A3). 4.5 Listen Now radio answer-first section for "70s hits" (A5). 4.6 Retarget Disco, Soul, Pop, Soft Rock, Funk, one per session (A6 to A10).
