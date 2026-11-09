@@ -782,10 +782,18 @@ def run_registered(paths=None):
     return ok
 
 
+# Charlie's decision of Nov 9 (2026-11-09): keep the classicrockartists.com links (and the author
+# Person schema sameAs) on these two pages only. The rule still applies to every article and every
+# other page. Do not add to this list without Charlie's explicit OK.
+CRA_EXEMPT = {"pages/about.html", "about/author/index.html"}
+
+
 def site_scan():
     bad = []
     for f in ROOT.rglob("*.html"):
         if any(part.startswith(".") for part in f.relative_to(ROOT).parts):
+            continue
+        if f.relative_to(ROOT).as_posix() in CRA_EXEMPT:
             continue
         if re.search(r"classicrockartists\.com", f.read_text(encoding="utf-8", errors="ignore"), re.I):
             bad.append(f.relative_to(ROOT).as_posix())
@@ -805,7 +813,7 @@ def staged():
         status, name = line.split("\t", 1)
         if not name.endswith(".html"):
             continue
-        if "classicrockartists.com" in (ROOT / name).read_text(encoding="utf-8", errors="ignore").lower():
+        if name not in CRA_EXEMPT and "classicrockartists.com" in (ROOT / name).read_text(encoding="utf-8", errors="ignore").lower():
             print(f"FAIL {name}: links to or names classicrockartists.com")
             ok = False
         if name in reg:

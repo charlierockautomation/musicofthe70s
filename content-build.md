@@ -4,17 +4,17 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-08 (Master Plan setup: Article Standard gate, build queue, rotation)
+# Last Updated: 2026-11-09 (Step 2 housekeeping closed, B11/B12 retitles LIVE, NEXT UP = 70s Christmas Songs)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Build queue step 2, Housekeeping (rows 2a to 2d below), one session.**
+**NEXT: Build queue step 3, 70s Christmas Songs (spokes-queue.md #1, time-sensitive, live before December).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
-2. Housekeeping. 2a Date-page series (6G) PAUSED after post 19, no post 20: post 19 (December 3) shows LIVE in git (97573eb, hubs ac0d715), so it still needs Charlie's review of the live page; then fix Nov 19 TOC <ol> (template + page) and the owed backlinks Nov 12 to Nov 19 and to Dec 3 (base forks), Charlie OK first. 2b Sitemap redirect check DONE 2026-11-08: 203 URLs, all 200 live, none .html or in _redirects. 2c Remove the classicrockartists.com link from /pages/about and the link + Person sameAs from /about/author/ (check_standard.py --site FAILS until then). 2d /pages/rock-trivia-game is in sitemap.xml and live (200) though this file says never shipped: Charlie decides keep or noindex (no URL change, no redirect).
+2. Housekeeping DONE 2026-11-09 (Charlie's decisions). 2a Post 19 (December 3) stays LIVE; date-page series (6G) stays PAUSED after post 19; Nov 19 TOC fix and owed backlinks remain as base forks only. 2b Sitemap redirect check DONE 2026-11-08. 2c classicrockartists.com links KEPT on /pages/about and /about/author/ (incl. schema); check_standard.py --site exempts only those two pages (CRA_EXEMPT), rule applies everywhere else. 2d Rock Trivia Game stays LIVE and indexed (shipped); trivia engagement posts added as spokes-queue.md #14. Also 2026-11-09: B11/B12 retitles LIVE (Chicago Songs, ELO Songs), full Article Standard upgrade queued as B13.
 3. 70s Christmas Songs (spokes-queue.md #1, time-sensitive, live before December).
 4. Pillars first (upgrades-queue.md A rows, spokes-queue.md #2): 4.1 Retarget Best Songs of the 70s to "70s songs" (A1). 4.2 70s Bands hub, genre sections, links to every band and artist page (A2). 4.3 Build the 70s Rock Bands pillar. 4.4 70s Number One Hits hub (Years, Birthday finder, date pages) + Birthday #1 Song Finder rework (A4, A3). 4.5 Listen Now radio answer-first section for "70s hits" (A5). 4.6 Retarget Disco, Soul, Pop, Soft Rock, Funk, one per session (A6 to A10).
 5. Fixed rotation, one slot per session, repeating: 5.1 Band (bands-queue.md) · 5.2 Artist (artists-queue.md) · 5.3 New spoke (spokes-queue.md) · 5.4 Band · 5.5 Artist · 5.6 Upgrade (upgrades-queue.md B rows: YMCA, How Can You Mend a Broken Heart, Somebody to Love, then the band retitles) · 5.7 Linking pass on one pillar (order: 70s Songs, Number One Hits, Bands & Singers, Genres, Listen, Trivia, Home).
@@ -34,8 +34,8 @@ Still in force: ABBA/Bee Gees new-post block (retitles B4/B6 are title-only upgr
   `ci-workflow-pending`, not on remote per the standing PAT-scope call (Charlie-approved).
 - Genres Rotation Queue is fully clear. Years series complete (10/10). Trivia has no cap.
 - Standing flags for Charlie (not blocking any build):
-  - Rock Trivia Game (7th tool) is built but NOT shipped — decided against 2026-08-27. Stays built and
-    unpublished, not part of the active rotation. Permanent: not going to be done.
+  - Rock Trivia Game (7th tool) is SHIPPED: live and indexed (Charlie, 2026-11-09). Trivia
+    engagement posts tied to it are spokes-queue.md #14.
 
 ## How This File Works
 

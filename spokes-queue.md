@@ -27,6 +27,7 @@ Status values: `queued` · `in progress` · `built, awaiting review` · `LIVE` �
 | 11 | 70s TV Theme Songs | 70s tv theme songs | 320 | 87 | 70s Songs | playlist | 5.3 | queued |
 | 12 | 70s Motown Songs | 70s motown songs | 320 | 76 | Soul (genre) | playlist | 5.3 | queued |
 | 13 | 70s Wedding Songs | 70s wedding songs | 320 | 67 | Listen | playlist | 5.3 | queued |
+| 14 | 70s trivia posts, engagement content tied to Rock Trivia Game; angle and keywords to be picked with DataForSEO when the row comes up | (pick at build) | (pull) | (pull) | Trivia | trivia | 5.3 | queued |
 
 Order rule: never two pages in the same genre back to back across the whole rotation (Yacht Rock is soft rock, SNF is disco, Soul Train and R&B and Motown are soul). When this queue runs out, research new spokes in DataForSEO and add them.
 Genre band sections (70s punk, funk, southern rock bands, disco groups, R&B groups, soul groups) live inside the 70s Bands pillar (upgrades-queue.md A2), not as pages.

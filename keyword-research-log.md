@@ -4,7 +4,7 @@
 # the raw data those decisions get made from. A term can sit here unused for a long time before
 # it becomes a Rotation Queue slot — that's expected, not stale.
 # Shipped pulls (focus keyword now on a Live post) live in keyword-research-archive.md (grep-only).
-# Last Updated: 2026-11-08 (Master Plan keyword rule + Pull Log)
+# Last Updated: 2026-11-09 (B11/B12 ELO + Chicago pulls)
 
 ---
 
@@ -30,6 +30,10 @@
 | Date | Page / queue row | Keyword | US | CA | UK | AI | Decision |
 |---|---|---|---|---|---|---|---|
 | 2026-11-08 | (setup session, no pulls; plan volumes: DataForSEO Labs US Sep 2026, AI Oct 2026) | | | | | | |
+| 2026-11-09 | B12 ELO /blog/artists/electric-light-orchestra-songs/ | elo songs | ~1,290 clickstream (22,200 combined w/ variant, KD 19) | | | | confirmed focus keyword; title + H1 lead "ELO Songs", URL unchanged |
+| 2026-11-09 | B12 ELO (variant) | electric light orchestra songs | ~310 clickstream | | | | kept second in title/H1 |
+| 2026-11-09 | B11 Chicago /blog/artists/chicago-band-songs/ | chicago songs | ~2,840 clickstream (40,500 combined w/ variant, KD 13; mixed intent: city, musical) | | | | confirmed focus keyword; title + H1 lead "Chicago Songs", "the band" early, URL unchanged |
+| 2026-11-09 | B11 Chicago (variant) | chicago band songs | ~260 clickstream | | | | retired as focus keyword |
 
 ---
 
