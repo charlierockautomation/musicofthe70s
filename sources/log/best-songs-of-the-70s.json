@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/You_Light_Up_My_Life_(song)",
+    "claim": "Written by Joseph Brooks; Debby Boone version ten consecutive weeks at No. 1 on the Hot 100 in 1977; ranked 3rd on the 1978 year-end Hot 100",
+    "opened": "2026-11-09"
+  },
+  {
+    "url": "https://www.oscars.org/oscars/ceremonies/1978",
+    "claim": "50th Academy Awards: Music (Original Song) won by You Light Up My Life, Joseph Brooks",
+    "opened": "2026-11-09"
+  },
+  {
+    "url": "https://www.grammy.com/awards/20th-annual-grammy-awards",
+    "claim": "Best New Artist: Debby Boone; nominees Foreigner, Andy Gibb, Stephen Bishop, Shaun Cassidy",
+    "opened": "2026-11-09"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1970",
+    "claim": "1970 year-end No. 1 Bridge Over Troubled Water, Simon & Garfunkel (matches data/billboard/year_end_hot100.json)",
+    "opened": "2026-11-09"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1977",
+    "claim": "1977 year-end No. 1 Tonight's the Night (Gonna Be Alright), Rod Stewart; You Light Up My Life not in the 1977 year-end top 100 (matches site data)",
+    "opened": "2026-11-09"
+  }
+]

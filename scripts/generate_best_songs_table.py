@@ -15,10 +15,11 @@ The "#1 Hit" column is "Yes" when the song reached number one on the weekly
 Hot 100 per data/billboard/hot100_weekly.json (title + artist match). The
 "Year-end rank" column is the Year-End Hot 100 position, NOT the weekly peak.
 
-Each row gets a Play button when the song is in data/radio/radio-songs.json
-with a YouTube ID (js/table-player.js, .ohw-* classes, same script already
-used on the Artists flagship pages), and links to its Songs/Artists post
-when one exists.
+Each row gets a Play button only when an official artist or label upload of
+the song is recorded in data/official-videos.json (js/table-player.js, .ohw-*
+classes). Songs with no official upload stay in the list without a button.
+Song and artist cells are plain text: the page links every song story once
+in its own directory section instead.
 
 Rewrites the block between <!-- BEST100-START --> and <!-- BEST100-END -->.
 
@@ -52,7 +53,6 @@ def artist_tokens(a):
 
 def main():
     ye = json.loads((ROOT / "data/billboard/year_end_hot100.json").read_text())
-    radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
     weekly = json.loads((ROOT / "data/billboard/hot100_weekly.json").read_text())
     number_ones = {(w["title"], w["artist"]) for wk in weekly.values() for w in wk}
 
@@ -61,9 +61,15 @@ def main():
         # "Dawn featuring Tony Orlando"), so match on a shared title part and a shared artist word
         tp, at = title_parts(title), artist_tokens(artist)
         return any(tp & title_parts(t) and at & artist_tokens(a) for t, a in number_ones)
+    # Article Standard L3: only official/label uploads recorded in data/official-videos.json
+    # ("song": "Title - Artist", matching the year-end chart credit) get a Play button.
+    # No radio-songs.json fallback: a song with no official upload stays unplayable.
     radio_yt = {}
-    for s in radio:
-        radio_yt.setdefault((norm(s["title"]), norm(s["artist"])), s.get("youtube_id"))
+    official = json.loads((ROOT / "data/official-videos.json").read_text())["videos"]
+    for vid, rec in official.items():
+        if rec.get("official") and " - " in rec.get("song", ""):
+            t, a = rec["song"].rsplit(" - ", 1)
+            radio_yt[(norm(t), norm(a))] = vid
 
     song_slugs = {p.parent.name for p in (ROOT / "blog/songs").glob("*/index.html")}
     artist_slugs = {p.parent.name for p in (ROOT / "blog/artists").glob("*/index.html")}
@@ -86,10 +92,10 @@ def main():
             play = ""
         sslug = next((sl for sl in song_slugs if norm(sl) == norm(r["title"])
                       or norm(sl) == norm(r["artist"] + r["title"]) or norm(sl) == norm(r["title"] + r["artist"])), None)
-        song_cell = f'<a href="/blog/songs/{sslug}/">{t}</a>' if sslug else t
+        song_cell = t
         n_song_post += bool(sslug)
         aslug = next((sl for sl in artist_slugs if norm(sl) == norm(r["artist"])), None)
-        artist_cell = f'<a href="/blog/artists/{aslug}/">{a}</a>' if aslug else a
+        artist_cell = a
         n_artist_post += bool(aslug)
         is1 = reached_number_one(r["title"], r["artist"])
         out.append(

@@ -10,6 +10,18 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/songs/best-songs-of-the-70s/index.html": {
+      "type": "pillar",
+      "keyword": "70s songs",
+      "subject": null,
+      "secondary": [
+        "best 70s songs",
+        "top 70s songs",
+        "songs from the 70s"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
