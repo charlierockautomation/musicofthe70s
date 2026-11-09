@@ -10,7 +10,8 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Build queue step 4.1, retarget Best Songs of the 70s to "70s songs" (upgrades-queue.md A1).**
+**NEXT: Build queue step 4.1, retarget Best Songs of the 70s to "70s songs" (upgrades-queue.md A1). IN PROGRESS 2026-11-09, resume from .base/step-4.1/ (see notes below).**
+4.1 progress (uncommitted): keyword pulled (70s songs US 18,100 / CA 1,600 / UK 3,600 / AI 14,243; secondaries best 70s songs, top 70s songs, songs from the 70s). Page registered as type pillar. check_standard.py N3 fixed for pillars (sideways = other pillars). generate_best_songs_table.py now prefers IDs in official-videos.json ("song": "Title - Artist" exactly as year-end credit) and leaves cells unlinked. yt-dlp audit: 47 of 101 IDs official; 54 need replacing, 25 candidates in .base/step-4.1/search.out (verify each), 29 NONE (search by hand). Sources opened: Wikipedia year-end 1970 + 1977, Wikipedia You Light Up My Life, oscars.org 1978, grammy.com 20th awards. Old page claim "biggest hit of the decade" is Wikipedia-only; year-end #1s differ (Bee Gees 9 #1s, YLUMML 10 wks verified in hot100_weekly). Still to do: replacements, page rewrite (pillar directory of all 84 song stories + 7 playlists, facts box, FAQ, YMAL years 1977-79 cards), source log, then Charlie runs youtube_status.py for new IDs.
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
