@@ -4,20 +4,20 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-09 (Steps 3.1 + 3.2 LIVE, NEXT UP = step 4.1 retarget Best Songs of the 70s)
+# Last Updated: 2026-11-09 (Step 4.1 LIVE, NEXT UP = step 4.2 70s Bands hub)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Build queue step 4.1, retarget Best Songs of the 70s to "70s songs" (upgrades-queue.md A1). IN PROGRESS 2026-11-09, resume from .base/step-4.1/ (see notes below).**
-4.1 progress (uncommitted, 2026-11-09 session 2): keyword logged in keyword-research-log.md. Videos done: 70 of 100 rows official (47 kept, 23 replaced, recorded in data/official-videos.json), 30 songs have no official/label upload of the original, rows kept without a Play button (decision in .base/step-4.1/video-decisions.md; generator no longer falls back to radio IDs). Page rewritten as the 70s Songs pillar (84 stories, 7 playlists, facts box, FAQ, YMAL 1977-79, sources log sources/log/best-songs-of-the-70s.json, CollectionPage + BlogPosting + ItemList). All gates PASS except L3/youtube_status: 21 new IDs need status. WAITING on Charlie: run youtube_status.py in his terminal, then re-run checks, commit scripts + page + data, push.
+**NEXT: Build queue step 4.2, 70s Bands hub (upgrades-queue.md A2): genre sections, links to every band and artist page.**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
 2. Housekeeping DONE 2026-11-09 (Charlie's decisions). 2a Post 19 (December 3) stays LIVE; date-page series (6G) stays PAUSED after post 19; Nov 19 TOC fix and owed backlinks queued as steps 3.1 and 3.2 (2026-11-09). 2b Sitemap redirect check DONE 2026-11-08. 2c classicrockartists.com links KEPT on /pages/about and /about/author/ (incl. schema); check_standard.py --site exempts only those two pages (CRA_EXEMPT), rule applies everywhere else. 2d Rock Trivia Game stays LIVE and indexed (shipped); trivia engagement posts added as spokes-queue.md #14. Also 2026-11-09: B11/B12 retitles LIVE (Chicago Songs, ELO Songs), full Article Standard upgrade queued as B13.
 3. 70s Christmas Songs DONE 2026-11-09: LIVE /blog/songs/70s-christmas-songs/ (289214e, hubs 1231ce9, live URL 200). Shared .facts-box card restyled site-wide; verify_post uses K2 for Standard pages; Lennon row keeps the 2020 Ultimate Mix (johnlennon has no original-mix upload).
 3.1 Nov 19 TOC fix DONE 2026-11-09: opening <ol> added to the TOC (7034fba, sitemap a22d67a), live verified.
+4.1 70s Songs pillar DONE 2026-11-09: LIVE /blog/songs/best-songs-of-the-70s/ retargeted to "70s songs" (3c6bd36, regen 351e89a). 70/100 rows play official uploads; 30 with no official upload kept without Play (.base/step-4.1/video-decisions.md). Re-check those 30 at the 5.7 linking pass.
 3.2 Owed date-page backlinks DONE 2026-11-09 (7034fba): Nov 7 links Nov 12; Nov 12 and Nov 28 link Nov 19; Nov 28 and Dec 12 link Dec 3. Live verified. Dec 12 verify_post density 0.488% is a pre-existing legacy-page line (unchanged by this edit).
 4. Pillars first (upgrades-queue.md A rows, spokes-queue.md #2): 4.1 Retarget Best Songs of the 70s to "70s songs" (A1). 4.2 70s Bands hub, genre sections, links to every band and artist page (A2). 4.3 Build the 70s Rock Bands pillar. 4.4 70s Number One Hits hub (Years, Birthday finder, date pages) + Birthday #1 Song Finder rework (A4, A3). 4.5 Listen Now radio answer-first section for "70s hits" (A5). 4.6 Retarget Disco, Soul, Pop, Soft Rock, Funk, one per session (A6 to A10).
 5. Fixed rotation, one slot per session, repeating: 5.1 Band (bands-queue.md) · 5.2 Artist (artists-queue.md) · 5.3 New spoke (spokes-queue.md) · 5.4 Band · 5.5 Artist · 5.6 Upgrade (upgrades-queue.md B rows: YMCA, How Can You Mend a Broken Heart, Somebody to Love, then the band retitles) · 5.7 Linking pass on one pillar (order: 70s Songs, Number One Hits, Bands & Singers, Genres, Listen, Trivia, Home).
