@@ -821,6 +821,7 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
   color: var(--accent-gold); font-weight: 700; font-size: 0.72rem;
   text-transform: uppercase; letter-spacing: 0.08em; line-height: 1.35; margin: 0 0 0.25rem;
 }
+.facts-box dt::after { content: ":"; }
 .facts-box dd {
   margin: 0; color: var(--text-primary); font-weight: 400; font-size: 1.08rem;
   line-height: 1.4; min-width: 0; overflow-wrap: anywhere;
