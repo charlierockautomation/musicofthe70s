@@ -322,7 +322,7 @@
 
         <h3>Test Your Own Memory</h3>
         <p>Which of these ten November 28 in music history number ones would you have bet on?</p>
-        <p>Earlier weeks have their own lists, <a href="/blog/trivia/this-week-in-music-history-october-24/">this week in music history for October 24</a> and <a href="/blog/trivia/november-7-in-music-history/">November 7 in music history</a>.</p>
+        <p>Other weeks have their own lists, <a href="/blog/trivia/this-week-in-music-history-october-24/">this week in music history for October 24</a>, <a href="/blog/trivia/november-7-in-music-history/">November 7 in music history</a>, <a href="/blog/trivia/november-19-in-music-history/">November 19 in music history</a> and <a href="/blog/trivia/december-3-in-music-history/">December 3 in music history</a>.</p>
         <p>The <a href="/pages/70s-trivia-quiz">70s Music Trivia Quiz</a> has ten new questions each round.</p>
         <p>For the whole decade at the top, see the <a href="/blog/songs/70s-number-one-hits/">70s number one hits</a> page.</p>
         <p>More of the decade lives on the <a href="/">Music of the 70s</a> home page.</p>

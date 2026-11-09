@@ -136,6 +136,7 @@
         <nav class="toc-block" aria-label="Table of contents">
           <details class="toc-details" open>
             <summary>Table of Contents</summary>
+            <ol>
             <li><a href="#november-19-list">November 19 in Music History, 1970 to 1979: Play the Ten Number Ones</a></li>
             <li><a href="#answer">The Short Answer: Who Was on Top Each Year</a></li>
             <li><a href="#method">How the November 19 Week Was Picked</a></li>
