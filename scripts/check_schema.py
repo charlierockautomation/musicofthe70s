@@ -38,6 +38,8 @@ CANONICAL_RE = re.compile(r'<link rel="canonical" href="([^"]*)"')
 
 REQUIRED = {
     "Article": ["headline", "image", "datePublished", "dateModified", "author", "publisher", "mainEntityOfPage"],
+    # Article Standard pages (scripts/article_standard_pages.json) use BlogPosting: same required properties.
+    "BlogPosting": ["headline", "image", "datePublished", "dateModified", "author", "publisher", "mainEntityOfPage"],
     "BlogPosting": ["headline", "image", "datePublished", "dateModified", "author", "publisher", "mainEntityOfPage"],
     "FAQPage": ["mainEntity"],
     "BreadcrumbList": ["itemListElement"],
@@ -181,8 +183,8 @@ def main():
         articles = [t for t in types if t in ("Article", "BlogPosting")]
         if len(articles) > 1:
             err(f"conflicting article types on one page: {articles}")
-        if POST_PATH.match(rel) and articles != ["Article"]:
-            err("post must have exactly one Article block")
+        if POST_PATH.match(rel) and articles not in (["Article"], ["BlogPosting"]):
+            err("post must have exactly one Article (or Article Standard BlogPosting) block")
         if POST_PATH.match(rel) and "BreadcrumbList" not in types:
             err("post has no BreadcrumbList")
         if HUB_PATH.match(rel) and not {"CollectionPage", "ItemList", "BreadcrumbList"} <= set(types):

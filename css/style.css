@@ -810,13 +810,24 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
    Gate: scripts/check_standard.py (A2, T2, L1). */
 .facts-box {
   background: var(--bg-card); border: 1px solid var(--border-subtle);
-  border-left: 3px solid var(--accent-gold); border-radius: var(--radius);
-  padding: 1rem 1.25rem; margin: 1.5rem 0;
+  border-top: 3px solid var(--accent-gold); border-radius: var(--radius);
+  padding: 1.1rem 1.25rem; margin: 1.5rem 0;
 }
-.facts-box dl { display: grid; grid-template-columns: minmax(7rem, max-content) 1fr; gap: 0.45rem 1rem; margin: 0; }
-.facts-box dt { color: var(--accent-gold); font-weight: 700; font-size: 0.9rem; }
-.facts-box dd { margin: 0; color: var(--text-primary); font-size: 0.95rem; min-width: 0; overflow-wrap: anywhere; }
-@media (max-width: 480px) { .facts-box dl { grid-template-columns: 1fr; gap: 0.15rem; } .facts-box dd { margin-bottom: 0.5rem; } }
+/* Each fact is <div><dt>label</dt><dd>value</dd></div>: label small, uppercase, gold; value larger below.
+   3 columns on desktop, 2 on tablets, 1 on phones. */
+.facts-box dl { margin: 0; display: grid; grid-template-columns: 1fr; gap: 0.9rem 1.5rem; }
+.facts-box dl > div { min-width: 0; padding-top: 0.6rem; border-top: 1px solid var(--border-subtle); }
+.facts-box dt {
+  color: var(--accent-gold); font-weight: 700; font-size: 0.72rem;
+  text-transform: uppercase; letter-spacing: 0.08em; line-height: 1.35; margin: 0 0 0.25rem;
+}
+.facts-box dd {
+  margin: 0; color: var(--text-primary); font-weight: 400; font-size: 1.08rem;
+  line-height: 1.4; min-width: 0; overflow-wrap: anywhere;
+}
+.facts-box dl > dd { margin-bottom: 0.75rem; } /* unwrapped dt/dd fallback stacks in one column */
+@media (min-width: 560px) { .facts-box dl:has(> div) { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 900px) { .facts-box dl:has(> div) { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 .listen-row { margin: 1rem 0 1.25rem; }
 .listen-btn { display: inline-flex; align-items: center; gap: 0.5rem; min-height: 48px; padding: 0.7rem 1.6rem; font-size: 1.05rem; border: 0; cursor: pointer; }
 .listen-player.video-embed { margin: 1rem 0 1.25rem; padding: 0; }

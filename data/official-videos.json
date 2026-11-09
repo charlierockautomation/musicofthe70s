@@ -1,4 +1,90 @@
 {
   "_doc": "YouTube IDs confirmed as official artist or label uploads (L3 in scripts/check_standard.py). Each: {\"official\": true, \"channel\": \"<channel name>\", \"verified\": \"YYYY-MM-DD\"}. Topic or fan uploads never qualify.",
-  "videos": {}
+  "videos": {
+    "N8NcQzMQN_U": {
+      "official": true,
+      "channel": "José Feliciano",
+      "verified": "2026-11-09",
+      "song": "Feliz Navidad - José Feliciano"
+    },
+    "PB5c-KmxqQw": {
+      "official": true,
+      "channel": "Carpenters",
+      "verified": "2026-11-09",
+      "song": "Merry Christmas, Darling - Carpenters"
+    },
+    "PhKVSZsRxQM": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "This Christmas - Donny Hathaway"
+    },
+    "HhiUOCo8LYQ": {
+      "official": true,
+      "channel": "Classic Motown",
+      "verified": "2026-11-09",
+      "song": "Santa Claus Is Comin' to Town - Jackson 5"
+    },
+    "yN4Uu0OlmTg": {
+      "official": true,
+      "channel": "johnlennon",
+      "verified": "2026-11-09",
+      "song": "Happy Xmas (War Is Over) - John Lennon and Yoko Ono",
+      "note": "2020 Ultimate Mix (remix), not the 1971 record; johnlennon channel checked 2026-11-09, no original-mix upload (only this and the 2018 Alt Acoustic Mix)"
+    },
+    "PTslBTBl1X8": {
+      "official": true,
+      "channel": "Slade Official",
+      "verified": "2026-11-09",
+      "song": "Merry Xmas Everybody - Slade"
+    },
+    "IJPc7esgvsA": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "I Wish It Could Be Christmas Everyday - Wizzard"
+    },
+    "IbRtGMm96F8": {
+      "official": true,
+      "channel": "Elton John",
+      "verified": "2026-11-09",
+      "song": "Step Into Christmas - Elton John"
+    },
+    "NJ6kJ7GWtv0": {
+      "official": true,
+      "channel": "Mud",
+      "verified": "2026-11-09",
+      "song": "Lonely This Christmas - Mud"
+    },
+    "yfY4b1NszpY": {
+      "official": true,
+      "channel": "OfficialGregLake",
+      "verified": "2026-11-09",
+      "song": "I Believe in Father Christmas - Greg Lake"
+    },
+    "fPPCPqDINEk": {
+      "official": true,
+      "channel": "The Kinks",
+      "verified": "2026-11-09",
+      "song": "Father Christmas - The Kinks"
+    },
+    "7Rv3wfwIVBc": {
+      "official": true,
+      "channel": "Eagles",
+      "verified": "2026-11-09",
+      "song": "Please Come Home for Christmas - Eagles"
+    },
+    "cmm1gt_2SkQ": {
+      "official": true,
+      "channel": "Boney M.",
+      "verified": "2026-11-09",
+      "song": "Mary's Boy Child / Oh My Lord - Boney M."
+    },
+    "94Ye-3C1FC8": {
+      "official": true,
+      "channel": "PAUL McCARTNEY",
+      "verified": "2026-11-09",
+      "song": "Wonderful Christmastime - Paul McCartney"
+    }
+  }
 }

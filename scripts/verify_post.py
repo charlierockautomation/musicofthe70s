@@ -62,8 +62,26 @@ def main():
 
     print(f"=== {path} ===")
     print(f"Word count: {wc}  {'PASS' if wc >= 1200 else 'FAIL (<1200)'}")
-    print(f"Keyword '{keyword}': {kw_count} uses, density {density:.3f}%  "
-          f"{'PASS' if 0.5 <= density <= 2.0 else 'FAIL (outside 0.5-2.0%)' if kw_count else 'FAIL (zero uses)'}")
+    # Article Standard pages (scripts/article_standard_pages.json) are judged by the
+    # Standard's keyword rule (check_standard.py K2: max 1.0% phrase / 2.0% name, no floor;
+    # keyword in at most 2 H2s and 1/3 of them), not the legacy 0.5-2.0% / must-be-in-an-H2 lines.
+    import subprocess
+    from pathlib import Path
+    from check_standard import ROOT, check, load_registry
+    rel = Path(path).resolve().relative_to(ROOT).as_posix()
+    cfg = load_registry().get(rel)
+    std_rep = None
+    if cfg:
+        std_rep = check(path, cfg["keyword"], cfg["type"], cfg.get("subject"), cfg.get("secondary", []),
+                        cfg.get("related_songs"), cfg.get("pillar"))
+    k2 = [(st, msg) for code, st, msg in (std_rep.rows if std_rep else []) if code == "K2"]
+    k2_density = next((r for r in k2 if r[1].startswith("density")), None)
+    k2_h2 = next((r for r in k2 if r[1].startswith("keyword in")), None)
+    if k2_density:
+        print(f"Keyword density (Article Standard K2): {k2_density[1]}  {k2_density[0]}")
+    else:
+        print(f"Keyword '{keyword}': {kw_count} uses, density {density:.3f}%  "
+              f"{'PASS' if 0.5 <= density <= 2.0 else 'FAIL (outside 0.5-2.0%)' if kw_count else 'FAIL (zero uses)'}")
 
     # sentence length, on body only (excludes reused related-posts card blurb)
     para_texts = re.findall(r"<p[^>]*>(.*?)</p>", body_only, re.S)
@@ -102,7 +120,10 @@ def main():
     print(f"Meta description ({len(desc)} chars, {'PASS <=155' if len(desc) <= 155 else 'FAIL >155'}): {desc}")
     print(f"  keyword in meta description: {'PASS' if keyword in desc.lower() else 'FAIL'}")
     print(f"Keyword in first 100 words: {'PASS' if keyword in first100 else 'FAIL'}")
-    print(f"Keyword in an H2: {'PASS' if h2_has_kw else 'FAIL'}")
+    if k2_h2:
+        print(f"Keyword in H2s (Article Standard K2): {k2_h2[1]}  {k2_h2[0]}")
+    else:
+        print(f"Keyword in an H2: {'PASS' if h2_has_kw else 'FAIL'}")
 
     # consecutive-sentence keyword check
     kw_idx = [i for i, s in enumerate(sentences) if keyword in s.lower()]
@@ -193,18 +214,12 @@ def main():
     # A registered page (scripts/article_standard_pages.json) must pass
     # check_standard.py. A page that is new to git must be registered first:
     # every new article meets the standard, no exceptions.
-    import subprocess
-    from pathlib import Path
-    from check_standard import ROOT, check, load_registry
-    rel = Path(path).resolve().relative_to(ROOT).as_posix()
-    cfg = load_registry().get(rel)
     tracked = subprocess.run(["git", "ls-files", "--error-unmatch", rel], cwd=ROOT, timeout=60,
                              capture_output=True).returncode == 0
     std_fail = False
     print("\n--- Article Standard (scripts/check_standard.py) ---")
     if cfg:
-        rep = check(path, cfg["keyword"], cfg["type"], cfg.get("subject"), cfg.get("secondary", []),
-                    cfg.get("related_songs"), cfg.get("pillar"))
+        rep = std_rep
         rep.print(rel)
         std_fail = not rep.passed
     elif not tracked:

@@ -35,6 +35,8 @@ for page in sorted(ROOT.rglob('*.html')):
         if 'data-yt=' in block and 'data-inline-player' not in block[:block.find('>') + 1]:
             problems.append(f'{rel}: a table with Play buttons is missing data-inline-player')
     outside = re.sub(r'<table\b[^>]*>.*?</table>', '', html, flags=re.S)
+    # Article Standard Listen buttons (button.listen-btn, /js/listen-button.js) play in place by design.
+    outside = re.sub(r'<button[^>]*class="[^"]*\blisten-btn\b[^>]*>', '', outside)
     if re.search(r'<button[^>]*data-yt=', outside):
         problems.append(f'{rel}: Play buttons outside a table (shared player only handles tables)')
 

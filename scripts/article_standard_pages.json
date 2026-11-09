@@ -1,4 +1,15 @@
 {
   "_doc": "Pages under the Article Standard (scripts/check_standard.py). Key = repo path. type: song|band|artist|playlist|album|tv|pillar|chart|quiz|trivia|tool. Add a page here when it is built or upgraded; the pre-commit gate then blocks any commit where it fails.",
-  "pages": {}
+  "pages": {
+    "blog/songs/70s-christmas-songs/index.html": {
+      "type": "playlist",
+      "keyword": "70s christmas songs",
+      "subject": null,
+      "secondary": [
+        "1970s christmas songs"
+      ],
+      "related_songs": null,
+      "pillar": null
+    }
+  }
 }
