@@ -136,13 +136,14 @@ One row per post. Add a new row the moment a post file is created — even befor
 | Title (working) | Planned URL | Category | Focus Keyword (verify before writing) |
 |---|---|---|---|
 | *(none currently — Disco Music of the 70s went Live 2026-08-10)* | | | |
+| 70s Rock Bands: 56 Chart Bands Ranked, With Songs to Play | https://musicofthe70s.net/blog/artists/70s-rock-bands/ | 70s Bands & Singers | Artists (pillar) | 70s rock bands | Live (fa2d67e, regen 6d49970, live check passed) | 2026-11-09 | Step 4.3. 56 rock groups with a year-end hit ranked, 56/56 playable; style sections link 12 band + 6 genre pages; 70s Bands links down to it. Builder: .base/step-4.3/build.py |
 
 ---
 
 ## Pillar Map (MASTER-PLAN-2026-11.md, added 2026-11-08)
 
 Every page sits under exactly one pillar; the Pillar column above covers rows kept here. Live pages whose rows sit in CONTENT-INDEX-ARCHIVE.md, by pillar (slugs; same rules as pillar_for() in scripts/check_standard.py):
-- Pillar pages (each under Home): Listen to 70s Music = /radio/; 70s Bands & Singers = /blog/artists/70s-bands/; 70s Number One Hits = /blog/songs/70s-number-one-hits/; 70s Songs = /blog/songs/best-songs-of-the-70s/; Home = /
+- Pillar pages (each under Home): Listen to 70s Music = /radio/; 70s Bands & Singers = /blog/artists/70s-bands/ (plus 70s Rock Bands = /blog/artists/70s-rock-bands/); 70s Number One Hits = /blog/songs/70s-number-one-hits/; 70s Songs = /blog/songs/best-songs-of-the-70s/; Home = /
 - Home (4): contact, terms-of-use, author, methodology
 - 70s Songs (38): 70s-one-hit-wonders, abba-waterloo, aint-no-mountain-high-enough, annies-song, bohemian-rhapsody, boogie-wonderland, bridge-over-troubled-water, close-to-you, copacabana-barry-manilow, dancing-queen, don-mclean-american-pie, gimme-gimme-gimme, hotel-california, how-can-you-mend-a-broken-heart, how-deep-is-your-love, i-am-woman, if-you-leave-me-now, joy-to-the-world-three-dog-night, kashmir-led-zeppelin, living-for-the-city, mamma-mia-song, mandy-barry-manilow, midnight-train-to-georgia, rhiannon-fleetwood-mac, rocket-man-elton-john, september-earth-wind-and-fire, sir-duke-stevie-wonder, stairway-to-heaven, take-it-easy, take-me-home-country-roads, telephone-line-elo, thats-the-way-i-like-it, tiny-dancer, too-much-heaven, tragedy-bee-gees, we-will-rock-you, weve-only-just-begun, youre-the-one-that-i-want
 - 70s Number One Hits (24): april-17-in-music-history, august-19-in-music-history, december-12-in-music-history, february-1-in-music-history, february-13-in-music-history, january-9-in-music-history, july-15-in-music-history, june-12-in-music-history, march-20-in-music-history, may-29-in-music-history, november-28-in-music-history, november-7-in-music-history, september-16-in-music-history, this-week-in-music-history-october-24, top-songs-of-1970, top-songs-of-1971, top-songs-of-1972, top-songs-of-1973, top-songs-of-1974, top-songs-of-1975, top-songs-of-1976, top-songs-of-1977, top-songs-of-1978, top-songs-of-1979

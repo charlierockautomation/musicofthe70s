@@ -4,13 +4,13 @@
 # Internal-linking strategy, the Tools-as-Pillars table, and the Anchor Text & Position Log moved to
 #   .claude/skills/linking-and-tools/SKILL.md 2026-09-02 — open that during the linking step of a build, not at session start.
 # Keep this file under 195 lines: prune shipped rows to SESSION-LOG-ARCHIVE.md (see .claude/skills/file-rotation/SKILL.md).
-# Last Updated: 2026-11-09 (Step 4.2 LIVE, NEXT UP = step 4.3 70s Rock Bands pillar)
+# Last Updated: 2026-11-09 (Step 4.3 LIVE, NEXT UP = step 4.4 70s Number One Hits hub)
 
 ---
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Build queue step 4.3, build the 70s Rock Bands pillar.**
+**NEXT: Build queue step 4.4, 70s Number One Hits hub (links to Years, Birthday #1 Song Finder, date pages) + Birthday #1 Song Finder rework (A4, A3).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
@@ -18,6 +18,7 @@ Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scri
 3. 70s Christmas Songs DONE 2026-11-09: LIVE /blog/songs/70s-christmas-songs/ (289214e, hubs 1231ce9, live URL 200). Shared .facts-box card restyled site-wide; verify_post uses K2 for Standard pages; Lennon row keeps the 2020 Ultimate Mix (johnlennon has no original-mix upload).
 3.1 Nov 19 TOC fix DONE 2026-11-09: opening <ol> added to the TOC (7034fba, sitemap a22d67a), live verified.
 4.2 70s Bands pillar DONE 2026-11-09: LIVE (e628539, regen 5367f32, Charlie go-ahead). /blog/artists/70s-bands/ rebuilt (.base/step-4.2/build.py), registered, focus "70s bands". Genre directory links all 41 act pages + 10 genre pages; 47/47 rows play (29 official + 6 label-delivered Topic uploads per Charlie's 2026-11-09 Topic exception, all in data/official-videos.json) (.base/step-4.2/video-decisions.md). Generator alias fix: Dawn, Grand Funk, Sly credits merged (live page undercounted their No. 1s); weeks chart re-rendered. All gates PASS, youtube_status PASS. Follow-up for 5.7: 35 of 41 act pages do not yet link up to this pillar.
+4.3 70s Rock Bands pillar DONE 2026-11-09: LIVE /blog/artists/70s-rock-bands/ (fa2d67e, regen 6d49970, Charlie go-ahead, live 200, 56 Play). Focus "70s rock bands", registered as pillar. 56 rock groups with a year-end hit, 56/56 playable (2 Topic: BTO, ARS; Cheap Trick = Budokan live hit) (.base/step-4.3/video-decisions.md). 70s Bands rock section links down to it. Follow-up for 5.7: rock band pages (Chicago, ELO, Three Dog Night, Eagles, Fleetwood Mac, Queen, Led Zeppelin, Pink Floyd) do not yet link up to it.
 4.1 70s Songs pillar DONE 2026-11-09: LIVE /blog/songs/best-songs-of-the-70s/ retargeted to "70s songs" (3c6bd36, regen 351e89a). 70/100 rows play official uploads; 30 with no official upload kept without Play (.base/step-4.1/video-decisions.md). Re-check those 30 at the 5.7 linking pass, now with the 2026-11-09 Topic exception (label-delivered Topic upload of the original recording allowed when no artist/label channel has it).
 3.2 Owed date-page backlinks DONE 2026-11-09 (7034fba): Nov 7 links Nov 12; Nov 12 and Nov 28 link Nov 19; Nov 28 and Dec 12 link Dec 3. Live verified. Dec 12 verify_post density 0.488% is a pre-existing legacy-page line (unchanged by this edit).
 4. Pillars first (upgrades-queue.md A rows, spokes-queue.md #2): 4.1 Retarget Best Songs of the 70s to "70s songs" (A1). 4.2 70s Bands hub, genre sections, links to every band and artist page (A2). 4.3 Build the 70s Rock Bands pillar. 4.4 70s Number One Hits hub (Years, Birthday finder, date pages) + Birthday #1 Song Finder rework (A4, A3). 4.5 Listen Now radio answer-first section for "70s hits" (A5). 4.6 Retarget Disco, Soul, Pop, Soft Rock, Funk, one per session (A6 to A10).
