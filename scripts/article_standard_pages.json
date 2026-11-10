@@ -76,6 +76,18 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/disco-music-of-the-70s/index.html": {
+      "type": "playlist",
+      "keyword": "70s disco songs",
+      "subject": null,
+      "secondary": [
+        "disco songs",
+        "70s disco hits",
+        "70s disco music"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
