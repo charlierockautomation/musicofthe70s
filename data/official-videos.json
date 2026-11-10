@@ -2495,6 +2495,72 @@
       "source": "topic",
       "label": "Salsoul Records delivery (original label)",
       "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6)"
+    },
+    "KwsbyeVa0iM": {
+      "official": true,
+      "channel": "UnidiscMusic",
+      "verified": "2026-11-10",
+      "song": "The Hustle - Van McCoy & the Soul City Symphony",
+      "note": "radio version (3:30), Unidisc label channel (verified); Unidisc holds the Avco catalog, Topic copy P 1975 Unidisc on Disco Baby"
+    },
+    "7PNxzaKP7V0": {
+      "official": true,
+      "channel": "Silver Convention - Topic",
+      "verified": "2026-11-10",
+      "song": "Fly, Robin, Fly - Silver Convention",
+      "source": "topic",
+      "label": "stereo single long version edit, Omnivore Recordings 2024 under license (Get Up & Boogie: The Worldwide Singles)",
+      "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6 deep search)"
+    },
+    "z6-EjIA-vPk": {
+      "official": true,
+      "channel": "Rhythm Heritage - Topic",
+      "verified": "2026-11-10",
+      "song": "Theme from S.W.A.T. - Rhythm Heritage",
+      "source": "topic",
+      "label": "P 1976 Geffen Records (UMG, ABC catalog), Disco-Fied",
+      "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6 deep search)"
+    },
+    "24jAy_T1U2k": {
+      "official": true,
+      "channel": "Donna Summer",
+      "verified": "2026-11-10",
+      "song": "MacArthur Park - Donna Summer",
+      "note": "single version, P 1978 UMG"
+    },
+    "YPvd6vtr4ds": {
+      "official": true,
+      "channel": "Eruption - Topic",
+      "verified": "2026-11-10",
+      "song": "I Can't Stand the Rain - Eruption",
+      "source": "topic",
+      "label": "P 1977 Sony Music Entertainment Germany (Hansa/Ariola original)",
+      "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6 deep search)"
+    },
+    "RoSeuna9Pl8": {
+      "official": true,
+      "channel": "Leif Garrett - Topic",
+      "verified": "2026-11-10",
+      "song": "I Was Made for Dancin' - Leif Garrett",
+      "source": "topic",
+      "label": "P 1978 Volcano Entertainment III (Scotti Brothers catalog)",
+      "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6 deep search)"
+    },
+    "bTDJyQqbYCA": {
+      "official": true,
+      "channel": "Andy Gibb - Topic",
+      "verified": "2026-11-10",
+      "song": "Shadow Dancing - Andy Gibb",
+      "source": "topic",
+      "label": "P 1978 Peta Gibb, UMG delivery, Shadow Dancing album",
+      "note": "Topic exception: no artist/label/VEVO upload of the original recording found (step 4.6 deep search)"
+    },
+    "g2aoVyjXOgg": {
+      "official": true,
+      "channel": "Pinfox",
+      "verified": "2026-11-10",
+      "song": "Get Off - Foxy",
+      "note": "Foxy artist channel (verified), P 2007 Stone Music Family (Henry Stone, TK founder), single length"
     }
   }
 }
