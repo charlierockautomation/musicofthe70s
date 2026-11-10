@@ -1,0 +1,1544 @@
+{
+ "_doc": "Built by .base/step-4.4/build_birthday.py from hot100_weekly.json (weeks counted from the weekly charts) and the 70s Number One Hits table (official Play IDs, story pages; the page re-checks data/youtube-status.json). dates: month-day -> This Week in Music History page.",
+ "songs": {
+  "Raindrops Keep Fallin' on My Head|B. J. Thomas": {
+   "yt": "5JvxCOXfehA",
+   "story": null,
+   "weeks": 4,
+   "first": "1970-01-03"
+  },
+  "I Want You Back|The Jackson 5": {
+   "yt": "79eyuz8z6Cg",
+   "story": "/blog/songs/i-want-you-back/",
+   "weeks": 1,
+   "first": "1970-01-31"
+  },
+  "Venus|Shocking Blue": {
+   "yt": "ghDbKqtuHng",
+   "story": null,
+   "weeks": 1,
+   "first": "1970-02-07"
+  },
+  "Thank You (Falettinme Be Mice Elf Agin) / Everybody Is a Star|Sly & the Family Stone": {
+   "yt": "-T9vmaTI2LE",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-02-14"
+  },
+  "Bridge over Troubled Water|Simon & Garfunkel": {
+   "yt": "4G-YQA_bsOU",
+   "story": "/blog/songs/bridge-over-troubled-water/",
+   "weeks": 6,
+   "first": "1970-02-28"
+  },
+  "Let It Be|The Beatles": {
+   "yt": "CGj85pVzRJs",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-04-11"
+  },
+  "ABC|The Jackson 5": {
+   "yt": "6UZWnyTfcZs",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-04-25"
+  },
+  "American Woman / No Sugar Tonight|The Guess Who": {
+   "yt": "9uf6EY2BZBw",
+   "story": null,
+   "weeks": 3,
+   "first": "1970-05-09"
+  },
+  "Everything Is Beautiful|Ray Stevens": {
+   "yt": "Fda8FIxRaB0",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-05-30"
+  },
+  "The Long and Winding Road / For You Blue|The Beatles": {
+   "yt": "fR4HjTH_fTM",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-06-13"
+  },
+  "The Love You Save|The Jackson 5": {
+   "yt": "Q0lORoZ1iOw",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-06-27"
+  },
+  "Mama Told Me (Not to Come)|Three Dog Night": {
+   "yt": "lZ1KBCSkH_Q",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-07-11"
+  },
+  "(They Long to Be) Close to You|The Carpenters": {
+   "yt": "bz7eK_-fZcE",
+   "story": "/blog/songs/close-to-you/",
+   "weeks": 4,
+   "first": "1970-07-25"
+  },
+  "Make It with You|Bread": {
+   "yt": "sprNZP1AtKY",
+   "story": null,
+   "weeks": 1,
+   "first": "1970-08-22"
+  },
+  "War|Edwin Starr": {
+   "yt": "IeKDJbJSVoo",
+   "story": null,
+   "weeks": 3,
+   "first": "1970-08-29"
+  },
+  "Ain't No Mountain High Enough|Diana Ross": {
+   "yt": "2KLLKjxbZkQ",
+   "story": "/blog/songs/aint-no-mountain-high-enough/",
+   "weeks": 3,
+   "first": "1970-09-19"
+  },
+  "Cracklin' Rosie|Neil Diamond": {
+   "yt": "qzO023mvDQo",
+   "story": null,
+   "weeks": 1,
+   "first": "1970-10-10"
+  },
+  "I'll Be There|The Jackson 5": {
+   "yt": "VRdG9vEJOKY",
+   "story": null,
+   "weeks": 5,
+   "first": "1970-10-17"
+  },
+  "I Think I Love You|The Partridge Family": {
+   "yt": "bb4FMn-IWEY",
+   "story": null,
+   "weeks": 3,
+   "first": "1970-11-21"
+  },
+  "The Tears of a Clown|Smokey Robinson & the Miracles": {
+   "yt": "1WIGONpj2K0",
+   "story": null,
+   "weeks": 2,
+   "first": "1970-12-12"
+  },
+  "My Sweet Lord / Isn't It a Pity|George Harrison": {
+   "yt": "6wHBsMoHFWs",
+   "story": null,
+   "weeks": 4,
+   "first": "1970-12-26"
+  },
+  "Knock Three Times|Dawn": {
+   "yt": "iUUv9S3LKII",
+   "story": null,
+   "weeks": 3,
+   "first": "1971-01-23"
+  },
+  "One Bad Apple|The Osmonds": {
+   "yt": "S7pGsnd41XQ",
+   "story": null,
+   "weeks": 5,
+   "first": "1971-02-13"
+  },
+  "Me and Bobby McGee|Janis Joplin": {
+   "yt": "5Cg-j0X09Ag",
+   "story": null,
+   "weeks": 2,
+   "first": "1971-03-20"
+  },
+  "Just My Imagination (Running Away with Me)|The Temptations": {
+   "yt": "WNnb1NfLrK4",
+   "story": null,
+   "weeks": 2,
+   "first": "1971-04-03"
+  },
+  "Joy to the World|Three Dog Night": {
+   "yt": "EVcpKjXYa5c",
+   "story": "/blog/songs/joy-to-the-world-three-dog-night/",
+   "weeks": 6,
+   "first": "1971-04-17"
+  },
+  "Brown Sugar|The Rolling Stones": {
+   "yt": "Bar7SzNLnY0",
+   "story": null,
+   "weeks": 2,
+   "first": "1971-05-29"
+  },
+  "Want Ads|Honey Cone": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1971-06-12"
+  },
+  "It's Too Late / I Feel the Earth Move|Carole King": {
+   "yt": "6913KnbMpHM",
+   "story": "/blog/songs/carole-king-its-too-late/",
+   "weeks": 5,
+   "first": "1971-06-19"
+  },
+  "Indian Reservation (The Lament of the Cherokee Reservation Indian)|The Raiders": {
+   "yt": "CP7ToqqZFqA",
+   "story": null,
+   "weeks": 1,
+   "first": "1971-07-24"
+  },
+  "You've Got a Friend|James Taylor": {
+   "yt": "H6PVfIJmea8",
+   "story": null,
+   "weeks": 1,
+   "first": "1971-07-31"
+  },
+  "How Can You Mend a Broken Heart|Bee Gees": {
+   "yt": "kL9wJAND1WI",
+   "story": "/blog/songs/how-can-you-mend-a-broken-heart/",
+   "weeks": 4,
+   "first": "1971-08-07"
+  },
+  "Uncle Albert/Admiral Halsey|Paul & Linda McCartney": {
+   "yt": "RoZJikH0xLw",
+   "story": null,
+   "weeks": 1,
+   "first": "1971-09-04"
+  },
+  "Go Away Little Girl|Donny Osmond": {
+   "yt": "A_RfguOnMLA",
+   "story": null,
+   "weeks": 3,
+   "first": "1971-09-11"
+  },
+  "Maggie May / Reason to Believe|Rod Stewart": {
+   "yt": "EOl7dh7a-6g",
+   "story": null,
+   "weeks": 5,
+   "first": "1971-10-02"
+  },
+  "Gypsys, Tramps & Thieves|Cher": {
+   "yt": "uuA_gCMiw0E",
+   "story": null,
+   "weeks": 2,
+   "first": "1971-11-06"
+  },
+  "Theme from Shaft|Isaac Hayes": {
+   "yt": "LUl376QldP8",
+   "story": null,
+   "weeks": 2,
+   "first": "1971-11-20"
+  },
+  "Family Affair|Sly and the Family Stone": {
+   "yt": "xag5RKD0VHk",
+   "story": null,
+   "weeks": 3,
+   "first": "1971-12-04"
+  },
+  "Brand New Key|Melanie": {
+   "yt": "lKcpodt0YCU",
+   "story": null,
+   "weeks": 3,
+   "first": "1971-12-25"
+  },
+  "American Pie|Don McLean": {
+   "yt": "PRpiBpDy7MQ",
+   "story": "/blog/songs/don-mclean-american-pie/",
+   "weeks": 4,
+   "first": "1972-01-15"
+  },
+  "Let's Stay Together|Al Green": {
+   "yt": "XXx6RDzR6eM",
+   "story": "/blog/songs/al-green-lets-stay-together/",
+   "weeks": 1,
+   "first": "1972-02-12"
+  },
+  "Without You|Nilsson": {
+   "yt": "8dnUv3DUP4E",
+   "story": null,
+   "weeks": 4,
+   "first": "1972-02-19"
+  },
+  "Heart of Gold|Neil Young": {
+   "yt": "c7eB7Wns1-M",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-03-18"
+  },
+  "A Horse with No Name|America": {
+   "yt": "na47wMFfQCo",
+   "story": null,
+   "weeks": 3,
+   "first": "1972-03-25"
+  },
+  "The First Time Ever I Saw Your Face|Roberta Flack": {
+   "yt": "VqW-eO3jTVU",
+   "story": null,
+   "weeks": 6,
+   "first": "1972-04-15"
+  },
+  "Oh Girl|The Chi-Lites": {
+   "yt": "zbC-Z4NFZss",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-05-27"
+  },
+  "I'll Take You There|The Staple Singers": {
+   "yt": "EFHvQZ_WMxk",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-06-03"
+  },
+  "The Candy Man|Sammy Davis Jr.": {
+   "yt": null,
+   "story": null,
+   "weeks": 3,
+   "first": "1972-06-10"
+  },
+  "Song Sung Blue|Neil Diamond": {
+   "yt": "lSy9dt5FeS0",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-07-01"
+  },
+  "Lean on Me|Bill Withers": {
+   "yt": "fOZ-MySzAac",
+   "story": null,
+   "weeks": 3,
+   "first": "1972-07-08"
+  },
+  "Alone Again (Naturally)|Gilbert O'Sullivan": {
+   "yt": "gU3ubk8u7dA",
+   "story": null,
+   "weeks": 6,
+   "first": "1972-07-29"
+  },
+  "Brandy (You're a Fine Girl)|Looking Glass": {
+   "yt": "DVx8L7a3MuE",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-08-26"
+  },
+  "Black and White|Three Dog Night": {
+   "yt": "UwH1r4LlTM0",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-09-16"
+  },
+  "Baby, Don't Get Hooked on Me|Mac Davis": {
+   "yt": "JZwiIiWBx24",
+   "story": null,
+   "weeks": 3,
+   "first": "1972-09-23"
+  },
+  "Ben|Michael Jackson": {
+   "yt": "dvSTw04dpoo",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-10-14"
+  },
+  "My Ding-a-Ling|Chuck Berry": {
+   "yt": "HSLGKK13fo4",
+   "story": null,
+   "weeks": 2,
+   "first": "1972-10-21"
+  },
+  "I Can See Clearly Now|Johnny Nash": {
+   "yt": "b0cAWgTPiwM",
+   "story": null,
+   "weeks": 4,
+   "first": "1972-11-04"
+  },
+  "Papa Was a Rollin' Stone|The Temptations": {
+   "yt": "OMdlamCp_LI",
+   "story": null,
+   "weeks": 1,
+   "first": "1972-12-02"
+  },
+  "I Am Woman|Helen Reddy": {
+   "yt": "Ie0Mz2f_SsI",
+   "story": "/blog/songs/i-am-woman/",
+   "weeks": 1,
+   "first": "1972-12-09"
+  },
+  "Me and Mrs. Jones|Billy Paul": {
+   "yt": "NYOQDnWFXYI",
+   "story": null,
+   "weeks": 3,
+   "first": "1972-12-16"
+  },
+  "You're So Vain|Carly Simon": {
+   "yt": "j13oJajXx0M",
+   "story": null,
+   "weeks": 3,
+   "first": "1973-01-06"
+  },
+  "Superstition|Stevie Wonder": {
+   "yt": "Jm5gu1-rEWg",
+   "story": "/blog/songs/superstition-stevie-wonder/",
+   "weeks": 1,
+   "first": "1973-01-27"
+  },
+  "Crocodile Rock|Elton John": {
+   "yt": "75r0nQu-hMs",
+   "story": null,
+   "weeks": 3,
+   "first": "1973-02-03"
+  },
+  "Killing Me Softly with His Song|Roberta Flack": {
+   "yt": "mrudT410TAI",
+   "story": null,
+   "weeks": 5,
+   "first": "1973-02-24"
+  },
+  "Love Train|The O'Jays": {
+   "yt": "0BnPOjC_lTo",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-03-24"
+  },
+  "The Night the Lights Went Out in Georgia|Vicki Lawrence": {
+   "yt": null,
+   "story": null,
+   "weeks": 2,
+   "first": "1973-04-07"
+  },
+  "Tie a Yellow Ribbon Round the Ole Oak Tree|Dawn featuring Tony Orlando": {
+   "yt": "PxG9XFqHSFw",
+   "story": null,
+   "weeks": 4,
+   "first": "1973-04-21"
+  },
+  "You Are the Sunshine of My Life|Stevie Wonder": {
+   "yt": "SbenaOqv4yQ",
+   "story": "/blog/songs/you-are-the-sunshine-of-my-life/",
+   "weeks": 1,
+   "first": "1973-05-19"
+  },
+  "Frankenstein|The Edgar Winter Group": {
+   "yt": "P57rRpl2hpo",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-05-26"
+  },
+  "My Love|Paul McCartney and Wings": {
+   "yt": "A5g9ZwxFKdg",
+   "story": null,
+   "weeks": 4,
+   "first": "1973-06-02"
+  },
+  "Give Me Love (Give Me Peace on Earth)|George Harrison": {
+   "yt": "P0d_P11B6Tg",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-06-30"
+  },
+  "Will It Go Round in Circles|Billy Preston": {
+   "yt": "FFHMdY9HijM",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-07-07"
+  },
+  "Bad, Bad Leroy Brown|Jim Croce": {
+   "yt": "JzYf6qskdfA",
+   "story": "/blog/songs/bad-bad-leroy-brown/",
+   "weeks": 2,
+   "first": "1973-07-21"
+  },
+  "The Morning After|Maureen McGovern": {
+   "yt": "oULGClEqY_U",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-08-04"
+  },
+  "Touch Me in the Morning|Diana Ross": {
+   "yt": "TQmONDZr1wc",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-08-18"
+  },
+  "Brother Louie|Stories": {
+   "yt": "C6yLdrkP-Bk",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-08-25"
+  },
+  "Let's Get It On|Marvin Gaye": {
+   "yt": "AqPBfbLoF_M",
+   "story": "/blog/songs/marvin-gaye-lets-get-it-on/",
+   "weeks": 2,
+   "first": "1973-09-08"
+  },
+  "Delta Dawn|Helen Reddy": {
+   "yt": "n5SOZ_6sHFY",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-09-15"
+  },
+  "We're an American Band|Grand Funk": {
+   "yt": "TOzpSst2ITk",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-09-29"
+  },
+  "Half-Breed|Cher": {
+   "yt": "RQ0lpiXQ__Y",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-10-06"
+  },
+  "Angie|The Rolling Stones": {
+   "yt": "2K7jMLS-7iw",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-10-20"
+  },
+  "Midnight Train to Georgia|Gladys Knight & the Pips": {
+   "yt": "hRNTbN708ps",
+   "story": "/blog/songs/midnight-train-to-georgia/",
+   "weeks": 2,
+   "first": "1973-10-27"
+  },
+  "Keep on Truckin'|Eddie Kendricks": {
+   "yt": "2rw04_eKXNk",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-11-10"
+  },
+  "Photograph|Ringo Starr": {
+   "yt": "nevdSt_2PIM",
+   "story": null,
+   "weeks": 1,
+   "first": "1973-11-24"
+  },
+  "Top of the World|The Carpenters": {
+   "yt": "dewlH6HSDzk",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-12-01"
+  },
+  "The Most Beautiful Girl|Charlie Rich": {
+   "yt": "qLbGeZSUrhg",
+   "story": null,
+   "weeks": 2,
+   "first": "1973-12-15"
+  },
+  "Time in a Bottle|Jim Croce": {
+   "yt": "9h1davKgBYM",
+   "story": "/blog/songs/time-in-a-bottle-jim-croce/",
+   "weeks": 2,
+   "first": "1973-12-29"
+  },
+  "The Joker|Steve Miller Band": {
+   "yt": "dV3AziKTBUo",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-01-12"
+  },
+  "Show and Tell|Al Wilson": {
+   "yt": "jXzX9zwlz-Q",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-01-19"
+  },
+  "You're Sixteen|Ringo Starr": {
+   "yt": "8ainB6qnWBI",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-01-26"
+  },
+  "The Way We Were|Barbra Streisand": {
+   "yt": "ifWOSnoCS0M",
+   "story": null,
+   "weeks": 3,
+   "first": "1974-02-02"
+  },
+  "Love's Theme|Love Unlimited Orchestra": {
+   "yt": "-Onp0-5_rdI",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-02-09"
+  },
+  "Seasons in the Sun|Terry Jacks": {
+   "yt": "mTBI01EtkmM",
+   "story": "/blog/songs/seasons-in-the-sun/",
+   "weeks": 3,
+   "first": "1974-03-02"
+  },
+  "Dark Lady|Cher": {
+   "yt": "mqkv-rqgWUw",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-03-23"
+  },
+  "Sunshine on My Shoulders|John Denver": {
+   "yt": "diwuu_r6GJE",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-03-30"
+  },
+  "Hooked on a Feeling|Blue Swede": {
+   "yt": "l6DepmNwbn8",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-04-06"
+  },
+  "Bennie and the Jets|Elton John": {
+   "yt": "wo1OwRTRKRk",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-04-13"
+  },
+  "TSOP (The Sound of Philadelphia)|MFSB and The Three Degrees": {
+   "yt": "LS2PQs_IRNk",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-04-20"
+  },
+  "The Loco-Motion|Grand Funk": {
+   "yt": "GQJLlhA5Wio",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-05-04"
+  },
+  "The Streak|Ray Stevens": {
+   "yt": "XtzoUu7w-YM",
+   "story": null,
+   "weeks": 3,
+   "first": "1974-05-18"
+  },
+  "Band on the Run|Paul McCartney and Wings": {
+   "yt": "QZGurhtlve8",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-06-08"
+  },
+  "Billy Don't Be a Hero|Bo Donaldson and The Heywoods": {
+   "yt": "alLG65B7sdo",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-06-15"
+  },
+  "Sundown|Gordon Lightfoot": {
+   "yt": "1IBdZ645S-o",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-06-29"
+  },
+  "Rock the Boat|The Hues Corporation": {
+   "yt": "gSP_Jqn5eUM",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-07-06"
+  },
+  "Rock Your Baby|George McCrae": {
+   "yt": "CaISlnfpltc",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-07-13"
+  },
+  "Annie's Song|John Denver": {
+   "yt": "RNOTF-znQyw",
+   "story": "/blog/songs/annies-song/",
+   "weeks": 2,
+   "first": "1974-07-27"
+  },
+  "Feel Like Makin' Love|Roberta Flack": {
+   "yt": "1So0u9QHjZI",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-08-10"
+  },
+  "The Night Chicago Died|Paper Lace": {
+   "yt": "tR0gjl66PVs",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-08-17"
+  },
+  "(You're) Having My Baby|Paul Anka and Odia Coates": {
+   "yt": "umrzGr_etQw",
+   "story": null,
+   "weeks": 3,
+   "first": "1974-08-24"
+  },
+  "I Shot the Sheriff|Eric Clapton": {
+   "yt": "2648J923Q6w",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-09-14"
+  },
+  "Can't Get Enough of Your Love, Babe|Barry White": {
+   "yt": "fPMoLEjM_K4",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-09-21"
+  },
+  "Rock Me Gently|Andy Kim": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1974-09-28"
+  },
+  "I Honestly Love You|Olivia Newton-John": {
+   "yt": "Qrj0Mpydqjo",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-10-05"
+  },
+  "Nothing From Nothing|Billy Preston": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1974-10-19"
+  },
+  "Then Came You|Dionne Warwick and The Spinners": {
+   "yt": "8hk66WZZOq8",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-10-26"
+  },
+  "You Haven't Done Nothin'|Stevie Wonder": {
+   "yt": "0SEGHvLElxc",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-11-02"
+  },
+  "You Ain't Seen Nothing Yet|Bachman–Turner Overdrive": {
+   "yt": "VJsMVSFzRSc",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-11-09"
+  },
+  "Whatever Gets You thru the Night|John Lennon": {
+   "yt": "6lFTD9O-XMw",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-11-16"
+  },
+  "I Can Help|Billy Swan": {
+   "yt": "4VF5_SWofJo",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-11-23"
+  },
+  "Kung Fu Fighting|Carl Douglas": {
+   "yt": "Bt4D8oA3mxU",
+   "story": null,
+   "weeks": 2,
+   "first": "1974-12-07"
+  },
+  "Cat's in the Cradle|Harry Chapin": {
+   "yt": "494Wr7On6bA",
+   "story": null,
+   "weeks": 1,
+   "first": "1974-12-21"
+  },
+  "Angie Baby|Helen Reddy": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1974-12-28"
+  },
+  "Lucy in the Sky with Diamonds|Elton John": {
+   "yt": "5EOFnnBQjp8",
+   "story": null,
+   "weeks": 2,
+   "first": "1975-01-04"
+  },
+  "Mandy|Barry Manilow": {
+   "yt": "5FOAd1mbtiM",
+   "story": "/blog/songs/mandy-barry-manilow/",
+   "weeks": 1,
+   "first": "1975-01-18"
+  },
+  "Please Mr. Postman|The Carpenters": {
+   "yt": "AHfddvbKb4w",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-01-25"
+  },
+  "Laughter in the Rain|Neil Sedaka": {
+   "yt": "85yRvExHpRw",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-02-01"
+  },
+  "Fire|Ohio Players": {
+   "yt": "Gl2Ftt7tpDA",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-02-08"
+  },
+  "You're No Good|Linda Ronstadt": {
+   "yt": "7OG3FCUbAsc",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-02-15"
+  },
+  "Pick Up the Pieces|Average White Band": {
+   "yt": "1vxRzBXi4pM",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-02-22"
+  },
+  "Best of My Love|Eagles": {
+   "yt": "76ke25oo0kg",
+   "story": "/blog/songs/best-of-my-love/",
+   "weeks": 1,
+   "first": "1975-03-01"
+  },
+  "Have You Never Been Mellow|Olivia Newton-John": {
+   "yt": "ao2U7A8lZs8",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-03-08"
+  },
+  "Black Water|The Doobie Brothers": {
+   "yt": "m4oZCtfmh44",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-03-15"
+  },
+  "My Eyes Adored You|Frankie Valli": {
+   "yt": "vYtpKBNTCB8",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-03-22"
+  },
+  "Lady Marmalade|Labelle": {
+   "yt": "51WQTGH1ixs",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-03-29"
+  },
+  "Lovin' You|Minnie Riperton": {
+   "yt": "7MmEVWI8Ieo",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-04-05"
+  },
+  "Philadelphia Freedom|Elton John Band": {
+   "yt": "gM4Xm2MGLNQ",
+   "story": null,
+   "weeks": 2,
+   "first": "1975-04-12"
+  },
+  "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song|B. J. Thomas": {
+   "yt": "TDXW_WglzOI",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-04-26"
+  },
+  "He Don't Love You (Like I Love You)|Tony Orlando and Dawn": {
+   "yt": "vC9Ogt0AExM",
+   "story": null,
+   "weeks": 3,
+   "first": "1975-05-03"
+  },
+  "Shining Star|Earth, Wind & Fire": {
+   "yt": "Zu9a29UR2dU",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-05-24"
+  },
+  "Before the Next Teardrop Falls|Freddy Fender": {
+   "yt": "VRdWEpCF5L4",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-05-31"
+  },
+  "Thank God I'm a Country Boy|John Denver": {
+   "yt": "QRuCPS_-_IA",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-06-07"
+  },
+  "Sister Golden Hair|America": {
+   "yt": "4gibSb1_GGw",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-06-14"
+  },
+  "Love Will Keep Us Together|Captain & Tennille": {
+   "yt": "x2cJj9DF7GM",
+   "story": null,
+   "weeks": 4,
+   "first": "1975-06-21"
+  },
+  "Listen to What the Man Said|Wings": {
+   "yt": "RwdS2mSjIjM",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-07-19"
+  },
+  "The Hustle|Van McCoy and the Soul City Symphony": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1975-07-26"
+  },
+  "One of These Nights|Eagles": {
+   "yt": "dkb811y4fkI",
+   "story": "/blog/songs/one-of-these-nights/",
+   "weeks": 1,
+   "first": "1975-08-02"
+  },
+  "Jive Talkin'|Bee Gees": {
+   "yt": "XBw25CrUS-o",
+   "story": "/blog/songs/jive-talkin/",
+   "weeks": 2,
+   "first": "1975-08-09"
+  },
+  "Fallin' in Love|Hamilton, Joe Frank & Reynolds": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1975-08-23"
+  },
+  "Get Down Tonight|KC and the Sunshine Band": {
+   "yt": "BXIBEW5MLuU",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-08-30"
+  },
+  "Rhinestone Cowboy|Glen Campbell": {
+   "yt": "8kAU3B9Pi_U",
+   "story": null,
+   "weeks": 2,
+   "first": "1975-09-06"
+  },
+  "Fame|David Bowie": {
+   "yt": "Ypgq0qdgVZA",
+   "story": null,
+   "weeks": 2,
+   "first": "1975-09-20"
+  },
+  "I'm Sorry|John Denver": {
+   "yt": "jIjOAWXZJSI",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-09-27"
+  },
+  "Bad Blood|Neil Sedaka": {
+   "yt": "p_Y1dUA4O6w",
+   "story": null,
+   "weeks": 3,
+   "first": "1975-10-11"
+  },
+  "Island Girl|Elton John": {
+   "yt": "LGChI9wWXtM",
+   "story": null,
+   "weeks": 3,
+   "first": "1975-11-01"
+  },
+  "That's the Way (I Like It)|KC and the Sunshine Band": {
+   "yt": "JOAXAmBdsxM",
+   "story": "/blog/songs/thats-the-way-i-like-it/",
+   "weeks": 2,
+   "first": "1975-11-22"
+  },
+  "Fly, Robin, Fly|Silver Convention": {
+   "yt": null,
+   "story": null,
+   "weeks": 3,
+   "first": "1975-11-29"
+  },
+  "Let's Do It Again|The Staple Singers": {
+   "yt": "2Geih2DI-yw",
+   "story": null,
+   "weeks": 1,
+   "first": "1975-12-27"
+  },
+  "Saturday Night|Bay City Rollers": {
+   "yt": "csXFpFoRkEk",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-01-03"
+  },
+  "Convoy|C. W. McCall": {
+   "yt": "87r0CPQbFds",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-01-10"
+  },
+  "I Write the Songs|Barry Manilow": {
+   "yt": "6U6JlAsYv0Y",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-01-17"
+  },
+  "Theme from Mahogany (Do You Know Where You're Going To)|Diana Ross": {
+   "yt": "dSrzfCKMCHE",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-01-24"
+  },
+  "Love Rollercoaster|Ohio Players": {
+   "yt": "_5oGtAKebps",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-01-31"
+  },
+  "50 Ways to Leave Your Lover|Paul Simon": {
+   "yt": "ABXtWqmArUU",
+   "story": null,
+   "weeks": 3,
+   "first": "1976-02-07"
+  },
+  "Theme from S.W.A.T.|Rhythm Heritage": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1976-02-28"
+  },
+  "Love Machine|The Miracles": {
+   "yt": "hNAZxdyQFEY",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-03-06"
+  },
+  "December, 1963 (Oh, What a Night)|The Four Seasons": {
+   "yt": "mTUhnIY3oRM",
+   "story": null,
+   "weeks": 3,
+   "first": "1976-03-13"
+  },
+  "Disco Lady|Johnnie Taylor": {
+   "yt": "e2s0nVk0B9o",
+   "story": null,
+   "weeks": 4,
+   "first": "1976-04-03"
+  },
+  "Let Your Love Flow|The Bellamy Brothers": {
+   "yt": "WKSNHcsqqKM",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-05-01"
+  },
+  "Welcome Back|John Sebastian": {
+   "yt": "NMzUhPDos6c",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-05-08"
+  },
+  "Boogie Fever|The Sylvers": {
+   "yt": "GPR0PRJvyv4",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-05-15"
+  },
+  "Silly Love Songs|Wings": {
+   "yt": "ap87QgZKTNw",
+   "story": null,
+   "weeks": 5,
+   "first": "1976-05-22"
+  },
+  "Love Hangover|Diana Ross": {
+   "yt": "vIY2iS9Hq3w",
+   "story": null,
+   "weeks": 2,
+   "first": "1976-05-29"
+  },
+  "Afternoon Delight|Starland Vocal Band": {
+   "yt": "_dsn0zKSpMk",
+   "story": null,
+   "weeks": 2,
+   "first": "1976-07-10"
+  },
+  "Kiss and Say Goodbye|The Manhattans": {
+   "yt": "wtjro7_R3-4",
+   "story": null,
+   "weeks": 2,
+   "first": "1976-07-24"
+  },
+  "Don't Go Breaking My Heart|Elton John and Kiki Dee": {
+   "yt": "z0qW9P-uYfM",
+   "story": null,
+   "weeks": 4,
+   "first": "1976-08-07"
+  },
+  "You Should Be Dancing|Bee Gees": {
+   "yt": "1sqE6P3XyiQ",
+   "story": "/blog/songs/you-should-be-dancing/",
+   "weeks": 1,
+   "first": "1976-09-04"
+  },
+  "(Shake, Shake, Shake) Shake Your Booty|KC and the Sunshine Band": {
+   "yt": "-eOrx3g9-6o",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-09-11"
+  },
+  "Play That Funky Music|Wild Cherry": {
+   "yt": "JTvlujbJ5vg",
+   "story": null,
+   "weeks": 3,
+   "first": "1976-09-18"
+  },
+  "A Fifth of Beethoven|Walter Murphy and the Big Apple Band": {
+   "yt": "VimNTQ6cU7s",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-10-09"
+  },
+  "Disco Duck|Rick Dees and His Cast of Idiots": {
+   "yt": "yEE7AA7wvL4",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-10-16"
+  },
+  "If You Leave Me Now|Chicago": {
+   "yt": "-9_d-sFhmRM",
+   "story": "/blog/songs/if-you-leave-me-now/",
+   "weeks": 2,
+   "first": "1976-10-23"
+  },
+  "Rock'n Me|Steve Miller Band": {
+   "yt": "PXB_b0uUOXA",
+   "story": null,
+   "weeks": 1,
+   "first": "1976-11-06"
+  },
+  "Tonight's the Night (Gonna Be Alright)|Rod Stewart": {
+   "yt": "IZr6AE-u2UM",
+   "story": null,
+   "weeks": 8,
+   "first": "1976-11-13"
+  },
+  "You Don't Have to Be a Star (To Be in My Show)|Marilyn McCoo and Billy Davis Jr.": {
+   "yt": "cev9HGuQwCg",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-01-08"
+  },
+  "You Make Me Feel Like Dancing|Leo Sayer": {
+   "yt": "VDlvPD9qCao",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-01-15"
+  },
+  "I Wish|Stevie Wonder": {
+   "yt": "B6cqrjlqjuM",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-01-22"
+  },
+  "Car Wash|Rose Royce": {
+   "yt": "zs5jFH0CN70",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-01-29"
+  },
+  "Torn Between Two Lovers|Mary MacGregor": {
+   "yt": null,
+   "story": null,
+   "weeks": 2,
+   "first": "1977-02-05"
+  },
+  "Blinded by the Light|Manfred Mann's Earth Band": {
+   "yt": "Rzk3x3HZbJI",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-02-19"
+  },
+  "New Kid in Town|Eagles": {
+   "yt": "_fW2rw8SwoA",
+   "story": "/blog/songs/new-kid-in-town/",
+   "weeks": 1,
+   "first": "1977-02-26"
+  },
+  "Evergreen (Love Theme from A Star Is Born)|Barbra Streisand": {
+   "yt": "udLeOOy6em4",
+   "story": null,
+   "weeks": 3,
+   "first": "1977-03-05"
+  },
+  "Rich Girl|Daryl Hall and John Oates": {
+   "yt": "AmHE65RAkSY",
+   "story": null,
+   "weeks": 2,
+   "first": "1977-03-26"
+  },
+  "Dancing Queen|ABBA": {
+   "yt": "xFrGuyw1V8s",
+   "story": "/blog/songs/dancing-queen/",
+   "weeks": 1,
+   "first": "1977-04-09"
+  },
+  "Don't Give Up on Us|David Soul": {
+   "yt": "J_2GpDoNciY",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-04-16"
+  },
+  "Don't Leave Me This Way|Thelma Houston": {
+   "yt": "rUdw7V-FC_Q",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-04-23"
+  },
+  "Southern Nights|Glen Campbell": {
+   "yt": "jYTfV5o2ZMY",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-04-30"
+  },
+  "Hotel California|Eagles": {
+   "yt": "dLl4PZtxia8",
+   "story": "/blog/songs/hotel-california/",
+   "weeks": 1,
+   "first": "1977-05-07"
+  },
+  "When I Need You|Leo Sayer": {
+   "yt": "obC0MFHWJ0A",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-05-14"
+  },
+  "Sir Duke|Stevie Wonder": {
+   "yt": "ETFvmkIA6S4",
+   "story": "/blog/songs/sir-duke-stevie-wonder/",
+   "weeks": 3,
+   "first": "1977-05-21"
+  },
+  "I'm Your Boogie Man|KC and the Sunshine Band": {
+   "yt": "HT0wGSbASZE",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-06-11"
+  },
+  "Dreams|Fleetwood Mac": {
+   "yt": "5oWyMakvQew",
+   "story": "/blog/songs/dreams-fleetwood-mac/",
+   "weeks": 1,
+   "first": "1977-06-18"
+  },
+  "Got to Give It Up|Marvin Gaye": {
+   "yt": "22GN9-f-dWQ",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-06-25"
+  },
+  "Gonna Fly Now (Theme From Rocky)|Bill Conti": {
+   "yt": "fnBrM27ZU3k",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-07-02"
+  },
+  "Undercover Angel|Alan O'Day": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1977-07-09"
+  },
+  "Da Doo Ron Ron|Shaun Cassidy": {
+   "yt": null,
+   "story": null,
+   "weeks": 1,
+   "first": "1977-07-16"
+  },
+  "Looks Like We Made It|Barry Manilow": {
+   "yt": "C47GV5xFkTg",
+   "story": null,
+   "weeks": 1,
+   "first": "1977-07-23"
+  },
+  "I Just Want to Be Your Everything|Andy Gibb": {
+   "yt": "n-EJQ9kjZ84",
+   "story": null,
+   "weeks": 4,
+   "first": "1977-07-30"
+  },
+  "Best of My Love|The Emotions": {
+   "yt": "r3Rd33DvJ7w",
+   "story": null,
+   "weeks": 5,
+   "first": "1977-08-20"
+  },
+  "Star Wars Theme/Cantina Band|Meco": {
+   "yt": "73B-0sUhBZQ",
+   "story": null,
+   "weeks": 2,
+   "first": "1977-10-01"
+  },
+  "You Light Up My Life|Debby Boone": {
+   "yt": "AOShEUn0aA4",
+   "story": null,
+   "weeks": 10,
+   "first": "1977-10-15"
+  },
+  "How Deep Is Your Love|Bee Gees": {
+   "yt": "XpqqjU7u5Yc",
+   "story": "/blog/songs/how-deep-is-your-love/",
+   "weeks": 3,
+   "first": "1977-12-24"
+  },
+  "Baby Come Back|Player": {
+   "yt": "NmEyGiaqm7k",
+   "story": null,
+   "weeks": 3,
+   "first": "1978-01-14"
+  },
+  "Stayin' Alive|Bee Gees": {
+   "yt": "fNFzfwLM72c",
+   "story": "/blog/songs/stayin-alive/",
+   "weeks": 4,
+   "first": "1978-02-04"
+  },
+  "(Love Is) Thicker Than Water|Andy Gibb": {
+   "yt": "HFYCphcJTB8",
+   "story": null,
+   "weeks": 2,
+   "first": "1978-03-04"
+  },
+  "Night Fever|Bee Gees": {
+   "yt": "SkypZuY6ZvA",
+   "story": "/blog/songs/night-fever/",
+   "weeks": 8,
+   "first": "1978-03-18"
+  },
+  "If I Can't Have You|Yvonne Elliman": {
+   "yt": "7sxpwDLon-8",
+   "story": null,
+   "weeks": 1,
+   "first": "1978-05-13"
+  },
+  "With a Little Luck|Wings": {
+   "yt": "U6KNiKchr-8",
+   "story": null,
+   "weeks": 2,
+   "first": "1978-05-20"
+  },
+  "Too Much, Too Little, Too Late|Johnny Mathis and Deniece Williams": {
+   "yt": "9pSyKgNVzR4",
+   "story": null,
+   "weeks": 1,
+   "first": "1978-06-03"
+  },
+  "You're the One That I Want|John Travolta and Olivia Newton-John": {
+   "yt": "IWz1bwYmWT0",
+   "story": "/blog/songs/youre-the-one-that-i-want/",
+   "weeks": 1,
+   "first": "1978-06-10"
+  },
+  "Shadow Dancing|Andy Gibb": {
+   "yt": null,
+   "story": null,
+   "weeks": 7,
+   "first": "1978-06-17"
+  },
+  "Miss You|The Rolling Stones": {
+   "yt": "hic-dnps6MU",
+   "story": null,
+   "weeks": 1,
+   "first": "1978-08-05"
+  },
+  "Three Times a Lady|Commodores": {
+   "yt": "R14t8G9hzLM",
+   "story": null,
+   "weeks": 2,
+   "first": "1978-08-12"
+  },
+  "Grease|Frankie Valli": {
+   "yt": "ZC7v2gFsCz0",
+   "story": null,
+   "weeks": 2,
+   "first": "1978-08-26"
+  },
+  "Boogie Oogie Oogie|A Taste of Honey": {
+   "yt": "4gqRFFg7CmA",
+   "story": null,
+   "weeks": 3,
+   "first": "1978-09-09"
+  },
+  "Kiss You All Over|Exile": {
+   "yt": null,
+   "story": null,
+   "weeks": 4,
+   "first": "1978-09-30"
+  },
+  "Hot Child in the City|Nick Gilder": {
+   "yt": "fgeFJ-zhCWo",
+   "story": null,
+   "weeks": 1,
+   "first": "1978-10-28"
+  },
+  "You Needed Me|Anne Murray": {
+   "yt": "0vxiUfeVwF8",
+   "story": null,
+   "weeks": 1,
+   "first": "1978-11-04"
+  },
+  "MacArthur Park|Donna Summer": {
+   "yt": null,
+   "story": "/blog/songs/macarthur-park-donna-summer/",
+   "weeks": 3,
+   "first": "1978-11-11"
+  },
+  "You Don't Bring Me Flowers|Barbra Streisand and Neil Diamond": {
+   "yt": "BMYzlfT-4wQ",
+   "story": null,
+   "weeks": 2,
+   "first": "1978-12-02"
+  },
+  "Le Freak|Chic": {
+   "yt": "aXgSHL7efKg",
+   "story": null,
+   "weeks": 6,
+   "first": "1978-12-09"
+  },
+  "Too Much Heaven|Bee Gees": {
+   "yt": "nREV8bQJ1MA",
+   "story": "/blog/songs/too-much-heaven/",
+   "weeks": 2,
+   "first": "1979-01-06"
+  },
+  "Da Ya Think I'm Sexy?|Rod Stewart": {
+   "yt": "Hphwfq1wLJs",
+   "story": null,
+   "weeks": 4,
+   "first": "1979-02-10"
+  },
+  "I Will Survive|Gloria Gaynor": {
+   "yt": "6dYWe1c3OyU",
+   "story": "/blog/songs/i-will-survive/",
+   "weeks": 3,
+   "first": "1979-03-10"
+  },
+  "Tragedy|Bee Gees": {
+   "yt": "I248-SyRDnU",
+   "story": "/blog/songs/tragedy-bee-gees/",
+   "weeks": 2,
+   "first": "1979-03-24"
+  },
+  "What a Fool Believes|The Doobie Brothers": {
+   "yt": "qKYQNtF11eg",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-04-14"
+  },
+  "Knock on Wood|Amii Stewart": {
+   "yt": "VP6Kap6rizw",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-04-21"
+  },
+  "Heart of Glass|Blondie": {
+   "yt": "M6zdLTfH-As",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-04-28"
+  },
+  "Reunited|Peaches & Herb": {
+   "yt": "8QSNI6yysN0",
+   "story": null,
+   "weeks": 4,
+   "first": "1979-05-05"
+  },
+  "Hot Stuff|Donna Summer": {
+   "yt": "L7YK_pbN-Ho",
+   "story": "/blog/songs/donna-summer-hot-stuff/",
+   "weeks": 3,
+   "first": "1979-06-02"
+  },
+  "Love You Inside Out|Bee Gees": {
+   "yt": "W4Rw2CnX43I",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-06-09"
+  },
+  "Ring My Bell|Anita Ward": {
+   "yt": "TaBLlkqx7eU",
+   "story": null,
+   "weeks": 2,
+   "first": "1979-06-30"
+  },
+  "Bad Girls|Donna Summer": {
+   "yt": "8NigNpgdDW8",
+   "story": "/blog/songs/bad-girls/",
+   "weeks": 5,
+   "first": "1979-07-14"
+  },
+  "Good Times|Chic": {
+   "yt": "iGKQapswGaY",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-08-18"
+  },
+  "My Sharona|The Knack": {
+   "yt": "bbr60I0u2Ng",
+   "story": null,
+   "weeks": 6,
+   "first": "1979-08-25"
+  },
+  "Sad Eyes|Robert John": {
+   "yt": "FOdll2_zB1Y",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-10-06"
+  },
+  "Don't Stop 'Til You Get Enough|Michael Jackson": {
+   "yt": "yURRmWtbTbo",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-10-13"
+  },
+  "Rise|Herb Alpert": {
+   "yt": "q7O3eYJptTc",
+   "story": null,
+   "weeks": 2,
+   "first": "1979-10-20"
+  },
+  "Pop Muzik|M": {
+   "yt": "gPoiv0sZ4s4",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-11-03"
+  },
+  "Heartache Tonight|Eagles": {
+   "yt": "jBte_o5JpJA",
+   "story": "/blog/songs/heartache-tonight/",
+   "weeks": 1,
+   "first": "1979-11-10"
+  },
+  "Still|Commodores": {
+   "yt": "gCjXXvb0AKk",
+   "story": null,
+   "weeks": 1,
+   "first": "1979-11-17"
+  },
+  "No More Tears (Enough Is Enough)|Barbra Streisand and Donna Summer": {
+   "yt": "MUA7ylTmrmA",
+   "story": null,
+   "weeks": 2,
+   "first": "1979-11-24"
+  },
+  "Babe|Styx": {
+   "yt": "yaVyQS1T7TY",
+   "story": null,
+   "weeks": 2,
+   "first": "1979-12-08"
+  },
+  "Escape (The Piña Colada Song)|Rupert Holmes": {
+   "yt": "ADtNYjYkvrY",
+   "story": null,
+   "weeks": 2,
+   "first": "1979-12-22"
+  }
+ },
+ "dates": {
+  "10-24": "/blog/trivia/this-week-in-music-history-october-24/",
+  "11-7": "/blog/trivia/november-7-in-music-history/",
+  "11-28": "/blog/trivia/november-28-in-music-history/",
+  "12-12": "/blog/trivia/december-12-in-music-history/",
+  "1-9": "/blog/trivia/january-9-in-music-history/",
+  "2-13": "/blog/trivia/february-13-in-music-history/",
+  "3-20": "/blog/trivia/march-20-in-music-history/",
+  "4-17": "/blog/trivia/april-17-in-music-history/",
+  "5-29": "/blog/trivia/may-29-in-music-history/",
+  "6-12": "/blog/trivia/june-12-in-music-history/",
+  "7-15": "/blog/trivia/july-15-in-music-history/",
+  "8-19": "/blog/trivia/august-19-in-music-history/",
+  "9-16": "/blog/trivia/september-16-in-music-history/",
+  "2-1": "/blog/trivia/february-1-in-music-history/",
+  "10-8": "/blog/trivia/october-8-in-music-history/",
+  "5-1": "/blog/trivia/may-1-in-music-history/",
+  "11-12": "/blog/trivia/november-12-in-music-history/",
+  "11-19": "/blog/trivia/november-19-in-music-history/",
+  "12-3": "/blog/trivia/december-3-in-music-history/"
+ }
+}

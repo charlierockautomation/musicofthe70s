@@ -44,6 +44,27 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/songs/70s-number-one-hits/index.html": {
+      "type": "pillar",
+      "keyword": "70s number one hits",
+      "subject": null,
+      "secondary": [
+        "70s number one songs",
+        "number one songs of the 70s"
+      ],
+      "related_songs": null,
+      "pillar": null
+    },
+    "pages/birthday-number-one.html": {
+      "type": "tool",
+      "keyword": "number one song on my birthday",
+      "subject": null,
+      "secondary": [
+        "number one song on the day i was born"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }

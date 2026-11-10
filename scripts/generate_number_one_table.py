@@ -9,10 +9,11 @@ Weeks at #1 are counted from the weekly rows, NOT the file's
 weeks_at_number_one field: that field disagrees with the rows for 9
 songs (e.g. Superstition says 2, the chart shows 1 week).
 
-Each row gets a Play button when the song is in data/radio/radio-songs.json
-with a YouTube ID (js/table-player.js opens the video under the row and plays on down the list,
-checking data/youtube-status.json first), and links to its Songs post when
-one exists.
+Each row gets a Play button only when the song's original recording is recorded in
+data/official-videos.json (artist, label or VEVO upload, or a label-delivered Topic upload
+under the 2026-11-09 Topic exception). No radio-catalog fallback (Article Standard L3,
+decision 2026-11-09). js/table-player.js opens the video under the row and plays on down
+the list, checking data/youtube-status.json first. Rows link to their Songs post when one exists.
 
 Rewrites the block between <!-- NUMBER-ONES-START --> and
 <!-- NUMBER-ONES-END --> in the page.
@@ -42,12 +43,12 @@ def main():
     rows = [r for y in sorted(weekly) for r in weekly[y]]
 
     radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
-    # Number ones that were never on a Year-End Hot 100 have no radio-catalog record; their
-    # verified YouTube IDs live in data/radio/number-one-videos.json, keyed by exact weekly title.
-    extra = json.loads((ROOT / "data/radio/number-one-videos.json").read_text())["videos"]
-    extra_yt = {(norm(v["title"]), norm(v["artist"])): v["youtube_id"] for v in extra}
+    official = {}
+    for vid, rec in json.loads((ROOT / "data/official-videos.json").read_text())["videos"].items():
+        if rec.get("official") and " - " in rec.get("song", ""):
+            ot, oa = rec["song"].rsplit(" - ", 1)
+            official.setdefault((norm(ot), norm(oa)), vid)
     radio_by_song = {}
-    radio_yt = {x["radio_id"]: x.get("youtube_id") for x in radio}
     for s in radio:
         radio_by_song.setdefault((norm(s["title"]), norm(s["artist"])), s["radio_id"])
         radio_by_song.setdefault((norm(s["title"]), ""), s["radio_id"])
@@ -84,7 +85,7 @@ def main():
     for (t, _a) in songs:
         title_count[norm(t.split(" / ")[0])] = title_count.get(norm(t.split(" / ")[0]), 0) + 1
 
-    out, n_radio, n_post = [], 0, 0
+    out, n_play, n_post = [], 0, 0
     for (title, artist), info in sorted(songs.items(), key=lambda kv: kv[1]["first"]):
         d = date.fromisoformat(info["first"])
         # Double A-sides: the radio catalog files some under the full slash title ("Maggie May /
@@ -116,18 +117,14 @@ def main():
         post = f"/blog/songs/{slug}/" if slug else None
         t = html.escape(title)
         song_cell = f'<a href="{post}">{t}</a>' if post else t
-        yt = radio_yt.get(rid) if rid else None
-        if not yt:
-            yt = extra_yt.get((norm(a_side), norm(artist))) or extra_yt.get((norm(title), norm(artist)))
+        yt = official.get((norm(title), norm(artist))) or official.get((norm(a_side), norm(artist)))
         if yt:
             # Plays in place, in a player opened under this row (js/table-player.js, continuous).
             play_cell = (f'<button type="button" class="n1-play" data-yt="{yt}" '
                          f'aria-label="Play {t} here">&#9654; Play</button>')
-        elif rid:
-            play_cell = f'<a href="/radio/?play={rid}" aria-label="Find {t} on Listen Now">Listen Now</a>'
         else:
             play_cell = ""
-        n_radio += bool(rid)
+        n_play += bool(yt)
         n_post += bool(post)
         out.append(
             f'<tr><td class="n1-listen">{play_cell}</td>'
@@ -142,7 +139,7 @@ def main():
     body = "\n".join("              " + line for line in out)
     new = re.sub(re.escape(START) + ".*?" + re.escape(END), START + "\n" + body + "\n              " + END, page, flags=re.S)
     PAGE.write_text(new, encoding="utf-8")
-    print(f"{len(out)} songs, {n_radio} with play/listen links, {n_post} with Songs posts")
+    print(f"{len(out)} songs, {n_play} with official Play buttons, {n_post} with Songs posts")
 
 
 if __name__ == "__main__":

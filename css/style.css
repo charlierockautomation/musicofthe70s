@@ -832,3 +832,9 @@ img.post-featured-img { display: block; height: auto; object-fit: cover; padding
 .listen-row { margin: 1rem 0 1.25rem; }
 .listen-btn { display: inline-flex; align-items: center; gap: 0.5rem; min-height: 48px; padding: 0.7rem 1.6rem; font-size: 1.05rem; border: 0; cursor: pointer; }
 .listen-player.video-embed { margin: 1rem 0 1.25rem; padding: 0; }
+
+/* 70s Number One Hits hub (step 4.4): year table and date-page list links read as links */
+.hub-links a { color: var(--accent-gold); text-decoration: underline; text-underline-offset: 2px; }
+.hub-links a:hover { color: var(--accent-warm); }
+.seo-content ul.date-page-list { columns: 3 10rem; column-gap: 2rem; }
+.seo-content ul.date-page-list li { break-inside: avoid; }

@@ -127,11 +127,13 @@ def strip_tags(s):
 
 ABBREV_RE = re.compile(r"\b(No|Nos|Mr|Mrs|Ms|Dr|St|Jr|Sr|vs|Vol|Inc|Co|Ltd|Mt|Ft)\.(?=\s)")
 INITIALS_RE = re.compile(r"\b([A-Z])\.(?=\s?[A-Z]\.)")
+INITIALS2_RE = re.compile(r"\b([A-Z]\u0001\s?[A-Z])\.(?=\s[A-Z][a-z])")  # second of two initials: "B.J. Thomas"
 
 
 def split_sentences(text):
     text = ABBREV_RE.sub("\\1\u0001", text)
     text = INITIALS_RE.sub("\\1\u0001", text)
+    text = INITIALS2_RE.sub("\\1\u0001", text)
     parts = re.split(r"(?<=[.!?])[\"')\]]*\s+(?=[A-Z0-9\"'(])", text)
     return [s.replace("\u0001", ".") for s in parts if s.strip()]
 
