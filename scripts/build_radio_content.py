@@ -68,7 +68,8 @@ def station_card(genre, rows):
     return f'''      <div class="station-card">
         <h3>{label} Station</h3>
         <p>{blurb}</p>
-        <p class="sc-meta">{len(rows)} songs, {min(years)} to {max(years)}. Busiest year: {busiest_year} ({busiest_n} songs). By era: {era_text}.</p>
+        <p class="sc-meta">{len(rows)} songs from {min(years)} to {max(years)}, busiest in {busiest_year} ({busiest_n} songs).</p>
+        <p class="sc-meta">By era: {era_text}.</p>
         <p class="sc-meta">Highest on the Year-End Hot 100: {best_text}.</p>
         <p class="sc-meta">Most charted artists here: {join_names(top_artists(rows))}.</p>
       </div>'''
@@ -91,8 +92,10 @@ def build(rows):
     return f'''
     <section class="container section" id="station-guide">
       <div class="station-guide-intro">
-        <h2>The Stations at a Glance</h2>
-        <p>Listen Now draws on {len(rows):,} songs from Billboard's Year-End Hot 100 lists for {min(per_year)} to {max(per_year)}, {per_year_txt}. Each song is filed under one station, using this site's own genre labels. All counts and chart positions below come straight from that list.</p>
+        <h2 id="stations">The Stations at a Glance</h2>
+        <p>Listen Now draws on {len(rows):,} songs from Billboard's Year-End Hot 100 lists for {min(per_year)} to {max(per_year)}, {per_year_txt}.</p>
+        <p>Each song is filed under one station, using this site's own genre labels.</p>
+        <p>All counts and chart positions below come straight from that list.</p>
       </div>
       <div class="station-guide-grid">
 {cards}
@@ -100,7 +103,7 @@ def build(rows):
     </section>
 
     <section class="container section seo-content" id="chart-facts">
-      <h2>Chart Facts From the Catalog</h2>
+      <h2 id="chart-facts-h">Chart Facts From the Catalog</h2>
       <p>The artists with the most songs on these ten Year-End lists are {join_names(leaders)}.</p>
       <h3>The Year-End #1 for Every Year</h3>
       <div class="chart-table-wrap">
@@ -111,7 +114,7 @@ def build(rows):
           </tbody>
         </table>
       </div>
-      <p>Want the stories behind the songs? Browse the <a href="/blog/years/">year-by-year charts</a>, the <a href="/blog/genres/">genre guides</a>, the <a href="/blog/artists/">artist profiles</a> and the <a href="/blog/songs/">song deep dives</a>.</p>
+      <p>For the stories behind the songs, browse the <a href="/blog/years/">year-by-year charts</a>, the <a href="/blog/genres/">genre guides</a>, the <a href="/blog/artists/">artist profiles</a> and the <a href="/blog/songs/">song deep dives</a>.</p>
     </section>
 '''
 

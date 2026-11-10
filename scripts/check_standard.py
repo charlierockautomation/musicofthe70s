@@ -749,8 +749,9 @@ def check(file, keyword, ptype, subject=None, secondary=(), related_songs=None, 
     missing = [p for p in related_songs if p not in ip]
     rep.add("N2", not missing, f"links down to every related song story ({len(related_songs)} found)"
             + (f": missing {missing[:4]}" if missing else ""))
-    if ptype == "pillar":
+    if ptype == "pillar" or path in PILLARS.values():
         # a pillar sits under Home; its sideways links are the other pillars
+        # (also for a pillar URL registered as another type, e.g. /radio/ as a tool)
         side = sorted({p for p in ip if p in PILLARS.values() and p not in ("/", path)})
     else:
         side = sorted({p for p in ip if p.startswith("/blog/") and p.count("/") == 4 and p != path and p != pillar_url

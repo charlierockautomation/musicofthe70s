@@ -20,7 +20,7 @@ Status values: `queued` · `in progress` · `built, awaiting review` · `LIVE` �
 | A2 | 70s Bands | /blog/artists/70s-bands/ | 70s bands (+ 70s artists) | 12,100 / 2,400 | 2,441 / 1,004 | Hub over every band and artist page, genre sections (punk 1,000, funk 590, southern rock 590, disco groups 480, R&B groups 480, soul groups 260) | 4.2 | LIVE 2026-11-09 |
 | A3 | Birthday #1 Song Finder | /pages/birthday-number-one | number one song on my birthday | 1,300 | 19 | Real content section, FAQ, linked from every date page (rework with the #1 Hits hub) | 4.4 | LIVE 2026-11-09 |
 | A4 | 70s Number One Hits | /blog/songs/70s-number-one-hits/ | 70s number one hits (+ top songs of 19XX) | 480 + 2,400 to 2,900 per year | 2 + 197 to 362 per year | Hub: links to Years, the Birthday #1 Song Finder and the date pages | 4.4 | LIVE 2026-11-09 |
-| A5 | Listen Now radio | /radio/ | 70s hits (+ 70s radio) | 4,400 / 880 | 4,238 / 1,376 | Answer-first article section under the player (type tool) | 4.5 | queued |
+| A5 | Listen Now radio | /radio/ | 70s hits (+ 70s radio) | 4,400 / 880 | 4,238 / 1,376 | Answer-first article section under the player (type tool) | 4.5 | built, awaiting review |
 | A6 | Disco Music of the 70s | /blog/genres/disco-music-of-the-70s/ | 70s disco songs (+ disco songs) | 12,100 / 14,800 | 574 / 6,418 | Full playable list, hub links | 4.6 | queued |
 | A7 | 70s Soul Music | /blog/genres/70s-soul-music/ | 70s soul songs (+ 70s soul music) | 3,600 / 3,600 | 253 / 7 | Playable list, hub links | 4.6 | queued |
 | A8 | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | 70s pop songs | 3,600 | 17 | Retitle to the exact phrase | 4.6 | queued |

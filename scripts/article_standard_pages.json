@@ -65,6 +65,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "radio/index.html": {
+      "type": "tool",
+      "keyword": "70s hits",
+      "subject": null,
+      "secondary": [
+        "70s radio",
+        "70s music radio"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }

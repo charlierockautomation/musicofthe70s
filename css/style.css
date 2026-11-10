@@ -155,6 +155,8 @@ main { flex: 1 0 auto; }
 
 /* ---------- Section / Tool layout ---------- */
 .section { padding: 2.5rem 0; }
+/* Listen Now article: keep the .container side gutter that .section would zero out (2026-11-10) */
+.radio-article .container.section { padding-left: 1.25rem; padding-right: 1.25rem; }
 .tool-stage {
   background: var(--bg-card); border: 1px solid var(--border-subtle);
   border-radius: var(--radius); padding: 2.5rem 1.5rem; text-align: center;
