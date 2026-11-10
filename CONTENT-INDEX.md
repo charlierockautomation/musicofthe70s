@@ -27,7 +27,7 @@
 | Home | https://musicofthe70s.net/ | Home | Live | Hero, featured tool, all-tools grid, SEO intro paragraph |
 | Tools anchor | https://musicofthe70s.net/#tools | Home | Live | In-page anchor on homepage |
 | Random 70s Song Generator | https://musicofthe70s.net/pages/random-70s-song.html | Listen to 70s Music | Live | Featured tool. Has full SEO section "One Decade, Every Sound You Can Imagine." Focus keyword: 70s songs |
-| Birthday #1 Song Finder | https://musicofthe70s.net/pages/birthday-number-one.html | 70s Number One Hits | Live | Focus keyword: number one songs 70s |
+| Birthday #1 Song Finder | https://musicofthe70s.net/pages/birthday-number-one | 70s Number One Hits | Live | Focus keyword: number one song on my birthday (reworked 2026-11-09) |
 | Mood Song Matcher | https://musicofthe70s.net/pages/mood-song-matcher.html | Listen to 70s Music | Live | Focus keyword: best 70s songs |
 | Random Artist Picker | https://musicofthe70s.net/pages/random-artist-picker.html | 70s Bands & Singers | Live | Focus keyword: 70s artists |
 | 70s Music Trivia Quiz | https://musicofthe70s.net/pages/70s-trivia-quiz.html | 70s Music Trivia | Live | Focus keyword: 70s music trivia |
