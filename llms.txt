@@ -12,7 +12,7 @@ Sitemap: https://musicofthe70s.net/sitemap.xml
 - [Random 70s Song Generator](https://musicofthe70s.net/pages/random-70s-song): Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link. Rock, disco, soul, country and more.
 
 ## Listen
-- [70s Music Radio and Jukebox](https://musicofthe70s.net/radio/): Watch and listen to free 70s music on genre radio stations, or browse the full 1,000-song Billboard jukebox from 1970-1979. Disco, soul, rock, country, funk and more.
+- [70s Music Radio and Jukebox](https://musicofthe70s.net/radio/): Play 1,000 free 70s hits on 10 genre radio stations or the jukebox: every Billboard Year-End Hot 100 song from 1970 to 1979, from disco and soul to rock.
 
 ## Blog Hubs
 - [Blog: all posts](https://musicofthe70s.net/blog/): Deep dives into 70s music — genres, songs, artists, year-by-year retrospectives and trivia from the greatest decade in music.
