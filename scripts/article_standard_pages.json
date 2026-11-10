@@ -22,6 +22,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/artists/70s-bands/index.html": {
+      "type": "pillar",
+      "keyword": "70s bands",
+      "subject": null,
+      "secondary": [
+        "70s artists",
+        "1970s bands"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }

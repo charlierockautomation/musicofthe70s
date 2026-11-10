@@ -1,5 +1,5 @@
 {
-  "_doc": "YouTube IDs confirmed as official artist or label uploads (L3 in scripts/check_standard.py). Each: {\"official\": true, \"channel\": \"<channel name>\", \"verified\": \"YYYY-MM-DD\"}. Topic or fan uploads never qualify.",
+  "_doc": "YouTube IDs confirmed as official artist or label uploads (L3 in scripts/check_standard.py). Each: {\"official\": true, \"channel\": \"<channel name>\", \"verified\": \"YYYY-MM-DD\"}. Topic or fan uploads never qualify. Exception (Charlie, 2026-11-09): when no artist, label or VEVO channel has the original recording, a label-delivered \"<Artist> - Topic\" upload of the original recording qualifies, recorded with \"source\": \"topic\" and the label in \"label\". Fan uploads never qualify.",
   "videos": {
     "N8NcQzMQN_U": {
       "official": true,
@@ -505,6 +505,235 @@
       "channel": "malacomg",
       "verified": "2026-11-09",
       "song": "Ring My Bell - Anita Ward"
+    },
+    "-9_d-sFhmRM": {
+      "official": true,
+      "channel": "Chicago Band",
+      "verified": "2026-11-09",
+      "song": "If You Leave Me Now - Chicago"
+    },
+    "77R1Wp6Y_5Y": {
+      "official": true,
+      "channel": "ELO",
+      "verified": "2026-11-09",
+      "song": "Telephone Line - Electric Light Orchestra"
+    },
+    "o7h3pcFIDE0": {
+      "official": true,
+      "channel": "Gladys Knight",
+      "verified": "2026-11-09",
+      "song": "Best Thing That Ever Happened to Me - Gladys Knight & the Pips"
+    },
+    "OLyF0EFXU28": {
+      "official": true,
+      "channel": "War",
+      "verified": "2026-11-09",
+      "song": "Slippin' into Darkness - War"
+    },
+    "xFrGuyw1V8s": {
+      "official": true,
+      "channel": "ABBA",
+      "verified": "2026-11-09",
+      "song": "Dancing Queen - ABBA"
+    },
+    "fJ9rUzIMcZQ": {
+      "official": true,
+      "channel": "Queen Official",
+      "verified": "2026-11-09",
+      "song": "Bohemian Rhapsody - Queen"
+    },
+    "5oWyMakvQew": {
+      "official": true,
+      "channel": "Fleetwood Mac",
+      "verified": "2026-11-09",
+      "song": "Dreams - Fleetwood Mac"
+    },
+    "z00Y5gCzhvc": {
+      "official": true,
+      "channel": "The Stylistics",
+      "verified": "2026-11-09",
+      "song": "You Make Me Feel Brand New - The Stylistics"
+    },
+    "CK6jKL2qWxo": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "Feels Like the First Time - Foreigner"
+    },
+    "HuqagqnaDmY": {
+      "official": true,
+      "channel": "Bob Seger",
+      "verified": "2026-11-09",
+      "song": "Still the Same - Bob Seger & The Silver Bullet Band"
+    },
+    "m4oZCtfmh44": {
+      "official": true,
+      "channel": "The Doobie Brothers",
+      "verified": "2026-11-09",
+      "song": "Black Water - The Doobie Brothers"
+    },
+    "g8XiNKsKyVk": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "Long Cool Woman in a Black Dress - The Hollies"
+    },
+    "-T9vmaTI2LE": {
+      "official": true,
+      "channel": "Sly & The Family Stone",
+      "verified": "2026-11-09",
+      "song": "Thank You (Falettinme Be Mice Elf Agin) - Sly & the Family Stone"
+    },
+    "na47wMFfQCo": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "A Horse with No Name - America"
+    },
+    "S1Mvy3E8P2U": {
+      "official": true,
+      "channel": "The Isley Brothers",
+      "verified": "2026-11-09",
+      "song": "That Lady - The Isley Brothers"
+    },
+    "e5MAg_yWsq8": {
+      "official": true,
+      "channel": "STYX",
+      "verified": "2026-11-09",
+      "song": "Come Sail Away - Styx"
+    },
+    "Aae_RHRptRg": {
+      "official": true,
+      "channel": "Creedence Clearwater Revival",
+      "verified": "2026-11-09",
+      "song": "Lookin' out My Back Door - Creedence Clearwater Revival"
+    },
+    "sw1OwMrh7XA": {
+      "official": true,
+      "channel": "HeatwaveVEVO",
+      "verified": "2026-11-09",
+      "song": "The Groove Line - Heatwave"
+    },
+    "HT0wGSbASZE": {
+      "official": true,
+      "channel": "KC & The Sunshine Band",
+      "verified": "2026-11-09",
+      "song": "I'm Your Boogie Man - KC and the Sunshine Band"
+    },
+    "BsImSBO-ya4": {
+      "official": true,
+      "channel": "Steely Dan",
+      "verified": "2026-11-09",
+      "song": "Rikki Don't Lose That Number - Steely Dan"
+    },
+    "7lTwA5xMeTM": {
+      "official": true,
+      "channel": "Official Sweet Channel",
+      "verified": "2026-11-09",
+      "song": "The Ballroom Blitz - Sweet"
+    },
+    "WuXwSyahgW4": {
+      "official": true,
+      "channel": "Steve Miller Band",
+      "verified": "2026-11-09",
+      "song": "Fly Like an Eagle - Steve Miller Band"
+    },
+    "Bar7SzNLnY0": {
+      "official": true,
+      "channel": "The Rolling Stones",
+      "verified": "2026-11-09",
+      "song": "Brown Sugar - The Rolling Stones"
+    },
+    "lnqbx8aUJEg": {
+      "official": true,
+      "channel": "Little River Band",
+      "verified": "2026-11-09",
+      "song": "Lady - Little River Band"
+    },
+    "csXFpFoRkEk": {
+      "official": true,
+      "channel": "BayCityRollersVEVO",
+      "verified": "2026-11-09",
+      "song": "Saturday Night - Bay City Rollers"
+    },
+    "0BnPOjC_lTo": {
+      "official": true,
+      "channel": "The O'Jays",
+      "verified": "2026-11-09",
+      "song": "Love Train - The O'Jays"
+    },
+    "mA3tvoCJyyc": {
+      "official": true,
+      "channel": "The Spinners Legacy",
+      "verified": "2026-11-09",
+      "song": "Could It Be I'm Falling in Love - The Spinners"
+    },
+    "sprNZP1AtKY": {
+      "official": true,
+      "channel": "RHINO",
+      "verified": "2026-11-09",
+      "song": "Make It with You - Bread"
+    },
+    "bz7eK_-fZcE": {
+      "official": true,
+      "channel": "Carpenters",
+      "verified": "2026-11-09",
+      "song": "(They Long to Be) Close to You - The Carpenters",
+      "note": "1991 remix of the original 1970 A&M recording (no original-mix upload on an official channel); same handling as the Lennon Ultimate Mix"
+    },
+    "DnYD1lE5cOI": {
+      "official": true,
+      "channel": "Dr. Hook - Topic",
+      "verified": "2026-11-09",
+      "song": "When You're in Love with a Beautiful Woman - Dr. Hook",
+      "source": "topic",
+      "label": "Capitol Records (P 1978)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
+    },
+    "FULmAxNS4hk": {
+      "official": true,
+      "channel": "Grand Funk Railroad - Topic",
+      "verified": "2026-11-09",
+      "song": "The Loco-Motion - Grand Funk Railroad",
+      "source": "topic",
+      "label": "Capitol Records (Shinin' On, 1974)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
+    },
+    "x2cJj9DF7GM": {
+      "official": true,
+      "channel": "Captain & Tennille - Topic",
+      "verified": "2026-11-09",
+      "song": "Love Will Keep Us Together - Captain & Tennille",
+      "source": "topic",
+      "label": "A&M Records (P 1975, single version)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
+    },
+    "_5oGtAKebps": {
+      "official": true,
+      "channel": "Ohio Players - Topic",
+      "verified": "2026-11-09",
+      "song": "Love Rollercoaster - Ohio Players",
+      "source": "topic",
+      "label": "Island Def Jam / UMG (P 1975)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
+    },
+    "YuI0qIAEosw": {
+      "official": true,
+      "channel": "Rare Earth - Topic",
+      "verified": "2026-11-09",
+      "song": "Get Ready - Rare Earth",
+      "source": "topic",
+      "label": "UMG / Motown (P 1970, single version)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
+    },
+    "GPR0PRJvyv4": {
+      "official": true,
+      "channel": "The Sylvers - Topic",
+      "verified": "2026-11-09",
+      "song": "Boogie Fever - The Sylvers",
+      "source": "topic",
+      "label": "Capitol Records (P 1975)",
+      "note": "Charlie 2026-11-09: Topic allowed, no artist/label channel upload of the original recording"
     }
   }
 }

@@ -25,6 +25,7 @@ DATA = [
     ("Bee Gees", 27),
     ("Wings", 13),
     ("The Jackson 5", 10),
+    ("Tony Orlando and Dawn", 10),
     ("Three Dog Night", 9),
     ("The Carpenters", 7),
     ("Chic", 7),

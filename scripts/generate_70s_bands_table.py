@@ -24,8 +24,11 @@ this site's data, after merging spelling/credit variants of the same act
 Ranking: year-end entries, ties broken by chart points (101 minus
 year-end rank, summed over every entry) -- same method as the singers page.
 
-Each row's biggest hit gets a Play button when the song is in
-data/radio/radio-songs.json with a YouTube ID (js/table-player.js).
+Each row's biggest hit gets a Play button only when an official artist or
+label upload is recorded in data/official-videos.json ("song": "Title - Artist",
+Article Standard L3). No radio-songs.json fallback: a song with no official
+upload stays in the ranking without a button (js/table-player.js skips it).
+Band names are plain text: the page's genre directory carries the act links.
 
 Rewrites the block between <!-- BANDS-START --> and <!-- BANDS-END -->.
 
@@ -61,6 +64,11 @@ ALIAS = {
     "Paul McCartney and Wings": "Wings",
     "Dr. Hook & the Medicine Show": "Dr. Hook",
     "Dr. Hook & The Medicine Show": "Dr. Hook",
+    # same act under the credit each chart week or year used (added 2026-11-09)
+    "Dawn": "Tony Orlando and Dawn",
+    "Dawn featuring Tony Orlando": "Tony Orlando and Dawn",
+    "Grand Funk": "Grand Funk Railroad",
+    "Sly and the Family Stone": "Sly & the Family Stone",
 }
 EXCLUDE = set()
 
@@ -112,31 +120,28 @@ def main():
                   x["n_ones"], x["weeks"], sorted(x["ones"]))
         return
 
-    radio = json.loads((ROOT / "data/radio/radio-songs.json").read_text())
     radio_yt = {}
-    for s in radio:
-        radio_yt.setdefault((norm(s["title"]), norm(s["artist"])), (s["radio_id"], s.get("youtube_id")))
+    official = json.loads((ROOT / "data/official-videos.json").read_text())["videos"]
+    for vid, rec in official.items():
+        if rec.get("official") and " - " in rec.get("song", ""):
+            t, a = rec["song"].rsplit(" - ", 1)
+            radio_yt[(norm(t), norm(a))] = vid
 
     song_slugs = {p.parent.name for p in (ROOT / "blog/songs").glob("*/index.html")}
-    artist_slugs = {p.parent.name for p in (ROOT / "blog/artists").glob("*/index.html")}
 
     out = []
     for x in data:
         b = x["band"]
         year, rank, title = x["best"]
-        rid, yt = radio_yt.get((norm(title), norm(b)), (None, None))
+        yt = radio_yt.get((norm(title), norm(b)))
         t = html.escape(title)
         slug = next((sl for sl in song_slugs if norm(sl) == norm(title)
                      or norm(sl) == norm(b + title) or norm(sl) == norm(title + b)), None)
         song_cell = f'<a href="/blog/songs/{slug}/">{t}</a>' if slug else t
-        bslug = next((sl for sl in artist_slugs if norm(sl) == norm(b)
-                      or norm(sl) == norm(b + "theband") or norm(sl) == norm(b) + "theband"), None)
-        band_cell = f'<a href="/blog/artists/{bslug}/">{html.escape(b)}</a>' if bslug else html.escape(b)
+        band_cell = html.escape(b)
         if yt:
             play = (f'<button type="button" class="ohw-play" data-yt="{yt}" data-title="{t} by {html.escape(b)}" '
                     f'aria-label="Play {t} by {html.escape(b)} here">&#9654; Play</button>')
-        elif rid:
-            play = f'<a href="/radio/?play={rid}" aria-label="Find {t} on Listen Now">Listen Now</a>'
         else:
             play = ""
         out.append(
