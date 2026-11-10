@@ -88,6 +88,18 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/70s-soul-music/index.html": {
+      "type": "playlist",
+      "keyword": "70s soul songs",
+      "subject": null,
+      "secondary": [
+        "soul songs",
+        "70s soul music",
+        "70s r&b songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
