@@ -26,9 +26,7 @@ PAGES = {
     "blog/genres/70s-folk-rock/": dict(
         id="folk-rock-song-list", name="Folk Rock in the 70s", first_h2="what-counts",
         tag="folk rock or folk", pick=lambda s: sg(s) in ("folk rock", "folk"), label="folk rock", kw="folk rock in the 70s"),
-    "blog/genres/70s-soft-rock/": dict(
-        id="soft-rock-song-list", name="70s Soft Rock", first_h2="defining-the-sound",
-        tag="soft rock", pick=lambda s: s["genre"] == "soft-rock", label="soft rock", kw="70s soft rock"),
+    # 70s-soft-rock: own generator since step 4.9 (scripts/generate_soft_rock_table.py)
     "blog/genres/glam-rock-in-the-70s/": dict(
         id="glam-rock-song-list", name="Glam Rock in the 70s", first_h2="what-counts",
         tag="glam rock", pick=lambda s: "glam" in sg(s), label="glam rock", kw="glam rock in the 70s"),

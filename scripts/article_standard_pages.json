@@ -111,6 +111,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/70s-soft-rock/index.html": {
+      "type": "playlist",
+      "keyword": "70s soft rock",
+      "subject": null,
+      "secondary": [
+        "70s soft rock songs",
+        "soft rock songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }

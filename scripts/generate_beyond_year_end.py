@@ -21,7 +21,7 @@ ID = "beyond-year-end"
 #          TOC entry the new entry follows (None = first))
 PAGES = {
     "blog/genres/70s-folk-rock/": ("folk rock", "Folk Rock in the 70s", "what-counts", "folk-rock-song-list"),
-    "blog/genres/70s-soft-rock/": ("soft rock", "70s Soft Rock", "defining-the-sound", "soft-rock-song-list"),
+    # 70s-soft-rock: own beyond table since step 4.9 (.base/step-4.9/build.py)
     "blog/genres/glam-rock-in-the-70s/": ("glam rock", "Glam Rock in the 70s", "what-counts", "glam-rock-song-list"),
     "blog/genres/70s-progressive-rock/": ("progressive rock", "70s Progressive Rock", "what-counts", "prog-rock-song-list"),
     "blog/genres/70s-punk-rock/": ("punk and new wave", "70s Punk Rock", "what-counts", None),
