@@ -112,6 +112,14 @@ step once both conditions are independently verified true.
 4. END STATE = DONE, NOT PENDING. The last message of a session should read
    as a completed status report, not an open question or a menu of options.
 
+5. NO IDLE WAITING ON LONG JOBS (Charlie, 2026-11-10). Every long background job
+   (searches, yt-dlp passes, builds) runs under `timeout` and writes progress to a log.
+   Check progress at least every 10 minutes (Monitor with timeout_ms <= 600000, re-armed),
+   never one open-ended wait. A waiter must not match itself: watch a PID (`kill -0 $PID`)
+   or the log, never `pgrep -f <script>` (it matches the waiter's own command line;
+   step 4.8 sat idle 2.5h that way). Stalled or slower than ~1 item/min: kill it, find the
+   cause, fix it, finish in batches. Long-lived preview servers are exempt.
+
 This does not change the PUBLISH GATE rule — a completed build session
 still stops and waits for Charlie's explicit go-ahead before anything goes
 live. "One task per session" and "don't hold open a queue" are about not

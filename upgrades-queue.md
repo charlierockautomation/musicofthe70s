@@ -23,7 +23,7 @@ Status values: `queued` · `in progress` · `built, awaiting review` · `LIVE` �
 | A5 | Listen Now radio | /radio/ | 70s hits (+ 70s radio) | 4,400 / 880 | 4,238 / 1,376 | Answer-first article section under the player (type tool) | 4.5 | LIVE 2026-11-10 |
 | A6 | Disco Music of the 70s | /blog/genres/disco-music-of-the-70s/ | 70s disco songs (+ disco songs) | 12,100 / 14,800 | 574 / 6,418 | Full playable list, hub links | 4.6 | LIVE 2026-11-10 |
 | A7 | 70s Soul Music | /blog/genres/70s-soul-music/ | 70s soul songs (+ 70s soul music) | 3,600 / 3,600 | 253 / 7 | Playable list, hub links | 4.6 | LIVE 2026-11-10 |
-| A8 | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | 70s pop songs | 3,600 | 17 | Retitle to the exact phrase | 4.6 | queued |
+| A8 | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | 1970s pop songs (+ 70s pop songs) | 6,600 / 3,600 | 20 / 17 | Playable list, retitle | 4.6 | built, awaiting review |
 | A9 | 70s Soft Rock | /blog/genres/70s-soft-rock/ | 70s soft rock (+ songs) | 2,900 / 880 | 309 / 205 | Link to the yacht rock page once it exists | 4.6 | queued |
 | A10 | 70s Funk | /blog/genres/70s-funk/ | 70s funk songs (+ 70s funk) | 720 / 1,300 | 175 / 269 | Playable list | 4.6 | queued |
 
