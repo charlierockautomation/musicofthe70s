@@ -100,6 +100,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/pop-songs-of-70s/index.html": {
+      "type": "playlist",
+      "keyword": "1970s pop songs",
+      "subject": null,
+      "secondary": [
+        "70s pop songs",
+        "70s pop music"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
