@@ -36,9 +36,7 @@ PAGES = {
     "blog/genres/pop-songs-of-70s/": dict(
         id="pop-song-list", name="Pop Songs of 70s", first_h2="what-counts",
         tag="pop", pick=lambda s: s["genre"] == "pop", label="pop", kw="pop songs of 70s"),
-    "blog/genres/70s-funk/": dict(
-        id="funk-song-list", name="70s Funk", first_h2="what-counts",
-        tag="funk", pick=lambda s: s["genre"] == "funk", label="funk", kw="70s funk"),
+    # 70s-funk: own generator since step 4.10 (scripts/generate_funk_table.py)
     "blog/genres/70s-hard-rock/": dict(
         id="hard-rock-song-list", name="70s Hard Rock", first_h2="what-defines-it",
         tag="hard rock", pick=lambda s: s["genre"] == "hard-rock", label="hard rock", kw="70s hard rock"),

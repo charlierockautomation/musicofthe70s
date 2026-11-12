@@ -122,6 +122,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/70s-funk/index.html": {
+      "type": "playlist",
+      "keyword": "70s funk",
+      "subject": null,
+      "secondary": [
+        "70s funk songs",
+        "funk songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
