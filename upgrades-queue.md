@@ -25,7 +25,7 @@ Status values: `queued` · `in progress` · `built, awaiting review` · `LIVE` �
 | A7 | 70s Soul Music | /blog/genres/70s-soul-music/ | 70s soul songs (+ 70s soul music) | 3,600 / 3,600 | 253 / 7 | Playable list, hub links | 4.6 | LIVE 2026-11-10 |
 | A8 | Pop Songs of the 70s | /blog/genres/pop-songs-of-70s/ | 1970s pop songs (+ 70s pop songs) | 6,600 / 3,600 | 20 / 17 | Playable list, retitle | 4.6 | LIVE 2026-11-10 |
 | A9 | 70s Soft Rock | /blog/genres/70s-soft-rock/ | 70s soft rock (+ songs) | 2,900 / 880 | 309 / 205 | Link to the yacht rock page once it exists | 4.6 | LIVE 2026-11-11 |
-| A10 | 70s Funk | /blog/genres/70s-funk/ | 70s funk songs (+ 70s funk) | 720 / 1,300 | 175 / 269 | Playable list | 4.6 | queued |
+| A10 | 70s Funk | /blog/genres/70s-funk/ | 70s funk songs (+ 70s funk) | 720 / 1,300 | 175 / 269 | Playable list | 4.6 | LIVE 2026-11-12 |
 
 Step 4.6 is five pages: one per session, in the order A6, A7, A8, A9, A10.
 
