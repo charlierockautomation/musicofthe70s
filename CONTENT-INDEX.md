@@ -137,6 +137,7 @@ One row per post. Add a new row the moment a post file is created — even befor
 |---|---|---|---|
 | *(none currently — Disco Music of the 70s went Live 2026-08-10)* | | | |
 | 70s Rock Bands: 56 Chart Bands Ranked, With Songs to Play | https://musicofthe70s.net/blog/artists/70s-rock-bands/ | 70s Bands & Singers | Artists (pillar) | 70s rock bands | Live (fa2d67e, regen 6d49970, live check passed) | 2026-11-09 | Step 4.3. 56 rock groups with a year-end hit ranked, 56/56 playable; style sections link 12 band + 6 genre pages; 70s Bands links down to it. Builder: .base/step-4.3/build.py |
+| Journey Songs of the 70s: 12 Tracks You Can Play in One List | https://musicofthe70s.net/blog/artists/journey-songs/ | 70s Bands & Singers | Artists (band) | journey songs | Live (7394109, regen 6d3659c, live check passed) | 2026-11-13 | Slot 5.1, bands-queue #1. 1975-79 only, 12/12 play (6 Columbia Topic). Builder: .base/step-5.1/build.py |
 
 ---
 
