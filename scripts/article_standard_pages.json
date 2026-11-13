@@ -133,6 +133,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/artists/journey-songs/index.html": {
+      "type": "band",
+      "keyword": "journey songs",
+      "subject": "Journey",
+      "secondary": [
+        "journey band",
+        "best journey songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }

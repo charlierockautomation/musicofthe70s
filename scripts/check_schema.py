@@ -148,6 +148,9 @@ def check_node(node, rel, page, canonical, err):
         if node.get("numberOfItems") not in (None, len(items)):
             err(f"ItemList numberOfItems {node.get('numberOfItems')} != {len(items)} entries")
         for i in items:
+            # Article Standard band/artist/chart pages: ListItem wraps a MusicRecording (no page url to check)
+            if isinstance(i.get("item"), dict) and i["item"].get("@type") == "MusicRecording" and not i.get("url"):
+                continue
             url = i.get("url") or ""
             target = local_path(url)
             if target is None or not target.is_file():

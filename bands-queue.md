@@ -16,7 +16,7 @@ Each new page links down to every song story already on the site for that act, a
 
 | # | Band | Google/mo | AI/mo | Genre | Note | Focus keyword | Status |
 |---|---|---|---|---|---|---|---|
-| 1 | Journey | 74,000 | 4,487 | Rock |  | | queued |
+| 1 | Journey | 74,000 | 4,487 | Rock | 70s-only page: 12 tracks 1975-79, 12/12 play | journey songs | built, awaiting review |
 | 2 | AC/DC | 60,500 | 5,077 | Hard rock |  | | queued |
 | 3 | Simon & Garfunkel | 60,500 (name) | 3,756 | Folk rock | Check songs volume | | queued |
 | 4 | Creedence Clearwater Revival | 40,500 | 830 | Rock |  | | queued |
