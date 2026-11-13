@@ -12,3 +12,4 @@ scripts/.env
 
 # Python bytecode
 __pycache__/
+dist/

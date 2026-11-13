@@ -63,6 +63,10 @@ API, no database, no SEO plugin. All SEO is hand-built into the HTML.
 - Deploy: git push → GitHub (charlierockautomation) → Cloudflare Pages auto-deploys (~60s)
 - Preview before every push: `cd ~/musicofthe70s.net && python3 -m http.server 8000 &`
 - Full credentials, GitHub/Cloudflare detail: repo-deploy skill
+- Pages build runs `python3 scripts/build_dist.py` and publishes ONLY `dist/` (tracked public
+  web files). Rule: new private/working files must never go in the deploy output folder (`dist/`);
+  keep them as `.md` at the root or in `scripts/`/`sources/`/`.claude/`, never as a web file type
+  inside a public folder (blog/, pages/, data/, images/, js/, css/...).
 
 ## File Size Rule — keeps session token burn down
 Every file a session loads at start (this file, content-build.md, CONTENT-INDEX.md,
