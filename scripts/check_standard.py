@@ -851,7 +851,9 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
     if wc >= 400:
         spans = [(mo.start(), body.find("</section>", mo.start())) for mo in
                  re.finditer(r'<section class="(?:faq-block|sources|related-posts)[^"]*"', body)]
-        content_h2 = [mo.start() for mo in re.finditer(r"<h2\b", body) if not any(a <= mo.start() <= b for a, b in spans)]
+        back = re.compile(r"^\s*(sources?|references|frequently asked questions|faq|you might also like|related posts?)\s*$", re.I)
+        content_h2 = [mo.start() for mo in re.finditer(r"<h2\b[^>]*>(.*?)</h2>", body, re.S)
+                      if not any(a <= mo.start() <= b for a, b in spans) and not back.match(strip_tags(mo.group(1)))]
         if content_h2:
             start = content_h2[-1]
             stops = [i for i in [mo.start() for mo in re.finditer(r"<h2\b|<section class=\"(?:faq-block|sources|related-posts)", body)]
@@ -920,7 +922,10 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
 def content_fingerprint(html):
     """Reader-facing content (article text minus the byline, title, meta description, image alts) for T5."""
     m = re.search(r"<article\b.*?</article>", html, re.S)
-    art = re.sub(r'<p class="post-byline">.*?</p>', "", m.group(0) if m else "", flags=re.S)
+    art = m.group(0) if m else ""
+    cut = art.find('class="related-posts"')  # auto-regenerated cards are not the page's own content
+    art = art[:art.rfind("<section", 0, cut)] if cut > 0 and art.rfind("<section", 0, cut) != -1 else art
+    art = re.sub(r'<p class="post-byline">.*?</p>', "", art, flags=re.S)
     text = " ".join(x for _, x, _, _ in units_of(art))
     title = (re.search(r"<title>(.*?)</title>", html, re.S) or [None, ""])[1]
     desc = (re.search(r'<meta name="description" content="(.*?)"', html, re.S) or [None, ""])[1]

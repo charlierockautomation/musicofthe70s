@@ -177,12 +177,14 @@ def main():
         all_ok = True
         for qa in faq_obj["mainEntity"]:
             q, a = qa["name"], qa["acceptedAnswer"]["text"]
-            idx = html.find(f"<h3>{q}</h3>")
+            from html import unescape as _unescape
+            uhtml = _unescape(html)  # compare decoded text: &#x27; in the page equals ' in the schema
+            idx = uhtml.find(f"<h3>{q}</h3>")
             if idx == -1:
                 print(f"FAIL missing visible question: {q}")
                 all_ok = False
                 continue
-            chunk = html[idx: idx + 3000]
+            chunk = uhtml[idx: idx + 3000]
             chunk = chunk[:chunk.find("</div>")]
             visible = " ".join(re.sub(r"<[^>]+>", "", p).strip() for p in re.findall(r"<p>(.*?)</p>", chunk, re.S))
             visible = re.sub(r"\s+", " ", visible).replace("&amp;", "&")
