@@ -15,7 +15,10 @@ Every fixed page must pass `--placement`. PUBLISH GATE applies to every batch: b
 Delete a row once its batch is LIVE. When the table is empty, remove the Quick-fix pass item from content-build.md and delete this file.
 Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and set the schema dateModified to the same date.
 
-Batch 1 (2026-11-15, the 13 registered pages): built, awaiting Charlie's review.
+Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
+Batch 2 (rows 1 to 12, Years + Genres): built 2026-11-15, all PASS --placement, awaiting Charlie's review. Delete rows 1 to 12 once LIVE.
+Dates (Charlie, 2026-11-15): today only on a real content change; a T1-only page gets its real last content-change date from git history (Hard Rock 2026-10-09, Punk Rock 2026-10-06, 70s Rock 2026-10-09).
+Found in batch 2: all 12 legacy pages already fail the K2 stuffing ceilings (worst 300-word window 5 to 8, several with the keyword in 3+ H2s). Edits in this pass never raise K2; de-stuffing is not in the quick-fix scope yet (open question for Charlie).
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
@@ -171,7 +174,12 @@ Batch 1 (2026-11-15, the 13 registered pages): built, awaiting Charlie's review.
 | 150 | blog/trivia/october-8-in-music-history/ | october 8 in music history | T1 P6 |
 | 151 | blog/trivia/september-16-in-music-history/ | september 16 in music history | T1 P6 |
 
-## NOT QUICK (left alone, full standard at their upgrade slot)
+## NOT QUICK (queued in upgrades-queue.md, not dropped)
 
-No recorded focus keyword (keyword rule first): agnetha-faltskog, anni-frid-lyngstad, chicago-band-songs, electric-light-orchestra-songs, olivia-newton-john-songs (artists); 70s-folk-rock (genres); aint-no-mountain-high-enough, annies-song, thats-the-way-i-like-it, weve-only-just-begun, youre-the-one-that-i-want (songs); this-week-in-music-history-october-24 (trivia).
-Density gap over 10 uses: blog/trivia/70s-music-trivia/ (needs 28 more, a rewrite).
+B14: the 10 pages with no recorded focus keyword (keyword rule first, full standard, floor decision recorded). Chicago and ELO run as B13.
+B15: 70s Music Trivia full rewrite.
+
+## FAQ-format lines from verify_post (5 batch-1 pages)
+
+MISMATCH and "missing visible question" were a verify_post bug (it compared &#x27; with '), fixed 2026-11-15: schema and visible FAQ text match on all 5.
+The remaining "len FAIL" lines are the legacy 40-70-word rule. Article Standard T3 (answers 1 to 3 sentences, each adding a fact) overrides it and all 5 pages pass T3, so no page edit is queued. Open question for Charlie: should verify_post judge registered pages by T3 instead (as it already does for K2)?
