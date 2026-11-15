@@ -20,6 +20,8 @@ Batch 2 (rows 1 to 12, Years + Genres): built 2026-11-15, all PASS --placement, 
 Dates (Charlie, 2026-11-15): today only on a real content change; a T1-only page gets its real last content-change date from git history (Hard Rock 2026-10-09, Punk Rock 2026-10-06, 70s Rock 2026-10-09).
 Found in batch 2: all 12 legacy pages already fail the K2 stuffing ceilings (worst 300-word window 5 to 8, several with the keyword in 3+ H2s). Edits in this pass never raise K2; de-stuffing is not in the quick-fix scope yet (open question for Charlie).
 
+Batch 3 adds first: Journey meta description 158 chars, trim to 155 or less (O5), then upgrades-queue C5.
+
 | # | Page | Keyword | Fails |
 |---|---|---|---|
 | 1 | blog/years/top-songs-of-1970/ | top songs of 1970 | P7 P8 |
