@@ -63,8 +63,9 @@ def main():
     print(f"=== {path} ===")
     print(f"Word count: {wc}  {'PASS' if wc >= 1200 else 'FAIL (<1200)'}")
     # Article Standard pages (scripts/article_standard_pages.json) are judged by the
-    # Standard's keyword rule (check_standard.py K2: max 1.0% phrase / 2.0% name, no floor;
-    # keyword in at most 2 H2s and 1/3 of them), not the legacy 0.5-2.0% / must-be-in-an-H2 lines.
+    # Standard's keyword rule (check_standard.py K2 ceilings: max 1.0% phrase / 2.0% name, keyword in at
+    # most 2 H2s and 1/3 of them; P1-P8 placement minimums incl. the 0.5% floor on non-table words),
+    # not the legacy 0.5-2.0% / must-be-in-an-H2 lines.
     import subprocess
     from pathlib import Path
     from check_standard import ROOT, check, load_registry

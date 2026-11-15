@@ -13,6 +13,7 @@ USAGE
   check_standard.py --registered               # every registered page
   check_standard.py --site                     # site-wide: no link to classicrockartists.com
   check_standard.py --staged                   # git pre-commit mode (scripts/hooks/pre-commit)
+  check_standard.py --placement [page]         # read-only quick-fix audit (P1-P8, C1, T1) of live blog pages
 
 Page types (schema table in the plan): song, band, artist, playlist, album, tv, pillar, chart, quiz, trivia, tool.
 
@@ -41,6 +42,13 @@ Checks
   N1 link up to the pillar   N2 down to every related song story   N3 2 to 4 sideways (same pillar)
   N4 one link to /radio/ or a tool   N5 each target once   N6 never classicrockartists.com
   X1 schema by page type, plus BreadcrumbList and the Person author (Charlie)
+  P1-P8 focus keyword placement minimums, exact match: P1 <title> at or near the front (max 3 words before it)
+     P2 slug in keyword word order (new pages FAIL, live URLs WARN: never changed)  P3 meta description
+     P4 the first body sentence  P5 at least one H2 or H3  P6 featured image alt text  P7 the final content
+     section (pages of 400+ words)  P8 density floor 0.5%, measured on the words outside <table> song lists
+  C1 self-contained fact sentences: no pronoun-led fact sentence ("It reached", "The band", "They") in the
+     first five intro sentences or as the first sentence under an H2
+  T1 (also) the visible Updated date matches the schema dateModified
 """
 import argparse
 import html as htmllib
@@ -769,7 +777,118 @@ def check(file, keyword, ptype, subject=None, secondary=(), related_songs=None, 
     # X1 schema
     has_video = bool(re.search(r"youtube(?:-nocookie)?\.com/embed/", html)) or "listen-btn" in html
     check_schema(html, ptype, has_video, rep)
+
+    # P1-P8 keyword placement minimums, C1 self-contained fact sentences, T1 dates match schema
+    check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre)
     return rep
+
+
+# ---------------------------------------------------------------- placement minimums + AI citation
+PRONOUN_LEAD_RE = re.compile(
+    r"^(It|It's|Its|They|They're|Their|Them|He|He's|She|She's|His|Her|"
+    r"(?:The|This|Their|His|Her|Its) (?:band|group|song|track|single|record|album|duo|trio|singer|act|LP)(?:'s)?(?! (?:that|which|who)\b))\b")
+FACT_MARK_RE = re.compile(
+    r"\d|\b(reached|peaked|charted|topped|spent|wrote|written|co-wrote|released|recorded|produced|formed|"
+    r"joined|certified|sold|debuted|gold|platinum|lineup|line-up|number one|No\.)", re.I)
+MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october",
+          "november", "december"]
+
+
+def is_live(file):
+    """True when the page is already committed (a live URL): slug changes are banned on live pages."""
+    try:
+        rel = Path(file).resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        return False
+    return subprocess.run(["git", "cat-file", "-e", f"HEAD:{rel}"], cwd=ROOT, timeout=60,
+                          capture_output=True).returncode == 0
+
+
+def schema_date_modified(html):
+    nodes, _ = ld_nodes(html)
+    for t in ("BlogPosting", "Article", "CollectionPage", "WebPage", "WebApplication"):
+        for n in find(nodes, t):
+            if n.get("dateModified"):
+                return str(n["dateModified"])[:10]
+    return None
+
+
+def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre):
+    # P1 title, at or near the front (at most 3 words before the keyword)
+    tm = kre.search(title)
+    lead = len(title[:tm.start()].split()) if tm else None
+    rep.add("P1", tm is not None and lead <= 3,
+            f"keyword in <title> near the front: " + (f"{lead} word(s) before it" if tm else f'missing in "{title}"'))
+    # P2 slug in keyword word order (new pages FAIL, live pages WARN: never change a live URL)
+    sl = " " + " ".join(tok(slug.replace("-", " "))) + " "
+    ok = (" " + " ".join(tok(kw)) + " ") in sl
+    live = is_live(file)
+    rep.add("P2", ok, f'keyword word order in the slug "{slug}"' + ("" if ok else
+            (" (live URL: never changed, WARN only)" if live else " (new page: fix the slug before it goes live)")),
+            warn=live)
+    # P3 meta description
+    rep.add("P3", bool(kre.search(desc)), "keyword in meta description" + ("" if kre.search(desc) else f': "{desc[:90]}"'))
+    # P4 first body sentence
+    first = next((s for p in intro_ps for s in split_sentences(p)), "")
+    rep.add("P4", bool(first and kre.search(first)),
+            "keyword in the first body sentence" + ("" if first and kre.search(first) else f': "{first[:110]}"'))
+    # P5 at least one H2 or H3 (ceiling max 2 / max 1/3 of H2s stays in K2)
+    heads = [x for t, x, _, _ in units if t in ("h2", "h3")]
+    kh = [h for h in heads if kre.search(h)]
+    rep.add("P5", bool(kh), f"keyword in at least one H2/H3: {len(kh)} of {len(heads)}")
+    # P6 featured image alt text: first <img> above the first H2, else the first .post-featured-img
+    img = re.search(r"<img\b[^>]*>", pre) or re.search(r'<img\b[^>]*class="[^"]*post-featured-img[^>]*>', body)
+    alt = norm((re.search(r'\balt="([^"]*)"', img.group(0)) or [None, ""])[1]) if img else ""
+    rep.add("P6", bool(img and kre.search(alt)),
+            "keyword in featured image alt" + ("" if img and kre.search(alt) else (f': "{alt[:90]}"' if img else ": no featured image")))
+    # P7 final section once (skipped under ~400 words)
+    if wc >= 400:
+        spans = [(mo.start(), body.find("</section>", mo.start())) for mo in
+                 re.finditer(r'<section class="(?:faq-block|sources|related-posts)[^"]*"', body)]
+        content_h2 = [mo.start() for mo in re.finditer(r"<h2\b", body) if not any(a <= mo.start() <= b for a, b in spans)]
+        if content_h2:
+            start = content_h2[-1]
+            stops = [i for i in [mo.start() for mo in re.finditer(r"<h2\b|<section class=\"(?:faq-block|sources|related-posts)", body)]
+                     if i > start]
+            sec = body[start:min(stops) if stops else len(body)]
+            h = strip_tags((re.search(r"<h2[^>]*>(.*?)</h2>", sec, re.S) or [None, ""])[1])
+            rep.add("P7", bool(kre.search(strip_tags(sec))), f'keyword in the final section ("{h[:50]}")')
+        else:
+            rep.add("P7", False, "keyword in the final section: no content H2 found")
+    # P8 density floor (ceilings stay in K2, measured on every word). The floor is measured on the words
+    # outside <table> song lists: on a list page the table words would otherwise demand more uses than the
+    # 2-per-300-words ceiling allows in the prose (decision 2026-11-15).
+    prose_txt = " ".join(x for _, x, _, _ in units_of(re.sub(r"<table\b.*?</table>", "", body, flags=re.S)))
+    pwc, phits = len(prose_txt.split()), len(kre.findall(prose_txt))
+    dens = phits / pwc * 100 if pwc else 0
+    rep.add("P8", dens >= 0.5, f"density floor {dens:.2f}% (min 0.5%, {phits} uses / {pwc} words outside tables, "
+            f"need {max(0, -(-pwc // 200) - phits)} more)" if dens < 0.5 else f"density floor {dens:.2f}% (min 0.5%)")
+
+    # C1 self-contained fact sentences: first five lines, and the first sentence under each H2
+    spots = [s for p in intro_ps for s in split_sentences(p)][:5]
+    after_h2 = False
+    for t, x, cls, stack in units:
+        if t == "h2":
+            after_h2 = True
+            continue
+        if after_h2:
+            if t == "p" and not any(c in " ".join(stack) for c in EXCLUDE_P_CLASSES):
+                spots.append(split_sentences(x)[0] if split_sentences(x) else x)
+            if t in ("p", "li", "td", "th", "dt", "dd") or re.fullmatch(r"h[1-6]", t):
+                after_h2 = False
+    bad = [s for s in spots if PRONOUN_LEAD_RE.match(s) and FACT_MARK_RE.search(s)]
+    rep.add("C1", not bad, f"fact sentences name their subject: {len(bad)} pronoun-led"
+            + (f' e.g. "{bad[0][:80]}"' if bad else ""))
+
+    # T1 visible Updated date matches dateModified
+    bl = re.search(r'<p class="post-byline">(.*?)</p>', body, re.S)
+    um = re.search(r"Updated\s+(\w+) (\d{1,2}), (\d{4})", bl.group(1)) if bl else None
+    dm = schema_date_modified(html)
+    if um and um.group(1).lower() in MONTHS:
+        vis = f"{um.group(3)}-{MONTHS.index(um.group(1).lower()) + 1:02d}-{int(um.group(2)):02d}"
+        rep.add("T1", dm == vis, f"Updated {vis} matches schema dateModified {dm}")
+    else:
+        rep.add("T1", False, f"no visible Updated date to match schema dateModified {dm}")
 
 
 # ---------------------------------------------------------------- modes
@@ -836,6 +955,84 @@ def staged():
     return ok
 
 
+KEYWORD_FILES = ["CONTENT-INDEX.md", "CONTENT-INDEX-ARCHIVE.md", "upgrades-queue.md", "bands-queue.md",
+                 "artists-queue.md", "spokes-queue.md"]
+PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
+QUICK_CODES = {"P1", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
+P8_QUICK_MAX = 3  # a density shortfall of up to 3 uses is fixed by rewording existing sentences
+
+
+def keyword_index():
+    """{clean path: focus keyword} from every tracker table that has a URL column and a keyword column."""
+    km = {}
+    for name in KEYWORD_FILES:
+        f = ROOT / name
+        if not f.exists():
+            continue
+        hdr = None
+        for line in f.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                hdr = None
+                continue
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if hdr is None:
+                hdr = [c.lower() for c in cells]
+                continue
+            if set("".join(cells)) <= set("-: "):
+                continue
+            ui = next((i for i, h in enumerate(hdr) if h == "url"), None)
+            ki = next((i for i, h in enumerate(hdr) if "keyword" in h), None)
+            if ui is None or ki is None or max(ui, ki) >= len(cells):
+                continue
+            m = re.search(r"(?:musicofthe70s\.net)?(/(?:blog|pages|radio)/[^\s)|`]*)", cells[ui])
+            k = re.split(r"\s*\(|\s*\+|,", cells[ki].strip("` "))[0].strip().lower()
+            if m and k and not k.startswith(("-", "n/a", "tbd")):
+                km.setdefault(internal_path(m.group(1)), k)
+    return km
+
+
+def placement_audit(pages=None):
+    """Read-only quick-fix audit: P1-P8, C1 and T1 on every live blog page, sorted QUICK / NOT QUICK."""
+    reg, km = load_registry(), keyword_index()
+    files = [ROOT / p for p in pages] if pages else \
+        [f for f in sorted((ROOT / "blog").glob("*/*/index.html")) if f.parent.name != "archive"]
+    quick, notquick = [], []
+    for f in files:
+        rel = f.relative_to(ROOT).as_posix()
+        path = page_path(f)
+        html = f.read_text(encoding="utf-8")
+        cfg = reg.get(rel, {})
+        kw, src = cfg.get("keyword"), "registry"
+        if not kw:
+            kw, src = km.get(path), "tracker"
+        if not kw:
+            words = " ".join(path.rstrip("/").rsplit("/", 1)[-1].split("-"))
+            t = (re.search(r"<title>(.*?)</title>", html, re.S) or [None, ""])[1]
+            h1 = (re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S) or [None, ""])[1]
+            if kw_regex(words).search(strip_tags(t)) and kw_regex(words).search(strip_tags(h1)):
+                kw, src = words, "slug (in title and H1)"
+        if not kw:
+            notquick.append((rel, None, ["no recorded focus keyword: run the keyword rule first"]))
+            print(f"NOT QUICK {rel}: no recorded focus keyword")
+            continue
+        if "<article" not in html:
+            notquick.append((rel, kw, ["no <article> element"]))
+            continue
+        rep = check(f, kw, cfg.get("type", "song"), cfg.get("subject"), cfg.get("secondary", []), [], cfg.get("pillar"))
+        fails = [(c, m) for c, s, m in rep.rows if c in PLACEMENT_CODES and s == "FAIL"]
+        hard = [m for c, m in fails if c not in QUICK_CODES or (c == "P6" and "no featured image" in m)
+                or (c == "P8" and int((re.search(r"need (\d+) more", m) or [0, 0])[1]) > P8_QUICK_MAX)]
+        row = (rel, kw, [f"{c} {m}" for c, m in fails])
+        (notquick if hard else quick).append(row)
+        label = "PASS" if not fails else ("NOT QUICK" if hard else "QUICK")
+        print(f"{label:<9} {rel} [{kw} | {src}]")
+        for c, m in fails:
+            print(f"          {c} {m}")
+    print(f"\nSUMMARY: {len(files)} pages, {len(quick) - sum(1 for q in quick if not q[2])} QUICK, "
+          f"{len(notquick)} NOT QUICK, {sum(1 for q in quick if not q[2])} PASS")
+    return not any(q[2] for q in quick) and not notquick
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("page", nargs="?")
@@ -848,7 +1045,11 @@ def main():
     ap.add_argument("--registered", action="store_true")
     ap.add_argument("--site", action="store_true")
     ap.add_argument("--staged", action="store_true")
+    ap.add_argument("--placement", action="store_true",
+                    help="read-only quick-fix audit (P1-P8, C1, T1) of every live blog page, or of the given page")
     a = ap.parse_args()
+    if a.placement:
+        return 0 if placement_audit([Path(a.page).resolve().relative_to(ROOT).as_posix()] if a.page else None) else 1
     if a.staged:
         return 0 if staged() else 1
     if a.site:
