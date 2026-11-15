@@ -959,8 +959,8 @@ CRA_EXEMPT = {"pages/about.html", "about/author/index.html"}
 def site_scan():
     bad = []
     for f in ROOT.rglob("*.html"):
-        if any(part.startswith(".") for part in f.relative_to(ROOT).parts):
-            continue
+        if any(part.startswith(".") for part in f.relative_to(ROOT).parts) or f.relative_to(ROOT).parts[0] == "dist":
+            continue  # dist/ is the build copy of the files scanned here
         if f.relative_to(ROOT).as_posix() in CRA_EXEMPT:
             continue
         if re.search(r"classicrockartists\.com", f.read_text(encoding="utf-8", errors="ignore"), re.I):
