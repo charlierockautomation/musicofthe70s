@@ -7,7 +7,7 @@ Sitemap: https://musicofthe70s.net/sitemap.xml
 - [70s Decade Wheel](https://musicofthe70s.net/pages/70s-decade-wheel): Spin the wheel and land on a year from 1970 to 1979. Discover that year's biggest hit, top artists, and defining moment in music history.
 - [70s Mood Song Matcher](https://musicofthe70s.net/pages/mood-song-matcher): Answer 3 quick questions and get matched with the perfect 70s song for your mood. Rock, disco, soul, country — there's a 70s song for every feeling.
 - [70s Music Trivia Quiz](https://musicofthe70s.net/pages/70s-trivia-quiz): Test your 70s music knowledge. 10 questions on rock, disco, soul, country and more — new questions every round.
-- [Number One Song on My Birthday: The 70s Birthday #1 Song Finder](https://musicofthe70s.net/pages/birthday-number-one): Find the number one song on your birthday for any date from 1970 to 1979. Pick a date and see the Billboard Hot 100 chart-topper from that week.
+- [Number One Song on My Birthday: The 70s Birthday #1 Song Finder](https://musicofthe70s.net/pages/birthday-number-one): What was the number one song on my birthday? Pick any date from 1970 to 1979 and see the Billboard Hot 100 chart-topper from that week.
 - [Random 70s Artist Picker](https://musicofthe70s.net/pages/random-artist-picker): Spin and discover a random 70s artist or band from 605 verified acts — rock, disco, soul, funk, country, punk and more.
 - [Random 70s Song Generator](https://musicofthe70s.net/pages/random-70s-song): Spin and discover a random iconic 70s song — artist, year, genre and a direct YouTube search link. Rock, disco, soul, country and more.
 
