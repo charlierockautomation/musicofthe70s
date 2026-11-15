@@ -5,7 +5,7 @@ description: The non-negotiable focus-keyword rule (search-phrasing verification
 
 # SEO Rules — Full Detail
 
-> **Focus keyword placement and density (2026-11-15): the article-standard skill is the single authority.** Its P1-P8 placement minimums (title, slug, meta, first body sentence, an H2/H3, featured alt, final section, 0.5% floor), C1 self-contained fact sentences and the K2 ceilings are enforced by `scripts/check_standard.py`. Where the keyword rule, density range or checklist below differ, article-standard wins.
+> **Focus keyword placement and density (2026-11-15): the article-standard skill is the single authority.** Its P1-P8 placement minimums (title, slug, meta, first body sentence, an H2/H3, featured alt, final section, 0.5% floor), C1 self-contained fact sentences and the K2 ceilings are enforced by `scripts/check_standard.py`. Where the keyword placement or density lines below differ, article-standard wins. Every other checklist item below stays in force unchanged (title 60 chars where possible, meta 155 max, one H1, clean heading hierarchy, alt text on every image, schema, mobile check, no placeholders).
 >
 > **Article Standard (2026-11-08) overrides this skill where they conflict:** keyword choice runs the DataForSEO keyword rule (US/CA/UK + AI volume, floor 300 Google / 50 AI), stuffing limits are the ClassicRockArtists ones (max 1.0% phrase / 2.0% name, max 2 keyword H2s), and schema follows the page-type table (BlogPosting + MusicRecording for songs, so the 2026-09-17 MusicRecording rejection is superseded). See the article-standard skill; gate: `scripts/check_standard.py`.
 

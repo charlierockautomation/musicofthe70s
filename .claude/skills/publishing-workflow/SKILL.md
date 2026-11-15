@@ -62,6 +62,7 @@ Report pass/fail explicitly before a post is considered ready to push.
 8. Once approved: `git add -A && git commit -m "[description]" && git push`
 9. Verify live site post-deploy (~60s wait, then hard refresh and check)
 10. Regenerate site-wide derived files so the new post actually surfaces (CI workflow that would auto-run this on push stays unpushed by design, see repo-deploy skill): `python3 scripts/generate_blog_hub_cards.py && python3 scripts/generate_category_cards.py && python3 scripts/generate_sitemap.py && python3 scripts/generate_llms_txt.py && python3 scripts/generate_homepage_latest.py`. Then `git add -A && git commit -m "Regenerate blog hub, category cards, homepage latest, sitemap and llms.txt after [post] publish" && git push`. Do this every time without being asked, per standing instruction — a published post won't show on the Blog Hub, its category hub, or the homepage until this runs.
+11. IndexNow ping (added 2026-11-15): once the pages are live (200), `python3 scripts/indexnow_ping.py <each new or changed URL>` (Bing and other IndexNow engines). Key file `b3ca876f32163268cb5539c55ce6d651.txt` sits at the site root; never change the key without the file. `--sitemap` resubmits every URL (use rarely).
 
 ## Tool-to-Blog Linking (Tier 1/2/3) — Tier 1 parked
 Charlie proposed linking the site's interactive tools (Random 70s Song Generator, Random Artist Picker, Trivia Quiz, Decade Wheel) directly to on-site content instead of sending users to YouTube search results, to keep visitors on-domain. Scoped into three tiers 2026-08-06:

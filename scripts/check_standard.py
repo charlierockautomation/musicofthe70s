@@ -50,6 +50,8 @@ Checks
   C1 self-contained fact sentences: no pronoun-led fact sentence ("It reached", "The band", "They") in the
      first five intro sentences or as the first sentence under an H2
   T1 (also) the visible Updated date matches the schema dateModified
+  O1 one H1  O2 no skipped heading levels  O3 alt on every image  O4 title <= 60 (WARN)  O5 meta <= 155 (WARN for now)
+  C4 question-style H2s where natural (WARN)
   T5 WARN when dateModified is today but the content (text, headings, title, meta, alts) is unchanged since
      the last commit before today
 """
@@ -899,6 +901,21 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
     else:
         rep.add("T1", False, f"no visible Updated date to match schema dateModified {dm}")
 
+    # O1-O5 on-page basics from the seo-rules checklist (2026-11-15)
+    nh1 = len(re.findall(r"<h1\b", html))
+    rep.add("O1", nh1 == 1, f"exactly one H1 ({nh1} found)")
+    art = re.search(r"<article\b.*?</article>", html, re.S).group(0) if re.search(r"<article\b", html) else ""
+    lv = [int(x) for x in re.findall(r"<h([1-6])\b", art)]
+    skips = [f"h{a}>h{b}" for a, b in zip(lv, lv[1:]) if b > a + 1]
+    rep.add("O2", not skips, "heading order, no skipped levels" + (f": {skips[:3]}" if skips else ""))
+    noalt = re.findall(r'<img(?![^>]*\balt="[^"]+")[^>]*>', html)
+    rep.add("O3", not noalt, f"alt text on every image" + (f": {len(noalt)} without" if noalt else ""))
+    tl, dl = len(htmllib.unescape(title)), len(htmllib.unescape(desc))
+    rep.add("O4", tl <= 60, f"title {tl} chars (60 where possible)", warn=True)
+    rep.add("O5", 0 < dl <= 155, f"meta description {dl} chars (max 155; WARN until Journey's is fixed, then FAIL)", warn=True)
+    qh2 = [x for t, x, _, _ in units if t == "h2" and x.rstrip().endswith("?") and "frequently asked" not in x.lower()]
+    rep.add("C4", bool(qh2), f"question-style H2s where natural: {len(qh2)}", warn=True)
+
     # T5 no fake freshness: dateModified is today only when this change touches the content
     import datetime
     if dm == datetime.date.today().isoformat():
@@ -999,8 +1016,8 @@ def staged():
 
 KEYWORD_FILES = ["CONTENT-INDEX.md", "CONTENT-INDEX-ARCHIVE.md", "upgrades-queue.md", "bands-queue.md",
                  "artists-queue.md", "spokes-queue.md"]
-PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1", "T5"}
-QUICK_CODES = {"P1", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
+PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1", "T5", "O1", "O2", "O3"}
+QUICK_CODES = {"P1", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1", "O1", "O2", "O3"}
 P8_QUICK_MAX = 10  # a density shortfall of up to 10 uses is fixed by rewording existing variant mentions
 
 
