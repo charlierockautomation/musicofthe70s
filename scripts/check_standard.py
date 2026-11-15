@@ -45,7 +45,8 @@ Checks
   P1-P8 focus keyword placement minimums, exact match: P1 <title> at or near the front (max 3 words before it)
      P2 slug in keyword word order (new pages FAIL, live URLs WARN: never changed)  P3 meta description
      P4 the first body sentence  P5 at least one H2 or H3  P6 featured image alt text  P7 the final content
-     section (pages of 400+ words)  P8 density floor 0.5%, measured on the words outside <table> song lists
+     section (pages of 400+ words)  P8 density floor 0.5%, measured on the words outside <table> song lists and
+     ul.post-full-list link directories
   C1 self-contained fact sentences: no pronoun-led fact sentence ("It reached", "The band", "They") in the
      first five intro sentences or as the first sentence under an H2
   T1 (also) the visible Updated date matches the schema dateModified
@@ -859,12 +860,13 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
         else:
             rep.add("P7", False, "keyword in the final section: no content H2 found")
     # P8 density floor (ceilings stay in K2, measured on every word). The floor is measured on the words
-    # outside <table> song lists: on a list page the table words would otherwise demand more uses than the
-    # 2-per-300-words ceiling allows in the prose (decision 2026-11-15).
-    prose_txt = " ".join(x for _, x, _, _ in units_of(re.sub(r"<table\b.*?</table>", "", body, flags=re.S)))
+    # outside <table> song lists and <ul class="post-full-list"> link directories: on a list page those words
+    # would otherwise demand more uses than the 2-per-300-words ceiling allows in the prose (decision 2026-11-15).
+    no_lists = re.sub(r"<table\b.*?</table>|<ul class=\"post-full-list\"[^>]*>.*?</ul>", "", body, flags=re.S)
+    prose_txt = " ".join(x for _, x, _, _ in units_of(no_lists))
     pwc, phits = len(prose_txt.split()), len(kre.findall(prose_txt))
     dens = phits / pwc * 100 if pwc else 0
-    rep.add("P8", dens >= 0.5, f"density floor {dens:.2f}% (min 0.5%, {phits} uses / {pwc} words outside tables, "
+    rep.add("P8", dens >= 0.5, f"density floor {dens:.2f}% (min 0.5%, {phits} uses / {pwc} words outside lists, "
             f"need {max(0, -(-pwc // 200) - phits)} more)" if dens < 0.5 else f"density floor {dens:.2f}% (min 0.5%)")
 
     # C1 self-contained fact sentences: first five lines, and the first sentence under each H2
