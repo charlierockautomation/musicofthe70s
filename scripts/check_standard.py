@@ -779,7 +779,7 @@ def check(file, keyword, ptype, subject=None, secondary=(), related_songs=None, 
     check_schema(html, ptype, has_video, rep)
 
     # P1-P8 keyword placement minimums, C1 self-contained fact sentences, T1 dates match schema
-    check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre)
+    check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre, ptype)
     return rep
 
 
@@ -813,7 +813,7 @@ def schema_date_modified(html):
     return None
 
 
-def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre):
+def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc, hits, intro_ps, pre, ptype=None):
     # P1 title, at or near the front (at most 3 words before the keyword)
     tm = kre.search(title)
     lead = len(title[:tm.start()].split()) if tm else None
@@ -839,8 +839,11 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
     # P6 featured image alt text: first <img> above the first H2, else the first .post-featured-img
     img = re.search(r"<img\b[^>]*>", pre) or re.search(r'<img\b[^>]*class="[^"]*post-featured-img[^>]*>', body)
     alt = norm((re.search(r'\balt="([^"]*)"', img.group(0)) or [None, ""])[1]) if img else ""
-    rep.add("P6", bool(img and kre.search(alt)),
-            "keyword in featured image alt" + ("" if img and kre.search(alt) else (f': "{alt[:90]}"' if img else ": no featured image")))
+    if not img and ptype in ("tool", "quiz"):
+        rep.add("P6", True, "featured image alt: tool page without a featured image (checked only when it has one)")
+    else:
+        rep.add("P6", bool(img and kre.search(alt)),
+                "keyword in featured image alt" + ("" if img and kre.search(alt) else (f': "{alt[:90]}"' if img else ": no featured image")))
     # P7 final section once (skipped under ~400 words)
     if wc >= 400:
         spans = [(mo.start(), body.find("</section>", mo.start())) for mo in
@@ -959,7 +962,7 @@ KEYWORD_FILES = ["CONTENT-INDEX.md", "CONTENT-INDEX-ARCHIVE.md", "upgrades-queue
                  "artists-queue.md", "spokes-queue.md"]
 PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
 QUICK_CODES = {"P1", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
-P8_QUICK_MAX = 3  # a density shortfall of up to 3 uses is fixed by rewording existing sentences
+P8_QUICK_MAX = 10  # a density shortfall of up to 10 uses is fixed by rewording existing variant mentions
 
 
 def keyword_index():

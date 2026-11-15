@@ -103,6 +103,6 @@ A title-only retitle (band "[band] songs" rows) changes `<title>`, H1, og/twitte
 
 `python3 scripts/check_standard.py --placement` is a read-only audit of every live blog page against P1-P8, C1 and T1.
 It takes the keyword from the registry, then the tracker tables, then the slug (only when the slug words appear verbatim in the title and H1).
-QUICK = title, meta, opening sentence, one heading's wording, alt text, pronoun-led fact sentences, Updated date, a sentence in the final section, a density gap of 3 uses or fewer.
+QUICK = title, meta, opening sentence, one heading's wording, alt text, pronoun-led fact sentences, Updated date, a sentence in the final section, a density gap of 10 uses or fewer (rewording existing variant mentions).
 NOT QUICK = no recorded keyword, no featured image, a bigger density gap, anything needing research or new sections. Those pages wait for their upgrades-queue slot.
 Never change a live slug in this pass, no redirects. The PUBLISH GATE still applies to every batch.
