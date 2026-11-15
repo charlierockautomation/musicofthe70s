@@ -50,6 +50,8 @@ Checks
   C1 self-contained fact sentences: no pronoun-led fact sentence ("It reached", "The band", "They") in the
      first five intro sentences or as the first sentence under an H2
   T1 (also) the visible Updated date matches the schema dateModified
+  T5 WARN when dateModified is today but the content (text, headings, title, meta, alts) is unchanged since
+     the last commit before today
 """
 import argparse
 import html as htmllib
@@ -895,6 +897,36 @@ def check_placement(rep, html, body, file, slug, title, desc, kw, kre, units, wc
     else:
         rep.add("T1", False, f"no visible Updated date to match schema dateModified {dm}")
 
+    # T5 no fake freshness: dateModified is today only when this change touches the content
+    import datetime
+    if dm == datetime.date.today().isoformat():
+        try:
+            rel = Path(file).resolve().relative_to(ROOT).as_posix()
+            # baseline = the page as of the last commit made before today (today's commits count as this session)
+            base = subprocess.run(["git", "log", "-1", f"--before={datetime.date.today().isoformat()} 00:00",
+                                   "--format=%H", "--", rel], cwd=ROOT, timeout=60,
+                                  capture_output=True, text=True).stdout.strip()
+            old = subprocess.run(["git", "show", f"{base}:{rel}"], cwd=ROOT, timeout=60,
+                                 capture_output=True, text=True) if base else None
+        except ValueError:
+            old = None
+        if old is not None and old.returncode == 0:
+            same = content_fingerprint(old.stdout) == content_fingerprint(html)
+            rep.add("T5", not same, "dateModified is today: " + (
+                "no content change since the last commit before today (wording, headings, title, meta or alt). Use the last real content "
+                "date from git history" if same else "content changed today"), warn=True)
+
+
+def content_fingerprint(html):
+    """Reader-facing content (article text minus the byline, title, meta description, image alts) for T5."""
+    m = re.search(r"<article\b.*?</article>", html, re.S)
+    art = re.sub(r'<p class="post-byline">.*?</p>', "", m.group(0) if m else "", flags=re.S)
+    text = " ".join(x for _, x, _, _ in units_of(art))
+    title = (re.search(r"<title>(.*?)</title>", html, re.S) or [None, ""])[1]
+    desc = (re.search(r'<meta name="description" content="(.*?)"', html, re.S) or [None, ""])[1]
+    alts = " ".join(re.findall(r'\balt="([^"]*)"', m.group(0) if m else ""))
+    return norm(" | ".join([title, desc, text, alts]))
+
 
 # ---------------------------------------------------------------- modes
 def run_registered(paths=None):
@@ -962,7 +994,7 @@ def staged():
 
 KEYWORD_FILES = ["CONTENT-INDEX.md", "CONTENT-INDEX-ARCHIVE.md", "upgrades-queue.md", "bands-queue.md",
                  "artists-queue.md", "spokes-queue.md"]
-PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
+PLACEMENT_CODES = {"P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1", "T5"}
 QUICK_CODES = {"P1", "P3", "P4", "P5", "P6", "P7", "P8", "C1", "T1"}
 P8_QUICK_MAX = 10  # a density shortfall of up to 10 uses is fixed by rewording existing variant mentions
 
