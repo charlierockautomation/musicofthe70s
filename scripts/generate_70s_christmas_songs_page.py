@@ -17,6 +17,8 @@ OUT = ROOT / "blog/songs/70s-christmas-songs/index.html"
 URL = "https://musicofthe70s.net/blog/songs/70s-christmas-songs/"
 PUB = "2026-11-09"
 PUB_H = "November 9, 2026"
+MOD = "2026-11-15"
+MOD_H = "November 15, 2026"
 TITLE = "70s Christmas Songs: 14 Holiday Classics to Play in Order"
 DESC = ("70s Christmas songs from Feliz Navidad to Wonderful Christmastime: 14 holiday classics "
         "from 1970 to 1979, with writers, chart facts and one player.")
@@ -113,7 +115,7 @@ FAQ = [
       "It became Slade's sixth and final UK number one, and the band's best-selling single."]),
     ("Which 70s Christmas song went highest on the Billboard Hot 100 at the time?",
      ["The Eagles' \"Please Come Home for Christmas\" did, and it was the first Christmas song in the Hot 100 top 20 since Roy Orbison's \"Pretty Paper\" in 1963.",
-      "Charles Brown's own 1960 recording had peaked at No. 76, well before the 70s Christmas songs here.",
+      "Charles Brown's own 1960 recording had peaked at No. 76, well before the 1970s recordings on this list.",
       "It came back onto the Hot 100 at No. 45 on January 2, 2021, 42 years after it first charted."]),
     ("Did Paul McCartney play every instrument on Wonderful Christmastime?",
      ["McCartney played every instrument himself, from drums and guitars to sleigh bells, and built the backing track on a Yamaha CS-80 synthesizer.",
@@ -158,7 +160,7 @@ def schema():
               for t, a, y, _, vid, _, _, _, at in SONGS]
     post = {
         "@context": "https://schema.org", "@type": "BlogPosting", "headline": TITLE, "description": DESC,
-        "datePublished": PUB, "dateModified": PUB, "author": person,
+        "datePublished": PUB, "dateModified": MOD, "author": person,
         "publisher": {"@type": "Organization", "@id": "https://musicofthe70s.net/#organization",
                       "name": "Music of the 70s", "url": "https://musicofthe70s.net/",
                       "logo": {"@type": "ImageObject", "url": "https://musicofthe70s.net/favicon-512.png",
@@ -274,7 +276,7 @@ __ROWS__
         <p>From 1963 to 1973, holiday albums could not appear on the Billboard 200 at all.</p>
         <p>The Carpenters, Elton John and the Jackson 5 all reached No. 1 on those Christmas charts.</p>
         <p>The Eagles broke through in 1978, taking a 1960 Charles Brown song to No. 18 on the Hot 100.</p>
-        <p>Three 70s Christmas songs here first entered the Hot 100 between 2017 and 2020.</p>
+        <p>Three songs on this list first entered the Hot 100 between 2017 and 2020.</p>
         <p>They are "Feliz Navidad," "This Christmas" and "Wonderful Christmastime."</p>
         <p>Chart notes on this site follow the rules on the <a href="/about/methodology/">methodology page</a>.</p>
 
@@ -298,7 +300,7 @@ __YEARS__
         <p>For slower, quieter songs from the same years, try this site's <a href="/blog/songs/70s-slow-songs/">70s slow songs</a> list.</p>
 
         <h2 id="keep-listening">After the Holidays: Keep the Music Going</h2>
-        <p>Once the tree comes down, the <a href="/radio/">Listen Now 70s radio</a> plays the rest of the decade nonstop.</p>
+        <p>Once the tree comes down and the 70s Christmas songs are packed away, the <a href="/radio/">Listen Now 70s radio</a> plays the rest of the decade nonstop.</p>
         <p>For the big picture, the <a href="/blog/songs/best-songs-of-the-70s/">best songs of the 70s</a> page covers the whole decade's hits.</p>
 """
 
@@ -384,7 +386,7 @@ def build():
       <article class="section seo-content">
         <h1>{e(TITLE)}</h1>
 
-        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {PUB_H} &middot; Updated {PUB_H}</p>
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {PUB_H} &middot; Updated {MOD_H}</p>
         <p class="listen-row"><button type="button" class="btn-primary listen-btn" data-yt="N8NcQzMQN_U" data-playlist="#christmasSongsTable" data-title="70s Christmas Songs playlist">&#9654; Listen to the 70s Christmas Playlist</button></p>
 
         <p class="post-intro">The best-known 70s Christmas songs are "Feliz Navidad" (1970), "Happy Xmas (War Is Over)" (1971), "Merry Xmas Everybody" (1973) and "Wonderful Christmastime" (1979).</p>

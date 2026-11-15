@@ -25,14 +25,14 @@ PAGE = os.path.join(ROOT, "radio", "index.html")
 # Station labels and one-line descriptions. Descriptions say what the label
 # means on this site; they make no chart-history claims (those come from data).
 STATIONS = {
-    "pop": ("Pop", "The widest net on the dial: melodic, polished singles from the decade's chart-topping vocalists and groups."),
+    "pop": ("Pop", "The widest net on the dial: melodic, polished 70s hits from the decade's chart-topping vocalists and groups."),
     "soul": ("Soul", "Vocal-driven soul and Motown-style records, from smooth ballads to uptempo cuts."),
     "soft-rock": ("Soft Rock", "Mellow, melodic rock and singer-songwriter hits that lean on harmony and warmth."),
-    "classic-rock": ("Classic Rock", "Guitar-led rock and pop-rock staples from the decade's biggest rock acts."),
+    "classic-rock": ("Classic Rock", "Guitar-led rock and pop-rock 70s hits from the biggest rock acts of the decade."),
     "disco": ("Disco", "Dance-floor records built on a steady beat, from early disco to the late-decade peak."),
-    "country": ("Country", "Country and country-pop singles that also made the Billboard Hot 100."),
+    "country": ("Country", "Country and country-pop 70s hits that also made the Billboard Hot 100."),
     "funk": ("Funk", "Groove-first records built around bass lines, horns and rhythm."),
-    "hard-rock": ("Hard Rock", "Heavier, louder guitar rock from the rock side of the chart."),
+    "hard-rock": ("Hard Rock", "Heavier, louder guitar rock: the 70s hits from the rock side of the chart."),
     "rnb": ("R&amp;B", "Rhythm and blues records from across the decade, a small station with plenty of variety."),
     "prog-rock": ("Prog Rock", "Progressive and art-rock acts whose singles made the Hot 100, the smallest station."),
 }
@@ -103,7 +103,7 @@ def build(rows):
     </section>
 
     <section class="container section seo-content" id="chart-facts">
-      <h2 id="chart-facts-h">Chart Facts From the Catalog</h2>
+      <h2 id="chart-facts-h">Chart Facts About the 70s Hits in the Catalog</h2>
       <p>The artists with the most songs on these ten Year-End lists are {join_names(leaders)}.</p>
       <h3>The Year-End #1 for Every Year</h3>
       <div class="chart-table-wrap">
@@ -114,7 +114,7 @@ def build(rows):
           </tbody>
         </table>
       </div>
-      <p>For the stories behind the songs, browse the <a href="/blog/years/">year-by-year charts</a>, the <a href="/blog/genres/">genre guides</a>, the <a href="/blog/artists/">artist profiles</a> and the <a href="/blog/songs/">song deep dives</a>.</p>
+      <p>For the stories behind these 70s hits, browse the <a href="/blog/years/">year-by-year charts</a>, the <a href="/blog/genres/">genre guides</a>, the <a href="/blog/artists/">artist profiles</a> and the <a href="/blog/songs/">song deep dives</a>.</p>
     </section>
 '''
 
