@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 4 (15 artist pages F to Q): LIVE 2026-11-16 (8bd38f0, sitemap e646b09), 15/15 live URLs verified. Content edits = Nov 16; T1-only from git (George Clinton, Iggy Pop, Queen = Oct 23; Jackson 5 Oct 13; John Denver Oct 15; Pink Floyd Oct 12).
 Batch 3 dates: content edits = Nov 15; T1-only from git (Bee Gees, Bjorn Ulvaeus, Carole King, Eagles = Oct 23 Sources section; Diana Ross Oct 16; EWF Oct 14).
 Dates (Charlie, 2026-11-15): today only on a real content change; a T1-only page gets its real last content-change date from git history (Hard Rock 2026-10-09, Punk Rock 2026-10-06, 70s Rock 2026-10-09).
 Found in batch 2: all 12 legacy pages already fail the K2 stuffing ceilings (worst 300-word window 5 to 8, several with the keyword in 3+ H2s). Edits in this pass never raise K2; de-stuffing is not in the quick-fix scope yet (open question for Charlie).
@@ -26,21 +27,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 28 | blog/artists/fleetwood-mac-songs/ | fleetwood mac songs | T1 P8 |
-| 29 | blog/artists/george-clinton/ | george clinton | T1 |
-| 30 | blog/artists/gladys-knight-songs/ | gladys knight songs | T1 C1 |
-| 31 | blog/artists/grateful-dead/ | grateful dead in the 70s | T1 P6 C1 |
-| 32 | blog/artists/helen-reddy-songs/ | helen reddy songs | T1 C1 |
-| 33 | blog/artists/iggy-pop/ | iggy pop | T1 |
-| 34 | blog/artists/jackson-5-songs/ | jackson 5 songs | T1 |
-| 35 | blog/artists/james-brown/ | james brown in the 70s | T1 P6 |
-| 36 | blog/artists/jim-croce/ | jim croce | T1 C1 |
-| 37 | blog/artists/john-denver-songs/ | john denver songs | T1 |
-| 38 | blog/artists/kc-and-the-sunshine-band-songs/ | kc and the sunshine band songs | T1 C1 |
-| 39 | blog/artists/led-zeppelin-songs/ | led zeppelin songs | T1 P6 P7 C1 |
-| 40 | blog/artists/marvin-gaye/ | marvin gaye | T1 C1 |
-| 41 | blog/artists/pink-floyd-songs/ | pink floyd songs | T1 |
-| 42 | blog/artists/queen-freddie-mercury/ | queen freddie mercury | T1 |
 | 43 | blog/artists/rick-james/ | rick james | T1 |
 | 44 | blog/artists/stevie-wonder/ | stevie wonder | T1 C1 |
 | 45 | blog/artists/talking-heads/ | talking heads | T1 |
