@@ -16,26 +16,16 @@ Delete a row once its batch is LIVE. When the table is empty, remove the Quick-f
 Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and set the schema dateModified to the same date.
 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
-Batch 2 (rows 1 to 12, Years + Genres): built 2026-11-15, all PASS --placement, awaiting Charlie's review. Delete rows 1 to 12 once LIVE.
+Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
+Batch 3 (rows 13 to 27, artists A to E, plus Journey meta and C5): built 2026-11-15, all PASS --placement, awaiting Charlie's review. Delete rows 13 to 27 once LIVE.
+Batch 3 dates: content edits = Nov 15; T1-only from git (Bee Gees, Bjorn Ulvaeus, Carole King, Eagles = Oct 23 Sources section; Diana Ross Oct 16; EWF Oct 14).
 Dates (Charlie, 2026-11-15): today only on a real content change; a T1-only page gets its real last content-change date from git history (Hard Rock 2026-10-09, Punk Rock 2026-10-06, 70s Rock 2026-10-09).
 Found in batch 2: all 12 legacy pages already fail the K2 stuffing ceilings (worst 300-word window 5 to 8, several with the keyword in 3+ H2s). Edits in this pass never raise K2; de-stuffing is not in the quick-fix scope yet (open question for Charlie).
 
-Batch 3 adds first: Journey meta description 158 chars, trim to 155 or less (O5), then upgrades-queue C5.
+Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-queue C5 done).
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 1 | blog/years/top-songs-of-1970/ | top songs of 1970 | P7 P8 |
-| 2 | blog/years/top-songs-of-1974/ | top songs of 1974 | C1 |
-| 3 | blog/years/top-songs-of-1975/ | top songs of 1975 | C1 |
-| 4 | blog/years/top-songs-of-1977/ | top songs of 1977 | P6 |
-| 5 | blog/years/top-songs-of-1979/ | top songs of 1979 | C1 |
-| 6 | blog/genres/70s-country-rock/ | 70s country rock | T1 P6 P7 |
-| 7 | blog/genres/70s-country-songs/ | 70s country songs | T1 P6 P7 |
-| 8 | blog/genres/70s-hard-rock/ | 70s hard rock | T1 P7 |
-| 9 | blog/genres/70s-progressive-rock/ | 70s progressive rock | T1 P4 |
-| 10 | blog/genres/70s-punk-rock/ | 70s punk rock | T1 |
-| 11 | blog/genres/70s-rock/ | 70s rock | T1 |
-| 12 | blog/genres/glam-rock-in-the-70s/ | glam rock in the 70s | P7 |
 | 13 | blog/artists/70s-female-singers/ | 70s female singers | P7 C1 |
 | 14 | blog/artists/70s-singers/ | 70s singers | P7 C1 |
 | 15 | blog/artists/abba/ | abba | T1 C1 |
