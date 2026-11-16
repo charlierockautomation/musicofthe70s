@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 5 (rows 43-57, artists R-W + songs to ABBA Waterloo): LIVE 2026-11-16 (d3a0619, sitemap 72893e5), 15/15 live dates verified. Content edits = Nov 16; T1-only from git (Rick James, Talking Heads = Oct 23; Three Dog Night Oct 14; Love Songs, Party Songs Oct 24). List templates (dance, road trip, slow, party) carry the edits; slow-songs generator drifts (pool 536 vs 535), do not rerun it in a quick-fix.
 Batch 4 (15 artist pages F to Q): LIVE 2026-11-16 (8bd38f0, sitemap e646b09), 15/15 live URLs verified. Content edits = Nov 16; T1-only from git (George Clinton, Iggy Pop, Queen = Oct 23; Jackson 5 Oct 13; John Denver Oct 15; Pink Floyd Oct 12).
 Batch 3 dates: content edits = Nov 15; T1-only from git (Bee Gees, Bjorn Ulvaeus, Carole King, Eagles = Oct 23 Sources section; Diana Ross Oct 16; EWF Oct 14).
 Dates (Charlie, 2026-11-15): today only on a real content change; a T1-only page gets its real last content-change date from git history (Hard Rock 2026-10-09, Punk Rock 2026-10-06, 70s Rock 2026-10-09).
@@ -27,21 +28,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 43 | blog/artists/rick-james/ | rick james | T1 |
-| 44 | blog/artists/stevie-wonder/ | stevie wonder | T1 C1 |
-| 45 | blog/artists/talking-heads/ | talking heads | T1 |
-| 46 | blog/artists/three-dog-night-songs/ | three dog night songs | T1 |
-| 47 | blog/artists/village-people/ | village people in the 70s | T1 P6 |
-| 48 | blog/artists/willie-nelson/ | willie nelson | T1 C1 |
-| 49 | blog/songs/25-or-6-to-4/ | 25 or 6 to 4 | T1 C1 |
-| 50 | blog/songs/70s-dance-songs/ | 70s dance songs | T1 P7 |
-| 51 | blog/songs/70s-love-songs/ | 70s love songs | T1 |
-| 52 | blog/songs/70s-one-hit-wonders/ | 70s one hit wonders | T1 P7 |
-| 53 | blog/songs/70s-party-songs/ | 70s party songs | T1 |
-| 54 | blog/songs/70s-road-trip-songs/ | 70s road trip songs | T1 P7 |
-| 55 | blog/songs/70s-slow-songs/ | 70s slow songs | T1 P7 |
-| 56 | blog/songs/abba-knowing-me-knowing-you/ | abba knowing me knowing you | P6 P7 C1 |
-| 57 | blog/songs/abba-waterloo/ | abba waterloo | T1 P6 |
 | 58 | blog/songs/al-green-lets-stay-together/ | al green let's stay together | T1 P6 C1 |
 | 59 | blog/songs/al-green-tired-of-being-alone/ | al green tired of being alone | T1 P6 P7 C1 |
 | 60 | blog/songs/bad-bad-leroy-brown/ | bad bad leroy brown | T1 C1 |
