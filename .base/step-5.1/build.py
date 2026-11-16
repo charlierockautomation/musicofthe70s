@@ -14,7 +14,7 @@ URL = "https://musicofthe70s.net/blog/artists/journey-songs/"
 PUB, PUB_H = "2026-11-13", "November 13, 2026"
 TITLE = "Journey Songs of the 70s: 12 Tracks You Can Play in One List"
 DESC = ("Journey songs from 1975 to 1979, from To Play Some Music to Lovin', Touchin', Squeezin': "
-        "12 tracks with Hot 100 peaks and one player that runs the whole list.")
+        "12 tracks with Hot 100 peaks and one player for the whole list.")
 IMG = "https://musicofthe70s.net/images/blog/journey-singles-peaks-1200w.jpg"
 
 # (song, album, year, peak or None, video id, lead vocal)
