@@ -150,7 +150,7 @@
       <article class="section seo-content">
         <h1>70s Party Songs: 30 Dance Floor Hits You Can Play Here</h1>
 
-        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}}</p>
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}} &middot; Updated {{DATE_LONG}}</p>
         <p class="jump-to-list"><a class="btn-primary jump-btn" href="#party-songs-list">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">The best 70s party songs filled a dance floor before anyone knew what a playlist was.</p>

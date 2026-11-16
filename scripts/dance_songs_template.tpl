@@ -39,7 +39,7 @@
     "@type": "Article",
     "headline": "70s Dance Songs: 30 Tracks Built for the Floor",
     "datePublished": "{{DATE_ISO}}",
-    "dateModified": "{{DATE_ISO}}",
+    "dateModified": "2026-11-16",
     "author": {
       "@type": "Person",
       "@id": "https://musicofthe70s.net/about/author/",
@@ -111,7 +111,7 @@
       <article class="section seo-content">
         <h1>70s Dance Songs: 30 Tracks Built for the Floor</h1>
 
-        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}}</p>
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}} &middot; Updated November 16, 2026</p>
         <p class="jump-to-list"><a class="btn-primary jump-btn" href="#dance-songs-list">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">The best 70s dance songs did one job: they got people onto the floor.</p>
@@ -312,7 +312,7 @@
         <p>The full <a href="/blog/songs/bad-girls/">Bad Girls</a> story has the rest.</p>
 
         <h2 id="missed">Dance Songs That Never Hit Number One</h2>
-        <p>{{NOT_N1}} songs on the list never topped the weekly Hot 100.</p>
+        <p>{{NOT_N1}} of these 70s dance songs never topped the weekly Hot 100.</p>
         <p>Each is here because the year-end list proves it was played everywhere.</p>
         <ul>
 {{NOT_N1_LIST}}

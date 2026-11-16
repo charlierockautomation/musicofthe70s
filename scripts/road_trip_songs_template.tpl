@@ -39,7 +39,7 @@
     "@type": "Article",
     "headline": "70s Road Trip Songs: 30 Tracks for the Open Road",
     "datePublished": "{{DATE_ISO}}",
-    "dateModified": "{{DATE_ISO}}",
+    "dateModified": "2026-11-16",
     "author": {
       "@type": "Person",
       "@id": "https://musicofthe70s.net/about/author/",
@@ -111,7 +111,7 @@
       <article class="section seo-content">
         <h1>70s Road Trip Songs: 30 Tracks for the Open Road</h1>
 
-        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}}</p>
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}} &middot; Updated November 16, 2026</p>
         <p class="jump-to-list"><a class="btn-primary jump-btn" href="#road-trip-songs-list">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">The best 70s road trip songs sound like the window is down and the exit is far off.</p>
@@ -347,7 +347,7 @@
         <p>Jim Croce's "Bad, Bad Leroy Brown" followed on July 21, 1973, for two more.</p>
 
         <h2 id="missed">Road Trip Songs That Never Hit Number One</h2>
-        <p>{{NOT_N1}} songs on the list never topped the weekly Hot 100.</p>
+        <p>{{NOT_N1}} of these 70s road trip songs never topped the weekly Hot 100.</p>
         <p>Each is here because the year-end list proves it was played everywhere.</p>
         <ul>
 {{NOT_N1_LIST}}
