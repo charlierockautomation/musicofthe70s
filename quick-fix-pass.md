@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 6 (rows 58-72, 15 song pages Al Green to Hot Stuff): LIVE 2026-11-19 (2dce712, sitemap regen in the tracker commit). Content edits = Nov 19 (10 pages); T1-only from git (Bohemian Rhapsody, Dancing Queen = Oct 23; Comfortably Numb Oct 25; Close to You Nov 10; Bridge Over Troubled Water Nov 11). Carole King P7 met by keyword in the closing line, not the H2 (an H2 edit raised K2 window 5 to 6). Tired of Being Alone keyword now in 2 of 6 H2s (limit 2).
 Batch 5 (rows 43-57, artists R-W + songs to ABBA Waterloo): LIVE 2026-11-16 (d3a0619, sitemap 72893e5), 15/15 live dates verified. Content edits = Nov 16; T1-only from git (Rick James, Talking Heads = Oct 23; Three Dog Night Oct 14; Love Songs, Party Songs Oct 24). List templates (dance, road trip, slow, party) carry the edits; slow-songs generator drifts (pool 536 vs 535), do not rerun it in a quick-fix.
 Batch 4 (15 artist pages F to Q): LIVE 2026-11-16 (8bd38f0, sitemap e646b09), 15/15 live URLs verified. Content edits = Nov 16; T1-only from git (George Clinton, Iggy Pop, Queen = Oct 23; Jackson 5 Oct 13; John Denver Oct 15; Pink Floyd Oct 12).
 Batch 3 dates: content edits = Nov 15; T1-only from git (Bee Gees, Bjorn Ulvaeus, Carole King, Eagles = Oct 23 Sources section; Diana Ross Oct 16; EWF Oct 14).
@@ -28,21 +29,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 58 | blog/songs/al-green-lets-stay-together/ | al green let's stay together | T1 P6 C1 |
-| 59 | blog/songs/al-green-tired-of-being-alone/ | al green tired of being alone | T1 P6 P7 C1 |
-| 60 | blog/songs/bad-bad-leroy-brown/ | bad bad leroy brown | T1 C1 |
-| 61 | blog/songs/best-of-my-love/ | best of my love | T1 C1 |
-| 62 | blog/songs/blue-eyes-crying-in-the-rain/ | blue eyes crying in the rain | T1 C1 |
-| 63 | blog/songs/bohemian-rhapsody/ | bohemian rhapsody | T1 |
-| 64 | blog/songs/boogie-wonderland/ | boogie wonderland | T1 C1 |
-| 65 | blog/songs/bridge-over-troubled-water/ | bridge over troubled water | T1 |
-| 66 | blog/songs/carole-king-its-too-late/ | carole king it's too late | T1 P6 P7 |
-| 67 | blog/songs/close-to-you/ | close to you | T1 |
-| 68 | blog/songs/comfortably-numb-pink-floyd/ | comfortably numb | T1 |
-| 69 | blog/songs/copacabana-barry-manilow/ | copacabana barry manilow | T1 P6 C1 |
-| 70 | blog/songs/dancing-queen/ | dancing queen | T1 |
-| 71 | blog/songs/don-mclean-american-pie/ | don mclean american pie | T1 P6 |
-| 72 | blog/songs/donna-summer-hot-stuff/ | donna summer hot stuff | T1 P6 C1 |
 | 73 | blog/songs/dreams-fleetwood-mac/ | dreams fleetwood mac | T1 P6 P7 C1 |
 | 74 | blog/songs/flash-light-parliament/ | flash light parliament | P7 |
 | 75 | blog/songs/georgia-on-my-mind/ | georgia on my mind | T1 P6 C1 |
