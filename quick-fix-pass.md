@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 7 (rows 73-87, 15 song pages Dreams to If You Leave Me Now): LIVE 2026-11-19 (b5b8fc5, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (Heartache Tonight, Hotel California = Oct 23; How Deep Is Your Love Nov 11; I Am Woman Oct 18). C1 detector flags generic "The song/single/band" openers too; name the act ("Parliament's single"). I Will Always Love You: P4 keyword moved out of the closing intro line so the K2 window did not rise.
 Batch 6 (rows 58-72, 15 song pages Al Green to Hot Stuff): LIVE 2026-11-19 (2dce712, sitemap regen in the tracker commit). Content edits = Nov 19 (10 pages); T1-only from git (Bohemian Rhapsody, Dancing Queen = Oct 23; Comfortably Numb Oct 25; Close to You Nov 10; Bridge Over Troubled Water Nov 11). Carole King P7 met by keyword in the closing line, not the H2 (an H2 edit raised K2 window 5 to 6). Tired of Being Alone keyword now in 2 of 6 H2s (limit 2).
 Batch 5 (rows 43-57, artists R-W + songs to ABBA Waterloo): LIVE 2026-11-16 (d3a0619, sitemap 72893e5), 15/15 live dates verified. Content edits = Nov 16; T1-only from git (Rick James, Talking Heads = Oct 23; Three Dog Night Oct 14; Love Songs, Party Songs Oct 24). List templates (dance, road trip, slow, party) carry the edits; slow-songs generator drifts (pool 536 vs 535), do not rerun it in a quick-fix.
 Batch 4 (15 artist pages F to Q): LIVE 2026-11-16 (8bd38f0, sitemap e646b09), 15/15 live URLs verified. Content edits = Nov 16; T1-only from git (George Clinton, Iggy Pop, Queen = Oct 23; Jackson 5 Oct 13; John Denver Oct 15; Pink Floyd Oct 12).
@@ -29,21 +30,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 73 | blog/songs/dreams-fleetwood-mac/ | dreams fleetwood mac | T1 P6 P7 C1 |
-| 74 | blog/songs/flash-light-parliament/ | flash light parliament | P7 |
-| 75 | blog/songs/georgia-on-my-mind/ | georgia on my mind | T1 P6 C1 |
-| 76 | blog/songs/gimme-gimme-gimme/ | gimme gimme gimme | T1 P7 |
-| 77 | blog/songs/give-up-the-funk-parliament/ | give up the funk parliament | T1 C1 |
-| 78 | blog/songs/go-your-own-way/ | go your own way | T1 P7 C1 |
-| 79 | blog/songs/heartache-tonight/ | heartache tonight | T1 |
-| 80 | blog/songs/hopelessly-devoted-to-you/ | hopelessly devoted to you | T1 C1 |
-| 81 | blog/songs/hotel-california/ | hotel california | T1 |
-| 82 | blog/songs/how-can-you-mend-a-broken-heart/ | how can you mend a broken heart | T1 P4 C1 |
-| 83 | blog/songs/how-deep-is-your-love/ | how deep is your love | T1 |
-| 84 | blog/songs/i-am-woman/ | i am woman | T1 |
-| 85 | blog/songs/i-want-you-back/ | i want you back | T1 C1 |
-| 86 | blog/songs/i-will-always-love-you-dolly-parton/ | i will always love you dolly parton | T1 P4 P6 C1 |
-| 87 | blog/songs/if-you-leave-me-now/ | if you leave me now | T1 P7 C1 |
 | 88 | blog/songs/ill-be-there-jackson-5/ | i'll be there jackson 5 | T1 P6 C1 |
 | 89 | blog/songs/in-the-navy-village-people/ | in the navy village people | T1 P6 |
 | 90 | blog/songs/james-brown-get-on-the-good-foot/ | james brown get on the good foot | T1 C1 |
