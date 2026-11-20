@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Quick-fix batch 11 (rows 132-151) is built, awaiting Charlie's go-ahead; then quick-fix-pass.md row 152 (Dolly Parton O2), then delete the quick-fix item and file. Rotation slot 5.2 Artist follows.**
+**NEXT: Fix Dolly Parton O2 (heading h1>h3, quick-fix-pass.md row 152), then delete the quick-fix item in this file and quick-fix-pass.md. Rotation slot 5.2 Artist follows. Batch 11 LIVE 2026-11-19 (6efd722).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
