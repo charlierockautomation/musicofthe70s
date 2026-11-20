@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 9 (rows 103-117, 15 song pages Mr. Blue Sky to Take a Chance on Me): LIVE 2026-11-19 (965188f, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (New Kid in Town, Seasons in the Sun = Nov 11; Somebody to Love, Song YMCA = Oct 23). Rhiannon: P4 keyword in first sentence raised the K2 window 3 to 4, fixed by moving the keyword from the origin H2/TOC to the charts H2/TOC and adding two FAQ H3 uses (P8 0.52%).
 Batch 8 (rows 88-102, 15 song pages I'll Be There to Midnight Train to Georgia): LIVE 2026-11-19 (3302ed2, regen unchanged, sitemap in tracker commit). Content edits = Nov 19 (13 pages); T1-only from git (Killer Queen Oct 23, Midnight Train Nov 10). Let's Get It On P7 met by a closing line after the Mood Song Matcher line; Kashmir P4 keyword moved from the next intro line (K2 window kept at 4).
 Batch 7 (rows 73-87, 15 song pages Dreams to If You Leave Me Now): LIVE 2026-11-19 (b5b8fc5, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (Heartache Tonight, Hotel California = Oct 23; How Deep Is Your Love Nov 11; I Am Woman Oct 18). C1 detector flags generic "The song/single/band" openers too; name the act ("Parliament's single"). I Will Always Love You: P4 keyword moved out of the closing intro line so the K2 window did not rise.
 Batch 6 (rows 58-72, 15 song pages Al Green to Hot Stuff): LIVE 2026-11-19 (2dce712, sitemap regen in the tracker commit). Content edits = Nov 19 (10 pages); T1-only from git (Bohemian Rhapsody, Dancing Queen = Oct 23; Comfortably Numb Oct 25; Close to You Nov 10; Bridge Over Troubled Water Nov 11). Carole King P7 met by keyword in the closing line, not the H2 (an H2 edit raised K2 window 5 to 6). Tired of Being Alone keyword now in 2 of 6 H2s (limit 2).
@@ -31,21 +32,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 103 | blog/songs/mr-blue-sky/ | mr. blue sky | T1 C1 |
-| 104 | blog/songs/new-kid-in-town/ | new kid in town | T1 |
-| 105 | blog/songs/night-fever/ | night fever | T1 C1 |
-| 106 | blog/songs/one-of-these-nights/ | one of these nights | T1 P7 C1 |
-| 107 | blog/songs/rhiannon-fleetwood-mac/ | rhiannon fleetwood mac | T1 P4 P6 P7 P8 C1 |
-| 108 | blog/songs/rocket-man-elton-john/ | rocket man elton john | T1 P6 P7 C1 |
-| 109 | blog/songs/seasons-in-the-sun/ | seasons in the sun | T1 |
-| 110 | blog/songs/september-earth-wind-and-fire/ | september earth wind and fire | T1 P6 |
-| 111 | blog/songs/sir-duke-stevie-wonder/ | sir duke stevie wonder | T1 P6 P7 |
-| 112 | blog/songs/somebody-to-love/ | somebody to love | T1 |
-| 113 | blog/songs/song-ymca/ | song ymca | T1 |
-| 114 | blog/songs/stairway-to-heaven/ | stairway to heaven | T1 P6 C1 |
-| 115 | blog/songs/stayin-alive/ | stayin alive | T1 C1 |
-| 116 | blog/songs/superstition-stevie-wonder/ | superstition stevie wonder | T1 P6 |
-| 117 | blog/songs/take-a-chance-on-me/ | take a chance on me | T1 P7 C1 |
 | 118 | blog/songs/take-it-easy/ | take it easy | T1 |
 | 119 | blog/songs/take-me-home-country-roads/ | take me home country roads | T1 P6 P7 |
 | 120 | blog/songs/telephone-line-elo/ | telephone line elo | T1 P6 C1 |
