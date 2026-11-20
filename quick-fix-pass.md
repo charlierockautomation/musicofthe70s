@@ -18,6 +18,7 @@ Most pages need T1 only: add `&middot; Updated Month D, YYYY` to the byline and 
 Batch 1 (the 13 registered pages): LIVE 2026-11-15 (5c44ebd, regen e383552), 13/13 live URLs verified.
 Batch 2 (12 Years + Genres pages): LIVE 2026-11-15 (24a168e, regen 49cdfcb), 12/12 live URLs verified.
 Batch 3 (15 artist pages A to E, plus Journey meta and C5): LIVE 2026-11-15 (9bf912c, regen 98f59dc), 16/16 live URLs verified.
+Batch 10 (rows 118-131, 14 song pages Take It Easy to You Should Be Dancing): LIVE 2026-11-19 (dee7c51, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (Take It Easy, We Will Rock You = Oct 23; You Should Be Dancing Nov 10). Country Roads: P7 keyword in closing line raised the K2 window 9 to 10 and density to 1.04%; fixed by "wrote the song" in the FAQ answer and its schema text (2 places). Next = row 132 (trivia date pages, P6 = keyword in featured image alt).
 Batch 9 (rows 103-117, 15 song pages Mr. Blue Sky to Take a Chance on Me): LIVE 2026-11-19 (965188f, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (New Kid in Town, Seasons in the Sun = Nov 11; Somebody to Love, Song YMCA = Oct 23). Rhiannon: P4 keyword in first sentence raised the K2 window 3 to 4, fixed by moving the keyword from the origin H2/TOC to the charts H2/TOC and adding two FAQ H3 uses (P8 0.52%).
 Batch 8 (rows 88-102, 15 song pages I'll Be There to Midnight Train to Georgia): LIVE 2026-11-19 (3302ed2, regen unchanged, sitemap in tracker commit). Content edits = Nov 19 (13 pages); T1-only from git (Killer Queen Oct 23, Midnight Train Nov 10). Let's Get It On P7 met by a closing line after the Mood Song Matcher line; Kashmir P4 keyword moved from the next intro line (K2 window kept at 4).
 Batch 7 (rows 73-87, 15 song pages Dreams to If You Leave Me Now): LIVE 2026-11-19 (b5b8fc5, sitemap in tracker commit). Content edits = Nov 19 (11 pages); T1-only from git (Heartache Tonight, Hotel California = Oct 23; How Deep Is Your Love Nov 11; I Am Woman Oct 18). C1 detector flags generic "The song/single/band" openers too; name the act ("Parliament's single"). I Will Always Love You: P4 keyword moved out of the closing intro line so the K2 window did not rise.
@@ -32,20 +33,6 @@ Batch 3 also: Journey meta trimmed to 152 chars, O5 switched to FAIL (upgrades-q
 
 | # | Page | Keyword | Fails |
 |---|---|---|---|
-| 118 | blog/songs/take-it-easy/ | take it easy | T1 |
-| 119 | blog/songs/take-me-home-country-roads/ | take me home country roads | T1 P6 P7 |
-| 120 | blog/songs/telephone-line-elo/ | telephone line elo | T1 P6 C1 |
-| 121 | blog/songs/the-name-of-the-game-abba/ | the name of the game abba | T1 P6 P7 P8 C1 |
-| 122 | blog/songs/time-in-a-bottle-jim-croce/ | time in a bottle jim croce | T1 P6 C1 |
-| 123 | blog/songs/tiny-dancer/ | tiny dancer | T1 C1 |
-| 124 | blog/songs/too-much-heaven/ | too much heaven | T1 C1 |
-| 125 | blog/songs/tragedy-bee-gees/ | tragedy bee gees | T1 P6 P7 |
-| 126 | blog/songs/we-will-rock-you/ | we will rock you | T1 |
-| 127 | blog/songs/whats-going-on-marvin-gaye/ | what's going on marvin gaye | T1 P6 C1 |
-| 128 | blog/songs/wish-you-were-here-pink-floyd/ | wish you were here pink floyd | T1 P6 C1 |
-| 129 | blog/songs/you-and-i-rick-james/ | you and i rick james | T1 C1 |
-| 130 | blog/songs/you-are-the-sunshine-of-my-life/ | you are the sunshine of my life | T1 P7 C1 |
-| 131 | blog/songs/you-should-be-dancing/ | you should be dancing | T1 |
 | 132 | blog/trivia/70s-music-quiz/ | 70s music quiz | T1 P7 |
 | 133 | blog/trivia/april-17-in-music-history/ | april 17 in music history | T1 P6 |
 | 134 | blog/trivia/august-19-in-music-history/ | august 19 in music history | T1 P6 |

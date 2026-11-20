@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Quick-fix pass batch 10, quick-fix-pass.md rows 118 onward (starts Take It Easy), 10 to 15 rows. Rotation slot 5.2 Artist follows.**
+**NEXT: Quick-fix pass batch 11, quick-fix-pass.md rows 132 onward (starts 70s Music Quiz, then trivia date pages), 10 to 15 rows. Rotation slot 5.2 Artist follows.**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
