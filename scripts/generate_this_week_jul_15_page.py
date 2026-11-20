@@ -17,8 +17,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PAGE = ROOT / "blog/trivia/july-15-in-music-history/index.html"
-DATE_LONG = "July 15, 2027"
-DATE_ISO = "2027-07-15"
+DATE_LONG = "November 3, 2026"
+DATE_ISO = "2026-11-03"
 MONTH_DAY = "-07-15"
 
 # year -> (radio_id, one-line story fact, Wikipedia-verified 2026-11-03)

@@ -39,7 +39,7 @@
     "@type": "Article",
     "headline": "October 8 in Music History: The 1970s Number Ones",
     "datePublished": "{{DATE_ISO}}",
-    "dateModified": "{{DATE_ISO}}",
+    "dateModified": "2026-11-19",
     "author": {
       "@type": "Person",
       "@id": "https://musicofthe70s.net/about/author/",
@@ -111,7 +111,7 @@
       <article class="section seo-content">
         <h1>October 8 in Music History: The 1970s Number Ones</h1>
 
-        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}}</p>
+        <p class="post-byline">By <a href="https://musicofthe70s.net/about/author/">Charlie</a> &middot; Published {{DATE_LONG}} &middot; Updated November 19, 2026</p>
         <p class="jump-to-list"><a class="btn-primary jump-btn" href="#october-8-list">&#9654; Jump to the playable list</a></p>
 
         <p class="post-intro">On October 8 in music history, the number one song in America changed with every year of the 1970s.</p>
@@ -127,7 +127,7 @@
             srcset="/images/blog/srcset/october-8-in-music-history-400w.jpg 400w, /images/blog/srcset/october-8-in-music-history-800w.jpg 800w, /images/blog/october-8-in-music-history-1200w.jpg 1200w"
             sizes="(max-width: 700px) 100vw, 1100px"
             width="1200" height="675" loading="eager"
-            alt="Bar chart of total weeks at number one for the ten songs on top the week of October 8, 1970 to 1979, led by Maggie May with five weeks, then Kiss You All Over with four">
+            alt="October 8 in music history bar chart of total weeks at number one for the ten songs on top the week of October 8, 1970 to 1979, led by Maggie May with five weeks, then Kiss You All Over with four">
         </picture>
         <p class="post-img-caption">Total weeks at number one for the song on top the week of October 8, one bar per year.</p>
         <p class="post-img-caption">Chart: Music of the 70s, from this site's weekly Billboard Hot 100 data.</p>
