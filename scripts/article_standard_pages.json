@@ -144,6 +144,16 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/artists/michael-jackson-songs/index.html": {
+      "type": "artist",
+      "keyword": "michael jackson songs",
+      "subject": "Michael Jackson",
+      "secondary": [
+        "michael jackson 70s songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
