@@ -6417,6 +6417,60 @@
       "verified": "2026-11-21",
       "song": "Get on the Floor - Michael Jackson",
       "note": "Audio, official MJ channel UCulYu1HEIa7f70L2lYZWHOw"
+    },
+    "ZK4_G4ZhvbA": {
+      "official": true,
+      "channel": "The Doobie Brothers",
+      "verified": "2026-11-21",
+      "song": "What a Fool Believes - The Doobie Brothers"
+    },
+    "VS52sEUqxMo": {
+      "official": true,
+      "channel": "Kenny Loggins",
+      "verified": "2026-11-21",
+      "song": "This Is It - Kenny Loggins"
+    },
+    "wdoCQn_Tjac": {
+      "official": true,
+      "channel": "Steely Dan",
+      "verified": "2026-11-21",
+      "song": "FM (No Static at All) - Steely Dan"
+    },
+    "e7Gmofbur3c": {
+      "official": true,
+      "channel": "The Doobie Brothers",
+      "verified": "2026-11-21",
+      "song": "Minute by Minute - The Doobie Brothers"
+    },
+    "5o_umKOTXIs": {
+      "official": true,
+      "channel": "The Doobie Brothers",
+      "verified": "2026-11-21",
+      "song": "Takin' It to the Streets - The Doobie Brothers"
+    },
+    "n9DmdAwUbxc": {
+      "official": true,
+      "channel": "Bobby Caldwell - Topic",
+      "verified": "2026-11-21",
+      "song": "What You Won't Do for Love - Bobby Caldwell",
+      "source": "topic",
+      "label": "Clouds/TK (1978 original recording)",
+      "note": "Charlie 2026-11-09 Topic exception: no artist/label channel upload of the original recording found (slot 5.3 search, 4+ queries)"
+    },
+    "b00h8iKaklQ": {
+      "official": true,
+      "channel": "Steely Dan",
+      "verified": "2026-11-21",
+      "song": "Kid Charlemagne - Steely Dan"
+    },
+    "QlczHHBqRFI": {
+      "official": true,
+      "channel": "Sanford & Townsend - Topic",
+      "verified": "2026-11-21",
+      "song": "Smoke from a Distant Fire - Sanford-Townsend Band",
+      "source": "topic",
+      "label": "Warner Bros. (1977 album Smoke From A Distant Fire)",
+      "note": "Charlie 2026-11-09 Topic exception: no artist/label channel upload of the original recording found (slot 5.3 search, 4+ queries)"
     }
   }
 }

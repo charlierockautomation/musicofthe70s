@@ -154,6 +154,17 @@
       ],
       "related_songs": null,
       "pillar": null
+    },
+    "blog/genres/yacht-rock-songs/index.html": {
+      "type": "playlist",
+      "keyword": "yacht rock songs",
+      "subject": null,
+      "secondary": [
+        "yacht rock playlist",
+        "best yacht rock songs"
+      ],
+      "related_songs": null,
+      "pillar": null
     }
   }
 }
