@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Rotation slot 5.2 Artist: Michael Jackson (70s solo hits), artists-queue.md row 1. Quick-fix pass finished 2026-11-21 (Dolly Parton O2 fixed, awaiting Charlie's go-ahead).**
+**NEXT: Rotation slot 5.3 New spoke: Yacht Rock Songs, spokes-queue.md row 3. Slot 5.2 Michael Jackson Songs BUILT 2026-11-21 (/blog/artists/michael-jackson-songs/, awaiting Charlie's review + youtube_status run for 7Y0ydmk__Qc and MWnyCxva6bA; not committed).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
