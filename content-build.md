@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Rotation slot 5.4 Band: AC/DC, bands-queue.md row 2. Slot 5.3 Yacht Rock Songs LIVE 2026-11-21 (a62dc1a, /blog/genres/yacht-rock-songs/, youtube_status PASS). Slot 5.2 Michael Jackson Songs LIVE 2026-11-21 (056cf44, regen ea37a7d).**
+**NEXT: Slot 5.4 AC/DC Songs built 2026-11-23, awaiting Charlie's review and youtube_status run (/blog/artists/ac-dc-songs/, .base/step-5.4/build.py); then rotation slot 5.5 Artist, artists-queue.md first queued row. Slot 5.3 Yacht Rock Songs LIVE 2026-11-21 (a62dc1a).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.

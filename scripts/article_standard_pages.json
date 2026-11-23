@@ -145,6 +145,17 @@
       "related_songs": null,
       "pillar": null
     },
+    "blog/artists/ac-dc-songs/index.html": {
+      "type": "band",
+      "keyword": "ac/dc songs",
+      "subject": "AC/DC",
+      "secondary": [
+        "acdc songs",
+        "best acdc songs"
+      ],
+      "related_songs": null,
+      "pillar": null
+    },
     "blog/artists/michael-jackson-songs/index.html": {
       "type": "artist",
       "keyword": "michael jackson songs",
