@@ -17,7 +17,7 @@ Each new page links down to every song story already on the site for that act, a
 | # | Artist | Google/mo | AI/mo | Genre | Focus keyword | Status |
 |---|---|---|---|---|---|---|
 | 1 | Michael Jackson (70s solo hits) | 3,350,000 | 158,044 | Pop, soul | michael jackson songs (201,000 US, AI 20,483) | LIVE 2026-11-21 (056cf44) |
-| 2 | Cher | 673,000 | 44,769 | Pop | | queued |
+| 2 | Cher | 673,000 | 44,769 | Pop | cher songs (22,200 US, AI 21,058) | built, awaiting review 2026-11-23 |
 | 3 | Paul McCartney | 673,000 | 56,636 | Pop rock | | queued |
 | 4 | Elvis Presley (70s era) | 673,000 | 47,374 | Rock and roll | | queued |
 | 5 | Bruce Springsteen | 550,000 |  | Rock | | queued |

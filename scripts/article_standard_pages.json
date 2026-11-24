@@ -166,6 +166,16 @@
       "related_songs": null,
       "pillar": null
     },
+    "blog/artists/cher-songs/index.html": {
+      "type": "artist",
+      "keyword": "cher songs",
+      "subject": "Cher",
+      "secondary": [
+        "cher greatest hits"
+      ],
+      "related_songs": null,
+      "pillar": null
+    },
     "blog/genres/yacht-rock-songs/index.html": {
       "type": "playlist",
       "keyword": "yacht rock songs",
