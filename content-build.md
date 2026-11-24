@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Rotation slot 5.5 Artist, artists-queue.md first queued row. Slot 5.4 AC/DC Songs LIVE 2026-11-23 (f03055d, /blog/artists/ac-dc-songs/, youtube_status PASS). Slot 5.3 Yacht Rock Songs LIVE 2026-11-21 (a62dc1a).**
+**NEXT: Rotation slot 5.6 Upgrade (upgrades-queue.md B rows: YMCA first). Slot 5.5 Cher Songs LIVE 2026-11-23 (e31a7af, /blog/artists/cher-songs/, youtube_status PASS). Slot 5.4 AC/DC Songs LIVE 2026-11-23 (f03055d).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.
