@@ -176,6 +176,16 @@
       "related_songs": null,
       "pillar": null
     },
+    "blog/songs/song-ymca/index.html": {
+      "type": "song",
+      "keyword": "ymca song",
+      "subject": "Village People",
+      "secondary": [
+        "village people ymca"
+      ],
+      "related_songs": null,
+      "pillar": null
+    },
     "blog/genres/yacht-rock-songs/index.html": {
       "type": "playlist",
       "keyword": "yacht rock songs",
