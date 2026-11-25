@@ -10,7 +10,7 @@
 
 ## NEXT UP (single item — when Charlie asks "what's next", reply with ONLY the NEXT line; update it at the end of every session)
 
-**NEXT: Charlie reviews the YMCA upgrade (slot 5.6, B1, built 2026-11-24, gate PASS, preview http://localhost:8070/blog/songs/song-ymca/); then slot 5.7 Linking pass on 70s Songs. Slot 5.5 Cher Songs LIVE 2026-11-23 (e31a7af, /blog/artists/cher-songs/, youtube_status PASS). Slot 5.4 AC/DC Songs LIVE 2026-11-23 (f03055d).**
+**NEXT: Rotation slot 5.7 Linking pass on 70s Songs. Slot 5.6 YMCA upgrade LIVE 2026-11-24 (dacc91a, regen d59097d, focus ymca song). Slot 5.5 Cher Songs LIVE 2026-11-23 (e31a7af, /blog/artists/cher-songs/, youtube_status PASS). Slot 5.4 AC/DC Songs LIVE 2026-11-23 (f03055d).**
 
 ### Build Queue (MASTER-PLAN-2026-11.md, set up 2026-11-08; one item per session, no dates, no live URL changes, no new redirects)
 Step 1 DONE 2026-11-08: Article Standard installed (article-standard skill, scripts/check_standard.py, verify_post.py hook-in, git pre-commit). Every page below must register in scripts/article_standard_pages.json and pass the gate before Charlie's review.

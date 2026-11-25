@@ -33,7 +33,7 @@ Step 4.6 is five pages: one per session, in the order A6, A7, A8, A9, A10.
 
 | # | Page | URL | Current title / H1 | Change | Status |
 |---|---|---|---|---|---|
-| B1 | YMCA (Google ranks it first) | /blog/songs/song-ymca/ | Song YMCA: The Studio Question That Built a Disco Anthem | Full upgrade. Re-pick the keyword (the plan's "Song YMCA" example to avoid; check "ymca song" / "ymca" / "y.m.c.a." in DataForSEO). Gate dry run 2026-11-08 failed 15 checks: K1, K2 cluster, A1, A2, S1, S2, T1, T3, T4, L1, L3, N1, N5, X1 (see content-build.md). 2026-11-24: focus `ymca song` (33,100 US, AI 792), rebuilt by .base/step-5.6/build.py, gate PASS | built, awaiting review |
+| B1 | YMCA (Google ranks it first) | /blog/songs/song-ymca/ | Song YMCA: The Studio Question That Built a Disco Anthem | Full upgrade. Re-pick the keyword (the plan's "Song YMCA" example to avoid; check "ymca song" / "ymca" / "y.m.c.a." in DataForSEO). Gate dry run 2026-11-08 failed 15 checks: K1, K2 cluster, A1, A2, S1, S2, T1, T3, T4, L1, L3, N1, N5, X1 (see content-build.md). 2026-11-24: focus `ymca song` (33,100 US, AI 792), rebuilt by .base/step-5.6/build.py, gate PASS | LIVE 2026-11-24 (dacc91a, regen d59097d) |
 | B2 | How Can You Mend a Broken Heart (Google ranks it first) | /blog/songs/how-can-you-mend-a-broken-heart/ | (check at build) | Full upgrade | queued |
 | B3 | Somebody to Love (Google ranks it first) | /blog/songs/somebody-to-love/ | Somebody to Love: The Song Freddie Mercury Wrote Alone | Full upgrade | queued |
 | B4 | ABBA | /blog/artists/abba/ | ABBA: The Band That Needed Permission for Its Own Name | Retitle to "ABBA songs" (60,500), title and H1 only. Not a new ABBA post, so the ABBA/Bee Gees new-post block does not apply | queued |
