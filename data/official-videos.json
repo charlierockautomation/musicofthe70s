@@ -6622,6 +6622,42 @@
       "verified": "2026-11-23",
       "song": "Hell on Wheels - Cher",
       "source": "CherVEVO"
+    },
+    "l8WCEW4_VPI": {
+      "official": true,
+      "channel": "Sammy Davis Jr. - Topic",
+      "verified": "2026-11-25",
+      "song": "The Candy Man - Sammy Davis Jr.",
+      "note": "The Candy Man (theme from Willy Wonka & The Chocolate Factory), Sammy Davis Jr. with Mike Curb Congregation; Curb Records, original MGM 1972 recording",
+      "source": "topic",
+      "label": "Curb Records"
+    },
+    "vqXt8AmCv_U": {
+      "official": true,
+      "channel": "Mac Davis - Topic",
+      "verified": "2026-11-25",
+      "song": "One Hell of a Woman - Mac Davis",
+      "note": "One Hell Of A Woman; P 1974 SONY BMG MUSIC ENTERTAINMENT, album Stop And Smell The Roses",
+      "source": "topic",
+      "label": "Columbia/Legacy"
+    },
+    "1eZM-rtqBfU": {
+      "official": true,
+      "channel": "Grand Funk Railroad - Topic",
+      "verified": "2026-11-25",
+      "song": "Some Kind of Wonderful - Grand Funk Railroad",
+      "note": "Some Kind Of Wonderful; Capitol Records, producer Jimmy Ienner, 3:23",
+      "source": "topic",
+      "label": "Capitol"
+    },
+    "ELP_U55QrZ8": {
+      "official": true,
+      "channel": "Kenny Nolan - Topic",
+      "verified": "2026-11-25",
+      "song": "I Like Dreamin' - Kenny Nolan",
+      "note": "I Like Dreamin'; StarVista Music, P 2024 Kenny Nolan, 3:33; duration matches the 1977 single, original-master status not confirmed",
+      "source": "topic",
+      "label": "StarVista Music"
     }
   }
 }

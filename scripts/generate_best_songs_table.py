@@ -65,11 +65,25 @@ def main():
     # ("song": "Title - Artist", matching the year-end chart credit) get a Play button.
     # No radio-songs.json fallback: a song with no official upload stays unplayable.
     radio_yt = {}
+    by_title = {}
     official = json.loads((ROOT / "data/official-videos.json").read_text())["videos"]
     for vid, rec in official.items():
         if rec.get("official") and " - " in rec.get("song", ""):
             t, a = rec["song"].rsplit(" - ", 1)
             radio_yt[(norm(t), norm(a))] = vid
+            by_title.setdefault(norm(t), []).append((artist_tokens(a), vid))
+
+    def find_video(title, artist):
+        # exact title + artist first, then same title with a shared artist word
+        # ("Nilsson" vs "Harry Nilsson", "Dawn" vs "Tony Orlando and Dawn")
+        hit = radio_yt.get((norm(title), norm(artist)))
+        if hit:
+            return hit
+        at = artist_tokens(artist)
+        for toks, vid in by_title.get(norm(title), []):
+            if at & toks:
+                return vid
+        return None
 
     song_slugs = {p.parent.name for p in (ROOT / "blog/songs").glob("*/index.html")}
     artist_slugs = {p.parent.name for p in (ROOT / "blog/artists").glob("*/index.html")}
@@ -83,7 +97,7 @@ def main():
     out, n_play, n_song_post, n_artist_post = [], 0, 0, 0
     for r in rows:
         t, a = html.escape(r["title"]), html.escape(r["artist"])
-        yt = radio_yt.get((norm(r["title"]), norm(r["artist"])))
+        yt = find_video(r["title"], r["artist"])
         if yt:
             play = (f'<button type="button" class="ohw-play" data-yt="{yt}" data-title="{t} by {a}" '
                     f'aria-label="Play {t} by {a} here">&#9654; Play</button>')
