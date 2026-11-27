@@ -139,7 +139,7 @@ def main():
         slug = next((sl for sl in song_slugs if norm(sl) == norm(title)
                      or norm(sl) == norm(s + title) or norm(sl) == norm(title + s)), None)
         song_cell = f'<a href="/blog/songs/{slug}/">{t}</a>' if slug else t
-        aslug = next((sl for sl in artist_slugs if norm(sl) == norm(s)), None)
+        aslug = next((sl for sl in artist_slugs if norm(sl) in (norm(s), norm(s + " songs"))), None)
         singer_cell = f'<a href="/blog/artists/{aslug}/">{html.escape(s)}</a>' if aslug else html.escape(s)
         if yt:
             play = (f'<button type="button" class="ohw-play" data-yt="{yt}" data-title="{t} by {html.escape(s)}" '
